@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hwasa Transcripts</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  /* ── Reset & Base ─────────────────────────────── */
+  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: #fafafa;
+    color: #1a1a1a;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: #1a1a1a; text-decoration: none; }
+  a:hover { color: #555; }
+
+  /* ── Header ───────────────────────────────────── */
+  header {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 60px 24px 20px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+
+  header h1 {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 700;
+    font-size: 2.4rem;
+    letter-spacing: -0.02em;
+    margin-bottom: 6px;
+  }
+
+  header p.subtitle {
+    font-size: 0.95rem;
+    color: #777;
+    font-weight: 400;
+  }
+
+  /* ── Filter Bar ───────────────────────────────── */
+  .filter-bar {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  .filter-toggle {
+    display: none;
+    width: 100%;
+    padding: 14px 0;
+    background: none;
+    border: none;
+    border-bottom: 1px solid #e0e0e0;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #1a1a1a;
+    cursor: pointer;
+    text-align: left;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+
+  .filter-toggle::after { content: ' ▾'; }
+  .filter-toggle.open::after { content: ' ▴'; }
+
+  .filter-options {
+    display: flex;
+    gap: 8px;
+    padding: 18px 0;
+    border-bottom: 1px solid #e0e0e0;
+    flex-wrap: wrap;
+  }
+
+  .filter-btn {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.82rem;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 8px 18px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    background: #fff;
+    color: #1a1a1a;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+  }
+
+  .filter-btn:hover { border-color: #1a1a1a; }
+
+  .filter-btn.active {
+    background: #1a1a1a;
+    color: #fff;
+    border-color: #1a1a1a;
+  }
+
+  /* ── Main Content ─────────────────────────────── */
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 24px 80px;
+  }
+
+  .era-section { margin-top: 50px; }
+
+  .era-section h2 {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 600;
+    font-size: 1.6rem;
+    letter-spacing: -0.01em;
+    margin-bottom: 28px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+
+  .entries-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 32px;
+  }
+
+  /* ── Entry Card ───────────────────────────────── */
+  .entry-card {
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 3px;
+    overflow: hidden;
+    transition: box-shadow 0.2s;
+  }
+
+  .entry-card:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+  }
+
+  .entry-card .thumb {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    background: #ededed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .entry-card .thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .entry-card .thumb .placeholder {
+    font-family: 'Source Serif 4', serif;
+    font-size: 0.9rem;
+    color: #aaa;
+    font-style: italic;
+    text-transform: capitalize;
+  }
+
+  .entry-card .card-body { padding: 18px 20px 22px; }
+
+  .entry-card .card-date {
+    font-size: 0.78rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #999;
+    margin-bottom: 10px;
+  }
+
+  .entry-card .card-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .entry-card .card-links a {
+    font-size: 0.8rem;
+    font-weight: 500;
+    padding: 5px 12px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    transition: background 0.15s, border-color 0.15s;
+    white-space: nowrap;
+  }
+
+  .entry-card .card-links a:hover {
+    background: #1a1a1a;
+    color: #fff;
+    border-color: #1a1a1a;
+  }
+
+  .entry-card .card-links a.link-transcript { border-color: #1a1a1a; }
+  .entry-card .card-links a.link-vocab { border-color: #b0b0b0; }
+  .entry-card .card-links a.link-quiz { border-color: #b0b0b0; }
+
+  /* ── Hidden entries (year filter) ─────────────── */
+  .entry-card.hidden { display: none; }
+  .era-section.hidden { display: none; }
+
+  /* ── Mobile ───────────────────────────────────── */
+  @media (max-width: 640px) {
+    header { padding: 40px 20px 16px; }
+    header h1 { font-size: 1.8rem; }
+
+    .filter-bar { padding: 0 20px; }
+
+    .filter-toggle { display: block; }
+
+    .filter-options {
+      display: none;
+      flex-direction: column;
+      gap: 6px;
+      padding: 12px 0 16px;
+    }
+
+    .filter-options.open { display: flex; }
+
+    .filter-btn {
+      width: 100%;
+      text-align: center;
+      padding: 12px 18px;
+      font-size: 0.85rem;
+    }
+
+    main { padding: 0 20px 60px; }
+
+    .era-section { margin-top: 36px; }
+    .era-section h2 { font-size: 1.3rem; margin-bottom: 20px; }
+
+    .entries-grid {
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+
+    .entry-card .thumb { aspect-ratio: 4 / 3; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Hwasa Transcripts</h1>
+  <p class="subtitle">Korean study transcripts, vocabulary &amp; quizzes</p>
+</header>
+
+<div class="filter-bar">
+  <button class="filter-toggle" aria-expanded="false" onclick="toggleFilter()">Filter by Year</button>
+  <div class="filter-options" id="filterOptions">
+    <button class="filter-btn active" data-year="all" onclick="filterYear('all', this)">All</button>
+    <button class="filter-btn" data-year="2024" onclick="filterYear('2024', this)">2024</button>
+    <button class="filter-btn" data-year="2025" onclick="filterYear('2025', this)">2025</button>
+    <button class="filter-btn" data-year="2026" onclick="filterYear('2026', this)">2026</button>
+    <button class="filter-btn" data-year="2027" onclick="filterYear('2027', this)">2027</button>
+  </div>
+</div>
+
+<main>
+
+  <!-- ══════════════════════════════════════════════
+       ERA SECTIONS
+       Each entry needs only: data-year, data-era, data-date
+       JS auto-discovers images, transcripts, vocab & quiz files.
+
+       data-date format: YYMMDD  (e.g., 260501 = May 1, 2026)
+       data-era values:  socute | ggb | bstage
+       ══════════════════════════════════════════════ -->
+
+  <section class="era-section" data-era-name="socute">
+    <h2>So Cute</h2>
+    <div class="entries-grid">
+
+      <!-- ── Add So Cute entries below ── -->
+      <div class="entry" data-year="2026" data-era="socute" data-date="260501"></div>
+      <div class="entry" data-year="2026" data-era="socute" data-date="260420"></div>
+      <!-- ── /So Cute entries ── -->
+
+    </div>
+  </section>
+
+  <section class="era-section" data-era-name="ggb">
+    <h2>Good Goodbye</h2>
+    <div class="entries-grid">
+
+      <!-- ── Add Good Goodbye entries below ── -->
+      <div class="entry" data-year="2025" data-era="ggb" data-date="251015"></div>
+      <!-- ── /Good Goodbye entries ── -->
+
+    </div>
+  </section>
+
+  <section class="era-section" data-era-name="bstage">
+    <h2>B-Stage</h2>
+    <div class="entries-grid">
+
+      <!-- ── Add B-Stage entries below ── -->
+      <div class="entry" data-year="2024" data-era="bstage" data-date="240720"></div>
+      <!-- ── /B-Stage entries ── -->
+
+    </div>
+  </section>
+
+</main>
+
+<script>
+(function () {
+  /* ── Config ───────────────────────────────── */
+  const BASE_TRANSCRIPT = 'transcripts';
+  const BASE_IMAGE = 'images';
+  const MAX_PROBE = 20; // max vocab/quiz number to try
+
+  /* ── Helpers ──────────────────────────────── */
+  function formatDate(yymmdd) {
+    const yy = parseInt(yymmdd.substring(0, 2), 10);
+    const mm = parseInt(yymmdd.substring(2, 4), 10) - 1;
+    const dd = parseInt(yymmdd.substring(4, 6), 10);
+    const year = 2000 + yy;
+    const d = new Date(year, mm, dd);
+    return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  }
+
+  function pad(n) { return String(n).padStart(2, '0'); }
+
+  function fileExists(url) {
+    return fetch(url, { method: 'HEAD' })
+      .then(r => r.ok)
+      .catch(() => false);
+  }
+
+  async function findImage(era, date) {
+    const base = `${BASE_IMAGE}/${era}/hwasa-${era}-${date}`;
+    const fallback = `${BASE_IMAGE}/${era}/${era}-default`;
+    for (const path of [`${base}.jpg`, `${base}.png`, `${fallback}.jpg`, `${fallback}.png`]) {
+      if (await fileExists(path)) return path;
+    }
+    return null;
+  }
+
+  async function discoverFiles(era, date, prefix) {
+    const found = [];
+    for (let i = 1; i <= MAX_PROBE; i++) {
+      const name = `hwasa-${era}-${date}-${prefix}${pad(i)}.txt`;
+      const path = `${BASE_TRANSCRIPT}/${era}/${name}`;
+      if (await fileExists(path)) {
+        found.push({ label: `${prefix} ${pad(i)}`, path: path });
+      } else {
+        break; // stop at first gap
+      }
+    }
+    return found;
+  }
+
+  /* ── Build Card ───────────────────────────── */
+  async function buildCard(entry) {
+    const year = entry.dataset.year;
+    const era = entry.dataset.era;
+    const date = entry.dataset.date;
+
+    const transcriptFile = `${BASE_TRANSCRIPT}/${era}/hwasa-${era}-${date}.txt`;
+    const hasTranscript = await fileExists(transcriptFile);
+    const vocabs = await discoverFiles(era, date, 'vocab');
+    const quizzes = await discoverFiles(era, date, 'quiz');
+    const imgSrc = await findImage(era, date);
+
+    // Build card element
+    const card = document.createElement('div');
+    card.className = 'entry-card';
+    card.dataset.year = year;
+
+    // Thumbnail
+    const thumb = document.createElement('div');
+    thumb.className = 'thumb';
+    if (imgSrc) {
+      const img = document.createElement('img');
+      img.src = imgSrc;
+      img.alt = `Hwasa – ${era} – ${formatDate(date)}`;
+      img.loading = 'lazy';
+      thumb.appendChild(img);
+    } else {
+      const ph = document.createElement('span');
+      ph.className = 'placeholder';
+      ph.textContent = era.replace('ggb', 'Good Goodbye').replace('socute', 'So Cute').replace('bstage', 'B-Stage');
+      thumb.appendChild(ph);
+    }
+    card.appendChild(thumb);
+
+    // Card body
+    const body = document.createElement('div');
+    body.className = 'card-body';
+
+    const dateEl = document.createElement('div');
+    dateEl.className = 'card-date';
+    dateEl.textContent = formatDate(date);
+    body.appendChild(dateEl);
+
+    const links = document.createElement('div');
+    links.className = 'card-links';
+
+    if (hasTranscript) {
+      const a = document.createElement('a');
+      a.href = `viewer.html?file=${encodeURIComponent(transcriptFile)}`;
+      a.textContent = 'Transcript';
+      a.className = 'link-transcript';
+      links.appendChild(a);
+    }
+
+    vocabs.forEach(v => {
+      const a = document.createElement('a');
+      a.href = `viewer.html?file=${encodeURIComponent(v.path)}`;
+      a.textContent = v.label;
+      a.className = 'link-vocab';
+      links.appendChild(a);
+    });
+
+    quizzes.forEach(q => {
+      const a = document.createElement('a');
+      a.href = `viewer.html?file=${encodeURIComponent(q.path)}`;
+      a.textContent = q.label;
+      a.className = 'link-quiz';
+      links.appendChild(a);
+    });
+
+    body.appendChild(links);
+    card.appendChild(body);
+
+    entry.replaceWith(card);
+  }
+
+  /* ── Init ──────────────────────────────────── */
+  const entries = document.querySelectorAll('.entry');
+  entries.forEach(e => buildCard(e));
+
+})();
+
+/* ── Year Filter ────────────────────────────── */
+function filterYear(year, btn) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+
+  document.querySelectorAll('.entry-card').forEach(card => {
+    if (year === 'all' || card.dataset.year === year) {
+      card.classList.remove('hidden');
+    } else {
+      card.classList.add('hidden');
+    }
+  });
+
+  // Hide era sections if all their cards are hidden
+  document.querySelectorAll('.era-section').forEach(section => {
+    const visible = section.querySelectorAll('.entry-card:not(.hidden)');
+    section.classList.toggle('hidden', visible.length === 0);
+  });
+}
+
+/* ── Mobile Filter Toggle ───────────────────── */
+function toggleFilter() {
+  const btn = document.querySelector('.filter-toggle');
+  const opts = document.getElementById('filterOptions');
+  const isOpen = opts.classList.toggle('open');
+  btn.classList.toggle('open', isOpen);
+  btn.setAttribute('aria-expanded', isOpen);
+}
+</script>
+
+</body>
+</html>
