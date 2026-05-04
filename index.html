@@ -174,7 +174,16 @@
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: #999;
-    margin-bottom: 10px;
+    margin-bottom: 4px;
+  }
+
+  .entry-card .card-desc {
+    font-family: 'Source Serif 4', serif;
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 12px;
+    line-height: 1.35;
   }
 
   .entry-card .card-links {
@@ -266,14 +275,22 @@
 
 <main>
 
-  <!-- ══════════════════════════════════════════════
+  <!-- ══════════════════════════════════════════════════════════
        ERA SECTIONS
-       Each entry needs only: data-year, data-era, data-date
-       JS auto-discovers images, transcripts, vocab & quiz files.
+
+       Each entry needs: data-year, data-era, data-date
+       Optional:         data-desc  (slug from filename)
 
        data-date format: YYMMDD  (e.g., 260501 = May 1, 2026)
        data-era values:  socute | ggb | bstage
-       ══════════════════════════════════════════════ -->
+       data-desc:        the description slug exactly as it
+                         appears in the filename, e.g.
+                         "kiss-the-radio" or "wendyYoungstreet"
+
+       Examples:
+         With desc:  <div class="entry" data-year="2025" data-era="ggb" data-date="251023" data-desc="kiss-the-radio"></div>
+         Without:    <div class="entry" data-year="2026" data-era="socute" data-date="260501"></div>
+       ══════════════════════════════════════════════════════════ -->
 
   <section class="era-section" data-era-name="socute">
     <h2>So Cute</h2>
@@ -281,7 +298,7 @@
 
       <!-- ── Add So Cute entries below ── -->
       <div class="entry" data-year="2026" data-era="socute" data-date="260501"></div>
-      <div class="entry" data-year="2026" data-era="socute" data-date="260420"></div>
+      <div class="entry" data-year="2026" data-era="socute" data-date="260415" data-desc="wendyYoungstreet"></div>
       <!-- ── /So Cute entries ── -->
 
     </div>
@@ -292,7 +309,7 @@
     <div class="entries-grid">
 
       <!-- ── Add Good Goodbye entries below ── -->
-      <div class="entry" data-year="2025" data-era="ggb" data-date="251015"></div>
+      <div class="entry" data-year="2025" data-era="ggb" data-date="251023" data-desc="kiss-the-radio"></div>
       <!-- ── /Good Goodbye entries ── -->
 
     </div>
@@ -316,15 +333,14 @@
   /* ── Config ───────────────────────────────── */
   const BASE_TRANSCRIPT = 'transcripts';
   const BASE_IMAGE = 'images';
-  const MAX_PROBE = 20; // max vocab/quiz number to try
+  const MAX_PROBE = 20;
 
   /* ── Helpers ──────────────────────────────── */
   function formatDate(yymmdd) {
     const yy = parseInt(yymmdd.substring(0, 2), 10);
     const mm = parseInt(yymmdd.substring(2, 4), 10) - 1;
     const dd = parseInt(yymmdd.substring(4, 6), 10);
-    const year = 2000 + yy;
-    const d = new Date(year, mm, dd);
+    const d = new Date(2000 + yy, mm, dd);
     return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
   }
 
@@ -336,24 +352,54 @@
       .catch(() => false);
   }
 
-  async function findImage(era, date) {
-    const base = `${BASE_IMAGE}/${era}/hwasa-${era}-${date}`;
+  /* Build the filename stem: hwasa-{era}-{date} or hwasa-{era}-{date}-{desc} */
+  function stem(era, date, desc) {
+    let s = `hwasa-${era}-${date}`;
+    if (desc) s += `-${desc}`;
+    return s;
+  }
+
+  /* Pretty-print a slug: "kiss-the-radio" → "Kiss The Radio", "wendyYoungstreet" → "Wendy Youngstreet" */
+  function formatDesc(slug) {
+    // Insert space before uppercase letters in camelCase
+    let s = slug.replace(/([a-z])([A-Z])/g, '$1 $2');
+    // Replace hyphens with spaces
+    s = s.replace(/-/g, ' ');
+    // Title case
+    return s.replace(/\b\w/g, c => c.toUpperCase());
+  }
+
+  const ERA_LABELS = {
+    ggb: 'Good Goodbye',
+    socute: 'So Cute',
+    bstage: 'B-Stage'
+  };
+
+  async function findImage(era, date, desc) {
+    const s = stem(era, date, desc);
     const fallback = `${BASE_IMAGE}/${era}/${era}-default`;
-    for (const path of [`${base}.jpg`, `${base}.png`, `${fallback}.jpg`, `${fallback}.png`]) {
+    const candidates = [
+      `${BASE_IMAGE}/${era}/${s}.jpg`,
+      `${BASE_IMAGE}/${era}/${s}.png`,
+      `${fallback}.jpg`,
+      `${fallback}.png`
+    ];
+    for (const path of candidates) {
       if (await fileExists(path)) return path;
     }
     return null;
   }
 
-  async function discoverFiles(era, date, prefix) {
+  async function discoverFiles(era, date, desc, prefix) {
     const found = [];
+    const s = stem(era, date, desc);
     for (let i = 1; i <= MAX_PROBE; i++) {
-      const name = `hwasa-${era}-${date}-${prefix}${pad(i)}.txt`;
+      const name = `${s}-${prefix}${pad(i)}.txt`;
       const path = `${BASE_TRANSCRIPT}/${era}/${name}`;
       if (await fileExists(path)) {
         found.push({ label: `${prefix} ${pad(i)}`, path: path });
       } else {
-        break; // stop at first gap
+        break;
       }
     }
     return found;
@@ -364,14 +410,16 @@
     const year = entry.dataset.year;
     const era = entry.dataset.era;
     const date = entry.dataset.date;
+    const desc = entry.dataset.desc || '';
 
-    const transcriptFile = `${BASE_TRANSCRIPT}/${era}/hwasa-${era}-${date}.txt`;
+    const s = stem(era, date, desc);
+    const transcriptFile = `${BASE_TRANSCRIPT}/${era}/${s}.txt`;
     const hasTranscript = await fileExists(transcriptFile);
-    const vocabs = await discoverFiles(era, date, 'vocab');
-    const quizzes = await discoverFiles(era, date, 'quiz');
-    const imgSrc = await findImage(era, date);
+    const vocabs = await discoverFiles(era, date, desc, 'vocab');
+    const quizzes = await discoverFiles(era, date, desc, 'quiz');
+    const imgSrc = await findImage(era, date, desc);
 
-    // Build card element
+    // Build card
     const card = document.createElement('div');
     card.className = 'entry-card';
     card.dataset.year = year;
@@ -382,13 +430,13 @@
     if (imgSrc) {
       const img = document.createElement('img');
       img.src = imgSrc;
-      img.alt = `Hwasa – ${era} – ${formatDate(date)}`;
+      img.alt = `Hwasa – ${ERA_LABELS[era] || era}` + (desc ? ` – ${formatDesc(desc)}` : '') + ` – ${formatDate(date)}`;
       img.loading = 'lazy';
       thumb.appendChild(img);
     } else {
       const ph = document.createElement('span');
       ph.className = 'placeholder';
-      ph.textContent = era.replace('ggb', 'Good Goodbye').replace('socute', 'So Cute').replace('bstage', 'B-Stage');
+      ph.textContent = ERA_LABELS[era] || era;
       thumb.appendChild(ph);
     }
     card.appendChild(thumb);
@@ -401,6 +449,14 @@
     dateEl.className = 'card-date';
     dateEl.textContent = formatDate(date);
     body.appendChild(dateEl);
+
+    // Description line (if present)
+    if (desc) {
+      const descEl = document.createElement('div');
+      descEl.className = 'card-desc';
+      descEl.textContent = formatDesc(desc);
+      body.appendChild(descEl);
+    }
 
     const links = document.createElement('div');
     links.className = 'card-links';
@@ -454,7 +510,6 @@ function filterYear(year, btn) {
     }
   });
 
-  // Hide era sections if all their cards are hidden
   document.querySelectorAll('.era-section').forEach(section => {
     const visible = section.querySelectorAll('.entry-card:not(.hidden)');
     section.classList.toggle('hidden', visible.length === 0);
