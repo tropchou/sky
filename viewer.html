@@ -1,157 +1,549 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Hwasa Transcripts — Viewer</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
-<style>
-  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hwasa Transcripts — Viewer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap"
+    rel="stylesheet">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: #fafafa;
+      color: #1a1a1a;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: #1a1a1a; text-decoration: none; }
+    a:hover { color: #555; }
 
-  body {
-    font-family: 'DM Sans', sans-serif;
-    background: #fafafa;
-    color: #1a1a1a;
-    line-height: 1.6;
-    -webkit-font-smoothing: antialiased;
-  }
+    .viewer-header {
+      max-width: 740px;
+      margin: 0 auto;
+      padding: 40px 24px 20px;
+      border-bottom: 1px solid #e0e0e0;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .viewer-header .back-link {
+      font-size: 0.85rem;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      border: 1px solid #ccc;
+      padding: 6px 16px;
+      border-radius: 2px;
+      transition: background 0.15s, border-color 0.15s;
+    }
+    .viewer-header .back-link:hover {
+      background: #1a1a1a;
+      color: #fff;
+      border-color: #1a1a1a;
+    }
+    .viewer-header .file-name {
+      font-family: 'Source Serif 4', serif;
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #555;
+      word-break: break-all;
+    }
 
-  a { color: #1a1a1a; text-decoration: none; }
-  a:hover { color: #555; }
+    .viewer-content {
+      max-width: 740px;
+      margin: 0 auto;
+      padding: 36px 24px 100px;
+    }
+    .viewer-content pre {
+      font-family: 'Source Serif 4', serif;
+      font-size: 1.05rem;
+      line-height: 1.85;
+      color: #1a1a1a;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      background: none;
+    }
 
-  .viewer-header {
-    max-width: 740px;
-    margin: 0 auto;
-    padding: 40px 24px 20px;
-    border-bottom: 1px solid #e0e0e0;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    flex-wrap: wrap;
-    gap: 8px;
-  }
+    .viewer-error {
+      max-width: 740px;
+      margin: 60px auto;
+      padding: 0 24px;
+      text-align: center;
+    }
+    .viewer-error h2 {
+      font-family: 'Source Serif 4', serif;
+      font-weight: 600;
+      font-size: 1.4rem;
+      margin-bottom: 12px;
+    }
+    .viewer-error p {
+      color: #777;
+      font-size: 0.95rem;
+    }
 
-  .viewer-header .back-link {
-    font-size: 0.85rem;
-    font-weight: 500;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
-    border: 1px solid #ccc;
-    padding: 6px 16px;
-    border-radius: 2px;
-    transition: background 0.15s, border-color 0.15s;
-  }
+    /* ── Navigation Pill ──────────────────────── */
+    .nav-pill {
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      align-items: center;
+      gap: 0;
+      background: rgba(26, 26, 26, 0.88);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-radius: 40px;
+      padding: 4px 6px;
+      box-shadow: 0 2px 16px rgba(0, 0, 0, 0.15);
+      z-index: 1000;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 0.3s ease, visibility 0.3s ease;
+    }
+    .nav-pill.visible {
+      opacity: 1;
+      visibility: visible;
+    }
 
-  .viewer-header .back-link:hover {
-    background: #1a1a1a;
-    color: #fff;
-    border-color: #1a1a1a;
-  }
+    .nav-pill button {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.78rem;
+      font-weight: 500;
+      letter-spacing: 0.03em;
+      color: #ccc;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 10px 14px;
+      border-radius: 30px;
+      white-space: nowrap;
+      transition: color 0.15s, background 0.15s;
+      line-height: 1;
+    }
+    .nav-pill button:hover {
+      color: #fff;
+      background: rgba(255, 255, 255, 0.1);
+    }
+    .nav-pill button:disabled {
+      color: #555;
+      cursor: default;
+      background: none;
+    }
 
-  .viewer-header .file-name {
-    font-family: 'Source Serif 4', serif;
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: #555;
-    word-break: break-all;
-  }
+    .nav-pill .pill-sep {
+      width: 1px;
+      height: 16px;
+      background: rgba(255, 255, 255, 0.15);
+      flex-shrink: 0;
+    }
 
-  .viewer-content {
-    max-width: 740px;
-    margin: 0 auto;
-    padding: 36px 24px 80px;
-  }
+    /* ── Timestamp input ──────────────────────── */
+    .ts-wrapper {
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+    }
+    .ts-input-container {
+      display: flex;
+      align-items: center;
+      max-width: 0;
+      opacity: 0;
+      overflow: hidden;
+      transition: max-width 0.25s ease, opacity 0.2s ease;
+    }
+    .ts-input-container.open {
+      max-width: 140px;
+      opacity: 1;
+    }
+    .ts-input {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.78rem;
+      width: 60px;
+      padding: 6px 8px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 4px;
+      background: rgba(255, 255, 255, 0.08);
+      color: #fff;
+      outline: none;
+      margin-left: 4px;
+      line-height: 1;
+    }
+    .ts-input::placeholder {
+      color: #777;
+      font-size: 0.72rem;
+    }
+    .ts-input:focus {
+      border-color: rgba(255, 255, 255, 0.4);
+    }
+    .ts-input.error {
+      border-color: #e05050;
+    }
+    .ts-go-btn {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: #ccc;
+      background: rgba(255, 255, 255, 0.08);
+      border: none;
+      cursor: pointer;
+      padding: 6px 8px;
+      border-radius: 4px;
+      margin-left: 3px;
+      line-height: 1;
+      transition: color 0.15s, background 0.15s;
+    }
+    .ts-go-btn:hover {
+      color: #fff;
+      background: rgba(255, 255, 255, 0.15);
+    }
 
-  .viewer-content pre {
-    font-family: 'Source Serif 4', serif;
-    font-size: 1.05rem;
-    line-height: 1.85;
-    color: #1a1a1a;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-    background: none;
-  }
+    @media (max-width: 640px) {
+      .viewer-header { padding: 28px 20px 16px; }
+      .viewer-header .file-name { font-size: 0.95rem; }
+      .viewer-content { padding: 28px 20px 100px; }
+      .viewer-content pre { font-size: 0.98rem; line-height: 1.75; }
 
-  .viewer-error {
-    max-width: 740px;
-    margin: 60px auto;
-    padding: 0 24px;
-    text-align: center;
-  }
-
-  .viewer-error h2 {
-    font-family: 'Source Serif 4', serif;
-    font-weight: 600;
-    font-size: 1.4rem;
-    margin-bottom: 12px;
-  }
-
-  .viewer-error p {
-    color: #777;
-    font-size: 0.95rem;
-  }
-
-  @media (max-width: 640px) {
-    .viewer-header { padding: 28px 20px 16px; }
-    .viewer-header .file-name { font-size: 0.95rem; }
-    .viewer-content { padding: 28px 20px 60px; }
-    .viewer-content pre { font-size: 0.98rem; line-height: 1.75; }
-  }
-</style>
+      .nav-pill {
+        bottom: 14px;
+        padding: 3px 4px;
+      }
+      .nav-pill button {
+        padding: 10px 11px;
+        font-size: 0.74rem;
+      }
+    }
+  </style>
 </head>
 <body>
 
-<div class="viewer-header">
-  <a href="index.html" class="back-link">← Back</a>
-  <span class="file-name" id="fileName"></span>
-</div>
+  <div class="viewer-header">
+    <a href="index.html" class="back-link">← Back</a>
+    <span class="file-name" id="fileName"></span>
+  </div>
 
-<div class="viewer-content" id="viewerContent" style="display:none;">
-  <pre id="fileContent"></pre>
-</div>
+  <div class="viewer-content" id="viewerContent" style="display:none;">
+    <div id="transcriptContainer"></div>
+  </div>
 
-<div class="viewer-error" id="viewerError" style="display:none;">
-  <h2>File not found</h2>
-  <p>The requested file could not be loaded.</p>
-  <p style="margin-top: 16px;"><a href="index.html" style="text-decoration: underline;">Return to index</a></p>
-</div>
+  <div class="viewer-error" id="viewerError" style="display:none;">
+    <h2>File not found</h2>
+    <p>The requested file could not be loaded.</p>
+    <p style="margin-top: 16px;">
+      <a href="index.html" style="text-decoration: underline;">Return to index</a>
+    </p>
+  </div>
 
-<script>
-(function () {
-  const params = new URLSearchParams(window.location.search);
-  const file = params.get('file');
-  const nameEl = document.getElementById('fileName');
-  const contentEl = document.getElementById('fileContent');
-  const contentWrap = document.getElementById('viewerContent');
-  const errorWrap = document.getElementById('viewerError');
+  <!-- Navigation Pill (hidden by default, built by JS) -->
+  <div class="nav-pill" id="navPill"></div>
 
-  if (!file) {
-    nameEl.textContent = 'No file specified';
-    errorWrap.style.display = 'block';
-    return;
-  }
+  <script>
+  (function () {
+    const params      = new URLSearchParams(window.location.search);
+    const file        = params.get('file');
+    const nameEl      = document.getElementById('fileName');
+    const container   = document.getElementById('transcriptContainer');
+    const contentWrap = document.getElementById('viewerContent');
+    const errorWrap   = document.getElementById('viewerError');
+    const pill        = document.getElementById('navPill');
 
-  const segments = file.split('/');
-  const displayName = segments[segments.length - 1];
-  nameEl.textContent = displayName;
-  document.title = `${displayName} — Hwasa Transcripts`;
-
-  fetch(file)
-    .then(r => {
-      if (!r.ok) throw new Error('Not found');
-      return r.text();
-    })
-    .then(text => {
-      contentEl.textContent = text;
-      contentWrap.style.display = 'block';
-    })
-    .catch(() => {
+    if (!file) {
+      nameEl.textContent = 'No file specified';
       errorWrap.style.display = 'block';
-    });
-})();
-</script>
+      return;
+    }
 
+    const segments    = file.split('/');
+    const displayName = segments[segments.length - 1];
+    nameEl.textContent = displayName;
+    document.title = `${displayName} — Hwasa Transcripts`;
+
+    fetch(file)
+      .then(r => {
+        if (!r.ok) throw new Error('Not found');
+        return r.text();
+      })
+      .then(text => {
+        contentWrap.style.display = 'block';
+        const blocks = parseBlocks(text);
+        renderBlocks(blocks);
+        initNavPill(blocks);
+      })
+      .catch(() => {
+        errorWrap.style.display = 'block';
+      });
+
+    /* ── Delimiter regex ─────────────────────── */
+    // Matches lines like: — [00:00] ———————————————...
+    const BLOCK_RE = /^— \[(\d{1,2}:\d{2}(?::\d{2})?)\] —+$/m;
+
+    /* ── Parse text into blocks ──────────────── */
+    function parseBlocks(text) {
+      const lines  = text.split('\n');
+      const blocks = [];
+      let currentLines = [];
+      let currentTS    = null;   // timestamp string e.g. "20:02"
+      let currentSec   = 0;     // timestamp in seconds
+
+      for (const line of lines) {
+        const m = line.match(/^— \[(\d{1,2}:\d{2}(?::\d{2})?)\] —+$/);
+        if (m) {
+          // Save any accumulated lines as a block
+          if (currentLines.length > 0 || blocks.length === 0) {
+            blocks.push({
+              ts: currentTS,
+              seconds: currentSec,
+              text: currentLines.join('\n')
+            });
+          }
+          currentTS  = m[1];
+          currentSec = tsToSeconds(m[1]);
+          currentLines = [line]; // start new block with the delimiter line
+        } else {
+          currentLines.push(line);
+        }
+      }
+      // Push the last block
+      if (currentLines.length > 0) {
+        blocks.push({
+          ts: currentTS,
+          seconds: currentSec,
+          text: currentLines.join('\n')
+        });
+      }
+
+      return blocks;
+    }
+
+    /* ── Render blocks into DOM ──────────────── */
+    function renderBlocks(blocks) {
+      blocks.forEach((block, i) => {
+        const section = document.createElement('section');
+        section.id = `block-${i}`;
+        section.dataset.seconds = block.seconds;
+        if (block.ts) section.dataset.timestamp = block.ts;
+
+        const pre = document.createElement('pre');
+        pre.textContent = block.text;
+        pre.style.cssText =
+          "font-family:'Source Serif 4',serif;font-size:1.05rem;" +
+          "line-height:1.85;color:#1a1a1a;white-space:pre-wrap;" +
+          "word-wrap:break-word;background:none;";
+        section.appendChild(pre);
+        container.appendChild(section);
+      });
+    }
+
+    /* ── Build the navigation pill ───────────── */
+    function initNavPill(blocks) {
+      // Determine if this transcript has segment delimiters
+      // (more than 1 block means at least one delimiter was found)
+      const hasSegments = blocks.length > 1 &&
+        blocks.some(b => b.ts !== null);
+
+      if (hasSegments) {
+        buildFullPill(blocks);
+      } else {
+        buildTopOnlyPill();
+      }
+
+      // Show pill after a short scroll
+      pill.classList.add('visible');
+    }
+
+    /* ── Top-only pill (no segments) ─────────── */
+    function buildTopOnlyPill() {
+      const btn = makeBtn('▲ Top', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      pill.appendChild(btn);
+    }
+
+    /* ── Full navigation pill (with segments) ── */
+    function buildFullPill(blocks) {
+      let currentIndex = 0;
+      const sectionEls = blocks.map((_, i) =>
+        document.getElementById(`block-${i}`)
+      );
+
+      // — Buttons —
+      const prevBtn = makeBtn('◀ Prev', () => jumpTo(currentIndex - 1));
+      const topBtn  = makeBtn('▲ Top',  () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      const nextBtn = makeBtn('Next ▶', () => jumpTo(currentIndex + 1));
+      const tsBtn   = makeBtn('⏱',     toggleTimestampInput);
+      tsBtn.title = 'Jump to timestamp';
+
+      // — Timestamp input —
+      const tsWrapper   = document.createElement('div');
+      tsWrapper.className = 'ts-wrapper';
+
+      const tsContainer = document.createElement('div');
+      tsContainer.className = 'ts-input-container';
+
+      const tsInput = document.createElement('input');
+      tsInput.type = 'text';
+      tsInput.className = 'ts-input';
+      tsInput.placeholder = 'mm:ss';
+      tsInput.inputMode = 'numeric';
+
+      const goBtn = document.createElement('button');
+      goBtn.className = 'ts-go-btn';
+      goBtn.textContent = 'Go';
+
+      tsContainer.appendChild(tsInput);
+      tsContainer.appendChild(goBtn);
+      tsWrapper.appendChild(tsBtn);
+      tsWrapper.appendChild(tsContainer);
+
+      // — Assemble pill —
+      pill.appendChild(prevBtn);
+      pill.appendChild(makeSep());
+      pill.appendChild(topBtn);
+      pill.appendChild(makeSep());
+      pill.appendChild(nextBtn);
+      pill.appendChild(makeSep());
+      pill.appendChild(tsWrapper);
+
+      // — State helpers —
+      function updateBtnStates() {
+        prevBtn.disabled = currentIndex <= 0;
+        nextBtn.disabled = currentIndex >= blocks.length - 1;
+      }
+      updateBtnStates();
+
+      function jumpTo(idx) {
+        idx = Math.max(0, Math.min(idx, blocks.length - 1));
+        sectionEls[idx].scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+
+      // — IntersectionObserver to track current block —
+      const observer = new IntersectionObserver((entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            const id = entry.target.id;              // "block-3"
+            const idx = parseInt(id.split('-')[1], 10);
+            currentIndex = idx;
+            updateBtnStates();
+          }
+        }
+      }, {
+        rootMargin: '0px 0px -70% 0px',
+        threshold: 0
+      });
+
+      sectionEls.forEach(el => { if (el) observer.observe(el); });
+
+      // — Timestamp input logic —
+      let tsOpen = false;
+
+      function toggleTimestampInput() {
+        tsOpen = !tsOpen;
+        tsContainer.classList.toggle('open', tsOpen);
+        if (tsOpen) {
+          tsInput.value = '';
+          tsInput.classList.remove('error');
+          requestAnimationFrame(() => tsInput.focus());
+        }
+      }
+
+      function closeTimestampInput() {
+        tsOpen = false;
+        tsContainer.classList.remove('open');
+        tsInput.value = '';
+        tsInput.classList.remove('error');
+      }
+
+      function handleTimestampGo() {
+        const raw = tsInput.value.trim();
+        if (!raw) return;
+
+        const targetSec = parseUserTime(raw);
+        if (targetSec === null) {
+          tsInput.classList.add('error');
+          setTimeout(() => tsInput.classList.remove('error'), 800);
+          return;
+        }
+
+        // Find nearest block
+        let bestIdx = 0;
+        let bestDiff = Infinity;
+        blocks.forEach((b, i) => {
+          const diff = Math.abs(b.seconds - targetSec);
+          if (diff < bestDiff) {
+            bestDiff = diff;
+            bestIdx = i;
+          }
+        });
+
+        jumpTo(bestIdx);
+        setTimeout(closeTimestampInput, 400);
+      }
+
+      goBtn.addEventListener('click', handleTimestampGo);
+      tsInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') handleTimestampGo();
+        if (e.key === 'Escape') closeTimestampInput();
+      });
+
+      // Close when clicking outside the pill
+      document.addEventListener('click', (e) => {
+        if (tsOpen && !pill.contains(e.target)) {
+          closeTimestampInput();
+        }
+      });
+    }
+
+    /* ── Utility: create a pill button ───────── */
+    function makeBtn(label, onClick) {
+      const btn = document.createElement('button');
+      btn.textContent = label;
+      btn.addEventListener('click', onClick);
+      return btn;
+    }
+
+    /* ── Utility: create a pill separator ────── */
+    function makeSep() {
+      const sep = document.createElement('div');
+      sep.className = 'pill-sep';
+      return sep;
+    }
+
+    /* ── Utility: timestamp string → seconds ── */
+    function tsToSeconds(ts) {
+      const parts = ts.split(':').map(Number);
+      if (parts.length === 3) return parts[0] * 3600 + parts[1] * 60 + parts[2];
+      if (parts.length === 2) return parts[0] * 60 + parts[1];
+      return parts[0] * 60;
+    }
+
+    /* ── Utility: parse flexible user input ─── */
+    //   "20"      → 20 minutes → 1200s
+    //   "20:15"   → 20m 15s    → 1215s
+    //   "1:05:30" → 1h 5m 30s  → 3930s
+    function parseUserTime(raw) {
+      // Strip everything except digits and colons
+      const cleaned = raw.replace(/[^\d:]/g, '');
+      if (!cleaned) return null;
+
+      const parts = cleaned.split(':').filter(p => p !== '');
+      if (parts.length === 0 || parts.length > 3) return null;
+      if (parts.some(p => isNaN(Number(p)))) return null;
+
+      const nums = parts.map(Number);
+      if (nums.length === 1) return nums[0] * 60;           // bare number = minutes
+      if (nums.length === 2) return nums[0] * 60 + nums[1]; // MM:SS
+      return nums[0] * 3600 + nums[1] * 60 + nums[2];      // HH:MM:SS
+    }
+
+  })();
+  </script>
 </body>
 </html>
