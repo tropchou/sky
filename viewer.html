@@ -21,7 +21,6 @@
     a { color: #1a1a1a; text-decoration: none; }
     a:hover { color: #555; }
 
-    /* ── Viewer Header ─────────────────────────── */
     .viewer-header {
       max-width: 740px;
       margin: 0 auto;
@@ -56,12 +55,21 @@
       word-break: break-all;
     }
 
-    /* ── Viewer Content ────────────────────────── */
     .viewer-content {
       max-width: 740px;
       margin: 0 auto;
       padding: 36px 24px 100px;
     }
+    .viewer-content pre {
+      font-family: 'Source Serif 4', serif;
+      font-size: 1.05rem;
+      line-height: 1.85;
+      color: #1a1a1a;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      background: none;
+    }
+
     .viewer-error {
       max-width: 740px;
       margin: 60px auto;
@@ -79,271 +87,7 @@
       font-size: 0.95rem;
     }
 
-    /* ── Header Block (source info before first timestamp) ── */
-    .header-block {
-      margin-bottom: 32px;
-      padding-bottom: 20px;
-      border-bottom: 1px solid #e8e8e8;
-    }
-    .header-block pre {
-      font-family: 'Source Serif 4', serif;
-      font-size: 0.92rem;
-      line-height: 1.7;
-      color: #888;
-      white-space: pre-wrap;
-      word-wrap: break-word;
-    }
-
-    /* ── Section Divider (— [MM:SS] ————) ────── */
-    .section-divider {
-      margin: 36px 0 24px;
-      padding: 0;
-      border: none;
-      border-top: 1px solid #d0d0d0;
-      position: relative;
-    }
-    .section-divider-label {
-      position: absolute;
-      top: -10px;
-      left: 0;
-      background: #fafafa;
-      padding-right: 12px;
-      font-family: 'DM Sans', sans-serif;
-      font-size: 0.75rem;
-      font-weight: 500;
-      color: #999;
-      letter-spacing: 0.04em;
-    }
-
-    /* ── Sentence Unit ─────────────────────────── */
-    .sentence-unit {
-      margin-bottom: 20px;
-      padding: 12px 0;
-      transition: background 0.15s;
-    }
-
-    /* ── Timestamp Row ─────────────────────────── */
-    .ts-row {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      margin-bottom: 6px;
-    }
-    .ts-label {
-      font-family: 'DM Sans', sans-serif;
-      font-size: 0.78rem;
-      font-weight: 500;
-      color: #999;
-      letter-spacing: 0.03em;
-      min-width: 42px;
-    }
-    .study-btn {
-      font-family: 'DM Sans', sans-serif;
-      font-size: 0.68rem;
-      font-weight: 600;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      padding: 3px 10px;
-      border: 1px solid #d0d0d0;
-      border-radius: 2px;
-      background: #fff;
-      color: #999;
-      cursor: pointer;
-      transition: background 0.15s, color 0.15s, border-color 0.15s;
-      line-height: 1.3;
-    }
-    .study-btn:hover {
-      border-color: #1a1a1a;
-      color: #1a1a1a;
-    }
-    .study-btn.active {
-      background: #1a1a1a;
-      color: #fff;
-      border-color: #1a1a1a;
-    }
-    .study-btn.unavailable {
-      color: #ccc;
-      border-color: #e8e8e8;
-      cursor: default;
-    }
-    .study-btn.unavailable:hover {
-      color: #ccc;
-      border-color: #e8e8e8;
-    }
-
-    /* ── Language Lines ─────────────────────────── */
-    .lang-line {
-      font-family: 'Source Serif 4', serif;
-      font-size: 1.05rem;
-      line-height: 1.85;
-      color: #1a1a1a;
-      padding: 0;
-      cursor: pointer;
-      transition: background 0.15s;
-      border-radius: 2px;
-    }
-    .lang-line .lang-tag {
-      font-family: 'DM Sans', sans-serif;
-      font-size: 0.72rem;
-      font-weight: 600;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      color: #b0b0b0;
-      margin-right: 6px;
-      display: inline-block;
-      min-width: 24px;
-    }
-    .lang-line.ko .lang-tag { color: #7a9bb5; }
-    .lang-line.fr .lang-tag { color: #b59a7a; }
-    .lang-line.en .lang-tag { color: #8fb57a; }
-
-    /* Highlight state */
-    .sentence-unit.highlighted .lang-line {
-      background: rgba(26, 26, 26, 0.04);
-    }
-    .sentence-unit.highlighted .lang-line.ko {
-      background: rgba(122, 155, 181, 0.08);
-    }
-    .sentence-unit.highlighted .lang-line.fr {
-      background: rgba(181, 154, 122, 0.08);
-    }
-    .sentence-unit.highlighted .lang-line.en {
-      background: rgba(143, 181, 122, 0.08);
-    }
-
-    /* ── Expandable Panels ─────────────────────── */
-    .study-panel {
-      max-height: 0;
-      overflow: hidden;
-      transition: max-height 0.35s ease, opacity 0.25s ease;
-      opacity: 0;
-    }
-    .study-panel.open {
-      opacity: 1;
-      max-height: 2000px; /* large enough; actual height is auto */
-    }
-    .study-panel-inner {
-      margin-top: 10px;
-      padding: 16px 18px;
-      border: 1px solid #e4e4e4;
-      border-radius: 4px;
-      background: #fff;
-      max-height: 50vh;
-      overflow-y: auto;
-    }
-
-    /* Word Breakdown Table */
-    .word-table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 0.88rem;
-    }
-    .word-table th {
-      font-family: 'DM Sans', sans-serif;
-      font-size: 0.72rem;
-      font-weight: 600;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      color: #999;
-      text-align: left;
-      padding: 6px 10px 8px;
-      border-bottom: 1px solid #e8e8e8;
-    }
-    .word-table td {
-      font-family: 'Source Serif 4', serif;
-      font-size: 0.88rem;
-      padding: 8px 10px;
-      border-bottom: 1px solid #f0f0f0;
-      vertical-align: top;
-      line-height: 1.5;
-    }
-    .word-table tr:last-child td { border-bottom: none; }
-    .word-table .term-cell {
-      font-weight: 600;
-      white-space: nowrap;
-      color: #1a1a1a;
-    }
-    .word-table .root-cell {
-      color: #555;
-    }
-    .word-table .notes-cell {
-      color: #666;
-      font-family: 'DM Sans', sans-serif;
-      font-size: 0.82rem;
-    }
-    .word-table .pos-badge {
-      display: inline-block;
-      font-family: 'DM Sans', sans-serif;
-      font-size: 0.65rem;
-      font-weight: 600;
-      letter-spacing: 0.04em;
-      text-transform: uppercase;
-      background: #f2f2f2;
-      color: #888;
-      padding: 2px 6px;
-      border-radius: 2px;
-      margin-bottom: 3px;
-    }
-
-    /* Grammar Points List */
-    .grammar-list {
-      list-style: none;
-      padding: 0;
-    }
-    .grammar-list li {
-      padding: 10px 0;
-      border-bottom: 1px solid #f0f0f0;
-      font-size: 0.88rem;
-    }
-    .grammar-list li:last-child { border-bottom: none; }
-    .grammar-pattern {
-      font-family: 'Source Serif 4', serif;
-      font-weight: 600;
-      color: #1a1a1a;
-      display: block;
-      margin-bottom: 2px;
-    }
-    .grammar-meaning {
-      font-family: 'DM Sans', sans-serif;
-      font-size: 0.84rem;
-      color: #555;
-      display: block;
-      margin-bottom: 2px;
-    }
-    .grammar-example {
-      font-family: 'Source Serif 4', serif;
-      font-size: 0.82rem;
-      color: #888;
-      font-style: italic;
-    }
-    .grammar-level {
-      display: inline-block;
-      font-family: 'DM Sans', sans-serif;
-      font-size: 0.62rem;
-      font-weight: 600;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      padding: 2px 6px;
-      border-radius: 2px;
-      margin-left: 8px;
-      vertical-align: middle;
-    }
-    .grammar-level.beginner { background: #e8f5e9; color: #4a8c5c; }
-    .grammar-level.intermediate { background: #fff3e0; color: #b5854a; }
-    .grammar-level.advanced { background: #fce4ec; color: #b55a6a; }
-
-    /* Panel section titles */
-    .panel-title {
-      font-family: 'DM Sans', sans-serif;
-      font-size: 0.72rem;
-      font-weight: 600;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      color: #999;
-      margin-bottom: 10px;
-    }
-
-    /* ── Navigation Pill ───────────────────────── */
+    /* ── Navigation Pill ──────────────────────── */
     .nav-pill {
       position: fixed;
       bottom: 20px;
@@ -367,6 +111,7 @@
       opacity: 1;
       visibility: visible;
     }
+
     .nav-pill button {
       font-family: 'DM Sans', sans-serif;
       font-size: 0.78rem;
@@ -391,6 +136,7 @@
       cursor: default;
       background: none;
     }
+
     .nav-pill .pill-sep {
       width: 1px;
       height: 16px;
@@ -398,7 +144,7 @@
       flex-shrink: 0;
     }
 
-    /* ── Timestamp input ───────────────────────── */
+    /* ── Timestamp input ──────────────────────── */
     .ts-wrapper {
       display: flex;
       align-items: center;
@@ -458,12 +204,12 @@
       background: rgba(255, 255, 255, 0.15);
     }
 
-    /* ── Mobile ─────────────────────────────────── */
     @media (max-width: 640px) {
       .viewer-header { padding: 28px 20px 16px; }
       .viewer-header .file-name { font-size: 0.95rem; }
       .viewer-content { padding: 28px 20px 100px; }
-      .lang-line { font-size: 0.98rem; line-height: 1.75; }
+      .viewer-content pre { font-size: 0.98rem; line-height: 1.75; }
+
       .nav-pill {
         bottom: 14px;
         padding: 3px 4px;
@@ -472,45 +218,11 @@
         padding: 10px 11px;
         font-size: 0.74rem;
       }
-      .word-table th,
-      .word-table td { padding: 6px; font-size: 0.82rem; }
-      .word-table .notes-cell { font-size: 0.78rem; }
-      .study-panel-inner { padding: 12px 14px; }
-
-      /* Stack word table on narrow screens */
-      .word-table, .word-table thead, .word-table tbody,
-      .word-table th, .word-table tr, .word-table td {
-        display: block;
-      }
-      .word-table thead { display: none; }
-      .word-table tr {
-        margin-bottom: 12px;
-        padding-bottom: 10px;
-        border-bottom: 1px solid #f0f0f0;
-      }
-      .word-table tr:last-child { margin-bottom: 0; border-bottom: none; }
-      .word-table td {
-        padding: 2px 0;
-        border-bottom: none;
-      }
-      .word-table td::before {
-        font-family: 'DM Sans', sans-serif;
-        font-size: 0.65rem;
-        font-weight: 600;
-        letter-spacing: 0.05em;
-        text-transform: uppercase;
-        color: #b0b0b0;
-        display: block;
-        margin-bottom: 1px;
-      }
-      .word-table .term-cell::before { content: 'Term'; }
-      .word-table .root-cell::before { content: 'Root'; }
-      .word-table .breakdown-cell::before { content: 'Breakdown'; }
-      .word-table .notes-cell::before { content: 'Notes'; }
     }
   </style>
 </head>
 <body>
+
   <div class="viewer-header">
     <a href="index.html" class="back-link">← Back</a>
     <span class="file-name" id="fileName"></span>
@@ -528,7 +240,7 @@
     </p>
   </div>
 
-  <!-- Navigation Pill -->
+  <!-- Navigation Pill (hidden by default, built by JS) -->
   <div class="nav-pill" id="navPill"></div>
 
   <script>
@@ -552,277 +264,286 @@
     nameEl.textContent = displayName;
     document.title = `${displayName} — Hwasa Transcripts`;
 
-    /* ── Derive grammar file path ─────────────── */
-    const grammarFile = file.replace(/\.txt$/i, '-grammar.json');
-
-    /* ── Fetch transcript + grammar in parallel ── */
-    const transcriptPromise = fetch(file).then(r => {
-      if (!r.ok) throw new Error('Not found');
-      return r.text();
-    });
-
-    const grammarPromise = fetch(grammarFile)
+    fetch(file)
       .then(r => {
-        if (!r.ok) return null;
-        return r.json();
+        if (!r.ok) throw new Error('Not found');
+        return r.text();
       })
-      .catch(() => null);
-
-    Promise.all([transcriptPromise, grammarPromise])
-      .then(([text, grammarData]) => {
+      .then(text => {
         contentWrap.style.display = 'block';
-        const parsed = parseTranscript(text);
-        renderTranscript(parsed, grammarData);
-        initNavPill(parsed);
+        const blocks = parseBlocks(text);
+        renderBlocks(blocks);
+        initNavPill(blocks);
       })
       .catch(() => {
         errorWrap.style.display = 'block';
       });
 
-    /* ══════════════════════════════════════════════
-       PARSER
-       ══════════════════════════════════════════════ */
+    /* ── Delimiter regex ─────────────────────── */
+    // Matches lines like: — [00:00] ———————————————...
+    const BLOCK_RE = /^— \[(\d{1,2}:\d{2}(?::\d{2})?)\] —+$/m;
 
-    /**
-     * Parses the transcript text into a structured object:
-     * {
-     *   header: string|null,         // text before first timestamp
-     *   sections: [                   // divided by — [MM:SS] ———— lines
-     *     {
-     *       dividerTs: string|null,   // e.g. "00:00" from divider line
-     *       sentences: [
-     *         {
-     *           ts: string,           // "00:07"
-     *           seconds: number,
-     *           ko: string,
-     *           fr: string,
-     *           en: string
-     *         }
-     *       ]
-     *     }
-     *   ]
-     * }
-     */
-    function parseTranscript(text) {
-      const lines = text.split('\n');
-      const result = { header: null, sections: [] };
+    /* ── Parse text into blocks ──────────────── */
+    function parseBlocks(text) {
+      const lines  = text.split('\n');
+      const blocks = [];
+      let currentLines = [];
+      let currentTS    = null;   // timestamp string e.g. "20:02"
+      let currentSec   = 0;     // timestamp in seconds
 
-      let headerLines   = [];
-      let inHeader       = true; // before any timestamp or divider
-      let currentSection = { dividerTs: null, sentences: [] };
-      let currentSentence = null;
-      let lastLang       = null; // 'ko' | 'fr' | 'en'
-
-      const DIVIDER_RE   = /^—\s*\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*—+$/;
-      const TIMESTAMP_RE = /^\[(\d{1,2}:\d{2}(?::\d{2})?)\]$/;
-      const KO_RE        = /^KO:\s*(.*)$/;
-      const FR_RE        = /^FR:\s*(.*)$/;
-      const EN_RE        = /^EN:\s*(.*)$/;
-
-      function flushSentence() {
-        if (currentSentence && currentSentence.ko) {
-          currentSentence.ko = currentSentence.ko.trim();
-          currentSentence.fr = (currentSentence.fr || '').trim();
-          currentSentence.en = (currentSentence.en || '').trim();
-          currentSection.sentences.push(currentSentence);
-        }
-        currentSentence = null;
-        lastLang = null;
-      }
-
-      for (const rawLine of lines) {
-        const line = rawLine.trimEnd();
-        const stripped = line.trim();
-
-        // ── Divider line: — [MM:SS] ———— ──
-        const divM = stripped.match(DIVIDER_RE);
-        if (divM) {
-          if (inHeader) {
-            inHeader = false;
-            result.header = headerLines.join('\n').trim() || null;
+      for (const line of lines) {
+        const m = line.match(/^— \[(\d{1,2}:\d{2}(?::\d{2})?)\] —+$/);
+        if (m) {
+          // Save any accumulated lines as a block
+          if (currentLines.length > 0 || blocks.length === 0) {
+            blocks.push({
+              ts: currentTS,
+              seconds: currentSec,
+              text: currentLines.join('\n')
+            });
           }
-          flushSentence();
-          // Push previous section if it has content
-          if (currentSection.sentences.length > 0 || result.sections.length === 0) {
-            result.sections.push(currentSection);
-          }
-          currentSection = { dividerTs: divM[1], sentences: [] };
-          continue;
-        }
-
-        // ── Standalone timestamp: [MM:SS] ──
-        const tsM = stripped.match(TIMESTAMP_RE);
-        if (tsM) {
-          if (inHeader) {
-            inHeader = false;
-            result.header = headerLines.join('\n').trim() || null;
-          }
-          flushSentence();
-          currentSentence = {
-            ts: tsM[1],
-            seconds: tsToSeconds(tsM[1]),
-            ko: '', fr: '', en: ''
-          };
-          continue;
-        }
-
-        // ── KO: line ──
-        const koM = stripped.match(KO_RE);
-        if (koM) {
-          if (inHeader) {
-            inHeader = false;
-            result.header = headerLines.join('\n').trim() || null;
-          }
-          // If no currentSentence (Format A: KO without preceding [MM:SS])
-          if (!currentSentence) {
-            currentSentence = {
-              ts: null,
-              seconds: 0,
-              ko: '', fr: '', en: ''
-            };
-          }
-          // If this sentence already has KO, flush and start new
-          if (currentSentence.ko) {
-            const prevTs = currentSentence.ts;
-            const prevSec = currentSentence.seconds;
-            flushSentence();
-            currentSentence = {
-              ts: prevTs, seconds: prevSec,
-              ko: '', fr: '', en: ''
-            };
-          }
-          currentSentence.ko = koM[1];
-          lastLang = 'ko';
-          continue;
-        }
-
-        // ── FR: line ──
-        const frM = stripped.match(FR_RE);
-        if (frM) {
-          if (currentSentence) {
-            currentSentence.fr = frM[1];
-            lastLang = 'fr';
-          }
-          continue;
-        }
-
-        // ── EN: line ──
-        const enM = stripped.match(EN_RE);
-        if (enM) {
-          if (currentSentence) {
-            currentSentence.en = enM[1];
-            lastLang = 'en';
-          }
-          continue;
-        }
-
-        // ── Header accumulation ──
-        if (inHeader) {
-          headerLines.push(line);
-          continue;
-        }
-
-        // ── Continuation line (wrapping FR/EN text) ──
-        if (stripped && lastLang && currentSentence) {
-          if (lastLang === 'ko') currentSentence.ko += ' ' + stripped;
-          else if (lastLang === 'fr') currentSentence.fr += ' ' + stripped;
-          else if (lastLang === 'en') currentSentence.en += ' ' + stripped;
-          continue;
-        }
-
-        // ── Blank line resets continuation ──
-        if (!stripped) {
-          lastLang = null;
+          currentTS  = m[1];
+          currentSec = tsToSeconds(m[1]);
+          currentLines = [line]; // start new block with the delimiter line
+        } else {
+          currentLines.push(line);
         }
       }
-
-      // Flush remaining
-      flushSentence();
-      if (currentSection.sentences.length > 0) {
-        result.sections.push(currentSection);
-      }
-
-      return result;
-    }
-
-    /* ══════════════════════════════════════════════
-       RENDERER
-       ══════════════════════════════════════════════ */
-
-    function renderTranscript(parsed, grammarData) {
-      // ── Build grammar lookup: index → grammar object ──
-      const grammarLookup = buildGrammarLookup(grammarData);
-
-      let sentenceIndex = 0; // global running index across all sections
-
-      // ── Header ──
-      if (parsed.header) {
-        const headerDiv = document.createElement('div');
-        headerDiv.className = 'header-block';
-        const pre = document.createElement('pre');
-        pre.textContent = parsed.header;
-        headerDiv.appendChild(pre);
-        container.appendChild(headerDiv);
-      }
-
-      // ── Sections ──
-      parsed.sections.forEach((section) => {
-        // Section divider
-        if (section.dividerTs) {
-          const divider = document.createElement('hr');
-          divider.className = 'section-divider';
-          const label = document.createElement('span');
-          label.className = 'section-divider-label';
-          label.textContent = section.dividerTs;
-          const wrapper = document.createElement('div');
-          wrapper.style.position = 'relative';
-          wrapper.appendChild(divider);
-          wrapper.appendChild(label);
-          container.appendChild(wrapper);
-        }
-
-        // Sentences
-        section.sentences.forEach((sent) => {
-          const grammar = grammarLookup ? grammarLookup[sentenceIndex] : null;
-          const el = buildSentenceUnit(sent, sentenceIndex, grammar);
-          container.appendChild(el);
-          sentenceIndex++;
+      // Push the last block
+      if (currentLines.length > 0) {
+        blocks.push({
+          ts: currentTS,
+          seconds: currentSec,
+          text: currentLines.join('\n')
         });
+      }
+
+      return blocks;
+    }
+
+    /* ── Render blocks into DOM ──────────────── */
+    function renderBlocks(blocks) {
+      blocks.forEach((block, i) => {
+        const section = document.createElement('section');
+        section.id = `block-${i}`;
+        section.dataset.seconds = block.seconds;
+        if (block.ts) section.dataset.timestamp = block.ts;
+
+        const pre = document.createElement('pre');
+        pre.textContent = block.text;
+        pre.style.cssText =
+          "font-family:'Source Serif 4',serif;font-size:1.05rem;" +
+          "line-height:1.85;color:#1a1a1a;white-space:pre-wrap;" +
+          "word-wrap:break-word;background:none;";
+        section.appendChild(pre);
+        container.appendChild(section);
       });
     }
 
-    /**
-     * Builds a grammar lookup keyed by sequential sentence index.
-     * Matches by position (sentence 0 = first KO/FR/EN triplet, etc.)
-     */
-    function buildGrammarLookup(grammarData) {
-      if (!grammarData || !grammarData.sentences) return null;
-      const lookup = {};
-      grammarData.sentences.forEach((s, i) => {
-        lookup[s.id !== undefined ? s.id : i] = s;
-      });
-      return lookup;
+    /* ── Build the navigation pill ───────────── */
+    function initNavPill(blocks) {
+      // Determine if this transcript has segment delimiters
+      // (more than 1 block means at least one delimiter was found)
+      const hasSegments = blocks.length > 1 &&
+        blocks.some(b => b.ts !== null);
+
+      if (hasSegments) {
+        buildFullPill(blocks);
+      } else {
+        buildTopOnlyPill();
+      }
+
+      // Show pill after a short scroll
+      pill.classList.add('visible');
     }
 
-    /**
-     * Builds the DOM for a single sentence unit:
-     *   [MM:SS]  W  G
-     *   KO: ...
-     *   FR: ...
-     *   EN: ...
-     *   (expandable panel)
-     */
-    function buildSentenceUnit(sent, idx, grammar) {
-      const unit = document.createElement('div');
-      unit.className = 'sentence-unit';
-      unit.id = `sentence-${idx}`;
-      unit.dataset.seconds = sent.seconds;
-      if (sent.ts) unit.dataset.timestamp = sent.ts;
+    /* ── Top-only pill (no segments) ─────────── */
+    function buildTopOnlyPill() {
+      const btn = makeBtn('▲ Top', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      pill.appendChild(btn);
+    }
 
-      // ── Timestamp row with study buttons ──
-      const tsRow = document.createElement('div');
-      tsRow.className = 'ts-row';
+    /* ── Full navigation pill (with segments) ── */
+    function buildFullPill(blocks) {
+      let currentIndex = 0;
+      const sectionEls = blocks.map((_, i) =>
+        document.getElementById(`block-${i}`)
+      );
 
-      if (sent.ts) {
-        const tsLabel = document.createElement('span');
-        tsLabel
+      // — Buttons —
+      const prevBtn = makeBtn('◀ Prev', () => jumpTo(currentIndex - 1));
+      const topBtn  = makeBtn('▲ Top',  () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      const nextBtn = makeBtn('Next ▶', () => jumpTo(currentIndex + 1));
+      const tsBtn   = makeBtn('⏱',     toggleTimestampInput);
+      tsBtn.title = 'Jump to timestamp';
+
+      // — Timestamp input —
+      const tsWrapper   = document.createElement('div');
+      tsWrapper.className = 'ts-wrapper';
+
+      const tsContainer = document.createElement('div');
+      tsContainer.className = 'ts-input-container';
+
+      const tsInput = document.createElement('input');
+      tsInput.type = 'text';
+      tsInput.className = 'ts-input';
+      tsInput.placeholder = 'mm:ss';
+      tsInput.inputMode = 'numeric';
+
+      const goBtn = document.createElement('button');
+      goBtn.className = 'ts-go-btn';
+      goBtn.textContent = 'Go';
+
+      tsContainer.appendChild(tsInput);
+      tsContainer.appendChild(goBtn);
+      tsWrapper.appendChild(tsBtn);
+      tsWrapper.appendChild(tsContainer);
+
+      // — Assemble pill —
+      pill.appendChild(prevBtn);
+      pill.appendChild(makeSep());
+      pill.appendChild(topBtn);
+      pill.appendChild(makeSep());
+      pill.appendChild(nextBtn);
+      pill.appendChild(makeSep());
+      pill.appendChild(tsWrapper);
+
+      // — State helpers —
+      function updateBtnStates() {
+        prevBtn.disabled = currentIndex <= 0;
+        nextBtn.disabled = currentIndex >= blocks.length - 1;
+      }
+      updateBtnStates();
+
+      function jumpTo(idx) {
+        idx = Math.max(0, Math.min(idx, blocks.length - 1));
+        sectionEls[idx].scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+
+      // — IntersectionObserver to track current block —
+      const observer = new IntersectionObserver((entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            const id = entry.target.id;              // "block-3"
+            const idx = parseInt(id.split('-')[1], 10);
+            currentIndex = idx;
+            updateBtnStates();
+          }
+        }
+      }, {
+        rootMargin: '0px 0px -70% 0px',
+        threshold: 0
+      });
+
+      sectionEls.forEach(el => { if (el) observer.observe(el); });
+
+      // — Timestamp input logic —
+      let tsOpen = false;
+
+      function toggleTimestampInput() {
+        tsOpen = !tsOpen;
+        tsContainer.classList.toggle('open', tsOpen);
+        if (tsOpen) {
+          tsInput.value = '';
+          tsInput.classList.remove('error');
+          requestAnimationFrame(() => tsInput.focus());
+        }
+      }
+
+      function closeTimestampInput() {
+        tsOpen = false;
+        tsContainer.classList.remove('open');
+        tsInput.value = '';
+        tsInput.classList.remove('error');
+      }
+
+      function handleTimestampGo() {
+        const raw = tsInput.value.trim();
+        if (!raw) return;
+
+        const targetSec = parseUserTime(raw);
+        if (targetSec === null) {
+          tsInput.classList.add('error');
+          setTimeout(() => tsInput.classList.remove('error'), 800);
+          return;
+        }
+
+        // Find nearest block
+        let bestIdx = 0;
+        let bestDiff = Infinity;
+        blocks.forEach((b, i) => {
+          const diff = Math.abs(b.seconds - targetSec);
+          if (diff < bestDiff) {
+            bestDiff = diff;
+            bestIdx = i;
+          }
+        });
+
+        jumpTo(bestIdx);
+        setTimeout(closeTimestampInput, 400);
+      }
+
+      goBtn.addEventListener('click', handleTimestampGo);
+      tsInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') handleTimestampGo();
+        if (e.key === 'Escape') closeTimestampInput();
+      });
+
+      // Close when clicking outside the pill
+      document.addEventListener('click', (e) => {
+        if (tsOpen && !pill.contains(e.target)) {
+          closeTimestampInput();
+        }
+      });
+    }
+
+    /* ── Utility: create a pill button ───────── */
+    function makeBtn(label, onClick) {
+      const btn = document.createElement('button');
+      btn.textContent = label;
+      btn.addEventListener('click', onClick);
+      return btn;
+    }
+
+    /* ── Utility: create a pill separator ────── */
+    function makeSep() {
+      const sep = document.createElement('div');
+      sep.className = 'pill-sep';
+      return sep;
+    }
+
+    /* ── Utility: timestamp string → seconds ── */
+    function tsToSeconds(ts) {
+      const parts = ts.split(':').map(Number);
+      if (parts.length === 3) return parts[0] * 3600 + parts[1] * 60 + parts[2];
+      if (parts.length === 2) return parts[0] * 60 + parts[1];
+      return parts[0] * 60;
+    }
+
+    /* ── Utility: parse flexible user input ─── */
+    //   "20"      → 20 minutes → 1200s
+    //   "20:15"   → 20m 15s    → 1215s
+    //   "1:05:30" → 1h 5m 30s  → 3930s
+    function parseUserTime(raw) {
+      // Strip everything except digits and colons
+      const cleaned = raw.replace(/[^\d:]/g, '');
+      if (!cleaned) return null;
+
+      const parts = cleaned.split(':').filter(p => p !== '');
+      if (parts.length === 0 || parts.length > 3) return null;
+      if (parts.some(p => isNaN(Number(p)))) return null;
+
+      const nums = parts.map(Number);
+      if (nums.length === 1) return nums[0] * 60;           // bare number = minutes
+      if (nums.length === 2) return nums[0] * 60 + nums[1]; // MM:SS
+      return nums[0] * 3600 + nums[1] * 60 + nums[2];      // HH:MM:SS
+    }
+
+  })();
+  </script>
+</body>
+</html>
