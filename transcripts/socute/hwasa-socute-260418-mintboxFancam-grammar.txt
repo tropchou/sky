@@ -168,9 +168,6 @@ meaning: Using the bare noun 안녕 as an informal greeting, dropping the polite
 example: 안녕
 level: beginner
 
-
-
-
 === [00:43] 난 이 시간이 너무 좋아 ===
 
 --- word ---
@@ -341,9 +338,6 @@ meaning: Marks the grammatical subject. 이 after consonants, 가 after vowels.
 example: 친구가
 level: beginner
 
-
-
-
 === [00:53] 순대 행복한 떡집 맞냐고 ===
 
 --- word ---
@@ -473,8 +467,6 @@ pattern: V/A-지만 / N-이지만 (contrastive 'but')
 meaning: Connects two clauses with a contrasting relationship — 'but, however.' 만 after -(스)ㅂ니다 serves the same contrastive function.
 example: 합니다만
 level: beginner
-
-
 
 === [01:01] 자 거기로 달려가세요 ===
 
@@ -1103,8 +1095,6 @@ breakdown: 짜잔
 pos: interjection (onomatopoeia)
 definition: ta-da!
 notes: A Korean sound-symbolic interjection imitating a trumpet fanfare, used when revealing or presenting something. Variants include 짠, 짜잔, and 짜짜잔 — more syllables = more dramatic buildup. Collocations: 짜잔! 선물이야! (ta-da! it's a gift!), 짜잔~ 완성! (ta-da~ it's done!). Register: playful and casual, very common on variety shows and V-lives. Similar to English "ta-da!" or "voilà!" It has no Hanja origin — it is purely onomatopoeic.
-
-
 
 === [01:44] 아유 세상에 ===
 
