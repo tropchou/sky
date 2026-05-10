@@ -1,0 +1,475 @@
+=== [00:00] 시작합니다 ===
+
+--- word ---
+term: 시작합니다
+root: 시작하다 (to start, to begin)
+breakdown: 시작 + 합니다
+pos: verb (formal polite ending)
+definition: (I/we) begin; let's start
+notes: 시작 is a Sino-Korean noun (始作) meaning 'start/beginning.' 시작하다 is the compound verb formed with 하다. 합니다 is the formal polite (하십시오체) present tense form of 하다. This register is used in broadcasts, announcements, and formal settings. Here Hwasa uses it as a kind of declaration to open the stream.
+
+--- grammar ---
+pattern: N-하다
+meaning: Attaches 하다 to a Sino-Korean noun to form a verb — 'to do N'
+example: 시작합니다
+level: beginner
+
+--- grammar ---
+pattern: V-(스)ㅂ니다
+meaning: Formal polite sentence ending (합쇼체). Used in formal speech, broadcasts, presentations.
+example: 시작합니다
+level: beginner
+
+=== [00:08] 안녕 ===
+
+--- word ---
+term: 안녕
+root: 안녕 (peace, well-being)
+breakdown: 안녕
+pos: noun / greeting
+definition: hi; hello
+notes: 안녕 is the casual (반말) form of the greeting. The full polite forms are 안녕하세요 (존댓말) or 안녕하십니까 (formal). Used alone, 안녕 is reserved for close friends, younger people, or informal settings like a personal livestream. It is Sino-Korean (安寧, meaning 'peace/comfort').
+
+--- grammar ---
+pattern: N (casual greeting)
+meaning: Using the bare noun 안녕 as an informal greeting, dropping the polite 하세요 ending.
+example: 안녕
+level: beginner
+
+=== [00:11] 굿 주말 ===
+
+--- word ---
+term: 굿
+root: 굿 (good)
+breakdown: 굿
+pos: adjective (loanword, used as interjection/modifier)
+definition: good
+notes: Konglish/English loanword from "good." Written in Korean as 굿. Very common in casual online and youth speech. Often used as a standalone exclamation (굿!) or as a modifier before a noun in a playful, informal way. Not standard Korean grammar — this is a colloquial internet/spoken style.
+
+--- word ---
+term: 주말
+root: 주말 (weekend)
+breakdown: 주 (week, 週) + 말 (end, 末)
+pos: noun
+definition: weekend
+notes: Sino-Korean compound word (週末). 주 means 'week' and 말 means 'end.' A very common everyday noun. Here Hwasa is greeting viewers with a casual "good weekend" in a mixed Korean-English style.
+
+--- grammar ---
+pattern: Konglish modifier + N
+meaning: Using an English loanword as an informal modifier directly before a Korean noun, bypassing standard Korean adjective conjugation. Common in casual/internet speech.
+example: 굿 주말
+level: intermediate
+
+=== [00:13] 굿 통 ===
+
+--- word ---
+term: 굿
+root: 굿 (good)
+breakdown: 굿
+pos: adjective (loanword, used as modifier)
+definition: good
+notes: Same Konglish usage as above — English "good" written in Korean. See previous entry.
+
+--- word ---
+term: 통
+root: 통 (Tong — likely a nickname or reference)
+breakdown: 통
+pos: noun
+definition: Tong (nickname or reference)
+notes: This appears to be a nickname, possibly short for a fan community name, a pet name, or a playful word Hwasa uses with her audience. 통 as a regular noun can mean 'barrel,' 'container,' or 'communication' (通), but here it seems to function as a proper noun or term of address. The French subtitle translates it as "pince" (tongs/pliers) and English as "Tong," suggesting it is a specific name or inside reference. Context-dependent — likely a fan nickname.
+
+=== [00:16] 일단 시작해볼까? ===
+
+--- word ---
+term: 일단
+root: 일단 (first of all, for now)
+breakdown: 일단
+pos: adverb
+definition: first; for now; for starters
+notes: Sino-Korean (一旦). A very useful discourse adverb meaning 'first of all' or 'for the time being.' It implies 'let's do this first and deal with the rest later.' Extremely common in everyday spoken Korean.
+
+--- word ---
+term: 시작해볼까
+root: 시작하다 (to start, to begin)
+breakdown: 시작하 + 여(=해) + 보 + ㄹ까
+pos: verb (propositive/suggestive ending)
+definition: shall (we) try starting?
+notes: This is a compound verb form layering several patterns: 시작하다 → 시작해 (casual conjugation) → 시작해보다 (try starting, using V-아/어 보다) → 시작해볼까 (shall we try starting?, using V-(으)ㄹ까). The final ? makes it a suggestion/proposal. This is 반말 — the polite equivalent would be 시작해볼까요? Hwasa uses this casual form to speak directly and warmly to her audience.
+
+--- grammar ---
+pattern: V-아/어 보다
+meaning: 'To try doing V.' Expresses attempting or experiencing an action.
+example: 시작해볼까
+level: beginner
+
+--- grammar ---
+pattern: V-(으)ㄹ까?
+meaning: Suggestive/propositive ending — 'shall we V?' or 'should I V?' Used to propose an action or ask for the listener's opinion.
+example: 시작해볼까
+level: beginner
+
+=== [00:24] 시작해볼까? ===
+
+--- word ---
+term: 시작해볼까
+root: 시작하다 (to start, to begin)
+breakdown: 시작하 + 여(=해) + 보 + ㄹ까
+pos: verb (propositive/suggestive ending)
+definition: shall (we) try starting?
+notes: Identical to the previous line [00:16]. See notes above. 반말 propositive form combining V-아/어 보다 (try doing) with -(으)ㄹ까 (shall we). Hwasa repeats the phrase, likely re-engaging her audience as the stream gets going.
+
+--- grammar ---
+pattern: V-아/어 보다
+meaning: 'To try doing V.' Expresses attempting or experiencing an action.
+example: 시작해볼까
+level: beginner
+
+--- grammar ---
+pattern: V-(으)ㄹ까?
+meaning: Suggestive/propositive ending — 'shall we V?' or 'should I V?'
+example: 시작해볼까
+level: beginner
+
+=== [00:31] 시작합니다 ===
+
+--- word ---
+term: 시작합니다
+root: 시작하다 (to start, to begin)
+breakdown: 시작 + 합니다
+pos: verb (formal polite ending)
+definition: (we) begin; let's start
+notes: Same as [00:00]. Formal polite declaration using 합쇼체 (-(스)ㅂ니다). Hwasa repeats this as a definitive "we're starting now" announcement — the shift from the casual 시작해볼까? to the formal 시작합니다 gives a playful sense of officially kicking things off.
+
+--- grammar ---
+pattern: N-하다
+meaning: Attaches 하다 to a Sino-Korean noun to form a verb — 'to do N'
+example: 시작합니다
+level: beginner
+
+--- grammar ---
+pattern: V-(스)ㅂ니다
+meaning: Formal polite sentence ending (합쇼체). Used in formal speech, broadcasts, presentations.
+example: 시작합니다
+level: beginner
+
+=== [00:41] 안녕 ===
+
+--- word ---
+term: 안녕
+root: 안녕 (peace, well-being)
+breakdown: 안녕
+pos: noun / greeting
+definition: hi; hello
+notes: Casual (반말) greeting, repeated here. Same as [00:08]. Hwasa greets incoming viewers again informally. See earlier entry for full notes on the polite forms 안녕하세요 / 안녕하십니까.
+
+--- grammar ---
+pattern: N (casual greeting)
+meaning: Using the bare noun 안녕 as an informal greeting, dropping the polite 하세요 ending.
+example: 안녕
+level: beginner
+
+
+
+
+=== [00:43] 난 이 시간이 너무 좋아 ===
+
+--- word ---
+term: 난
+root: 나 (I, me)
+breakdown: 나 + 는
+pos: pronoun + topic particle
+definition: I (as for me)
+notes: 난 is the contracted form of 나는. 나 is the casual (반말) first-person pronoun. The topic particle 는 marks 'I' as the topic of the sentence. This contraction is extremely common in spoken Korean and informal writing. Compare with 전 (저 + 는), which is the humble/polite equivalent.
+
+--- word ---
+term: 이
+root: 이 (this)
+breakdown: 이
+pos: determiner (demonstrative)
+definition: this
+notes: 이 is a pre-noun modifier (관형사) meaning 'this,' referring to something close to the speaker. Part of the three-way Korean demonstrative system: 이 (this, near speaker), 그 (that, near listener or previously mentioned), 저 (that over there, far from both). Here it modifies 시간 — 'this time.'
+
+--- word ---
+term: 시간이
+root: 시간 (time, hour)
+breakdown: 시간 + 이
+pos: noun + subject particle
+definition: this time (as subject)
+notes: 시간 is Sino-Korean (時間) meaning 'time' or 'hour.' The subject particle 이 marks it as the grammatical subject of the adjective 좋다. The particle 이 is used after consonant-ending nouns (시간 ends in ㄴ); after vowel-ending nouns, 가 is used instead.
+
+--- word ---
+term: 너무
+root: 너무 (too much, very)
+breakdown: 너무
+pos: adverb
+definition: so much; very; too
+notes: 너무 originally means 'excessively/too much' (negative nuance), but in modern colloquial Korean it is widely used as an intensifier meaning 'very' or 'so much' — even in positive contexts like here (너무 좋아 = I like it so much). This positive usage is now fully accepted in everyday speech, though purists may prefer 매우 or 정말 in formal writing.
+
+--- word ---
+term: 좋아
+root: 좋다 (to be good, to like)
+breakdown: 좋 + 아
+pos: adjective (casual ending)
+definition: (I) like (it); it's good
+notes: 좋다 is a descriptive verb (형용사) meaning 'to be good' or 'to like.' 좋아 is the 반말 (casual) present tense form using the -아/어 ending. When used with a subject marked by 이/가 (시간이 좋아), the structure means 'I like [subject]' — literally '[subject] is good (to me).' This is the standard Korean way to express liking something, distinct from English where 'like' takes a direct object.
+
+--- grammar ---
+pattern: N-은/는 (topic particle)
+meaning: Marks the topic of the sentence — 'as for N.' Contracted with pronouns: 나는 → 난, 저는 → 전, 너는 → 넌.
+example: 난
+level: beginner
+
+--- grammar ---
+pattern: N-이/가 (subject particle)
+meaning: Marks the grammatical subject of the sentence. 이 after consonants, 가 after vowels.
+example: 시간이
+level: beginner
+
+--- grammar ---
+pattern: A-아/어 (casual sentence ending)
+meaning: Casual (반말) present tense ending for adjectives and verbs. Used among close friends, to younger people, or in informal settings like livestreams.
+example: 좋아
+level: beginner
+
+=== [00:45] 꼭 간다 ===
+
+--- word ---
+term: 꼭
+root: 꼭 (surely, definitely, without fail)
+breakdown: 꼭
+pos: adverb
+definition: definitely; for sure; without fail
+notes: 꼭 is a native Korean adverb expressing strong determination or certainty. It emphasizes that the action will absolutely happen. Common collocations: 꼭 가다 (definitely go), 꼭 해야 하다 (must do without fail), 꼭 오세요 (please be sure to come). Similar in meaning to 반드시 (definitely), but 꼭 is more colloquial and warmer in tone.
+
+--- word ---
+term: 간다
+root: 가다 (to go)
+breakdown: 가 + ㄴ다
+pos: verb (plain/declarative ending)
+definition: (I) go; (I'm) going
+notes: 간다 is the plain declarative form (해라체) of 가다, using the -ㄴ다/-는다 ending. In casual spoken Korean, this ending is used to make firm statements or declarations, often expressing resolve or announcing intentions. Here Hwasa declares with certainty that she will go (to some place). This form is different from the diary/written plain style — in speech it conveys a decisive, assertive tone.
+
+--- grammar ---
+pattern: V-ㄴ다/는다 (plain declarative ending)
+meaning: Plain present tense declarative. Used in casual speech for firm statements, diary entries, narration, and self-directed declarations. -ㄴ다 after vowel stems, -는다 after consonant stems.
+example: 간다
+level: beginner
+
+=== [00:49] 아 맞다 그 떡집 ===
+
+--- word ---
+term: 아
+root: 아 (ah, oh)
+breakdown: 아
+pos: interjection
+definition: oh; ah
+notes: A common Korean interjection expressing realization, recollection, or a reaction. Here it signals that Hwasa just remembered something. Similar interjections: 어 (uh/oh, softer), 오 (oh, surprise), 야 (hey). Very natural in conversational Korean.
+
+--- word ---
+term: 맞다
+root: 맞다 (to be right, to be correct)
+breakdown: 맞 + 다
+pos: adjective/verb (plain form)
+definition: right; that's right; correct
+notes: 맞다 here is used as an exclamation meaning 'oh right!' or 'that's correct!' In spoken Korean, 맞다 in its dictionary/plain form is commonly used as a sudden interjection when recalling something — equivalent to snapping your fingers and saying "oh right!" The polite equivalent would be 맞아요. Very common in natural speech.
+
+--- word ---
+term: 그
+root: 그 (that)
+breakdown: 그
+pos: determiner (demonstrative)
+definition: that
+notes: 그 is a pre-noun modifier (관형사) meaning 'that,' referring to something both speaker and listener know about, or something previously mentioned. Part of the 이/그/저 system. Here Hwasa says 그 떡집, referring to a specific rice cake shop she and her audience have discussed or that she has in mind.
+
+--- word ---
+term: 떡집
+root: 떡집 (rice cake shop)
+breakdown: 떡 (rice cake) + 집 (house/shop)
+pos: noun (compound)
+definition: rice cake shop
+notes: A compound noun: 떡 (rice cake, a traditional Korean food made from glutinous rice) + 집 (house, but commonly used as a suffix meaning 'shop/restaurant' — e.g., 고기집 meat restaurant, 빵집 bakery, 술집 bar). Very productive word-formation pattern in Korean.
+
+--- grammar ---
+pattern: V/A-다 (plain/dictionary form as exclamation)
+meaning: Using the plain dictionary form in speech as a sudden realization or exclamation. Common with words like 맞다 (right!), 그렇다 (that's so!).
+example: 맞다
+level: beginner
+
+--- grammar ---
+pattern: N + 집 (compound noun for shops)
+meaning: 집 (house) attached to a noun to mean 'a shop/place that sells N.' A very productive noun-compounding pattern.
+example: 떡집
+level: beginner
+
+=== [00:51] 거기 이제 어떤 친구가 ===
+
+--- word ---
+term: 거기
+root: 거기 (there)
+breakdown: 거기
+pos: pronoun (demonstrative place)
+definition: there; that place
+notes: 거기 is the place pronoun corresponding to 그 (that). Part of the system: 여기 (here), 거기 (there, near listener or known place), 저기 (over there, far from both). Here it refers back to the 떡집 just mentioned. In casual speech, 거기 can also be used as a pronoun to refer to a person (similar to "you" in some dialects), but here it means the place.
+
+--- word ---
+term: 이제
+root: 이제 (now, from now on)
+breakdown: 이제
+pos: adverb
+definition: now; these days; at this point
+notes: 이제 is a time adverb meaning 'now' or 'from now on.' It often implies a change of state or a transition — something is different now compared to before. Compare with 지금 (right now, at this moment): 지금 focuses on the present moment, while 이제 emphasizes a shift or new development. Here Hwasa uses it in a storytelling sense — 'now (at that place), there's this friend who…'
+
+--- word ---
+term: 어떤
+root: 어떤 (what kind of, some, a certain)
+breakdown: 어떤
+pos: determiner (interrogative/indefinite)
+definition: what kind of; some; a certain
+notes: 어떤 has two main uses: (1) interrogative — 'what kind of?' (어떤 음식 좋아해요? = What kind of food do you like?) and (2) indefinite — 'some, a certain' (어떤 사람이 왔어요 = Some person came). Here Hwasa uses it in the indefinite sense, introducing an unspecified person: 'a certain friend' or 'some friend.' Context determines which meaning applies.
+
+--- word ---
+term: 친구가
+root: 친구 (friend)
+breakdown: 친구 + 가
+pos: noun + subject particle
+definition: a friend (as subject)
+notes: 친구 means 'friend,' but in colloquial Korean it is used more broadly than in English — it can refer to any peer of similar age, not just a close personal friend. The subject particle 가 marks 친구 as the subject of whatever verb follows (the sentence appears to be cut off, continuing in the next line). 가 is used here because 친구 ends in a vowel (ㅜ).
+
+--- grammar ---
+pattern: N-이/가 (subject particle)
+meaning: Marks the grammatical subject. 이 after consonants, 가 after vowels.
+example: 친구가
+level: beginner
+
+
+
+
+=== [00:53] 순대 행복한 떡집 맞냐고 ===
+
+--- word ---
+term: 순대
+root: 순대 (sundae/soondae)
+breakdown: 순대
+pos: noun
+definition: Korean blood sausage (sundae)
+notes: 순대 is a traditional Korean street food made by stuffing pig intestines with glass noodles, barley, and pork blood. It appears here as part of a shop name (순대 행복한 떡집). Not to be confused with the English ice cream "sundae." A beloved Korean comfort food commonly found at street stalls and markets.
+
+--- word ---
+term: 행복한
+root: 행복하다 (to be happy)
+breakdown: 행복하 + ㄴ
+pos: adjective (modifying/prenominal form)
+definition: happy; blissful
+notes: 행복하다 is a Sino-Korean adjective (幸福). Here it appears in its prenominal modifier form 행복한 (행복하 + ㄴ), modifying the noun 떡집. This is the ADJ-(으)ㄴ N pattern used to make adjectives modify nouns directly. 행복한 떡집 = 'happy rice cake shop' — part of the shop's name.
+
+--- word ---
+term: 떡집
+root: 떡집 (rice cake shop)
+breakdown: 떡 (rice cake) + 집 (house/shop)
+pos: noun (compound)
+definition: rice cake shop
+notes: Same compound noun as in [00:49]. 떡 (rice cake) + 집 (shop). Here it is the last part of the full shop name: 순대 행복한 떡집.
+
+--- word ---
+term: 맞냐고
+root: 맞다 (to be right, to be correct)
+breakdown: 맞 + 냐고
+pos: verb (indirect quotation, question)
+definition: (someone asked) if it's correct; asking whether it's right
+notes: 맞냐고 is an indirect quotation form reporting a question. 맞 (stem of 맞다) + 냐 (casual interrogative ending used in indirect quotes) + 고 (quotation particle). The full underlying structure is 맞냐고 (하다/묻다) — '(someone) asks/asked whether it's correct.' Here a viewer or friend apparently asked Hwasa whether the shop name is indeed "순대 행복한 떡집." This is 반말-level quoting — the polite equivalent would be 맞느냐고.
+
+--- grammar ---
+pattern: ADJ-(으)ㄴ N
+meaning: Prenominal modifier pattern for descriptive verbs (adjectives). Converts an adjective into a form that directly modifies a following noun. -(으)ㄴ for present-state adjectives.
+example: 행복한
+level: beginner
+
+--- grammar ---
+pattern: V/A-냐고 (indirect quotation of a question)
+meaning: Reports a question someone asked — '(someone asked) whether/if V.' Formed from the casual interrogative -냐 + quotation particle -고. Part of the indirect speech system.
+example: 맞냐고
+level: intermediate
+
+=== [00:55] 맞대 ===
+
+--- word ---
+term: 맞대
+root: 맞다 (to be right, to be correct)
+breakdown: 맞 + 대
+pos: verb (indirect quotation, hearsay)
+definition: (they) say it's right; apparently it's correct
+notes: 맞대 is a contracted hearsay/indirect quotation form. The full form is 맞다고 해 → shortened to 맞대 in casual speech. The ending ~대 (from ~다고 해) is extremely common in spoken 반말 Korean for reporting what someone else said — 'apparently…' or '(they) say that…' Other contractions in this system: ~래 (from ~라고 해, quoted command/request), ~냬 (from ~냐고 해, quoted question). Note: the French/English translations suggest "face to face" (맞대다 = to face/put together), but in this context — following the question 맞냐고 — Hwasa is confirming: "(they) say it's correct."
+
+--- grammar ---
+pattern: V/A-대 (contracted hearsay)
+meaning: Casual contracted form of V/A-다고 해 — '(someone) says that…' or 'apparently…' Very common in spoken 반말 for reporting information.
+example: 맞대
+level: intermediate
+
+=== [00:57] 순대 행복한 떡집 ===
+
+--- word ---
+term: 순대
+root: 순대 (sundae/soondae)
+breakdown: 순대
+pos: noun
+definition: Korean blood sausage (sundae)
+notes: See [00:53]. Part of the shop name being repeated. Hwasa restates the full name of the shop for emphasis or confirmation.
+
+--- word ---
+term: 행복한
+root: 행복하다 (to be happy)
+breakdown: 행복하 + ㄴ
+pos: adjective (modifying/prenominal form)
+definition: happy
+notes: Prenominal form of 행복하다, modifying 떡집. See [00:53] for full notes. ADJ-(으)ㄴ N pattern.
+
+--- word ---
+term: 떡집
+root: 떡집 (rice cake shop)
+breakdown: 떡 (rice cake) + 집 (house/shop)
+pos: noun (compound)
+definition: rice cake shop
+notes: See [00:49] and [00:53]. Hwasa repeats the full shop name 순대 행복한 떡집, confirming it after the viewer's question.
+
+--- grammar ---
+pattern: ADJ-(으)ㄴ N
+meaning: Prenominal modifier for adjectives. Places the adjective before the noun it describes.
+example: 행복한
+level: beginner
+
+=== [00:59] 맞다고 합니다만 ===
+
+--- word ---
+term: 맞다고
+root: 맞다 (to be right, to be correct)
+breakdown: 맞 + 다고
+pos: verb + quotation particle
+definition: (that it is) correct — quoted statement
+notes: 맞다고 is the indirect quotation form for a plain declarative statement. 맞다 (it's correct) + 고 (quotation particle). The full structure is 맞다고 하다 — 'to say that it's correct.' Compare with the contracted form 맞대 from [00:55] — 맞다고 합니다만 is the uncontracted, formal version of the same hearsay construction.
+
+--- word ---
+term: 합니다만
+root: 하다 (to do; to say)
+breakdown: 하 + ㅂ니다 + 만
+pos: verb (formal polite) + contrastive particle
+definition: (they) say, but…; it is said, however…
+notes: 합니다 is the formal polite (합쇼체) form of 하다. Here 하다 functions as the reporting verb in the indirect quotation (맞다고 하다 = 'to say it's correct'). The particle 만 at the end functions as a contrastive connector meaning 'but/however,' equivalent to 하지만. The combination -(스)ㅂ니다만 is a formal way to concede a point before introducing a contrast or reservation — 'they do say it's correct, but…' This is noticeably more formal and polished than Hwasa's usual 반말, giving a humorous or mock-formal tone.
+
+--- grammar ---
+pattern: V/A-다고 하다 (indirect quotation, statement)
+meaning: Reports a declarative statement — '(someone) says that V/A.' The core indirect speech pattern for statements. 다고 for plain declarative, (이)라고 for nouns with 이다.
+example: 맞다고 합니다만
+level: intermediate
+
+--- grammar ---
+pattern: V-(스)ㅂ니다만
+meaning: Formal polite ending + contrastive 'but.' Concedes or states something formally before introducing a contrasting point. More formal than -지만 or -는데.
+example: 합니다만
+level: intermediate
+
+--- grammar ---
+pattern: V/A-지만 / N-이지만 (contrastive 'but')
+meaning: Connects two clauses with a contrasting relationship — 'but, however.' 만 after -(스)ㅂ니다 serves the same contrastive function.
+example: 합니다만
+level: beginner
