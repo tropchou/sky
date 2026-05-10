@@ -18,6 +18,7 @@
       line-height: 1.6;
       -webkit-font-smoothing: antialiased;
     }
+
     a { color: #1a1a1a; text-decoration: none; }
     a:hover { color: #555; }
 
@@ -32,6 +33,7 @@
       flex-wrap: wrap;
       gap: 8px;
     }
+
     .viewer-header .back-link {
       font-size: 0.85rem;
       font-weight: 500;
@@ -42,11 +44,13 @@
       border-radius: 2px;
       transition: background 0.15s, border-color 0.15s;
     }
+
     .viewer-header .back-link:hover {
       background: #1a1a1a;
       color: #fff;
       border-color: #1a1a1a;
     }
+
     .viewer-header .file-name {
       font-family: 'Source Serif 4', serif;
       font-size: 1.1rem;
@@ -60,15 +64,6 @@
       margin: 0 auto;
       padding: 36px 24px 100px;
     }
-    .viewer-content pre {
-      font-family: 'Source Serif 4', serif;
-      font-size: 1.05rem;
-      line-height: 1.85;
-      color: #1a1a1a;
-      white-space: pre-wrap;
-      word-wrap: break-word;
-      background: none;
-    }
 
     .viewer-error {
       max-width: 740px;
@@ -76,18 +71,216 @@
       padding: 0 24px;
       text-align: center;
     }
+
     .viewer-error h2 {
       font-family: 'Source Serif 4', serif;
       font-weight: 600;
       font-size: 1.4rem;
       margin-bottom: 12px;
     }
+
     .viewer-error p {
       color: #777;
       font-size: 0.95rem;
     }
 
-    /* ── Navigation Pill ──────────────────────── */
+    /* ── Transcript line groups ─────────────── */
+    .transcript-block {
+      margin-bottom: 0;
+    }
+
+    .line-group {
+      margin-bottom: 4px;
+    }
+
+    .line-group pre {
+      font-family: 'Source Serif 4', serif;
+      font-size: 1.05rem;
+      line-height: 1.85;
+      color: #1a1a1a;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      background: none;
+      margin: 0;
+    }
+
+    /* ── Grammar toggle button ─────────────── */
+    .grammar-toggle {
+      display: inline-block;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.72rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: #999;
+      background: none;
+      border: 1px solid #d0d0d0;
+      border-radius: 2px;
+      padding: 3px 10px;
+      cursor: pointer;
+      transition: color 0.15s, border-color 0.15s, background 0.15s;
+      margin-left: 18px;
+      margin-bottom: 8px;
+    }
+
+    .grammar-toggle:hover {
+      color: #1a1a1a;
+      border-color: #1a1a1a;
+    }
+
+    .grammar-toggle.open {
+      color: #1a1a1a;
+      border-color: #1a1a1a;
+      background: #f0f0f0;
+    }
+
+    /* ── Grammar expanded panel ────────────── */
+    .grammar-panel {
+      display: none;
+      margin: 4px 0 16px 18px;
+      padding: 16px 20px;
+      border-left: 2px solid #e0e0e0;
+      background: #fdfdfd;
+    }
+
+    .grammar-panel.open {
+      display: block;
+    }
+
+    .grammar-panel-section-title {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #999;
+      margin-bottom: 10px;
+      margin-top: 0;
+    }
+
+    .grammar-panel-section-title + .grammar-panel-section-title {
+      margin-top: 20px;
+    }
+
+    /* ── Word cards ────────────────────────── */
+    .word-card {
+      margin-bottom: 12px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid #efefef;
+    }
+
+    .word-card:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+
+    .word-card-term {
+      font-family: 'Source Serif 4', serif;
+      font-size: 1rem;
+      font-weight: 600;
+      color: #1a1a1a;
+      margin-bottom: 2px;
+    }
+
+    .word-card-def {
+      font-size: 0.88rem;
+      color: #555;
+      margin-bottom: 4px;
+    }
+
+    .word-card-row {
+      font-size: 0.82rem;
+      color: #777;
+      line-height: 1.5;
+    }
+
+    .word-card-row span.label {
+      font-weight: 500;
+      color: #999;
+      text-transform: uppercase;
+      font-size: 0.7rem;
+      letter-spacing: 0.04em;
+      margin-right: 4px;
+    }
+
+    .word-card-notes {
+      font-size: 0.82rem;
+      color: #666;
+      line-height: 1.55;
+      margin-top: 6px;
+      font-style: italic;
+    }
+
+    /* ── Grammar point cards ───────────────── */
+    .gp-card {
+      margin-bottom: 10px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #efefef;
+    }
+
+    .gp-card:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+
+    .gp-card-pattern {
+      font-family: 'Source Serif 4', serif;
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: #1a1a1a;
+      margin-bottom: 2px;
+    }
+
+    .gp-card-meaning {
+      font-size: 0.85rem;
+      color: #555;
+      margin-bottom: 3px;
+    }
+
+    .gp-card-meta {
+      font-size: 0.78rem;
+      color: #999;
+    }
+
+    .gp-card-meta span.level-tag {
+      display: inline-block;
+      font-size: 0.68rem;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      padding: 1px 7px;
+      border: 1px solid #d8d8d8;
+      border-radius: 2px;
+      margin-left: 4px;
+      vertical-align: middle;
+    }
+
+    /* ── Collapse button at bottom of panel ── */
+    .grammar-collapse-btn {
+      display: block;
+      margin: 16px auto 0;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.72rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: #999;
+      background: none;
+      border: 1px solid #d0d0d0;
+      border-radius: 2px;
+      padding: 4px 14px;
+      cursor: pointer;
+      transition: color 0.15s, border-color 0.15s;
+    }
+
+    .grammar-collapse-btn:hover {
+      color: #1a1a1a;
+      border-color: #1a1a1a;
+    }
+
+       /* ── Navigation Pill ──────────────────────── */
     .nav-pill {
       position: fixed;
       bottom: 20px;
@@ -107,6 +300,7 @@
       visibility: hidden;
       transition: opacity 0.3s ease, visibility 0.3s ease;
     }
+
     .nav-pill.visible {
       opacity: 1;
       visibility: visible;
@@ -127,10 +321,12 @@
       transition: color 0.15s, background 0.15s;
       line-height: 1;
     }
+
     .nav-pill button:hover {
       color: #fff;
       background: rgba(255, 255, 255, 0.1);
     }
+
     .nav-pill button:disabled {
       color: #555;
       cursor: default;
@@ -150,6 +346,7 @@
       align-items: center;
       overflow: hidden;
     }
+
     .ts-input-container {
       display: flex;
       align-items: center;
@@ -158,10 +355,12 @@
       overflow: hidden;
       transition: max-width 0.25s ease, opacity 0.2s ease;
     }
+
     .ts-input-container.open {
       max-width: 140px;
       opacity: 1;
     }
+
     .ts-input {
       font-family: 'DM Sans', sans-serif;
       font-size: 0.78rem;
@@ -175,16 +374,20 @@
       margin-left: 4px;
       line-height: 1;
     }
+
     .ts-input::placeholder {
       color: #777;
       font-size: 0.72rem;
     }
+
     .ts-input:focus {
       border-color: rgba(255, 255, 255, 0.4);
     }
+
     .ts-input.error {
       border-color: #e05050;
     }
+
     .ts-go-btn {
       font-family: 'DM Sans', sans-serif;
       font-size: 0.72rem;
@@ -199,6 +402,7 @@
       line-height: 1;
       transition: color 0.15s, background 0.15s;
     }
+
     .ts-go-btn:hover {
       color: #fff;
       background: rgba(255, 255, 255, 0.15);
@@ -208,7 +412,11 @@
       .viewer-header { padding: 28px 20px 16px; }
       .viewer-header .file-name { font-size: 0.95rem; }
       .viewer-content { padding: 28px 20px 100px; }
-      .viewer-content pre { font-size: 0.98rem; line-height: 1.75; }
+
+      .line-group pre { font-size: 0.98rem; line-height: 1.75; }
+
+      .grammar-toggle { margin-left: 10px; }
+      .grammar-panel { margin-left: 10px; padding: 14px 16px; }
 
       .nav-pill {
         bottom: 14px;
@@ -262,88 +470,385 @@
     const segments    = file.split('/');
     const displayName = segments[segments.length - 1];
     nameEl.textContent = displayName;
-    document.title = `${displayName} — Hwasa Transcripts`;
+    document.title     = `${displayName} — Hwasa Transcripts`;
 
+    /* ── Derive grammar file path from transcript path ── */
+    const grammarFile = file.replace(/\.txt$/, '-grammar.txt');
+
+    /* ── Fetch transcript, then optionally grammar ────── */
     fetch(file)
       .then(r => {
         if (!r.ok) throw new Error('Not found');
         return r.text();
       })
       .then(text => {
-        contentWrap.style.display = 'block';
-        const blocks = parseBlocks(text);
-        renderBlocks(blocks);
-        initNavPill(blocks);
+        // Try fetching grammar file (silent fail if missing)
+        return fetch(grammarFile)
+          .then(r => r.ok ? r.text() : null)
+          .catch(() => null)
+          .then(grammarText => {
+            contentWrap.style.display = 'block';
+
+            const grammarMap = grammarText ? parseGrammarFile(grammarText) : new Map();
+            const blocks     = parseBlocks(text);
+
+            renderBlocks(blocks, grammarMap);
+            initNavPill(blocks);
+          });
       })
       .catch(() => {
         errorWrap.style.display = 'block';
       });
 
-    /* ── Delimiter regex ─────────────────────── */
-    // Matches lines like: — [00:00] ———————————————...
-    const BLOCK_RE = /^— \[(\d{1,2}:\d{2}(?::\d{2})?)\] —+$/m;
+    /* ══════════════════════════════════════════════════════
+       GRAMMAR FILE PARSER
+       ══════════════════════════════════════════════════════ */
 
-    /* ── Parse text into blocks ──────────────── */
+    function parseGrammarFile(text) {
+      const map      = new Map(); // key: "timestamp\tkoText" → { words: [], grammar: [] }
+      const entries  = text.split(/^=== /m).filter(b => b.trim());
+
+      for (const block of entries) {
+        // Header line: [00:43] 난 이 시간이 너무 좋아 ===
+        const headerMatch = block.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*(.+?)\s*===$/m);
+        if (!headerMatch) continue;
+
+        const ts   = headerMatch[1].trim();
+        const ko   = headerMatch[2].trim();
+        const key  = ts + '\t' + ko;
+
+        const entry = { words: [], grammar: [] };
+
+        // Split into sub-blocks
+        const sections = block.split(/^--- /m);
+
+        for (let i = 1; i < sections.length; i++) {
+          const section   = sections[i];
+          const typeMatch = section.match(/^(word|grammar)\s*---/);
+          if (!typeMatch) continue;
+
+          const type = typeMatch[1];
+          const obj  = {};
+          const lines = section.split('\n').slice(1);
+
+          for (const line of lines) {
+            const m = line.match(/^(term|root|breakdown|pos|definition|notes|pattern|meaning|example|level):\s*(.+)/);
+            if (m) obj[m[1]] = m[2].trim();
+          }
+
+          if (type === 'word' && obj.term) {
+            entry.words.push(obj);
+          } else if (type === 'grammar' && obj.pattern) {
+            entry.grammar.push(obj);
+          }
+        }
+
+        if (entry.words.length > 0 || entry.grammar.length > 0) {
+          map.set(key, entry);
+        }
+      }
+
+      return map;
+    }
+
+    /* ══════════════════════════════════════════════════════
+       TRANSCRIPT PARSER
+       ══════════════════════════════════════════════════════ */
+
     function parseBlocks(text) {
       const lines  = text.split('\n');
       const blocks = [];
       let currentLines = [];
-      let currentTS    = null;   // timestamp string e.g. "20:02"
-      let currentSec   = 0;     // timestamp in seconds
+      let currentTS    = null;
+      let currentSec   = 0;
 
       for (const line of lines) {
         const m = line.match(/^— \[(\d{1,2}:\d{2}(?::\d{2})?)\] —+$/);
         if (m) {
-          // Save any accumulated lines as a block
           if (currentLines.length > 0 || blocks.length === 0) {
             blocks.push({
-              ts: currentTS,
+              ts:      currentTS,
               seconds: currentSec,
-              text: currentLines.join('\n')
+              text:    currentLines.join('\n')
             });
           }
-          currentTS  = m[1];
-          currentSec = tsToSeconds(m[1]);
-          currentLines = [line]; // start new block with the delimiter line
+          currentTS   = m[1];
+          currentSec  = tsToSeconds(m[1]);
+          currentLines = [line];
         } else {
           currentLines.push(line);
         }
       }
-      // Push the last block
+
       if (currentLines.length > 0) {
         blocks.push({
-          ts: currentTS,
+          ts:      currentTS,
           seconds: currentSec,
-          text: currentLines.join('\n')
+          text:    currentLines.join('\n')
         });
       }
 
       return blocks;
     }
 
-    /* ── Render blocks into DOM ──────────────── */
-    function renderBlocks(blocks) {
+    /* ══════════════════════════════════════════════════════
+       RENDER BLOCKS WITH GRAMMAR SUPPORT
+       ══════════════════════════════════════════════════════ */
+
+    function renderBlocks(blocks, grammarMap) {
       blocks.forEach((block, i) => {
-        const section = document.createElement('section');
-        section.id = `block-${i}`;
+        const section       = document.createElement('section');
+        section.id          = `block-${i}`;
         section.dataset.seconds = block.seconds;
+        section.className   = 'transcript-block';
         if (block.ts) section.dataset.timestamp = block.ts;
 
-        const pre = document.createElement('pre');
-        pre.textContent = block.text;
-        pre.style.cssText =
-          "font-family:'Source Serif 4',serif;font-size:1.05rem;" +
-          "line-height:1.85;color:#1a1a1a;white-space:pre-wrap;" +
-          "word-wrap:break-word;background:none;";
-        section.appendChild(pre);
+        // Parse block text into line groups
+        const lineGroups = parseLineGroups(block.text);
+
+        lineGroups.forEach(group => {
+          const groupEl     = document.createElement('div');
+          groupEl.className = 'line-group';
+
+          const pre       = document.createElement('pre');
+          pre.textContent = group.raw;
+          groupEl.appendChild(pre);
+
+          // Check if this group has grammar data
+          if (group.ts && group.ko && grammarMap.size > 0) {
+            const key   = group.ts + '\t' + group.ko;
+            const entry = grammarMap.get(key);
+
+            if (entry) {
+              // Create grammar toggle button
+              const toggleBtn       = document.createElement('button');
+              toggleBtn.className   = 'grammar-toggle';
+              toggleBtn.textContent = 'Grammar ▾';
+
+              // Create grammar panel
+              const panel     = document.createElement('div');
+              panel.className = 'grammar-panel';
+
+              buildGrammarPanel(panel, entry);
+
+              // Collapse button at bottom
+              const collapseBtn       = document.createElement('button');
+              collapseBtn.className   = 'grammar-collapse-btn';
+              collapseBtn.textContent = '▲ Collapse';
+              panel.appendChild(collapseBtn);
+
+              // Toggle logic
+              function togglePanel() {
+                const isOpen = panel.classList.toggle('open');
+                toggleBtn.classList.toggle('open', isOpen);
+                toggleBtn.textContent = isOpen ? 'Grammar ▴' : 'Grammar ▾';
+              }
+
+              toggleBtn.addEventListener('click', togglePanel);
+              collapseBtn.addEventListener('click', () => {
+                panel.classList.remove('open');
+                toggleBtn.classList.remove('open');
+                toggleBtn.textContent = 'Grammar ▾';
+                toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'center' });
+              });
+
+              groupEl.appendChild(toggleBtn);
+              groupEl.appendChild(panel);
+            }
+          }
+
+          section.appendChild(groupEl);
+        });
+
         container.appendChild(section);
       });
     }
 
-    /* ── Build the navigation pill ───────────── */
+    /* ── Parse a block's text into line groups ── */
+    // Detects groups like:
+    //   [00:43]
+    //     KO: 난 이 시간이 너무 좋아
+    //     FR: J'aime tellement cette fois
+    //     EN: I love this time so much
+    //
+    // Also handles non-grouped lines (delimiters, blank lines, etc.)
+
+    function parseLineGroups(text) {
+      const groups = [];
+      const lines  = text.split('\n');
+      let i = 0;
+
+      while (i < lines.length) {
+        const line = lines[i];
+
+        // Check for timestamp line like [00:43]
+        const tsMatch = line.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*$/);
+
+        if (tsMatch) {
+          // Collect the KO/FR/EN lines that follow
+          const ts       = tsMatch[1];
+          const rawLines = [line];
+          let ko = null;
+          let j  = i + 1;
+
+          while (j < lines.length) {
+            const nextLine = lines[j];
+            // Stop if we hit another timestamp, a delimiter, or end of meaningful content
+            if (nextLine.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*$/) ||
+                nextLine.match(/^— \[/)) {
+              break;
+            }
+            rawLines.push(nextLine);
+
+            // Extract KO value
+            const koMatch = nextLine.match(/^\s*KO:\s*(.+)/);
+            if (koMatch) ko = koMatch[1].trim();
+
+            j++;
+          }
+
+          groups.push({
+            raw: rawLines.join('\n'),
+            ts:  ts,
+            ko:  ko
+          });
+
+          i = j;
+        } else {
+          // Non-timestamp line (delimiter, blank, etc.) — render as-is
+          groups.push({
+            raw: line,
+            ts:  null,
+            ko:  null
+          });
+          i++;
+        }
+      }
+
+      return groups;
+    }
+
+    /* ── Build the grammar panel content ────── */
+    function buildGrammarPanel(panel, entry) {
+      // Words section
+      if (entry.words.length > 0) {
+        const title       = document.createElement('div');
+        title.className   = 'grammar-panel-section-title';
+        title.textContent = 'Words';
+        panel.appendChild(title);
+
+        entry.words.forEach(w => {
+          const card     = document.createElement('div');
+          card.className = 'word-card';
+
+          // Term
+          const termEl       = document.createElement('div');
+          termEl.className   = 'word-card-term';
+          termEl.textContent = w.term || '';
+          card.appendChild(termEl);
+
+          // Definition
+          if (w.definition) {
+            const defEl       = document.createElement('div');
+            defEl.className   = 'word-card-def';
+            defEl.textContent = w.definition;
+            card.appendChild(defEl);
+          }
+
+          // Root
+          if (w.root) {
+            const row = document.createElement('div');
+            row.className = 'word-card-row';
+            row.innerHTML = '<span class="label">Root</span> ' + escapeHtml(w.root);
+            card.appendChild(row);
+          }
+
+          // Breakdown
+          if (w.breakdown) {
+            const row = document.createElement('div');
+            row.className = 'word-card-row';
+            row.innerHTML = '<span class="label">Breakdown</span> ' + escapeHtml(w.breakdown);
+            card.appendChild(row);
+          }
+
+          // POS
+          if (w.pos) {
+            const row = document.createElement('div');
+            row.className = 'word-card-row';
+            row.innerHTML = '<span class="label">POS</span> ' + escapeHtml(w.pos);
+            card.appendChild(row);
+          }
+
+          // Notes
+          if (w.notes) {
+            const notesEl       = document.createElement('div');
+            notesEl.className   = 'word-card-notes';
+            notesEl.textContent = w.notes;
+            card.appendChild(notesEl);
+          }
+
+          panel.appendChild(card);
+        });
+      }
+
+      // Grammar points section
+      if (entry.grammar.length > 0) {
+        const title       = document.createElement('div');
+        title.className   = 'grammar-panel-section-title';
+        title.textContent = 'Grammar Points';
+        panel.appendChild(title);
+
+        entry.grammar.forEach(g => {
+          const card     = document.createElement('div');
+          card.className = 'gp-card';
+
+          // Pattern
+          const patternEl       = document.createElement('div');
+          patternEl.className   = 'gp-card-pattern';
+          patternEl.textContent = g.pattern || '';
+          card.appendChild(patternEl);
+
+          // Meaning
+          if (g.meaning) {
+            const meaningEl       = document.createElement('div');
+            meaningEl.className   = 'gp-card-meaning';
+            meaningEl.textContent = g.meaning;
+            card.appendChild(meaningEl);
+          }
+
+          // Example + Level
+          const meta = document.createElement('div');
+          meta.className = 'gp-card-meta';
+
+          let metaHtml = '';
+          if (g.example) {
+            metaHtml += escapeHtml(g.example);
+          }
+          if (g.level) {
+            metaHtml += '<span class="level-tag">' + escapeHtml(g.level) + '</span>';
+          }
+          if (metaHtml) {
+            meta.innerHTML = metaHtml;
+            card.appendChild(meta);
+          }
+
+          panel.appendChild(card);
+        });
+      }
+    }
+
+    /* ── HTML escape helper ────────────────── */
+    function escapeHtml(str) {
+      const div = document.createElement('div');
+      div.textContent = str;
+      return div.innerHTML;
+    }
+
+    /* ══════════════════════════════════════════════════════
+       NAVIGATION PILL (unchanged logic)
+       ══════════════════════════════════════════════════════ */
+
     function initNavPill(blocks) {
-      // Determine if this transcript has segment delimiters
-      // (more than 1 block means at least one delimiter was found)
       const hasSegments = blocks.length > 1 &&
         blocks.some(b => b.ts !== null);
 
@@ -353,11 +858,9 @@
         buildTopOnlyPill();
       }
 
-      // Show pill after a short scroll
       pill.classList.add('visible');
     }
 
-    /* ── Top-only pill (no segments) ─────────── */
     function buildTopOnlyPill() {
       const btn = makeBtn('▲ Top', () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -365,45 +868,42 @@
       pill.appendChild(btn);
     }
 
-    /* ── Full navigation pill (with segments) ── */
     function buildFullPill(blocks) {
       let currentIndex = 0;
+
       const sectionEls = blocks.map((_, i) =>
         document.getElementById(`block-${i}`)
       );
 
-      // — Buttons —
       const prevBtn = makeBtn('◀ Prev', () => jumpTo(currentIndex - 1));
-      const topBtn  = makeBtn('▲ Top',  () => {
+      const topBtn  = makeBtn('▲ Top', () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
       });
       const nextBtn = makeBtn('Next ▶', () => jumpTo(currentIndex + 1));
-      const tsBtn   = makeBtn('⏱',     toggleTimestampInput);
-      tsBtn.title = 'Jump to timestamp';
+      const tsBtn   = makeBtn('⏱', toggleTimestampInput);
+      tsBtn.title   = 'Jump to timestamp';
 
-      // — Timestamp input —
-      const tsWrapper   = document.createElement('div');
-      tsWrapper.className = 'ts-wrapper';
+      const tsWrapper       = document.createElement('div');
+      tsWrapper.className   = 'ts-wrapper';
 
-      const tsContainer = document.createElement('div');
+      const tsContainer     = document.createElement('div');
       tsContainer.className = 'ts-input-container';
 
-      const tsInput = document.createElement('input');
-      tsInput.type = 'text';
-      tsInput.className = 'ts-input';
-      tsInput.placeholder = 'mm:ss';
-      tsInput.inputMode = 'numeric';
+      const tsInput         = document.createElement('input');
+      tsInput.type          = 'text';
+      tsInput.className     = 'ts-input';
+      tsInput.placeholder   = 'mm:ss';
+      tsInput.inputMode     = 'numeric';
 
-      const goBtn = document.createElement('button');
-      goBtn.className = 'ts-go-btn';
-      goBtn.textContent = 'Go';
+      const goBtn           = document.createElement('button');
+      goBtn.className       = 'ts-go-btn';
+      goBtn.textContent     = 'Go';
 
       tsContainer.appendChild(tsInput);
       tsContainer.appendChild(goBtn);
       tsWrapper.appendChild(tsBtn);
       tsWrapper.appendChild(tsContainer);
 
-      // — Assemble pill —
       pill.appendChild(prevBtn);
       pill.appendChild(makeSep());
       pill.appendChild(topBtn);
@@ -412,7 +912,6 @@
       pill.appendChild(makeSep());
       pill.appendChild(tsWrapper);
 
-      // — State helpers —
       function updateBtnStates() {
         prevBtn.disabled = currentIndex <= 0;
         nextBtn.disabled = currentIndex >= blocks.length - 1;
@@ -424,11 +923,10 @@
         sectionEls[idx].scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
 
-      // — IntersectionObserver to track current block —
       const observer = new IntersectionObserver((entries) => {
         for (const entry of entries) {
           if (entry.isIntersecting) {
-            const id = entry.target.id;              // "block-3"
+            const id  = entry.target.id;
             const idx = parseInt(id.split('-')[1], 10);
             currentIndex = idx;
             updateBtnStates();
@@ -441,7 +939,6 @@
 
       sectionEls.forEach(el => { if (el) observer.observe(el); });
 
-      // — Timestamp input logic —
       let tsOpen = false;
 
       function toggleTimestampInput() {
@@ -472,14 +969,13 @@
           return;
         }
 
-        // Find nearest block
-        let bestIdx = 0;
+        let bestIdx  = 0;
         let bestDiff = Infinity;
         blocks.forEach((b, i) => {
           const diff = Math.abs(b.seconds - targetSec);
           if (diff < bestDiff) {
             bestDiff = diff;
-            bestIdx = i;
+            bestIdx  = i;
           }
         });
 
@@ -493,7 +989,6 @@
         if (e.key === 'Escape') closeTimestampInput();
       });
 
-      // Close when clicking outside the pill
       document.addEventListener('click', (e) => {
         if (tsOpen && !pill.contains(e.target)) {
           closeTimestampInput();
@@ -501,7 +996,8 @@
       });
     }
 
-    /* ── Utility: create a pill button ───────── */
+    /* ── Utility functions ────────────────────── */
+
     function makeBtn(label, onClick) {
       const btn = document.createElement('button');
       btn.textContent = label;
@@ -509,14 +1005,12 @@
       return btn;
     }
 
-    /* ── Utility: create a pill separator ────── */
     function makeSep() {
-      const sep = document.createElement('div');
+      const sep     = document.createElement('div');
       sep.className = 'pill-sep';
       return sep;
     }
 
-    /* ── Utility: timestamp string → seconds ── */
     function tsToSeconds(ts) {
       const parts = ts.split(':').map(Number);
       if (parts.length === 3) return parts[0] * 3600 + parts[1] * 60 + parts[2];
@@ -524,12 +1018,7 @@
       return parts[0] * 60;
     }
 
-    /* ── Utility: parse flexible user input ─── */
-    //   "20"      → 20 minutes → 1200s
-    //   "20:15"   → 20m 15s    → 1215s
-    //   "1:05:30" → 1h 5m 30s  → 3930s
     function parseUserTime(raw) {
-      // Strip everything except digits and colons
       const cleaned = raw.replace(/[^\d:]/g, '');
       if (!cleaned) return null;
 
@@ -538,9 +1027,9 @@
       if (parts.some(p => isNaN(Number(p)))) return null;
 
       const nums = parts.map(Number);
-      if (nums.length === 1) return nums[0] * 60;           // bare number = minutes
-      if (nums.length === 2) return nums[0] * 60 + nums[1]; // MM:SS
-      return nums[0] * 3600 + nums[1] * 60 + nums[2];      // HH:MM:SS
+      if (nums.length === 1) return nums[0] * 60;
+      if (nums.length === 2) return nums[0] * 60 + nums[1];
+      return nums[0] * 3600 + nums[1] * 60 + nums[2];
     }
 
   })();
