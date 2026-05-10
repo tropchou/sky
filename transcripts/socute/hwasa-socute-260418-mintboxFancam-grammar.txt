@@ -473,3 +473,511 @@ pattern: V/A-지만 / N-이지만 (contrastive 'but')
 meaning: Connects two clauses with a contrasting relationship — 'but, however.' 만 after -(스)ㅂ니다 serves the same contrastive function.
 example: 합니다만
 level: beginner
+
+
+
+=== [01:01] 자 거기로 달려가세요 ===
+
+--- word ---
+term: 자
+root: 자 (now; come on; okay)
+breakdown: 자
+pos: interjection
+definition: now; come on; alright
+notes: A very common interjection used to get attention or signal the start of an action. Similar to "okay" or "alright" in English. Neutral register — usable in both 반말 and 존댓말 contexts.
+
+--- word ---
+term: 거기로
+root: 거기 (there)
+breakdown: 거기 + 로
+pos: pronoun + particle
+definition: to there; toward that place
+notes: 거기 is a demonstrative pronoun of place meaning "there" (medium distance from the speaker). Part of the 이/그/저 system: 여기 (here), 거기 (there, near listener), 저기 (over there, far from both). The particle 로 indicates direction of movement.
+
+--- word ---
+term: 달려가세요
+root: 달려가다 (to run toward; to dash off)
+breakdown: 달려가 + 세요
+pos: verb (polite imperative)
+definition: please run (there)
+notes: 달려가다 is a compound verb: 달리다 (to run) + 가다 (to go). The 려 form comes from 달리 + 어 → 달려, then combined with 가다 to express running toward a destination. The ending ~세요 is the polite imperative/request form of ~시다 (honorific) + 어요. Hwasa is playfully directing fans in a polite but warm tone.
+
+--- grammar ---
+pattern: N-(으)로
+meaning: Particle indicating direction of movement — 'toward N' or 'to N'
+example: 거기로
+level: beginner
+
+--- grammar ---
+pattern: V-(으)세요
+meaning: Polite imperative/request form. Combines the honorific marker -시- with the polite ending -어요. Used to give instructions or make requests respectfully.
+example: 달려가세요
+level: beginner
+
+=== [01:03] 내 것도 하나만 ===
+
+--- word ---
+term: 내
+root: 나 (I; me)
+breakdown: 나 + 의 → 내
+pos: pronoun (possessive)
+definition: my
+notes: 내 is the contracted possessive form of 나 + 의. In spoken Korean, 나의 is almost always shortened to 내. This is 반말-level language. The 존댓말 equivalent would be 제 (from 저 + 의).
+
+--- word ---
+term: 것도
+root: 것 (thing)
+breakdown: 것 + 도
+pos: bound noun + particle
+definition: (my) thing too; mine also
+notes: 것 is a bound noun meaning "thing" often used to indicate possession — 내 것 = "my thing / mine." Here combined with the particle 도 (also/too). In casual speech, 것 is frequently shortened to 거 (내 거), but here the full form is used.
+
+--- word ---
+term: 하나만
+root: 하나 (one)
+breakdown: 하나 + 만
+pos: numeral + particle
+definition: just one; only one
+notes: 하나 is the native Korean number for "one." The particle 만 means "only/just," restricting the quantity. This is a sentence fragment — likely an incomplete request like "just give me one of mine too," with the verb omitted as is very common in casual spoken Korean.
+
+--- grammar ---
+pattern: N-도
+meaning: Particle meaning 'also,' 'too,' or 'even.' Adds the item to a group of things already mentioned or implied.
+example: 것도
+level: beginner
+
+--- grammar ---
+pattern: N-만
+meaning: Particle meaning 'only' or 'just.' Limits or restricts to the marked noun.
+example: 하나만
+level: beginner
+
+=== [01:07] 일단 ===
+
+--- word ---
+term: 일단
+root: 일단 (一旦; first; for now)
+breakdown: 일단
+pos: adverb
+definition: first; first of all; for now
+notes: A Sino-Korean adverb (一旦) meaning "first of all" or "for the time being." Commonly used at the start of a statement to signal that the speaker is prioritizing one action before addressing other things. Very frequent in everyday spoken Korean. Here it appears as a standalone utterance — Hwasa is buying time or signaling she wants to handle something first before continuing.
+
+=== [01:08] 아 난 밥을 못먹어서 하나만 먹어도 돼 ===
+
+--- word ---
+term: 아
+root: 아 (ah; oh)
+breakdown: 아
+pos: interjection
+definition: ah; oh
+notes: A common filler interjection expressing mild realization, hesitation, or a shift in thought. Very natural in casual conversation.
+
+--- word ---
+term: 난
+root: 나 (I; me)
+breakdown: 나 + 는 → 난
+pos: pronoun + topic particle (contracted)
+definition: as for me; I (topic)
+notes: 난 is a contraction of 나 + 는. Extremely common in spoken 반말. The topic particle 는 here sets up a contrast — "as for me (unlike others)..." implying her situation is different from others present.
+
+--- word ---
+term: 밥을
+root: 밥 (rice; meal; food)
+breakdown: 밥 + 을
+pos: noun + particle
+definition: food/meal (object)
+notes: 밥 literally means "cooked rice" but is widely used to mean "food" or "a meal" in general. 을 is the object-marking particle used after consonant-ending nouns. 밥을 먹다 = "to eat (a meal)" is one of the most fundamental Korean expressions.
+
+--- word ---
+term: 못먹어서
+root: 먹다 (to eat)
+breakdown: 못 + 먹 + 어서
+pos: verb (negative + connective)
+definition: can't eat, so…; because I can't eat
+notes: 못 is a pre-verbal negation adverb expressing inability ("cannot"). 먹다 is conjugated with the connective ending ~어서, which links a cause/reason to the following clause. The full meaning is "because I can't eat..." This likely refers to dietary restrictions or not being hungry. In written form there would typically be a space (못 먹어서), but in spoken transcription it often appears joined.
+
+--- word ---
+term: 하나만
+root: 하나 (one)
+breakdown: 하나 + 만
+pos: numeral + particle
+definition: just one; only one
+notes: Same as in the [01:03] line. 하나 (native Korean "one") + 만 (only/just). Restricts the amount she intends to eat.
+
+--- word ---
+term: 먹어도
+root: 먹다 (to eat)
+breakdown: 먹 + 어 + 도
+pos: verb (concessive connective)
+definition: even if (I) eat
+notes: 먹다 conjugated with ~아/어도, a concessive ending meaning "even if" or "even though." Combined with 되다, the pattern ~아/어도 되다 means "it's okay to (do V)" or "I'm allowed to (do V)."
+
+--- word ---
+term: 돼
+root: 되다 (to become; to be okay)
+breakdown: 되 + 어 → 돼
+pos: verb (casual declarative)
+definition: it's fine; it's okay
+notes: 돼 is the contracted casual form of 되어. In the pattern ~아/어도 되다, it means "it's okay/fine to do ~." This is 반말 — the 존댓말 form would be 돼요. Be careful not to confuse 돼 (되 + 어, conjugated form) with 되 (the stem alone), a common spelling mistake even among native speakers.
+
+--- grammar ---
+pattern: 못 V
+meaning: Pre-verbal negation expressing inability — 'cannot V.' Indicates the subject is unable to perform the action (due to circumstances, not choice).
+example: 못먹어서
+level: beginner
+
+--- grammar ---
+pattern: V-아/어서
+meaning: Connective ending expressing cause/reason ('because; since') or sequential action ('and then'). Here used as reason: 'because I can't eat…'
+example: 못먹어서
+level: beginner
+
+--- grammar ---
+pattern: N-만
+meaning: Particle meaning 'only' or 'just.' Restricts to the marked item.
+example: 하나만
+level: beginner
+
+--- grammar ---
+pattern: V-아/어도 되다
+meaning: Pattern meaning 'it is okay to V; one may V; it's fine if V.' Used to express permission or acceptability.
+example: 먹어도 돼
+level: beginner
+
+--- grammar ---
+pattern: N-은/는 (contraction)
+meaning: Topic particle. Marks the topic of the sentence, often implying contrast with others. Here contracted with 나 → 난.
+example: 난
+level: beginner
+
+--- grammar ---
+pattern: N-을/를
+meaning: Object particle. Marks the direct object of the verb.
+example: 밥을
+level: beginner
+
+
+
+=== [01:10] 이거 딱 하나 ===
+
+--- word ---
+term: 이거
+root: 이것 (this thing)
+breakdown: 이것 → 이거
+pos: pronoun
+definition: this; this one
+notes: 이거 is the colloquial contraction of 이것. Part of the 이/그/저 demonstrative system: 이거 (this, near speaker), 그거 (that, near listener), 저거 (that over there). Extremely common in spoken Korean — the full form 이것 sounds more formal or written.
+
+--- word ---
+term: 딱
+root: 딱 (exactly; precisely; just)
+breakdown: 딱
+pos: adverb
+definition: just; exactly; only
+notes: A highly versatile adverb that emphasizes precision or limitation. Here it means "just" or "only," reinforcing the smallness of the quantity — "just one." 딱 is very common in spoken Korean and adds an emphatic, decisive tone. Other uses include 딱 맞다 (to fit perfectly), 딱 봐도 (just by looking).
+
+--- word ---
+term: 하나
+root: 하나 (one)
+breakdown: 하나
+pos: numeral
+definition: one
+notes: Native Korean number for "one." This is a sentence fragment with no verb — a very natural spoken Korean pattern where the verb (like 있다, 먹을 거야, etc.) is implied from context. Hwasa is stating she has or will take just one item.
+
+--- grammar ---
+pattern: 이것 → 이거 (colloquial contraction)
+meaning: Spoken contraction of the demonstrative pronoun 이것 (this thing). Similarly 그것 → 그거, 저것 → 저거.
+example: 이거
+level: beginner
+
+=== [01:11] 두개 드세요 ===
+
+--- word ---
+term: 두개
+root: 두 개 (two items)
+breakdown: 두 + 개
+pos: numeral + counter
+definition: two (items/pieces)
+notes: 두 is the native Korean number for "two" and 개 is the general-purpose counter for objects/items. In standard written Korean, there should be a space between the number and the counter (두 개), but in casual speech and transcription they often appear joined. Native Korean numbers (하나, 둘, 셋…) are used with counters, not Sino-Korean numbers.
+
+--- word ---
+term: 드세요
+root: 들다 (to eat/drink — humble/honorific form of 먹다)
+breakdown: 드 + 세요
+pos: verb (polite imperative)
+definition: please eat; please have (some)
+notes: 드시다 is the honorific form of 먹다 (to eat) and 마시다 (to drink). It elevates the listener. 드세요 = 드시 + 어요 → 드세요 (polite imperative). Here someone (likely a staff member or another person) is politely telling Hwasa to take/eat two. This is 존댓말 — respectful and polite speech directed at the listener.
+
+--- grammar ---
+pattern: V-(으)세요
+meaning: Polite imperative/request form combining the honorific -시- with polite ending -어요. Used to respectfully tell or invite someone to do something.
+example: 드세요
+level: beginner
+
+--- grammar ---
+pattern: Native Korean number + counter
+meaning: Native Korean numerals (하나, 둘, 셋…) are paired with counters (개, 명, 잔…) to count things. The number precedes the counter.
+example: 두개
+level: beginner
+
+=== [01:12] 진짜요? ===
+
+--- word ---
+term: 진짜요?
+root: 진짜 (real; really)
+breakdown: 진짜 + 요
+pos: adverb/noun + polite particle
+definition: really?; for real?
+notes: 진짜 (眞짜) means "real" or "really" and is one of the most frequently used words in spoken Korean. Adding 요 makes it polite — 진짜요? is a very natural way to express surprise or seek confirmation in 존댓말. The 반말 equivalent would simply be 진짜? A near-synonym is 정말(요), which is slightly more formal. Hwasa is responding with polite surprise to the offer of taking two.
+
+--- grammar ---
+pattern: N-요
+meaning: Adding 요 to a noun, adverb, or sentence fragment to create a polite-level utterance without a full verb conjugation. Very common in conversational Korean.
+example: 진짜요?
+level: beginner
+
+=== [01:13] 네 ===
+
+--- word ---
+term: 네
+root: 네 (yes)
+breakdown: 네
+pos: interjection
+definition: yes
+notes: The standard polite affirmative response in Korean. 네 is 존댓말-appropriate and used in most everyday polite contexts. More formal alternatives include 예. The casual/반말 equivalent is 응 or 어. Be careful not to confuse this with 네 as a possessive pronoun (너의 → 네, "your"), which is pronounced the same but distinguished by context. In practice, many speakers pronounce the possessive 네 as 니 to avoid this ambiguity.
+
+
+
+=== [01:14] 아 근데 이런데 와서 내가 이렇게 먹으면 좀 그래 ===
+
+--- word ---
+term: 아
+root: 아 (ah; oh)
+breakdown: 아
+pos: interjection
+definition: ah; oh
+notes: A common filler interjection expressing a shift in thought, mild realization, or hesitation. Very natural in casual spoken Korean.
+
+--- word ---
+term: 근데
+root: 그런데 (but; however; by the way)
+breakdown: 그런데 → 근데
+pos: conjunction
+definition: but; however
+notes: 근데 is the colloquial contraction of 그런데, one of the most common conjunctions in Korean. It can mean "but/however" (contrast) or "by the way" (topic shift). The full form 그런데 is used more in writing or formal speech. Here Hwasa uses it to introduce a contrasting thought — she's hedging about eating freely at a fan event.
+
+--- word ---
+term: 이런데
+root: 이런 데 (a place like this)
+breakdown: 이런 + 데
+pos: determiner + bound noun
+definition: a place like this
+notes: 이런 is a determiner meaning "this kind of; like this," from 이렇다 (to be like this). 데 is a bound noun meaning "place" or "situation." Together, 이런 데 = "a place/occasion like this." Not to be confused with the connective ending ~는데. Here 데 functions as a noun meaning "place," referring to the fan meeting venue/event.
+
+--- word ---
+term: 와서
+root: 오다 (to come)
+breakdown: 오 + 아서 → 와서
+pos: verb (connective form)
+definition: having come; coming (to) and then…
+notes: 오다 conjugated with ~아서 (sequential/causal connective). 오 + 아 contracts to 와, a standard irregular contraction. Here it means "having come to (a place like this)" — linking the action of arriving to what follows.
+
+--- word ---
+term: 내가
+root: 나 (I; me)
+breakdown: 나 + 가 → 내가
+pos: pronoun + subject particle
+definition: I (subject)
+notes: 내가 is the subject-marked form of 나. When the subject particle 가 attaches to 나, it becomes 내가 (not 나가). This is 반말 — the 존댓말 equivalent is 제가 (from 저 + 가). The subject particle 가 emphasizes who is performing the action.
+
+--- word ---
+term: 이렇게
+root: 이렇다 (to be like this)
+breakdown: 이렇 + 게
+pos: adverb
+definition: like this; in this way
+notes: 이렇게 is the adverbial form of 이렇다, created with the ~게 ending. Part of the 이/그/저 adverb set: 이렇게 (like this), 그렇게 (like that), 저렇게 (like that over there). Here Hwasa gestures to or refers to the way she's eating — "eating like this."
+
+--- word ---
+term: 먹으면
+root: 먹다 (to eat)
+breakdown: 먹 + 으면
+pos: verb (conditional form)
+definition: if (I) eat
+notes: 먹다 conjugated with the conditional ending ~(으)면 meaning "if." Since the stem 먹 ends in a consonant, the connecting vowel 으 is inserted → 먹으면. The pattern sets up a hypothetical scenario: "if I eat like this…"
+
+--- word ---
+term: 좀
+root: 좀 (a little; somewhat)
+breakdown: 조금 → 좀
+pos: adverb
+definition: a bit; somewhat; kind of
+notes: 좀 is the colloquial contraction of 조금 (a little). Extremely common in spoken Korean. Here it softens the statement — "it's a bit…" — making the self-criticism less direct. 좀 is also frequently used to soften requests (좀 해주세요 = "please do it for me").
+
+--- word ---
+term: 그래
+root: 그렇다 (to be so; to be like that)
+breakdown: 그렇 + 어 → 그래
+pos: adjective (casual declarative)
+definition: it's a bit… (awkward/not great)
+notes: 그렇다 conjugated in casual 반말 form → 그래. Here 좀 그래 is a very common Korean understatement expression meaning "it's a bit awkward / not great / iffy." Rather than stating directly what's wrong, Koreans often use 좀 그렇다 as a vague, softened way of saying something is uncomfortable or inappropriate. Hwasa is saying she feels a bit self-conscious about eating freely at a fan event.
+
+--- grammar ---
+pattern: V-아/어서
+meaning: Connective ending expressing sequential action ('and then') or cause/reason ('because'). Here sequential: 'having come and then…'
+example: 와서
+level: beginner
+
+--- grammar ---
+pattern: V-(으)면
+meaning: Conditional ending meaning 'if' or 'when.' Expresses a hypothetical or general condition.
+example: 먹으면
+level: beginner
+
+--- grammar ---
+pattern: ADJ-게
+meaning: Converts a descriptive verb (adjective) into an adverb — 'in a [ADJ] manner.'
+example: 이렇게
+level: beginner
+
+--- grammar ---
+pattern: N-가/이
+meaning: Subject particle. Marks the grammatical subject of the sentence. 가 after vowels, 이 after consonants.
+example: 내가
+level: beginner
+
+--- grammar ---
+pattern: 좀 그렇다
+meaning: A common vague/softened expression meaning 'it's a bit awkward / not ideal / uncomfortable.' Used to express mild disapproval or discomfort indirectly.
+example: 좀 그래
+level: intermediate
+
+=== [01:16] 미안해서 ===
+
+--- word ---
+term: 미안해서
+root: 미안하다 (to be sorry)
+breakdown: 미안하 + 여서 → 미안해서
+pos: adjective (connective form)
+definition: because I'm sorry; I feel bad (so…)
+notes: 미안하다 means "to be sorry / to feel bad." Conjugated with ~아/어서 to give a reason: "because I'm sorry…" The sentence trails off — Hwasa is explaining that she feels apologetic (about eating at the fan event), leaving the conclusion unstated. This trailing-off style is very natural in spoken Korean. The speech level here is casual/반말. The polite equivalent would be 미안해요 or the more formal 죄송해요/죄송합니다.
+
+--- grammar ---
+pattern: ADJ-아/어서
+meaning: Connective ending expressing cause or reason — 'because (I am ADJ).' Here the sentence trails off, leaving the result implied.
+example: 미안해서
+level: beginner
+
+=== [01:22] 뭐예요? ===
+
+--- word ---
+term: 뭐예요?
+root: 뭐 (what) + 이다 (to be)
+breakdown: 뭐 + 이 + 에요 → 뭐예요
+pos: pronoun + copula (polite interrogative)
+definition: what is it?
+notes: 뭐 is the colloquial contraction of 무엇 (what). 이에요/예요 is the polite copula ending from 이다 (to be). After a vowel (뭐 ends in a vowel sound), 예요 is used → 뭐예요. This is polite 존댓말 — Hwasa is asking someone politely what something is. The 반말 equivalent would be 뭐야? and the formal equivalent 무엇입니까?
+
+--- grammar ---
+pattern: N-이에요/예요
+meaning: Polite copula ending meaning 'is N' or 'what is N?' Used for identification or definition. 이에요 after consonants, 예요 after vowels.
+example: 뭐예요
+level: beginner
+
+
+
+=== [01:24] 맛있는데 너무 많은데? ===
+
+--- word ---
+term: 맛있는데
+root: 맛있다 (to be delicious; to be tasty)
+breakdown: 맛있 + 는데
+pos: adjective (connective form)
+definition: it's delicious, but…
+notes: 맛있다 is a compound of 맛 (taste) + 있다 (to exist/have). Despite being descriptive, 맛있다 and 맛없다 are exceptions that conjugate like action verbs — hence ~는데 rather than ~(으)ㄴ데. The ending ~는데 here functions as a soft contrast ("it's tasty, but…"), connecting to the second clause. Very natural in spoken Korean to express a "but" with a lighter, less confrontational tone than ~지만.
+
+--- word ---
+term: 너무
+root: 너무 (too; too much; very)
+breakdown: 너무
+pos: adverb
+definition: too much; excessively
+notes: 너무 originally means "excessively" or "too (much)" with a negative nuance. However, in modern colloquial Korean it is also widely used as an intensifier meaning "very/so" even in positive contexts (e.g., 너무 좋아 = "so good"). Here it retains the original "too much" meaning — Hwasa is saying there's too much food.
+
+--- word ---
+term: 많은데?
+root: 많다 (to be many; to be much)
+breakdown: 많 + 은데
+pos: adjective (sentence-final connective)
+definition: there's a lot, though?; it's too much, isn't it?
+notes: 많다 is a descriptive verb (adjective) meaning "to be many/much." Conjugated with ~(으)ㄴ데 — the form used for adjectives (as opposed to ~는데 for action verbs). Here ~은데 is used sentence-finally with rising intonation, giving it a surprised or seeking-agreement tone — "there's so much, though?" This sentence-final ~는데/~(으)ㄴ데 usage is very common in casual speech to express surprise, concern, or to invite a response.
+
+--- grammar ---
+pattern: V/ADJ-는데/(으)ㄴ데
+meaning: Connective ending expressing soft contrast ('but'), background information, or surprise. Action verbs take -는데; descriptive verbs (adjectives) take -(으)ㄴ데. Can appear sentence-finally with rising intonation to express surprise or seek agreement.
+example: 맛있는데 / 많은데
+level: intermediate
+
+=== [01:26] 어떡하지? ===
+
+--- word ---
+term: 어떡하지?
+root: 어떻게 하다 (what to do; how to handle)
+breakdown: 어떻게 하다 → 어떡하다 → 어떡하 + 지
+pos: verb (reflective question)
+definition: what should I do?; what do I do?
+notes: 어떡하지 is a colloquial contraction of 어떻게 하지. The full form 어떻게 하다 literally means "to do how" → "what to do." In spoken Korean, this contracts to 어떡하다 (or even further to 어쩌다/어쩌지). The ending ~지 here is used as a self-directed wondering/rhetorical question — "what should I do?" Hwasa is expressing mild worry or playful concern about the amount of food. This is 반말. The 존댓말 equivalent would be 어떡하죠? or 어떻게 하죠?
+
+--- grammar ---
+pattern: V-지? (self-directed question)
+meaning: Sentence-final ending used for wondering aloud, rhetorical questions, or seeking soft confirmation. When directed at oneself, it expresses deliberation — 'I wonder…' or 'what should I…?'
+example: 어떡하지?
+level: intermediate
+
+=== [01:27] 많이 먹어요 ===
+
+--- word ---
+term: 많이
+root: 많다 (to be many/much)
+breakdown: 많 + 이
+pos: adverb
+definition: a lot; much
+notes: 많이 is the adverbial form of 많다. The ~이 suffix converts certain adjectives into adverbs (similar to ~게 but used with a smaller set of words — 많이, 같이, 깊이, etc.). 많이 먹다 = "to eat a lot" is one of the most common collocations in Korean. Note: 많이 드세요 ("please eat a lot") is a standard polite phrase used when offering food.
+
+--- word ---
+term: 먹어요
+root: 먹다 (to eat)
+breakdown: 먹 + 어요
+pos: verb (polite declarative/imperative)
+definition: eat (politely); I eat / please eat
+notes: 먹다 conjugated in polite 존댓말 form with ~어요. This can function as either a statement ("I eat a lot") or a gentle imperative ("eat a lot / please eat a lot") depending on context and intonation. Here, given the fan meeting context, a fan is likely encouraging Hwasa to eat a lot — so it functions as a polite suggestion/imperative.
+
+--- grammar ---
+pattern: V-아/어요
+meaning: Polite informal sentence ending. The most common everyday politeness level (해요체). Can be declarative, interrogative, or imperative depending on intonation.
+example: 먹어요
+level: beginner
+
+=== [01:29] 바로 먹자 ===
+
+--- word ---
+term: 바로
+root: 바로 (right away; immediately; directly)
+breakdown: 바로
+pos: adverb
+definition: right away; immediately
+notes: A versatile adverb meaning "right away," "immediately," "directly," or "correctly" depending on context. Here it means "right away / right now," expressing Hwasa's eagerness or decisiveness to start eating immediately. Other meanings include 바로 여기 ("right here"), 바로 그거 ("that's exactly it").
+
+--- word ---
+term: 먹자
+root: 먹다 (to eat)
+breakdown: 먹 + 자
+pos: verb (propositive/suggestive)
+definition: let's eat
+notes: 먹다 conjugated with the propositive ending ~자, which means "let's (do something)." This is a 반말 ending used among close friends or people of equal/lower status. The 존댓말 equivalents would be 먹어요 (with suggestive intonation) or the more explicit ~(으)ㅂ시다 form (먹읍시다, quite formal). Hwasa is casually suggesting to those around her that they eat right away.
+
+--- grammar ---
+pattern: V-자
+meaning: Propositive ending meaning 'let's V.' Used in casual 반말 speech to suggest doing something together.
+example: 먹자
+level: beginner
