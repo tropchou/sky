@@ -1,0 +1,175 @@
+=== [00:27] 그래서 어제 급하게 나가가지고 ===
+
+--- word ---
+term: 그래서
+root: 그렇다 (to be so)
+breakdown: 그래 + 서
+pos: conjunction
+definition: so; therefore
+notes: A very common connective meaning 'so' or 'therefore.' Derived from 그렇다 + 아서. Used constantly in spoken Korean to link cause and effect.
+
+--- word ---
+term: 어제
+root: 어제 (yesterday)
+breakdown: 어제
+pos: adverb
+definition: yesterday
+notes: Basic time adverb. No conjugation needed.
+
+--- word ---
+term: 급하게
+root: 급하다 (to be urgent/hurried)
+breakdown: 급하 + 게
+pos: adverb (derived from adjective)
+definition: urgently; in a hurry
+notes: 급하다 is a Sino-Korean adjective (急). The ~게 ending converts an adjective into an adverb. Pattern: ADJ-게 = 'in a [ADJ] way.'
+
+--- word ---
+term: 나가가지고
+root: 나가다 (to go out)
+breakdown: 나가 + 가지고
+pos: verb (connective form)
+definition: went out and (then)…
+notes: 나가다 = 나 (out) + 가다 (to go). The ending ~아/어 가지고 is a colloquial connective equivalent to ~아/어서 (because/and then). Very common in casual speech. Often shortened to ~갖고 in fast speech.
+
+--- grammar ---
+pattern: ADJ-게
+meaning: Converts a descriptive verb (adjective) into an adverb — 'in a [ADJ] manner'
+example: 급하게
+level: beginner
+
+--- grammar ---
+pattern: V-아/어 가지고
+meaning: Casual connective meaning 'and then' or 'because (I did V).' Colloquial equivalent of V-아/어서.
+example: 나가가지고
+level: intermediate
+
+=== [00:33] 똥꼬야? ===
+
+--- word ---
+term: 똥꼬
+root: 똥꼬 (butt/backside — childish/vulgar slang)
+breakdown: 똥꼬
+pos: noun (slang)
+definition: butt; rear end (childish/vulgar)
+notes: A crude but playful term. 똥 means 'poop' and 꼬 is a diminutive/slang suffix. Here Hwasa is using it as a pet name/nickname, not as an insult. Very characteristic of her playful tone with close friends.
+
+--- word ---
+term: 야
+root: 야 (vocative particle)
+breakdown: 야
+pos: particle
+definition: hey! (calling someone)
+notes: Vocative particle used after names/nicknames ending in a vowel to call someone. After a consonant, use 아. 똥꼬 ends in a vowel (ㅗ), so 야 is used. Casual/반말 only.
+
+--- grammar ---
+pattern: NOUN + 아/야
+meaning: Vocative particle for calling someone by name. 아 after consonant, 야 after vowel.
+example: 똥꼬야
+level: beginner
+
+=== [00:36] 할머니들한테 인사해 ===
+
+--- word ---
+term: 할머니들
+root: 할머니 (grandmother)
+breakdown: 할머니 + 들
+pos: noun + plural particle
+definition: grandmothers; the grandmothers
+notes: 들 is the plural marker. Hwasa is referring to the viewers/fans affectionately, or to actual elderly people present. The use of 할머니 could also be playful depending on context.
+
+--- word ---
+term: 한테
+root: 한테 (to; toward a person)
+breakdown: 한테
+pos: particle
+definition: to (a person)
+notes: Casual equivalent of 에게. Used to indicate the recipient of an action. Only used for animate beings (people, animals). For places/things, use 에.
+
+--- word ---
+term: 인사해
+root: 인사하다 (to greet)
+breakdown: 인사 + 하 + 해
+pos: verb (imperative/casual)
+definition: say hello; greet (them)
+notes: 인사 (人事) is a Sino-Korean noun meaning 'greeting.' 인사하다 = to greet. 인사해 is the casual imperative (반말) form — giving a friendly command. Pattern: NOUN + 하다 verb.
+
+--- grammar ---
+pattern: N-들
+meaning: Plural marker attached to nouns
+example: 할머니들
+level: beginner
+
+--- grammar ---
+pattern: N-한테
+meaning: Casual particle meaning 'to (a person).' Equivalent of 에게.
+example: 할머니들한테
+level: beginner
+
+--- grammar ---
+pattern: V-해 (imperative)
+meaning: Casual command form of 하다 verbs. 반말 register.
+example: 인사해
+level: beginner
+
+=== [00:39] 똥꼬야 ===
+
+--- word ---
+term: 똥꼬야
+root: 똥꼬 (butt — pet name) + 야 (vocative)
+breakdown: 똥꼬 + 야
+pos: noun + particle
+definition: Hey, Ttongkko! (calling the pet/friend by nickname)
+notes: Same as [00:33] but here used as a statement rather than a question. Hwasa is calling someone (likely her dog or a close friend) by this playful nickname.
+
+=== [00:47] 아직 집에 도착을 못했어? ===
+
+--- word ---
+term: 아직
+root: 아직 (still; yet)
+breakdown: 아직
+pos: adverb
+definition: yet; still
+notes: In questions, 아직 often translates to 'yet.' In statements, it means 'still.' Here in a question: 'haven't you [yet]…?'
+
+--- word ---
+term: 집에
+root: 집 (house/home)
+breakdown: 집 + 에
+pos: noun + particle
+definition: at home; to home
+notes: 에 is the location/destination particle. With 도착 (arrival), 집에 means 'at home' (the destination of arrival).
+
+--- word ---
+term: 도착을
+root: 도착 (arrival)
+breakdown: 도착 + 을
+pos: noun + object particle
+definition: arrival (as object)
+notes: 도착 (到着) is a Sino-Korean noun. 을 marks it as the object. In Korean, you can say 도착을 하다 ('do arrival') — splitting the noun-하다 verb and inserting the object particle for emphasis or to insert 못.
+
+--- word ---
+term: 못했어
+root: 하다 (to do)
+breakdown: 못 + 했어
+pos: adverb + verb (past casual)
+definition: couldn't do; wasn't able to
+notes: 못 is a negation adverb meaning 'cannot.' 했어 is past tense casual of 하다. Together 못했어 = 'couldn't do.' The full construction 도착을 못했어 = 'couldn't arrive' = 'haven't arrived.'
+
+--- grammar ---
+pattern: 못 + V
+meaning: Negation of ability — 'cannot V' or 'failed to V'
+example: 못했어
+level: beginner
+
+--- grammar ---
+pattern: N-을/를 못하다
+meaning: 'Cannot do N' — splitting a NOUN+하다 verb to insert 못 for negation
+example: 도착을 못했어
+level: intermediate
+
+--- grammar ---
+pattern: V-았/었어?
+meaning: Past tense casual question form (반말)
+example: 못했어?
+level: beginner
