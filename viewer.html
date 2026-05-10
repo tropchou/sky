@@ -90,7 +90,7 @@
     }
 
     .line-group {
-      margin-bottom: 4px;
+      margin-bottom: 8px;
     }
 
     .line-group pre {
@@ -127,9 +127,10 @@
       cursor: pointer;
       transition: color 0.15s, border-color 0.15s, background 0.15s;
       margin-left: 18px;
-      margin-top: -4px;
-      margin-bottom: 4px;
+      margin-top: 2px;       /* was -4px */
+      margin-bottom: 16px;   /* was 4px — adds breathing room before next KO */
     }
+
     
     .grammar-toggle:hover {
       color: #2a6f96;
@@ -423,7 +424,7 @@
 
       .line-group pre { font-size: 0.98rem; line-height: 1.75; }
 
-      .grammar-toggle { margin-left: 10px; }
+      .grammar-toggle { margin-left: 10px; margin-bottom: 14px; }
       .grammar-panel { margin-left: 10px; padding: 14px 16px; }
 
       .nav-pill {
@@ -622,20 +623,22 @@
           if (group.ts && group.ko) {
             // Build the pre content with bold timestamp and KO line
             const lines = group.raw.split('\n');
-            lines.forEach(line => {
-              // Timestamp line like [00:43]
+            lines.forEach((line, idx) => {
+              const isLast = idx === lines.length - 1;
+              const suffix = isLast ? '' : '\n';
+            
               const tsLine = line.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*$/);
-              // KO line like "  KO: ..."
               const koLine = line.match(/^\s*KO:\s*.+/);
-          
+            
               if (tsLine || koLine) {
                 const bold = document.createElement('strong');
-                bold.textContent = line + '\n';
+                bold.textContent = line + suffix;
                 pre.appendChild(bold);
               } else {
-                pre.appendChild(document.createTextNode(line + '\n'));
+                pre.appendChild(document.createTextNode(line + suffix));
               }
             });
+
           } else {
             pre.textContent = group.raw;
           }
