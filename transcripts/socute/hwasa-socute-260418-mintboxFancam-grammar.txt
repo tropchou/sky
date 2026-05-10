@@ -1588,5 +1588,137 @@ meaning: Modifier form expressing future/prospective action or state. -(으)ㄹ 
 example: 이럴 줄
 level: intermediate
 
+=== [02:19] 점에 추억 ===
+
+--- word ---
+term: 점에
+root: 점 (dot; point; spot)
+breakdown: 점 + 에
+pos: noun + particle
+definition: on the dot / at the point
+notes: 점 (點) is Sino-Korean from Hanja meaning "dot, point, score." This fragment likely refers to a specific moment in time or place — possibly a mishearing or shortening of a longer phrase. Collocations: 몇 시 몇 점 (score in games), 그 점에서 (in that regard), 점수 (score/grade). Can also mean "a store" in compound words like 가게/매점.
+
+--- word ---
+term: 에
+root: 에 (locative/temporal particle)
+breakdown: 에
+pos: particle
+definition: at; on; in (marks location or time)
+notes: One of the most fundamental particles. Marks static location or a point in time. Tip: 에 is for static location ("at"), while 에서 is for action location ("at/in [doing something]").
+
+--- word ---
+term: 추억
+root: 추억 (memory; recollection)
+breakdown: 추억
+pos: noun
+definition: memories; recollections (typically fond or nostalgic)
+notes: Sino-Korean from Hanja 追憶 (追 "chase/pursue" + 憶 "remember"). 추억 carries a warm, nostalgic tone — it refers to cherished memories, not neutral recall. Collocations: 추억을 만들다 (make memories), 추억에 잠기다 (be lost in memories). Don't confuse with 기억 (記憶), which is a more neutral, general word for "memory/remembering." 추억 is commonly used in sentimental contexts like songs, diaries, and conversations about the past.
+
+--- grammar ---
+pattern: N-에
+meaning: Particle marking a location, time, or reference point ('at,' 'on,' 'in'). Attaches to nouns to indicate where or when something exists or occurs.
+example: 점에
+level: beginner
+
+
+=== [02:21] 정말 여기가 무슨 동네지? ===
+
+--- word ---
+term: 정말
+root: 정말 (really; truly)
+breakdown: 정말
+pos: adverb
+definition: really; truly
+notes: Sino-Korean from Hanja 正 (correct) + 末 (end), literally "the real end of it" → "the truth." Used both as an adverb ("really") and a noun ("truth," as in 정말이야? "Is it true?"). Collocations: 정말로 (truly, emphatic form), 정말 대단하다 (really amazing). Compare 진짜, which is more casual/slangy, and 참, which is softer. In speech, 정말 and 진짜 are often interchangeable, but 정말 is slightly more polished in register.
+
+--- word ---
+term: 여기
+root: 여기 (here)
+breakdown: 여기
+pos: pronoun (demonstrative, place)
+definition: here; this place
+notes: Part of the spatial demonstrative trio: 여기 (here, near speaker) / 거기 (there, near listener) / 저기 (over there, far from both). Collocations: 여기서 (from here / here at), 여기까지 (up to here).
+
+--- word ---
+term: 가
+root: 이/가 (subject marker)
+breakdown: 가
+pos: particle
+definition: subject marker (after vowel-ending noun)
+notes: 이 follows consonant-final nouns, 가 follows vowel-final nouns. Here 여기 ends in a vowel, so 가 is used. Tip: 이/가 highlights new or contrastive information, whereas 은/는 marks the topic.
+
+--- word ---
+term: 무슨
+root: 무슨 (what kind of)
+breakdown: 무슨
+pos: determiner (interrogative)
+definition: what; what kind of
+notes: 무슨 is a pre-noun modifier (관형사) that always precedes a noun. It asks about the type or nature of something, not a specific item. Collocations: 무슨 일이야? (What's going on?), 무슨 뜻이야? (What does it mean?). Don't confuse with 어떤, which asks "which" or "what sort of" with a slightly different nuance — 무슨 often implies surprise or disbelief, while 어떤 is more neutral. Also compare 뭐 (shortened 무엇, "what" as a pronoun, not a modifier).
+
+--- word ---
+term: 동네
+root: 동네 (neighborhood; town)
+breakdown: 동네
+pos: noun
+definition: neighborhood; town; local area
+notes: Sino-Korean origin: 洞 (dong, administrative district) + 네 (colloquial suffix for "area"). Refers to a local neighborhood or small community area. Very commonly used in everyday Korean. Collocations: 동네 사람 (neighborhood person / local), 동네 한 바퀴 돌다 (take a walk around the neighborhood). Compare 마을, which is more rural ("village"), while 동네 is used for any residential area, urban or suburban. Register: casual and friendly — it gives a cozy, familiar feeling.
+
+--- word ---
+term: 지
+root: -지 (sentence-ending particle)
+breakdown: 지
+pos: sentence-ending particle
+definition: rhetorical/wondering sentence ender ("I wonder…")
+notes: When used in a question without a listener expected to answer (self-directed), -지 expresses wondering or musing aloud. Here Hwasa is talking to herself: "What kind of neighborhood is this, I wonder?" Collocations: 뭐지? (What is it?), 누구지? (Who is it?). Different from -지요/죠 (seeking confirmation) and -지 in -지 않다 (negation). Register: casual — the polite equivalent would be -지요?/죠?
+
+--- grammar ---
+pattern: N-이/가
+meaning: Subject-marking particle. 이 after consonant, 가 after vowel. Marks the grammatical subject and often highlights new or focused information.
+example: 여기가
+level: beginner
+
+--- grammar ---
+pattern: V/ADJ-지? (self-questioning)
+meaning: Sentence-final ending expressing wondering, musing, or a rhetorical question directed at oneself. Casual register. "I wonder [what/who/where]…?"
+example: 동네지?
+level: intermediate
+
+
+=== [02:23] 서울역 ===
+
+--- word ---
+term: 서울
+root: 서울 (Seoul)
+breakdown: 서울
+pos: proper noun
+definition: Seoul, the capital city of South Korea
+notes: 서울 is a native Korean word (not Sino-Korean) meaning "capital." It has been the name of Korea's capital for centuries. Unlike most Korean place names, it has no Hanja representation — a Hanja name 首爾 was created relatively recently for Chinese-language use. Collocations: 서울 사람 (Seoul person/native), 서울에 살다 (live in Seoul).
+
+--- word ---
+term: 역
+root: 역 (station)
+breakdown: 역
+pos: noun
+definition: station (train/subway)
+notes: Sino-Korean from Hanja 驛 (relay station; post station). In modern Korean, 역 refers to train or subway stations. Collocations: 서울역 (Seoul Station), 지하철역 (subway station), 역 앞 (in front of the station), 다음 역 (next station). Don't confuse with the homophone 역 (役 "role" or 逆 "reverse"). 서울역 is one of the most iconic transportation hubs in South Korea, serving KTX high-speed rail and multiple subway lines.
+
+
+=== [02:25] 아 서울역 ===
+
+--- word ---
+term: 아
+root: 아 (ah; oh)
+breakdown: 아
+pos: interjection
+definition: ah; oh (expressing realization or acknowledgment)
+notes: One of the most common interjections in Korean. Can express realization (아, 그렇구나!), mild surprise, or acknowledgment. Register: universal — used across all speech levels. Tip: tone matters — a rising 아? signals a question, while a flat/falling 아 signals understanding.
+
+--- word ---
+term: 서울역
+root: 서울역 (Seoul Station)
+breakdown: 서울 + 역
+pos: proper noun (compound)
+definition: Seoul Station
+notes: Compound of 서울 (Seoul) + 역 (驛, station). Seoul Station is a major landmark and transit hub in central Seoul, connecting KTX, regular rail, subway lines 1 and 4, and the airport railroad (AREX). Collocations: 서울역에서 출발하다 (depart from Seoul Station), 서울역으로 가다 (go to Seoul Station). Culturally, 서울역 also carries associations with the surrounding area's history, including its role as a gathering place and the old station building (문화역서울284), now a cultural venue.
 
 
