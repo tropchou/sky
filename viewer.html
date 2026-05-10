@@ -610,9 +610,29 @@
           const groupEl     = document.createElement('div');
           groupEl.className = 'line-group';
 
-          const pre       = document.createElement('pre');
-          pre.textContent = group.raw;
+          const pre = document.createElement('pre');
+          if (group.ts && group.ko) {
+            // Build the pre content with bold timestamp and KO line
+            const lines = group.raw.split('\n');
+            lines.forEach(line => {
+              // Timestamp line like [00:43]
+              const tsLine = line.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*$/);
+              // KO line like "  KO: ..."
+              const koLine = line.match(/^\s*KO:\s*.+/);
+          
+              if (tsLine || koLine) {
+                const bold = document.createElement('strong');
+                bold.textContent = line + '\n';
+                pre.appendChild(bold);
+              } else {
+                pre.appendChild(document.createTextNode(line + '\n'));
+              }
+            });
+          } else {
+            pre.textContent = group.raw;
+          }
           groupEl.appendChild(pre);
+
 
           // Check if this group has grammar data
           if (group.ts && group.ko && grammarMap.size > 0) {
