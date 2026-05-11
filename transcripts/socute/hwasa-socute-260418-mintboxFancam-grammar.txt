@@ -2228,3 +2228,123 @@ pattern: ADJ-았/었- (past tense, adjective)
 meaning: Simple past applied to a descriptive verb/adjective. 유명하다 → 유명했다 (was famous). Here further layered with -었- to form double past 유명했었다.
 example: 유명했었다고
 level: beginner
+
+=== [03:11] 그게 ===
+
+--- word ---
+term: 그게
+root: 그것 (that thing)
+breakdown: 그것 + 이 → 그게
+pos: pronoun + particle
+definition: that (as subject)
+notes: Contraction of 그것 + 이 (subject particle). In speech, 그것이 nearly always contracts to 그게. Parallel forms: 이것이 → 이게, 저것이 → 저게. Collocation: 그게 뭐야? (what's that?), 그게 아니라 (that's not it / what I mean is). Here Hwasa begins a thought with 그게, likely as a filler or topic-launcher before continuing in the next line.
+
+--- grammar ---
+pattern: N이/가 (subject particle)
+meaning: Marks the subject of the sentence. 이 after consonant-ending nouns, 가 after vowel-ending nouns. Here 그것 + 이 → 그게.
+example: 그게
+level: beginner
+
+=== [03:13] 어 근데 나는 이번에 이제 ===
+
+--- word ---
+term: 어
+root: 어 (uh; oh)
+breakdown: 어
+pos: interjection
+definition: uh; oh (hesitation/filler)
+notes: Very common spoken filler expressing hesitation or a pause while gathering thoughts. Register: casual. Similar fillers include 음 (mm), 아 (ah). In fan meetings and vlogs, idols use 어 frequently as a natural speech marker.
+
+--- word ---
+term: 근데
+root: 그런데 (but; however)
+breakdown: 그런데 → 근데
+pos: conjunction
+definition: but; however
+notes: Contracted form of 그런데, standard in casual speech. See previous analysis at [03:09]. Collocation: 근데 말이야 (but the thing is…).
+
+--- word ---
+term: 나는
+root: 나 (I)
+breakdown: 나 + 는
+pos: pronoun + particle
+definition: I (as topic)
+notes: 나 is the casual first-person pronoun. With topic particle 는, it sets "I" as the topic — often implying contrast (as opposed to someone else). Contraction 난 is also very common in speech. Formal counterpart: 저는.
+
+--- word ---
+term: 이번에
+root: 이번 (this time)
+breakdown: 이번 + 에
+pos: noun + particle
+definition: this time; on this occasion
+notes: 이번 is a Sino-Korean compound from 이 (this) + 番 (번, turn/occasion). Collocations: 이번 주 (this week), 이번 달 (this month), 이번에는 꼭 (this time for sure). Confusable: 이번 (this time) vs. 지난번 (last time) vs. 다음번 (next time). The particle 에 marks a time point.
+
+--- word ---
+term: 이제
+root: 이제 (now; from now on)
+breakdown: 이제
+pos: adverb
+definition: now; at this point
+notes: Native Korean adverb meaning "now" or "at this point." Can also signal a transition in narrative — "so then" or "and then." Collocations: 이제 됐어 (that's enough now), 이제부터 (from now on). Confusable: 이제 (now, with a sense of transition or change) vs. 지금 (right now, present moment). In spoken narrative like here, 이제 often functions as a discourse filler meaning "so, you know" rather than literal "now."
+
+--- grammar ---
+pattern: N은/는 (topic particle)
+meaning: Marks the topic of the sentence. 은 after consonant, 는 after vowel. Often implies contrast ("as for me / in my case"). Here 나 + 는 sets up Hwasa's perspective in contrast to what was said before.
+example: 나는
+level: beginner
+
+--- grammar ---
+pattern: N에 (time/place particle)
+meaning: Particle marking a point in time or location. Here 이번 + 에 = "at this time / on this occasion."
+example: 이번에
+level: beginner
+
+=== [03:15] 촬영하면서 알게 됐는데 ===
+
+--- word ---
+term: 촬영하면서
+root: 촬영하다 (to film; to shoot)
+breakdown: 촬영 + 하 + 면서
+pos: verb + connective
+definition: while filming
+notes: Sino-Korean noun 촬영 (撮影 — 찍을 촬, 그림자 영) meaning "filming/shooting" combined with 하다 to form the verb. Very common in entertainment contexts. Collocations: 촬영을 하다 (to do a shoot), 촬영 현장 (filming location/set), 촬영에 들어가다 (to begin filming). Confusable: 촬영 (professional filming/photography) vs. 찍다 (casual "to take [a photo]" or "to film"). Here conjugated with -면서 (simultaneous action connective).
+
+--- word ---
+term: 알게
+root: 알다 (to know)
+breakdown: 알 + 게
+pos: verb + ending
+definition: to come to know
+notes: 알다 means "to know." The ㄹ-irregular verb drops ㄹ before certain consonants, but retains it before 게. Here 알 + 게 forms part of the grammar pattern 알게 되다 (to come to know / to find out). Collocations: 알게 모르게 (without realizing), 나중에 알게 될 거야 (you'll find out later). Confusable: 알다 (to know a fact/person) vs. 깨닫다 (to realize/come to an epiphany).
+
+--- word ---
+term: 됐는데
+root: 되다 (to become)
+breakdown: 되 + 었 + 는데 → 됐는데
+pos: verb + past tense + connective
+definition: came to (know), but… / came to (know), and…
+notes: 되다 conjugated with past tense -었- (되 + 었 → 됐, a contraction of 되었) plus the connective ending -는데. 되다 here is an auxiliary verb completing the pattern 알게 되다. Collocations: 그렇게 됐어 (that's how it turned out), 어떻게 됐어? (what happened? / how did it go?). The trailing -는데 leaves the sentence open, inviting continuation.
+
+--- grammar ---
+pattern: V-(으)면서
+meaning: Simultaneous action connective — "while V-ing." The subject performs two actions at the same time. -(으)면서 after consonant stems, -면서 after vowel stems. Can also imply contrast ("even though").
+example: 촬영하면서
+level: intermediate
+
+--- grammar ---
+pattern: V-게 되다
+meaning: "To come to V / to end up V-ing." Expresses a change of state or an outcome that happened somewhat naturally or beyond the speaker's direct control. 알게 되다 = "to come to know / to find out."
+example: 알게 됐는데
+level: intermediate
+
+--- grammar ---
+pattern: V-았/었- (past tense)
+meaning: Past tense marker inserted between the verb stem and the ending. 되 + 었 → 됐 (contracted). Indicates the action is completed.
+example: 됐는데
+level: beginner
+
+--- grammar ---
+pattern: V-는데 (background/contrast connective)
+meaning: Sentence-ending or mid-sentence connective providing background information, setting up context, or softly contrasting. Very versatile in spoken Korean. Here it trails off, implying "I found out while filming, and (so)…" inviting the listener to anticipate what follows.
+example: 됐는데
+level: intermediate
