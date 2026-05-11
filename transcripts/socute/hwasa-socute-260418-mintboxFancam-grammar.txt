@@ -1722,3 +1722,509 @@ definition: Seoul Station
 notes: Compound of 서울 (Seoul) + 역 (驛, station). Seoul Station is a major landmark and transit hub in central Seoul, connecting KTX, regular rail, subway lines 1 and 4, and the airport railroad (AREX). Collocations: 서울역에서 출발하다 (depart from Seoul Station), 서울역으로 가다 (go to Seoul Station). Culturally, 서울역 also carries associations with the surrounding area's history, including its role as a gathering place and the old station building (문화역서울284), now a cultural venue.
 
 
+
+=== [02:31] 서울역 ===
+
+--- word ---
+term: 서울역
+root: 서울역 (Seoul Station)
+breakdown: 서울 + 역
+pos: proper noun (compound)
+definition: Seoul Station
+notes: Compound of 서울 (Seoul) + 역 (驛, station). Repeated from the previous line — Hwasa is confirming or reacting to a location. Seoul Station is a major transit hub in central Seoul connecting KTX, subway lines 1 and 4, and the airport railroad. Collocations: 서울역에서 내리다 (get off at Seoul Station), 서울역 근처 (near Seoul Station).
+
+
+=== [02:33] 난 돈가스 먹고 싶어 ===
+
+--- word ---
+term: 난
+root: 나 (I; me)
+breakdown: 나 + 는 → 난
+pos: pronoun + particle (contracted)
+definition: I (as for me; topic-marked)
+notes: Contraction of 나 + 는. 나 is the casual first-person pronoun; the polite equivalent is 저 (저는 → 전). Tip: use 나 with 반말 (casual speech) and 저 with 존댓말 (polite speech).
+
+--- word ---
+term: 돈가스
+root: 돈가스 (pork cutlet)
+breakdown: 돈가스
+pos: noun
+definition: pork cutlet (breaded and deep-fried)
+notes: Loanword from Japanese とんかつ (tonkatsu), adapted through Korean phonology. Sometimes also spelled/said as 돈까스. It's a hugely popular comfort food in Korea, served with shredded cabbage, rice, and a thick brown sauce. Collocations: 돈가스를 먹다 (eat pork cutlet), 치즈 돈가스 (cheese pork cutlet), 돈가스 맛집 (famous pork cutlet restaurant). Don't confuse with 등심 돈가스 (loin cutlet) vs. 안심 돈가스 (tenderloin cutlet), a common menu distinction.
+
+--- word ---
+term: 먹고
+root: 먹다 (to eat)
+breakdown: 먹 + 고
+pos: verb (connective form)
+definition: eat and…
+notes: 먹다 is one of the most basic Korean verbs. Here the stem 먹 attaches to -고 as part of the compound expression 먹고 싶다. Collocations: 밥을 먹다 (eat a meal), 약을 먹다 (take medicine — note Korean uses "eat" for medicine, not "take").
+
+--- word ---
+term: 싶어
+root: 싶다 (to want to)
+breakdown: 싶 + 어
+pos: auxiliary adjective (casual ending)
+definition: want to
+notes: 싶다 is a bound auxiliary that always follows the -고 form of another verb — it cannot stand alone. It conjugates as an adjective (싶은, 싶었다), not a verb. Collocations: 가고 싶다 (want to go), 보고 싶다 (want to see / miss someone). Register: 싶어 is casual 반말; the polite form is 싶어요.
+
+--- word ---
+term: 먹고 싶어
+root: 먹고 싶다 (to want to eat)
+breakdown: 먹 + 고 싶 + 어
+pos: compound expression (verb + auxiliary)
+definition: want to eat
+notes: The V-고 싶다 pattern expresses desire. Here conjugated to casual form 싶어. This is one of the first grammar patterns Korean learners encounter. Collocations: 뭐 먹고 싶어? (What do you want to eat?), 한국 음식 먹고 싶다 (I want to eat Korean food).
+
+--- grammar ---
+pattern: N-는 (topic particle, contraction)
+meaning: Topic-marking particle. After a vowel-ending noun, 는 contracts with the noun. 나+는 → 난. Marks "I" as the topic of the sentence.
+example: 난
+level: beginner
+
+--- grammar ---
+pattern: V-고 싶다
+meaning: Expresses desire or want ('want to V'). Attach -고 싶다 to the verb stem. Conjugates like an adjective. Casual: 싶어, polite: 싶어요, formal: 싶습니다.
+example: 먹고 싶어
+level: beginner
+
+--- grammar ---
+pattern: V-아/어 (casual sentence ending)
+meaning: Casual/intimate speech level (반말) sentence-ending form. Used among close friends, to younger people, or when talking to oneself/fans casually.
+example: 싶어
+level: beginner
+
+=== [02:37] 난 이번에 멕시카나 촬영하다가 ===
+
+--- word ---
+term: 난
+root: 나 (I; me)
+breakdown: 나 + 는 → 난
+pos: pronoun + particle (contracted)
+definition: I (as for me; topic-marked)
+notes: Contraction of 나 + 는. Casual first-person pronoun with topic marker. See previous entry for details.
+
+--- word ---
+term: 이번에
+root: 이번 (this time)
+breakdown: 이번 + 에
+pos: noun + particle
+definition: this time; on this occasion
+notes: Compound of 이 (this) + 번 (番, turn/time). 번 is Sino-Korean from Hanja 番 meaning "turn, occurrence." Collocations: 이번 주 (this week), 이번 달 (this month), 이번이 마지막이야 (this is the last time). Part of a series: 지난번 (last time) → 이번 (this time) → 다음번 (next time). Register: neutral, used across all speech levels.
+
+--- word ---
+term: 에
+root: 에 (temporal/locative particle)
+breakdown: 에
+pos: particle
+definition: at; in; on (here marking time: "this time")
+notes: Here 에 marks a point in time ("on this occasion"). Basic particle used for both time and place. Tip: 에 marks a static time or location, while 에서 marks a location where an action occurs.
+
+--- word ---
+term: 멕시카나
+root: 멕시카나 (Mexicana)
+breakdown: 멕시카나
+pos: proper noun
+definition: Mexicana (Korean fried chicken brand)
+notes: 멕시카나 치킨 is one of Korea's major fried chicken franchise brands, founded in 1987. It's a well-known competitor alongside BBQ, BHC, 교촌, and 굽네 in Korea's enormous fried chicken market. Hwasa is likely referring to filming a commercial (CF) or promotional content for the brand. K-pop artists frequently appear as brand ambassadors (모델) for chicken franchises, which is a major advertising category in Korea. Collocations: 멕시카나 치킨 (Mexicana Chicken), 광고 촬영하다 (film a commercial).
+
+--- word ---
+term: 촬영하다가
+root: 촬영하다 (to film; to shoot)
+breakdown: 촬영 + 하 + 다가
+pos: verb (interrupted-action connective)
+definition: was filming and then… / while filming…
+notes: 촬영 (撮影) is Sino-Korean from Hanja 撮 (photograph/capture) + 影 (shadow/image). 촬영하다 is the standard verb for filming, photographing, or shooting (video/photo). The ending -다가 indicates an action that was interrupted or shifted to something else — it sets up an incomplete situation. Collocations: 영화를 촬영하다 (film a movie), 촬영 현장 (filming set/location), 사진 촬영 (photo shoot). Don't confuse with 찍다, which is a more casual/everyday word for "take (a photo)" or "film."
+
+--- grammar ---
+pattern: N-에 (temporal)
+meaning: Particle marking a point in time ('at,' 'in,' 'on'). Attaches to time-related nouns. 이번에 = "this time," 주말에 = "on the weekend."
+example: 이번에
+level: beginner
+
+--- grammar ---
+pattern: V-다가
+meaning: Connective ending indicating an action was in progress and then interrupted, switched, or shifted to something else. 'Was doing V and then…' or 'while doing V (something else happened).' Implies the first action was not completed.
+example: 촬영하다가
+level: intermediate
+
+--- grammar ---
+pattern: N-하다 (verbal noun + 하다)
+meaning: Combines a Sino-Korean noun with 하다 to form a verb. 촬영 (filming) + 하다 (to do) = 촬영하다 (to film). Very productive pattern in Korean.
+example: 촬영하다가
+level: beginner
+
+=== [02:43] 치폴리? ===
+
+--- word ---
+term: 치폴리
+root: 치폴리 (attempted pronunciation of "Chipotle")
+breakdown: 치폴리
+pos: noun (loanword attempt)
+definition: Hwasa's first attempt at saying "Chipotle"
+notes: This is Hwasa trying to recall the name of the Mexican restaurant chain Chipotle. Korean speakers often struggle with the English/Spanish pronunciation of "Chipotle" because the consonant cluster and vowel pattern don't map neatly onto Korean phonology. Over the next several lines, she cycles through 치폴리 → 치필리 → 치폴레 before landing on 치필링. This kind of real-time self-correction is common in casual Korean speech and is a great example of how loanwords get adapted on the fly.
+
+--- grammar ---
+pattern: Rising intonation question (no verb)
+meaning: In casual Korean, a noun or phrase said with rising intonation functions as a question without needing a verb or copula. Common in spoken/informal register.
+example: 치폴리?
+level: beginner
+
+=== [02:45] 치필리? ===
+
+--- word ---
+term: 치필리
+root: 치필리 (attempted pronunciation of "Chipotle")
+breakdown: 치필리
+pos: noun (loanword attempt)
+definition: Hwasa's second attempt at saying "Chipotle"
+notes: Another variation as she searches for the correct pronunciation. The vowel shifts from 오 to 이 in the second syllable, showing the uncertainty. This playful fumbling is characteristic of Hwasa's natural, unscripted speaking style on Bstage lives.
+
+=== [02:47] 치폴레? ===
+
+--- word ---
+term: 치폴레
+root: 치폴레 (Chipotle)
+breakdown: 치폴레
+pos: noun (loanword)
+definition: Chipotle (Mexican food restaurant chain)
+notes: This attempt is the closest standard Korean rendering of "Chipotle." The chain's name comes from the Nahuatl word "chīlpoctli" (smoked chili pepper). 치폴레 is the most commonly seen Korean transliteration of the brand name. Chipotle has been expanding internationally, though its presence in Korea is limited, making the name less familiar to many Korean speakers.
+
+=== [02:49] 치폴레? ===
+
+--- word ---
+term: 치폴레
+root: 치폴레 (Chipotle)
+breakdown: 치폴레
+pos: noun (loanword)
+definition: Chipotle (Mexican food restaurant chain)
+notes: Hwasa repeats the same pronunciation, still uncertain. The repeated rising intonation suggests she's asking fans or herself for confirmation.
+
+=== [02:51] 뭐예요? ===
+
+--- word ---
+term: 뭐
+root: 무엇 (what)
+breakdown: 무엇 → 뭐 (contracted)
+pos: pronoun (interrogative)
+definition: what
+notes: Contraction of 무엇. This is the standard spoken form — 무엇 is more formal/written. Collocations: 뭐 해? (What are you doing?), 뭐가 좋아? (What do you like?). Even more casual contractions exist: 뭘 = 뭐를, 뭔 = 뭐인.
+
+--- word ---
+term: 예요
+root: 이다 (to be; copula)
+breakdown: 이 + 에요 → 예요
+pos: copula (polite ending)
+definition: is it?
+notes: 예요 is the contracted polite copula form used after vowel-ending nouns. After consonants, it appears as 이에요. Here 뭐 ends in a vowel, so 이에요 contracts to 예요. Collocations: 이거 뭐예요? (What is this?), 학생이에요 (I'm a student). Register: polite 해요체 — notably, Hwasa switches to polite speech here, possibly addressing fans directly or reading a fan comment.
+
+--- grammar ---
+pattern: N-이에요/예요
+meaning: Polite copula ('is/am/are'). 이에요 after consonant-final nouns, 예요 after vowel-final nouns. Question form uses rising intonation.
+example: 뭐예요?
+level: beginner
+
+--- grammar ---
+pattern: 뭐 (contraction of 무엇)
+meaning: Spoken contraction of the interrogative pronoun 무엇 (what). Standard in all but the most formal registers.
+example: 뭐
+level: beginner
+
+=== [02:53] 치필링 ===
+
+--- word ---
+term: 치필링
+root: 치필링 (Hwasa's version of a menu item or brand name)
+breakdown: 치필링
+pos: noun (loanword adaptation)
+definition: A food item name Hwasa arrived at, likely a specific Mexicana chicken menu item or her personal rendering of a product name
+notes: After several attempts at different pronunciations, Hwasa settles on 치필링. In the context of her earlier mention of filming for 멕시카나 (Mexicana Chicken), this is likely the name of a specific menu item from Mexicana's lineup rather than the Chipotle restaurant chain. Korean chicken brands frequently create playful portmanteau product names. The sequence from 치폴리 to 치필링 shows Hwasa working through her memory in real time.
+
+=== [02:55] 치필링? ===
+
+--- word ---
+term: 치필링
+root: 치필링
+breakdown: 치필링
+pos: noun
+definition: (same food item name, repeated with questioning intonation)
+notes: Hwasa repeats the word with rising intonation, still seeking confirmation from fans or expressing slight remaining uncertainty. The question-mark intonation on bare nouns is a hallmark of casual Korean conversation.
+
+--- grammar ---
+pattern: N? (rising intonation question)
+meaning: A bare noun spoken with rising intonation to form a question. No verb or copula needed. Very common in casual spoken Korean for seeking confirmation.
+example: 치필링?
+level: beginner
+
+=== [02:57] 맞아 ===
+
+--- word ---
+term: 맞아
+root: 맞다 (to be correct; to be right)
+breakdown: 맞 + 아
+pos: verb (casual ending)
+definition: that's right; correct
+notes: 맞다 means "to be correct, to fit, to match." One of the most useful conversational words in Korean for confirming information. Collocations: 맞아요 (polite: "that's right"), 맞는 말이야 (that's a correct statement), 답이 맞다 (the answer is correct), 사이즈가 맞다 (the size fits). Don't confuse with 맞다 meaning "to be hit" (다른 뜻: 맞다 = to get hit/struck), which is the same spelling but a different word. Context always clarifies. Register: 맞아 is casual 반말; polite form is 맞아요.
+
+--- grammar ---
+pattern: V-아/어 (casual sentence ending)
+meaning: Casual/intimate speech level (반말). Here 맞다 → 맞아. Used when speaking comfortably to fans.
+example: 맞아
+level: beginner
+
+=== [02:59] 치필링 ===
+
+--- word ---
+term: 치필링
+root: 치필링
+breakdown: 치필링
+pos: noun
+definition: (food item name, now confirmed)
+notes: Having received confirmation (맞아), Hwasa repeats the name with certainty this time — no question intonation. This final repetition closes the sequence of attempts. The pattern of guessing → confirming → restating is very natural in Korean conversation.
+
+
+=== [03:01] 너무 맛있어 ===
+
+--- word ---
+term: 너무
+root: 너무 (too much; so; very)
+breakdown: 너무
+pos: adverb
+definition: so; very; too (much)
+notes: Originally 너무 meant "excessively" with a negative connotation (너무 비싸다 = too expensive), and prescriptive grammarians still insist on this. However, in modern spoken Korean, 너무 is widely used as a positive intensifier meaning "so/very" (너무 좋아 = so good, 너무 예쁘다 = so pretty). This positive usage is now standard in colloquial speech. Collocations: 너무 많다 (too many), 너무 감사합니다 (thank you so much). Compare 매우 (very, more formal/written) and 진짜 / 정말 (really, casual emphasis).
+
+--- word ---
+term: 맛있어
+root: 맛있다 (to be delicious; to be tasty)
+breakdown: 맛있 + 어
+pos: adjective (casual ending)
+definition: (it's) delicious; (it) tastes good
+notes: Compound of 맛 (taste) + 있다 (to exist/have). Literally "taste exists" → "is tasty." Despite containing 있다, 맛있다 is treated as an adjective. Collocations: 맛있게 먹다 (eat deliciously / enjoy one's meal — a very common Korean expression), 맛있는 음식 (delicious food), 진짜 맛있다 (really delicious). The opposite is 맛없다 (tasteless/not delicious). Register: 맛있어 is casual; polite form is 맛있어요. Note on pronunciation: officially pronounced [마싣따] with tensification.
+
+--- grammar ---
+pattern: V-아/어 (casual sentence ending)
+meaning: Casual/intimate speech level (반말). 맛있다 → 맛있어. Hwasa expresses her opinion directly and casually to fans.
+example: 맛있어
+level: beginner
+
+=== [03:03] 너무 맛있어 ===
+
+--- word ---
+term: 너무
+root: 너무 (too much; so; very)
+breakdown: 너무
+pos: adverb
+definition: so; very
+notes: Hwasa repeats the same phrase for emphasis — doubling an exclamation is a natural way to stress sincerity in Korean conversation. Originally 너무 carried a purely negative "excessively" meaning, but in modern colloquial usage it freely functions as a positive intensifier. Collocations: 너무 좋아 (so good), 너무 행복해 (so happy). Compare 아주 (very, slightly more neutral) and 엄청 (enormously, very casual/emphatic).
+
+--- word ---
+term: 맛있어
+root: 맛있다 (to be delicious; to be tasty)
+breakdown: 맛있 + 어
+pos: adjective (casual ending)
+definition: (it's) delicious
+notes: Compound of 맛 (taste) + 있다 (to exist). Repeated verbatim from [03:01] — this kind of immediate repetition is a common spoken emphasis strategy in Korean, conveying genuine enthusiasm. In fan-communication contexts, idols often repeat food praise to share their excitement authentically. Collocations: 맛있게 드세요 (please enjoy your meal — polite set phrase), 세상에서 제일 맛있어 (the most delicious thing in the world — hyperbolic praise).
+
+--- grammar ---
+pattern: V-아/어 (casual sentence ending)
+meaning: Casual/intimate speech level (반말). Sentence-final form for statements and exclamations in informal register. 맛있다 → 맛있어.
+example: 맛있어
+level: beginner
+
+--- grammar ---
+pattern: Repetition for emphasis
+meaning: In spoken Korean, repeating the same phrase immediately reinforces sincerity or intensity of feeling. Common in casual speech and especially idol-fan interaction. Functions similarly to "so delicious, SO delicious" in English.
+example: 너무 맛있어 (repeated from 03:01)
+level: beginner
+
+=== [03:05] 이건 내가 모델이어서 하는 말이 아니고 ===
+
+--- word ---
+term: 이건
+root: 이것 (this thing)
+breakdown: 이것 + 은 → 이건
+pos: pronoun + particle
+definition: this (topic)
+notes: Contraction of 이것 + 은 (topic particle). In speech, 이것은 almost always contracts to 이건. Similarly: 그것은 → 그건, 저것은 → 저건. Collocation: 이건 좀 아닌데 (this isn't right / this is a bit much).
+
+--- word ---
+term: 내가
+root: 나 (I)
+breakdown: 나 + 가 → 내가
+pos: pronoun + particle
+definition: I (as subject)
+notes: 나 + subject particle 가 contracts to 내가. In formal/humble speech, 저 + 가 → 제가. Hwasa uses 내가 here, fitting the casual register of a fan meeting.
+
+--- word ---
+term: 모델
+root: 모델 (model)
+breakdown: 모델
+pos: noun (loanword)
+definition: model (fashion/photo)
+notes: English loanword (모델). Covers fashion models, role models, and product models in Korean. Collocations: 모델 활동을 하다 (do modeling work), 패션 모델 (fashion model). Don't confuse with 본보기 (example/role model in native Korean) or 모범 (模範, moral exemplar). Hwasa has done modeling for various brands, so she's referencing her own career here.
+
+--- word ---
+term: 이어서
+root: 이다 (to be)
+breakdown: 이 + 어서
+pos: copula + connective
+definition: because (I) am…
+notes: The copula 이다 conjugated with causal connective -어서. After a consonant-ending noun, 이어서 is used; after a vowel-ending noun, 여서 (from 이 + 어서 contracting). Collocations: 학생이어서 할인받았어요 (I got a discount because I'm a student). In fast speech, sometimes pronounced 이라서 (which is technically a different grammar form using -라서 but often used interchangeably in casual talk).
+
+--- word ---
+term: 하는
+root: 하다 (to do)
+breakdown: 하 + 는
+pos: verb (modifier form)
+definition: (that I) am doing/saying
+notes: 하다 with the present-tense modifier ending -는, creating a relative clause modifying 말. Collocation: 하는 일 (the work one does), 하는 말 (what one is saying).
+
+--- word ---
+term: 말
+root: 말 (words; speech)
+breakdown: 말
+pos: noun
+definition: words; what one says
+notes: Native Korean noun for speech, language, or words. Collocations: 말이 안 되다 (it doesn't make sense), 말을 걸다 (to strike up a conversation), 하는 말 (what one is saying). Don't confuse with 말 (馬, horse) — same pronunciation, different word. Register: neutral, used in all contexts.
+
+--- word ---
+term: 이
+root: 이 (subject particle)
+breakdown: 이
+pos: particle
+definition: subject marker (after consonant)
+notes: Subject particle used after consonant-ending nouns (말 ends in ㄹ). After vowel-ending nouns, 가 is used instead.
+
+--- word ---
+term: 아니고
+root: 아니다 (to not be)
+breakdown: 아니 + 고
+pos: copula (negative) + connective
+definition: is not (something), and…
+notes: 아니다 is the negative copula ("to not be"), here conjugated with connective -고. The sentence literally means "…is not [words I say because I'm a model], and…" implying a continuation. Collocations: 농담이 아니고 진짜야 (it's not a joke, it's real), 그게 아니고… (that's not it…). Register: neutral. 아니다 takes the particle 이/가 on the noun it negates, unlike 없다.
+
+--- grammar ---
+pattern: N이다 + -어서 (N이어서)
+meaning: Causal connective attached to the copula: "because (subject) is N." After vowel-ending nouns, surfaces as 여서.
+example: 모델이어서
+level: intermediate
+
+--- grammar ---
+pattern: V-는 N
+meaning: Present-tense verb modifier (관형형). Turns a verb clause into an adjective modifying the following noun: "N that is V-ing / N that V-s."
+example: 하는 말
+level: beginner
+
+--- grammar ---
+pattern: N이/가 아니다
+meaning: Negative copula — "is not N." Unlike 않다 (negates verbs/adjectives), 아니다 specifically negates nouns via the copula.
+example: 말이 아니고
+level: beginner
+
+--- grammar ---
+pattern: V-고 (connective)
+meaning: Connective ending joining two clauses: "and" or "and (rather)." Here 아니고 links the negation to an implied follow-up clause.
+example: 아니고
+level: beginner
+
+--- grammar ---
+pattern: 이것 + 은 → 이건 (contraction)
+meaning: Topic-marked demonstrative pronoun contraction. Very common in spoken Korean. Parallel forms: 그건, 저건.
+example: 이건
+level: beginner
+
+=== [03:07] 내 말 믿어줘 ===
+
+--- word ---
+term: 내
+root: 나 (I)
+breakdown: 나 + 의 → 내
+pos: pronoun (possessive)
+definition: my
+notes: Contraction of 나 + possessive particle 의. In speech, 나의 is almost never used — 내 is standard. Formal counterpart: 제 (저 + 의).
+
+--- word ---
+term: 말
+root: 말 (words; speech)
+breakdown: 말
+pos: noun
+definition: words; what I say
+notes: Same noun as in the previous line. Here 내 말 = "my words" / "what I'm saying." Collocation: 내 말이 맞지? (I'm right, aren't I?).
+
+--- word ---
+term: 믿어줘
+root: 믿다 (to believe/trust)
+breakdown: 믿 + 어 + 주 + 어 → 믿어줘
+pos: verb (compound, imperative)
+definition: believe (me); trust (me) — as a request
+notes: 믿다 (to believe/trust) is a native Korean verb. Here it is combined with the auxiliary 주다 (to give/do for someone) and conjugated into the casual imperative 줘 (from 주 + 어). The -아/어 주다 pattern adds a nuance of doing a favor or making a request on behalf of the speaker. Collocations: 날 믿어줘 (believe in me), 한번만 믿어줘 (trust me just this once). Confusable: 믿다 (believe/trust) vs. 신뢰하다 (信賴, formal trust) vs. 신용하다 (credit/trust in finance).
+
+--- grammar ---
+pattern: V-아/어 주다
+meaning: Auxiliary pattern meaning "to do V for someone." Adds a sense of favor or benefit to the listener/speaker. Conjugated here as 줘 (casual imperative of 주다).
+example: 믿어줘
+level: beginner
+
+--- grammar ---
+pattern: V-아/어 (casual imperative)
+meaning: Casual speech-level command/request. Here realized through 주다 → 줘. Used among close friends or from speaker to someone younger/equal in casual settings.
+example: 믿어줘
+level: beginner
+
+=== [03:09] 근데 이미 유명했었다고 하더라고 ===
+
+--- word ---
+term: 근데
+root: 그런데 (but; however)
+breakdown: 그런데 → 근데
+pos: conjunction
+definition: but; however
+notes: Contracted form of 그런데, extremely common in spoken Korean. 그런데 itself comes from 그렇다 (to be so) + -ㄴ데. Register: casual — use 그런데 or 그렇지만 in formal writing. Collocation: 근데 왜? (but why?), 근데 있잖아 (but you know what).
+
+--- word ---
+term: 이미
+root: 이미 (already)
+breakdown: 이미
+pos: adverb
+definition: already
+notes: Sino-Korean adverb from Hanja 已 (이미 이). Emphasizes that something has already been completed or is an established fact. Collocations: 이미 끝났어 (it's already over), 이미 늦었어 (it's already too late). Confusable: 이미 (already — fact accomplished) vs. 벌써 (already — expressing surprise at how soon something happened). 이미 is neutral/factual; 벌써 carries emotional surprise.
+
+--- word ---
+term: 유명했었다고
+root: 유명하다 (to be famous)
+breakdown: 유명 + 하 + 았었 + 다 + 고
+pos: adjective (quoted, past-past tense)
+definition: (they said) he had been famous
+notes: Sino-Korean from Hanja 有名 (있을 유, 이름 명 — "having a name"). 유명하다 is one of the most common Sino-Korean adjectives. Collocations: 유명한 사람 (a famous person), 유명해지다 (to become famous). Here conjugated with double past -았었- (past perfect), declarative -다, and quotative particle -고. The layered ending indicates reported speech about a state that was already in the past.
+
+--- word ---
+term: 하더라고
+root: 하다 (to do; to say)
+breakdown: 하 + 더라 + 고
+pos: verb (retrospective quotative ending)
+definition: (they) were saying (that)…; I heard (them) say…
+notes: This is 하다 used as a speech verb ("to say"), combined with the retrospective suffix -더라 and sentence-final -고 (which in spoken Korean can function as a trailing/softening ending rather than a strict quotative connector). -더라고(요) is a crucial spoken pattern meaning "I noticed/witnessed/heard that…" It conveys the speaker personally experienced or heard something. Collocations: 맛있더라고 (it was tasty, I found), 좋아하더라고 (they liked it, I noticed). Register: distinctly colloquial; -더라고요 is the polite version.
+
+--- grammar ---
+pattern: V-았/었었- (past perfect / double past)
+meaning: Indicates a past state or action that is completed and no longer relevant, or emphasizes temporal distance. 유명했었다 = "had been famous (back then)." More emphatic about pastness than simple past 유명했다.
+example: 유명했었다고
+level: intermediate
+
+--- grammar ---
+pattern: V/ADJ-다고 하다 (indirect quotation, declarative)
+meaning: Reports a declarative statement: "someone said that…" The quoted content takes -다고 (after verb/adjective stems) or -(이)라고 (after nouns with copula). Here 유명했었다 + 고 + 하다.
+example: 유명했었다고 하더라고
+level: intermediate
+
+--- grammar ---
+pattern: V-더라고(요)
+meaning: Retrospective experiential ending. The speaker reports something they personally witnessed, heard, or realized. Conveys firsthand observation being relayed to the listener. Colloquial; polite form is -더라고요.
+example: 하더라고
+level: intermediate
+
+--- grammar ---
+pattern: ADJ-았/었- (past tense, adjective)
+meaning: Simple past applied to a descriptive verb/adjective. 유명하다 → 유명했다 (was famous). Here further layered with -었- to form double past 유명했었다.
+example: 유명했었다고
+level: beginner
