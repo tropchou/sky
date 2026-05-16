@@ -104,6 +104,29 @@
     border-color: #1a1a1a;
   }
 
+  /* ── Sort Bar ─────────────────────────────── */
+  .sort-bar {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+  .sort-toggle {
+    display: none;          /* same mobile-only pattern as filter-toggle */
+  }
+  
+  @media (max-width: 640px) {
+    .sort-bar { padding: 0 20px; }
+    .sort-toggle { display: block; }
+    .sort-options {
+      display: none;
+      flex-direction: column;
+      gap: 6px;
+      padding: 12px 0 16px;
+    }
+    .sort-options.open { display: flex; }
+  }
+
+
   /* ── Main Content ─────────────────────────────── */
   main {
     max-width: 1100px;
@@ -276,6 +299,20 @@
   </div>
 </div>
 
+<div class="sort-bar">
+  <button class="filter-toggle sort-toggle" aria-expanded="false"
+          onclick="toggleSort()">Sort By</button>
+  <div class="filter-options sort-options" id="sortOptions">
+    <button class="filter-btn active" data-sort="date-desc"
+            onclick="sortEntries('date-desc', this)">Date (Newest)</button>
+    <button class="filter-btn" data-sort="date-asc"
+            onclick="sortEntries('date-asc', this)">Date (Oldest)</button>
+    <button class="filter-btn" data-sort="era"
+            onclick="sortEntries('era', this)">Era</button>
+  </div>
+</div>
+
+
 <main>
 
   <section class="era-section" data-era-name="socute">
@@ -354,6 +391,14 @@
     bstage: 'B-Stage'
   };
 
+  const ERA_ORDER = {
+  socute:  1,
+  bstage:  2,
+  ggb:     3
+  // future eras: tbd: 4, ...
+  };
+
+
   async function findImage(era, date, desc) {
     const s        = stem(era, date, desc);
     const fallback = `${BASE_IMAGE}/${era}/${era}-default`;
@@ -405,7 +450,9 @@
     const card       = document.createElement('div');
     card.className   = 'entry-card';
     card.dataset.year = year;
-
+    card.dataset.date = date;
+    card.dataset.era  = era;
+    
     // Thumbnail
     const thumb     = document.createElement('div');
     thumb.className = 'thumb';
@@ -487,22 +534,24 @@
 
 /* ── Year Filter ────────────────────────────── */
 function filterYear(year, btn) {
-  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.filter-btn[data-year]').forEach(b =>
+    b.classList.remove('active'));
   btn.classList.add('active');
 
   document.querySelectorAll('.entry-card').forEach(card => {
-    if (year === 'all' || card.dataset.year === year) {
-      card.classList.remove('hidden');
-    } else {
-      card.classList.add('hidden');
-    }
+    card.classList.toggle('hidden',
+      year !== 'all' && card.dataset.year !== year);
   });
 
-  document.querySelectorAll('.era-section').forEach(section => {
-    const visible = section.querySelectorAll('.entry-card:not(.hidden)');
-    section.classList.toggle('hidden', visible.length === 0);
-  });
+  // Only show/hide era sections when in era sort mode
+  if (currentSort === 'era') {
+    document.querySelectorAll('.era-section').forEach(section => {
+      const visible = section.querySelectorAll('.entry-card:not(.hidden)');
+      section.classList.toggle('hidden', visible.length === 0);
+    });
+  }
 }
+
 
 /* ── Mobile Filter Toggle ───────────────────── */
 function toggleFilter() {
@@ -512,6 +561,86 @@ function toggleFilter() {
   btn.classList.toggle('open', isOpen);
   btn.setAttribute('aria-expanded', isOpen);
 }
+
+/* ── Sort ────────────────────────────────────── */
+let currentSort = 'date-desc';  // default
+
+function sortEntries(mode, btn) {
+  // Update active button
+  document.querySelectorAll('.sort-bar .filter-btn').forEach(b =>
+    b.classList.remove('active'));
+  btn.classList.add('active');
+  currentSort = mode;
+
+  const main = document.querySelector('main');
+
+  if (mode === 'era') {
+    // ── Sort by Era: restore the original section-based layout ──
+    const sections = [...document.querySelectorAll('.era-section')];
+    sections.sort((a, b) =>
+      (ERA_ORDER[a.dataset.eraName] || 999) - (ERA_ORDER[b.dataset.eraName] || 999)
+    );
+    sections.forEach(sec => {
+      sec.classList.remove('hidden');
+      sec.style.display = '';               // make sure it's visible
+      // Sort cards within each era section by date descending
+      const grid = sec.querySelector('.entries-grid');
+      const cards = [...grid.querySelectorAll('.entry-card')];
+      cards.sort((a, b) => {
+        const dA = a.dataset.date || '000000';
+        const dB = b.dataset.date || '000000';
+        return dB.localeCompare(dA);        // newest first within era
+      });
+      cards.forEach(c => grid.appendChild(c));
+      main.appendChild(sec);                // re-order sections in DOM
+    });
+  } else {
+    // ── Sort by Date: flatten all cards into one list ──
+    const allCards = [...document.querySelectorAll('.entry-card')];
+
+    allCards.sort((a, b) => {
+      const dA = a.dataset.date || '000000';
+      const dB = b.dataset.date || '000000';
+      return mode === 'date-asc'
+        ? dA.localeCompare(dB)
+        : dB.localeCompare(dA);
+    });
+
+    // Hide era section headers — they don't apply in flat date sort
+    document.querySelectorAll('.era-section h2').forEach(h =>
+      h.style.display = 'none');
+
+    // Move all cards into first section's grid (or a single flat container)
+    const flatGrid =
+      document.querySelector('.era-section .entries-grid');
+    allCards.forEach(c => flatGrid.appendChild(c));
+
+    // Hide empty sections, show the one with cards
+    document.querySelectorAll('.era-section').forEach(sec => {
+      const hasCards = sec.querySelectorAll('.entry-card').length > 0;
+      sec.style.display = hasCards ? '' : 'none';
+      if (hasCards) sec.querySelector('h2').style.display = 'none';
+    });
+  }
+
+  // Re-apply the active year filter after sorting
+  const activeYear =
+    document.querySelector('.filter-btn.active[data-year]');
+  if (activeYear) {
+    filterYear(activeYear.dataset.year, activeYear);
+  }
+}
+
+/* ── Mobile Sort Toggle ─────────────────────── */
+function toggleSort() {
+  const btn  = document.querySelector('.sort-toggle');
+  const opts = document.getElementById('sortOptions');
+  const isOpen = opts.classList.toggle('open');
+  btn.classList.toggle('open', isOpen);
+  btn.setAttribute('aria-expanded', isOpen);
+}
+
+  
 </script>
 </body>
 </html>
