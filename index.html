@@ -350,6 +350,20 @@
 </main>
 
 <script>
+  /* ── Shared Config (global scope) ─────────── */
+const ERA_LABELS = {
+  ggb:    'Good Goodbye',
+  socute: 'So Cute',
+  bstage: 'B-Stage'
+};
+
+const ERA_ORDER = {
+  socute: 1,
+  bstage: 2,
+  ggb:    3
+  // future eras: tbd: 4, ...
+};
+  
 (function () {
   /* ── Config ───────────────────────────────── */
   const BASE_TRANSCRIPT = 'transcripts';
@@ -384,20 +398,6 @@
     s = s.replace(/-/g, ' ');
     return s.replace(/\b\w/g, c => c.toUpperCase());
   }
-
-  const ERA_LABELS = {
-    ggb:    'Good Goodbye',
-    socute: 'So Cute',
-    bstage: 'B-Stage'
-  };
-
-  const ERA_ORDER = {
-  socute:  1,
-  bstage:  2,
-  ggb:     3
-  // future eras: tbd: 4, ...
-  };
-
 
   async function findImage(era, date, desc) {
     const s        = stem(era, date, desc);
@@ -574,16 +574,31 @@ function sortEntries(mode, btn) {
 
   const main = document.querySelector('main');
 
-  if (mode === 'era') {
-    // ── Sort by Era: restore the original section-based layout ──
+    if (mode === 'era') {
+    // ── Step 1: Move cards back to their correct era section ──
+    document.querySelectorAll('.entry-card').forEach(card => {
+      const eraName = card.dataset.era;
+      const targetGrid = document.querySelector(
+        `.era-section[data-era-name="${eraName}"] .entries-grid`
+      );
+      if (targetGrid && card.parentElement !== targetGrid) {
+        targetGrid.appendChild(card);
+      }
+    });
+
+    // ── Step 2: Show all section headings again ──
+    document.querySelectorAll('.era-section h2').forEach(h =>
+      h.style.display = ''
+    );
+
+    // ── Step 3: Sort sections by ERA_ORDER, then sort cards within each ──
     const sections = [...document.querySelectorAll('.era-section')];
     sections.sort((a, b) =>
       (ERA_ORDER[a.dataset.eraName] || 999) - (ERA_ORDER[b.dataset.eraName] || 999)
     );
     sections.forEach(sec => {
       sec.classList.remove('hidden');
-      sec.style.display = '';               // make sure it's visible
-      // Sort cards within each era section by date descending
+      sec.style.display = '';
       const grid = sec.querySelector('.entries-grid');
       const cards = [...grid.querySelectorAll('.entry-card')];
       cards.sort((a, b) => {
@@ -594,6 +609,7 @@ function sortEntries(mode, btn) {
       cards.forEach(c => grid.appendChild(c));
       main.appendChild(sec);                // re-order sections in DOM
     });
+
   } else {
     // ── Sort by Date: flatten all cards into one list ──
     const allCards = [...document.querySelectorAll('.entry-card')];
@@ -610,7 +626,7 @@ function sortEntries(mode, btn) {
     document.querySelectorAll('.era-section h2').forEach(h =>
       h.style.display = 'none');
 
-    // Move all cards into first section's grid (or a single flat container)
+    // Move all cards into first section's grid
     const flatGrid =
       document.querySelector('.era-section .entries-grid');
     allCards.forEach(c => flatGrid.appendChild(c));
@@ -630,6 +646,7 @@ function sortEntries(mode, btn) {
     filterYear(activeYear.dataset.year, activeYear);
   }
 }
+
 
 /* ── Mobile Sort Toggle ─────────────────────── */
 function toggleSort() {
