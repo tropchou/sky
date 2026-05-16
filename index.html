@@ -448,12 +448,11 @@
       });
 
       // Show/hide era sections when in era sort mode
-      if (sort === 'era') {
         document.querySelectorAll('.era-section').forEach(section => {
           const visible = section.querySelectorAll('.entry-card:not(.hidden)');
           section.classList.toggle('hidden', visible.length === 0);
         });
-      }
+
     }
 
     /* ── Sort ────────────────────────────────────── */
