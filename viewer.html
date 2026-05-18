@@ -11,6 +11,7 @@
     rel="stylesheet">
   <style>
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
     body {
       font-family: 'DM Sans', sans-serif;
       background: #fafafa;
@@ -110,7 +111,6 @@
       font-style: normal;
     }
 
-
     /* ── Grammar toggle button ─────────────── */
     .grammar-toggle {
       display: inline-block;
@@ -127,16 +127,15 @@
       cursor: pointer;
       transition: color 0.15s, border-color 0.15s, background 0.15s;
       margin-left: 18px;
-      margin-top: 2px;       /* was -4px */
-      margin-bottom: 16px;   /* was 4px — adds breathing room before next KO */
+      margin-top: 2px;
+      margin-bottom: 16px;
     }
 
-    
     .grammar-toggle:hover {
       color: #2a6f96;
       border-color: #4a90b8;
     }
-    
+
     .grammar-toggle.open {
       color: #2a6f96;
       border-color: #4a90b8;
@@ -169,6 +168,22 @@
 
     .grammar-panel-section-title + .grammar-panel-section-title {
       margin-top: 20px;
+    }
+
+    /* ── NEW: Sentence-level meaning & tone ── */
+    .grammar-sentence-meaning {
+      font-family: 'Source Serif 4', serif;
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: #1a1a1a;
+      margin-bottom: 4px;
+    }
+
+    .grammar-sentence-tone {
+      font-size: 0.82rem;
+      color: #777;
+      font-style: italic;
+      margin-bottom: 16px;
     }
 
     /* ── Word cards ────────────────────────── */
@@ -289,7 +304,7 @@
       border-color: #4a90b8;
     }
 
-       /* ── Navigation Pill ──────────────────────── */
+    /* ── Navigation Pill ──────────────────────── */
     .nav-pill {
       position: fixed;
       bottom: 20px;
@@ -460,610 +475,603 @@
   <!-- Navigation Pill (hidden by default, built by JS) -->
   <div class="nav-pill" id="navPill"></div>
 
-  <script>
-  (function () {
-    const params      = new URLSearchParams(window.location.search);
-    const file        = params.get('file');
-    const nameEl      = document.getElementById('fileName');
-    const container   = document.getElementById('transcriptContainer');
-    const contentWrap = document.getElementById('viewerContent');
-    const errorWrap   = document.getElementById('viewerError');
-    const pill        = document.getElementById('navPill');
+<script>
+(function () {
+  const params    = new URLSearchParams(window.location.search);
+  const file      = params.get('file');
+  const nameEl    = document.getElementById('fileName');
+  const container = document.getElementById('transcriptContainer');
+  const contentWrap = document.getElementById('viewerContent');
+  const errorWrap   = document.getElementById('viewerError');
+  const pill        = document.getElementById('navPill');
 
-    if (!file) {
-      nameEl.textContent = 'No file specified';
+  if (!file) {
+    nameEl.textContent = 'No file specified';
+    errorWrap.style.display = 'block';
+    return;
+  }
+
+  const segments    = file.split('/');
+  const displayName = segments[segments.length - 1];
+  nameEl.textContent = displayName;
+  document.title     = `${displayName} — Hwasa Transcripts`;
+
+  /* ── Derive grammar file path from transcript path ── */
+  const grammarFile = file.replace(/\.txt$/, '-grammar.txt');
+
+  /* ── Fetch transcript, then optionally grammar ────── */
+  fetch(file)
+    .then(r => {
+      if (!r.ok) throw new Error('Not found');
+      return r.text();
+    })
+    .then(text => {
+      return fetch(grammarFile)
+        .then(r => r.ok ? r.text() : null)
+        .catch(() => null)
+        .then(grammarText => {
+          contentWrap.style.display = 'block';
+
+          const grammarMap = grammarText ? parseGrammarFile(grammarText) : new Map();
+
+          const blocks = parseBlocks(text);
+          renderBlocks(blocks, grammarMap);
+          initNavPill(blocks);
+        });
+    })
+    .catch(() => {
       errorWrap.style.display = 'block';
-      return;
+    });
+
+  /* ══════════════════════════════════════════════════════
+     GRAMMAR FILE PARSER  (UPDATED for new format)
+     ══════════════════════════════════════════════════════ */
+  function parseGrammarFile(text) {
+    const map     = new Map();
+    const entries = text.split(/^=== /m).filter(b => b.trim());
+
+    for (const block of entries) {
+      // NEW header format: [00:53] 뭘 왜야 ===
+      const headerMatch = block.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*(.+?)\s*===$/m);
+      if (!headerMatch) continue;
+
+      const ts  = headerMatch[1].trim();
+      const ko  = headerMatch[2].trim();
+      const key = ts + '\t' + ko;
+
+      const entry = { meaning: '', tone: '', words: [], grammar: [] };
+
+      // ── Extract sentence-level meaning and tone ──
+      const meaningMatch = block.match(/^meaning:\s*(.+)/m);
+      if (meaningMatch) entry.meaning = meaningMatch[1].trim();
+
+      const toneMatch = block.match(/^tone:\s*(.+)/m);
+      if (toneMatch) entry.tone = toneMatch[1].trim();
+
+      // ── Split into sub-blocks ──
+      const sections = block.split(/^--- /m);
+
+      for (let i = 1; i < sections.length; i++) {
+        const section   = sections[i];
+        const typeMatch = section.match(/^(word|grammar)\s*---/);
+        if (!typeMatch) continue;
+
+        const type = typeMatch[1];
+        const obj  = {};
+        const lines = section.split('\n').slice(1);
+
+        for (const line of lines) {
+          // UPDATED: added "type" and "meaning" as recognized field names
+          const m = line.match(/^(term|type|root|breakdown|pos|definition|meaning|notes|pattern|example|level):\s*(.*)/);
+          if (m) obj[m[1]] = m[2].trim();
+        }
+
+        if (type === 'word' && obj.term) {
+          entry.words.push(obj);
+        } else if (type === 'grammar' && obj.pattern) {
+          entry.grammar.push(obj);
+        }
+      }
+
+      if (entry.words.length > 0 || entry.grammar.length > 0) {
+        map.set(key, entry);
+      }
     }
 
-    const segments    = file.split('/');
-    const displayName = segments[segments.length - 1];
-    nameEl.textContent = displayName;
-    document.title     = `${displayName} — Hwasa Transcripts`;
+    return map;
+  }
 
-    /* ── Derive grammar file path from transcript path ── */
-    const grammarFile = file.replace(/\.txt$/, '-grammar.txt');
+  /* ══════════════════════════════════════════════════════
+     TRANSCRIPT PARSER  (unchanged)
+     ══════════════════════════════════════════════════════ */
+  function parseBlocks(text) {
+    const lines  = text.split('\n');
+    const blocks = [];
+    let currentLines = [];
+    let currentTS    = null;
+    let currentSec   = 0;
 
-    /* ── Fetch transcript, then optionally grammar ────── */
-    fetch(file)
-      .then(r => {
-        if (!r.ok) throw new Error('Not found');
-        return r.text();
-      })
-      .then(text => {
-        // Try fetching grammar file (silent fail if missing)
-        return fetch(grammarFile)
-          .then(r => r.ok ? r.text() : null)
-          .catch(() => null)
-          .then(grammarText => {
-            contentWrap.style.display = 'block';
-
-            const grammarMap = grammarText ? parseGrammarFile(grammarText) : new Map();
-            const blocks     = parseBlocks(text);
-
-            renderBlocks(blocks, grammarMap);
-            initNavPill(blocks);
+    for (const line of lines) {
+      const m = line.match(/^— \[(\d{1,2}:\d{2}(?::\d{2})?)\] —+$/);
+      if (m) {
+        if (currentLines.length > 0 || blocks.length === 0) {
+          blocks.push({
+            ts:      currentTS,
+            seconds: currentSec,
+            text:    currentLines.join('\n')
           });
-      })
-      .catch(() => {
-        errorWrap.style.display = 'block';
-      });
-
-    /* ══════════════════════════════════════════════════════
-       GRAMMAR FILE PARSER
-       ══════════════════════════════════════════════════════ */
-
-    function parseGrammarFile(text) {
-      const map      = new Map(); // key: "timestamp\tkoText" → { words: [], grammar: [] }
-      const entries  = text.split(/^=== /m).filter(b => b.trim());
-
-      for (const block of entries) {
-        // Header line: [00:43] 난 이 시간이 너무 좋아 ===
-        const headerMatch = block.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*(.+?)\s*===$/m);
-        if (!headerMatch) continue;
-
-        const ts   = headerMatch[1].trim();
-        const ko   = headerMatch[2].trim();
-        const key  = ts + '\t' + ko;
-
-        const entry = { words: [], grammar: [] };
-
-        // Split into sub-blocks
-        const sections = block.split(/^--- /m);
-
-        for (let i = 1; i < sections.length; i++) {
-          const section   = sections[i];
-          const typeMatch = section.match(/^(word|grammar)\s*---/);
-          if (!typeMatch) continue;
-
-          const type = typeMatch[1];
-          const obj  = {};
-          const lines = section.split('\n').slice(1);
-
-          for (const line of lines) {
-            const m = line.match(/^(term|root|breakdown|pos|definition|notes|pattern|meaning|example|level):\s*(.+)/);
-            if (m) obj[m[1]] = m[2].trim();
-          }
-
-          if (type === 'word' && obj.term) {
-            entry.words.push(obj);
-          } else if (type === 'grammar' && obj.pattern) {
-            entry.grammar.push(obj);
-          }
         }
-
-        if (entry.words.length > 0 || entry.grammar.length > 0) {
-          map.set(key, entry);
-        }
-      }
-
-      return map;
-    }
-
-    /* ══════════════════════════════════════════════════════
-       TRANSCRIPT PARSER
-       ══════════════════════════════════════════════════════ */
-
-    function parseBlocks(text) {
-      const lines  = text.split('\n');
-      const blocks = [];
-      let currentLines = [];
-      let currentTS    = null;
-      let currentSec   = 0;
-
-      for (const line of lines) {
-        const m = line.match(/^— \[(\d{1,2}:\d{2}(?::\d{2})?)\] —+$/);
-        if (m) {
-          if (currentLines.length > 0 || blocks.length === 0) {
-            blocks.push({
-              ts:      currentTS,
-              seconds: currentSec,
-              text:    currentLines.join('\n')
-            });
-          }
-          currentTS   = m[1];
-          currentSec  = tsToSeconds(m[1]);
-          currentLines = [line];
-        } else {
-          currentLines.push(line);
-        }
-      }
-
-      if (currentLines.length > 0) {
-        blocks.push({
-          ts:      currentTS,
-          seconds: currentSec,
-          text:    currentLines.join('\n')
-        });
-      }
-
-      return blocks;
-    }
-
-    /* ══════════════════════════════════════════════════════
-       RENDER BLOCKS WITH GRAMMAR SUPPORT
-       ══════════════════════════════════════════════════════ */
-
-    function renderBlocks(blocks, grammarMap) {
-      blocks.forEach((block, i) => {
-        const section       = document.createElement('section');
-        section.id          = `block-${i}`;
-        section.dataset.seconds = block.seconds;
-        section.className   = 'transcript-block';
-        if (block.ts) section.dataset.timestamp = block.ts;
-
-        // Parse block text into line groups
-        const lineGroups = parseLineGroups(block.text);
-
-        lineGroups.forEach(group => {
-          const groupEl     = document.createElement('div');
-          groupEl.className = 'line-group';
-
-          const pre = document.createElement('pre');
-          if (group.ts && group.ko) {
-            // Build the pre content with bold timestamp and KO line
-            const lines = group.raw.split('\n');
-            lines.forEach((line, idx) => {
-              const isLast = idx === lines.length - 1;
-              const suffix = isLast ? '' : '\n';
-            
-              const tsLine = line.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*$/);
-              const koLine = line.match(/^\s*KO:\s*.+/);
-            
-              if (tsLine || koLine) {
-                const bold = document.createElement('strong');
-                bold.textContent = line + suffix;
-                pre.appendChild(bold);
-              } else {
-                pre.appendChild(document.createTextNode(line + suffix));
-              }
-            });
-
-          } else {
-            pre.textContent = group.raw;
-          }
-          groupEl.appendChild(pre);
-
-
-          // Check if this group has grammar data
-          if (group.ts && group.ko && grammarMap.size > 0) {
-            const key   = group.ts + '\t' + group.ko;
-            const entry = grammarMap.get(key);
-
-            if (entry) {
-              // Create grammar toggle button
-              const toggleBtn       = document.createElement('button');
-              toggleBtn.className   = 'grammar-toggle';
-              toggleBtn.textContent = 'Grammar ▾';
-
-              // Create grammar panel
-              const panel     = document.createElement('div');
-              panel.className = 'grammar-panel';
-
-              buildGrammarPanel(panel, entry);
-
-              // Collapse button at bottom
-              const collapseBtn       = document.createElement('button');
-              collapseBtn.className   = 'grammar-collapse-btn';
-              collapseBtn.textContent = '▲ Collapse';
-              panel.appendChild(collapseBtn);
-
-              // Toggle logic
-              function togglePanel() {
-                const isOpen = panel.classList.toggle('open');
-                toggleBtn.classList.toggle('open', isOpen);
-                toggleBtn.textContent = isOpen ? 'Grammar ▴' : 'Grammar ▾';
-              }
-
-              toggleBtn.addEventListener('click', togglePanel);
-              collapseBtn.addEventListener('click', () => {
-                panel.classList.remove('open');
-                toggleBtn.classList.remove('open');
-                toggleBtn.textContent = 'Grammar ▾';
-                toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'center' });
-              });
-
-              groupEl.appendChild(toggleBtn);
-              groupEl.appendChild(panel);
-            }
-          }
-
-          section.appendChild(groupEl);
-        });
-
-        container.appendChild(section);
-      });
-    }
-
-    /* ── Parse a block's text into line groups ── */
-    // Detects groups like:
-    //   [00:43]
-    //     KO: 난 이 시간이 너무 좋아
-    //     FR: J'aime tellement cette fois
-    //     EN: I love this time so much
-    //
-    // Also handles non-grouped lines (delimiters, blank lines, etc.)
-
-    function parseLineGroups(text) {
-      const groups = [];
-      const lines  = text.split('\n');
-      let i = 0;
-
-      while (i < lines.length) {
-        const line = lines[i];
-
-        // Check for timestamp line like [00:43]
-        const tsMatch = line.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*$/);
-
-        if (tsMatch) {
-          // Collect the KO/FR/EN lines that follow
-          const ts       = tsMatch[1];
-          const rawLines = [line];
-          let ko = null;
-          let j  = i + 1;
-
-          while (j < lines.length) {
-            const nextLine = lines[j];
-            // Stop if we hit another timestamp, a delimiter, or end of meaningful content
-            if (nextLine.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*$/) ||
-                nextLine.match(/^— \[/)) {
-              break;
-            }
-            rawLines.push(nextLine);
-
-            // Extract KO value
-            const koMatch = nextLine.match(/^\s*KO:\s*(.+)/);
-            if (koMatch) ko = koMatch[1].trim();
-
-            j++;
-          }
-
-          groups.push({
-            raw: rawLines.join('\n'),
-            ts:  ts,
-            ko:  ko
-          });
-
-          i = j;
-        } else {
-          // Non-timestamp line (delimiter, blank, etc.) — render as-is
-          groups.push({
-            raw: line,
-            ts:  null,
-            ko:  null
-          });
-          i++;
-        }
-      }
-
-      return groups;
-    }
-
-    /* ── Build the grammar panel content ────── */
-    function buildGrammarPanel(panel, entry) {
-      // Words section
-      if (entry.words.length > 0) {
-        const title       = document.createElement('div');
-        title.className   = 'grammar-panel-section-title';
-        title.textContent = 'Words';
-        panel.appendChild(title);
-
-        entry.words.forEach(w => {
-          const card     = document.createElement('div');
-          card.className = 'word-card';
-
-          // Term
-          const termEl       = document.createElement('div');
-          termEl.className   = 'word-card-term';
-          termEl.textContent = w.term || '';
-          card.appendChild(termEl);
-
-          // Definition
-          if (w.definition) {
-            const defEl       = document.createElement('div');
-            defEl.className   = 'word-card-def';
-            defEl.textContent = w.definition;
-            card.appendChild(defEl);
-          }
-
-          // Root
-          if (w.root) {
-            const row = document.createElement('div');
-            row.className = 'word-card-row';
-            row.innerHTML = '<span class="label">Root</span> ' + escapeHtml(w.root);
-            card.appendChild(row);
-          }
-
-          // Breakdown
-          if (w.breakdown) {
-            const row = document.createElement('div');
-            row.className = 'word-card-row';
-            row.innerHTML = '<span class="label">Breakdown</span> ' + escapeHtml(w.breakdown);
-            card.appendChild(row);
-          }
-
-          // POS
-          if (w.pos) {
-            const row = document.createElement('div');
-            row.className = 'word-card-row';
-            row.innerHTML = '<span class="label">POS</span> ' + escapeHtml(w.pos);
-            card.appendChild(row);
-          }
-
-          // Notes
-          if (w.notes) {
-            const notesEl       = document.createElement('div');
-            notesEl.className   = 'word-card-notes';
-            notesEl.textContent = w.notes;
-            card.appendChild(notesEl);
-          }
-
-          panel.appendChild(card);
-        });
-      }
-
-      // Grammar points section
-      if (entry.grammar.length > 0) {
-        const title       = document.createElement('div');
-        title.className   = 'grammar-panel-section-title';
-        title.textContent = 'Grammar Points';
-        panel.appendChild(title);
-
-        entry.grammar.forEach(g => {
-          const card     = document.createElement('div');
-          card.className = 'gp-card';
-
-          // Pattern
-          const patternEl       = document.createElement('div');
-          patternEl.className   = 'gp-card-pattern';
-          patternEl.textContent = g.pattern || '';
-          card.appendChild(patternEl);
-
-          // Meaning
-          if (g.meaning) {
-            const meaningEl       = document.createElement('div');
-            meaningEl.className   = 'gp-card-meaning';
-            meaningEl.textContent = g.meaning;
-            card.appendChild(meaningEl);
-          }
-
-          // Example + Level
-          const meta = document.createElement('div');
-          meta.className = 'gp-card-meta';
-
-          let metaHtml = '';
-          if (g.example) {
-            metaHtml += escapeHtml(g.example);
-          }
-          if (g.level) {
-            metaHtml += '<span class="level-tag">' + escapeHtml(g.level) + '</span>';
-          }
-          if (metaHtml) {
-            meta.innerHTML = metaHtml;
-            card.appendChild(meta);
-          }
-
-          panel.appendChild(card);
-        });
-      }
-    }
-
-    /* ── HTML escape helper ────────────────── */
-    function escapeHtml(str) {
-      const div = document.createElement('div');
-      div.textContent = str;
-      return div.innerHTML;
-    }
-
-    /* ══════════════════════════════════════════════════════
-       NAVIGATION PILL (unchanged logic)
-       ══════════════════════════════════════════════════════ */
-
-    function initNavPill(blocks) {
-      const hasSegments = blocks.length > 1 &&
-        blocks.some(b => b.ts !== null);
-
-      if (hasSegments) {
-        buildFullPill(blocks);
+        currentTS   = m[1];
+        currentSec  = tsToSeconds(m[1]);
+        currentLines = [line];
       } else {
-        buildTopOnlyPill();
+        currentLines.push(line);
       }
-
-      pill.classList.add('visible');
     }
 
-    function buildTopOnlyPill() {
-      const btn = makeBtn('▲ Top', () => {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (currentLines.length > 0) {
+      blocks.push({
+        ts:      currentTS,
+        seconds: currentSec,
+        text:    currentLines.join('\n')
       });
-      pill.appendChild(btn);
     }
 
-    function buildFullPill(blocks) {
-      let currentIndex = 0;
+    return blocks;
+  }
 
-      const sectionEls = blocks.map((_, i) =>
-        document.getElementById(`block-${i}`)
-      );
+  /* ══════════════════════════════════════════════════════
+     RENDER BLOCKS WITH GRAMMAR SUPPORT  (unchanged)
+     ══════════════════════════════════════════════════════ */
+  function renderBlocks(blocks, grammarMap) {
+    blocks.forEach((block, i) => {
+      const section       = document.createElement('section');
+      section.id          = `block-${i}`;
+      section.dataset.seconds = block.seconds;
+      section.className   = 'transcript-block';
+      if (block.ts) section.dataset.timestamp = block.ts;
 
-      const prevBtn = makeBtn('◀ Prev', () => jumpTo(currentIndex - 1));
-      const topBtn  = makeBtn('▲ Top', () => {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      });
-      const nextBtn = makeBtn('Next ▶', () => jumpTo(currentIndex + 1));
-      const tsBtn   = makeBtn('⏱', toggleTimestampInput);
-      tsBtn.title   = 'Jump to timestamp';
+      const lineGroups = parseLineGroups(block.text);
 
-      const tsWrapper       = document.createElement('div');
-      tsWrapper.className   = 'ts-wrapper';
+      lineGroups.forEach(group => {
+        const groupEl       = document.createElement('div');
+        groupEl.className   = 'line-group';
 
-      const tsContainer     = document.createElement('div');
-      tsContainer.className = 'ts-input-container';
+        const pre = document.createElement('pre');
+        if (group.ts && group.ko) {
+          const lines = group.raw.split('\n');
+          lines.forEach((line, idx) => {
+            const isLast = idx === lines.length - 1;
+            const suffix = isLast ? '' : '\n';
 
-      const tsInput         = document.createElement('input');
-      tsInput.type          = 'text';
-      tsInput.className     = 'ts-input';
-      tsInput.placeholder   = 'mm:ss';
-      tsInput.inputMode     = 'numeric';
+            const tsLine = line.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*$/);
+            const koLine = line.match(/^\s*KO:\s*.+/);
 
-      const goBtn           = document.createElement('button');
-      goBtn.className       = 'ts-go-btn';
-      goBtn.textContent     = 'Go';
+            if (tsLine || koLine) {
+              const bold = document.createElement('strong');
+              bold.textContent = line + suffix;
+              pre.appendChild(bold);
+            } else {
+              pre.appendChild(document.createTextNode(line + suffix));
+            }
+          });
+        } else {
+          pre.textContent = group.raw;
+        }
+        groupEl.appendChild(pre);
 
-      tsContainer.appendChild(tsInput);
-      tsContainer.appendChild(goBtn);
-      tsWrapper.appendChild(tsBtn);
-      tsWrapper.appendChild(tsContainer);
+        // Check if this group has grammar data
+        if (group.ts && group.ko && grammarMap.size > 0) {
+          const key   = group.ts + '\t' + group.ko;
+          const entry = grammarMap.get(key);
 
-      pill.appendChild(prevBtn);
-      pill.appendChild(makeSep());
-      pill.appendChild(topBtn);
-      pill.appendChild(makeSep());
-      pill.appendChild(nextBtn);
-      pill.appendChild(makeSep());
-      pill.appendChild(tsWrapper);
+          if (entry) {
+            const toggleBtn       = document.createElement('button');
+            toggleBtn.className   = 'grammar-toggle';
+            toggleBtn.textContent = 'Grammar ▾';
 
-      function updateBtnStates() {
-        prevBtn.disabled = currentIndex <= 0;
-        nextBtn.disabled = currentIndex >= blocks.length - 1;
-      }
-      updateBtnStates();
+            const panel       = document.createElement('div');
+            panel.className   = 'grammar-panel';
 
-      function jumpTo(idx) {
-        idx = Math.max(0, Math.min(idx, blocks.length - 1));
-        sectionEls[idx].scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
+            buildGrammarPanel(panel, entry);
 
-      const observer = new IntersectionObserver((entries) => {
-        for (const entry of entries) {
-          if (entry.isIntersecting) {
-            const id  = entry.target.id;
-            const idx = parseInt(id.split('-')[1], 10);
-            currentIndex = idx;
-            updateBtnStates();
+            const collapseBtn       = document.createElement('button');
+            collapseBtn.className   = 'grammar-collapse-btn';
+            collapseBtn.textContent = '▲ Collapse';
+            panel.appendChild(collapseBtn);
+
+            function togglePanel() {
+              const isOpen = panel.classList.toggle('open');
+              toggleBtn.classList.toggle('open', isOpen);
+              toggleBtn.textContent = isOpen ? 'Grammar ▴' : 'Grammar ▾';
+            }
+
+            toggleBtn.addEventListener('click', togglePanel);
+            collapseBtn.addEventListener('click', () => {
+              panel.classList.remove('open');
+              toggleBtn.classList.remove('open');
+              toggleBtn.textContent = 'Grammar ▾';
+              toggleBtn.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            });
+
+            groupEl.appendChild(toggleBtn);
+            groupEl.appendChild(panel);
           }
         }
-      }, {
-        rootMargin: '0px 0px -70% 0px',
-        threshold: 0
+
+        section.appendChild(groupEl);
       });
 
-      sectionEls.forEach(el => { if (el) observer.observe(el); });
+      container.appendChild(section);
+    });
+  }
 
-      let tsOpen = false;
+  /* ── Parse a block's text into line groups ── (unchanged) */
+  function parseLineGroups(text) {
+    const groups = [];
+    const lines  = text.split('\n');
+    let i = 0;
 
-      function toggleTimestampInput() {
-        tsOpen = !tsOpen;
-        tsContainer.classList.toggle('open', tsOpen);
-        if (tsOpen) {
-          tsInput.value = '';
-          tsInput.classList.remove('error');
-          requestAnimationFrame(() => tsInput.focus());
+    while (i < lines.length) {
+      const line = lines[i];
+      const tsMatch = line.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*$/);
+
+      if (tsMatch) {
+        const ts       = tsMatch[1];
+        const rawLines = [line];
+        let ko = null;
+        let j  = i + 1;
+
+        while (j < lines.length) {
+          const nextLine = lines[j];
+          if (nextLine.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*$/) ||
+              nextLine.match(/^— \[/)) {
+            break;
+          }
+          rawLines.push(nextLine);
+          const koMatch = nextLine.match(/^\s*KO:\s*(.+)/);
+          if (koMatch) ko = koMatch[1].trim();
+          j++;
+        }
+
+        groups.push({
+          raw: rawLines.join('\n'),
+          ts:  ts,
+          ko:  ko
+        });
+
+        i = j;
+      } else {
+        groups.push({
+          raw: line,
+          ts:  null,
+          ko:  null
+        });
+        i++;
+      }
+    }
+
+    return groups;
+  }
+
+  /* ── Build the grammar panel content (UPDATED) ────── */
+  function buildGrammarPanel(panel, entry) {
+
+    // ── NEW: Sentence-level meaning and tone ──
+    if (entry.meaning) {
+      const meaningEl       = document.createElement('div');
+      meaningEl.className   = 'grammar-sentence-meaning';
+      meaningEl.textContent = entry.meaning;
+      panel.appendChild(meaningEl);
+    }
+
+    if (entry.tone) {
+      const toneEl       = document.createElement('div');
+      toneEl.className   = 'grammar-sentence-tone';
+      toneEl.textContent = entry.tone;
+      panel.appendChild(toneEl);
+    }
+
+    // Words section
+    if (entry.words.length > 0) {
+      const title       = document.createElement('div');
+      title.className   = 'grammar-panel-section-title';
+      title.textContent = 'Words';
+      panel.appendChild(title);
+
+      entry.words.forEach(w => {
+        const card       = document.createElement('div');
+        card.className   = 'word-card';
+
+        // Term
+        const termEl       = document.createElement('div');
+        termEl.className   = 'word-card-term';
+        termEl.textContent = w.term || '';
+        card.appendChild(termEl);
+
+        // Meaning (new field, falls back to definition for backwards compat)
+        const meaningText = w.meaning || w.definition;
+        if (meaningText) {
+          const defEl       = document.createElement('div');
+          defEl.className   = 'word-card-def';
+          defEl.textContent = meaningText;
+          card.appendChild(defEl);
+        }
+
+        // Type (new field, falls back to pos for backwards compat)
+        const typeText = w.type || w.pos;
+        if (typeText) {
+          const row       = document.createElement('div');
+          row.className   = 'word-card-row';
+          row.innerHTML   = '<span class="label">Type</span> ' + escapeHtml(typeText);
+          card.appendChild(row);
+        }
+
+        // Root
+        if (w.root) {
+          const row       = document.createElement('div');
+          row.className   = 'word-card-row';
+          row.innerHTML   = '<span class="label">Root</span> ' + escapeHtml(w.root);
+          card.appendChild(row);
+        }
+
+        // Breakdown
+        if (w.breakdown) {
+          const row       = document.createElement('div');
+          row.className   = 'word-card-row';
+          row.innerHTML   = '<span class="label">Breakdown</span> ' + escapeHtml(w.breakdown);
+          card.appendChild(row);
+        }
+
+        // Notes
+        if (w.notes) {
+          const notesEl       = document.createElement('div');
+          notesEl.className   = 'word-card-notes';
+          notesEl.textContent = w.notes;
+          card.appendChild(notesEl);
+        }
+
+        panel.appendChild(card);
+      });
+    }
+
+    // Grammar points section (unchanged)
+    if (entry.grammar.length > 0) {
+      const title       = document.createElement('div');
+      title.className   = 'grammar-panel-section-title';
+      title.textContent = 'Grammar Points';
+      panel.appendChild(title);
+
+      entry.grammar.forEach(g => {
+        const card       = document.createElement('div');
+        card.className   = 'gp-card';
+
+        const patternEl       = document.createElement('div');
+        patternEl.className   = 'gp-card-pattern';
+        patternEl.textContent = g.pattern || '';
+        card.appendChild(patternEl);
+
+        if (g.meaning) {
+          const meaningEl       = document.createElement('div');
+          meaningEl.className   = 'gp-card-meaning';
+          meaningEl.textContent = g.meaning;
+          card.appendChild(meaningEl);
+        }
+
+        const meta       = document.createElement('div');
+        meta.className   = 'gp-card-meta';
+        let metaHtml = '';
+        if (g.example) {
+          metaHtml += escapeHtml(g.example);
+        }
+        if (g.level) {
+          metaHtml += '<span class="level-tag">' + escapeHtml(g.level) + '</span>';
+        }
+        if (metaHtml) {
+          meta.innerHTML = metaHtml;
+          card.appendChild(meta);
+        }
+
+        panel.appendChild(card);
+      });
+    }
+  }
+
+  /* ── HTML escape helper ────────────────── */
+  function escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  /* ══════════════════════════════════════════════════════
+     NAVIGATION PILL (unchanged logic)
+     ══════════════════════════════════════════════════════ */
+  function initNavPill(blocks) {
+    const hasSegments = blocks.length > 1 &&
+      blocks.some(b => b.ts !== null);
+
+    if (hasSegments) {
+      buildFullPill(blocks);
+    } else {
+      buildTopOnlyPill();
+    }
+
+    pill.classList.add('visible');
+  }
+
+  function buildTopOnlyPill() {
+    const btn = makeBtn('▲ Top', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    pill.appendChild(btn);
+  }
+
+  function buildFullPill(blocks) {
+    let currentIndex = 0;
+
+    const sectionEls = blocks.map((_, i) =>
+      document.getElementById(`block-${i}`)
+    );
+
+    const prevBtn = makeBtn('◀ Prev', () => jumpTo(currentIndex - 1));
+    const topBtn  = makeBtn('▲ Top', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    const nextBtn = makeBtn('Next ▶', () => jumpTo(currentIndex + 1));
+    const tsBtn   = makeBtn('⏱', toggleTimestampInput);
+    tsBtn.title   = 'Jump to timestamp';
+
+    const tsWrapper       = document.createElement('div');
+    tsWrapper.className   = 'ts-wrapper';
+
+    const tsContainer       = document.createElement('div');
+    tsContainer.className   = 'ts-input-container';
+
+    const tsInput       = document.createElement('input');
+    tsInput.type        = 'text';
+    tsInput.className   = 'ts-input';
+    tsInput.placeholder = 'mm:ss';
+    tsInput.inputMode   = 'numeric';
+
+    const goBtn       = document.createElement('button');
+    goBtn.className   = 'ts-go-btn';
+    goBtn.textContent = 'Go';
+
+    tsContainer.appendChild(tsInput);
+    tsContainer.appendChild(goBtn);
+    tsWrapper.appendChild(tsBtn);
+    tsWrapper.appendChild(tsContainer);
+
+    pill.appendChild(prevBtn);
+    pill.appendChild(makeSep());
+    pill.appendChild(topBtn);
+    pill.appendChild(makeSep());
+    pill.appendChild(nextBtn);
+    pill.appendChild(makeSep());
+    pill.appendChild(tsWrapper);
+
+    function updateBtnStates() {
+      prevBtn.disabled = currentIndex <= 0;
+      nextBtn.disabled = currentIndex >= blocks.length - 1;
+    }
+    updateBtnStates();
+
+    function jumpTo(idx) {
+      idx = Math.max(0, Math.min(idx, blocks.length - 1));
+      sectionEls[idx].scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    const observer = new IntersectionObserver((entries) => {
+      for (const entry of entries) {
+        if (entry.isIntersecting) {
+          const id  = entry.target.id;
+          const idx = parseInt(id.split('-')[1], 10);
+          currentIndex = idx;
+          updateBtnStates();
         }
       }
+    }, {
+      rootMargin: '0px 0px -70% 0px',
+      threshold: 0
+    });
 
-      function closeTimestampInput() {
-        tsOpen = false;
-        tsContainer.classList.remove('open');
+    sectionEls.forEach(el => { if (el) observer.observe(el); });
+
+    let tsOpen = false;
+
+    function toggleTimestampInput() {
+      tsOpen = !tsOpen;
+      tsContainer.classList.toggle('open', tsOpen);
+      if (tsOpen) {
         tsInput.value = '';
         tsInput.classList.remove('error');
+        requestAnimationFrame(() => tsInput.focus());
+      }
+    }
+
+    function closeTimestampInput() {
+      tsOpen = false;
+      tsContainer.classList.remove('open');
+      tsInput.value = '';
+      tsInput.classList.remove('error');
+    }
+
+    function handleTimestampGo() {
+      const raw = tsInput.value.trim();
+      if (!raw) return;
+
+      const targetSec = parseUserTime(raw);
+      if (targetSec === null) {
+        tsInput.classList.add('error');
+        setTimeout(() => tsInput.classList.remove('error'), 800);
+        return;
       }
 
-      function handleTimestampGo() {
-        const raw = tsInput.value.trim();
-        if (!raw) return;
-
-        const targetSec = parseUserTime(raw);
-        if (targetSec === null) {
-          tsInput.classList.add('error');
-          setTimeout(() => tsInput.classList.remove('error'), 800);
-          return;
+      let bestIdx  = 0;
+      let bestDiff = Infinity;
+      blocks.forEach((b, i) => {
+        const diff = Math.abs(b.seconds - targetSec);
+        if (diff < bestDiff) {
+          bestDiff = diff;
+          bestIdx  = i;
         }
+      });
 
-        let bestIdx  = 0;
-        let bestDiff = Infinity;
-        blocks.forEach((b, i) => {
-          const diff = Math.abs(b.seconds - targetSec);
-          if (diff < bestDiff) {
-            bestDiff = diff;
-            bestIdx  = i;
-          }
-        });
+      jumpTo(bestIdx);
+      setTimeout(closeTimestampInput, 400);
+    }
 
-        jumpTo(bestIdx);
-        setTimeout(closeTimestampInput, 400);
+    goBtn.addEventListener('click', handleTimestampGo);
+    tsInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') handleTimestampGo();
+      if (e.key === 'Escape') closeTimestampInput();
+    });
+
+    document.addEventListener('click', (e) => {
+      if (tsOpen && !pill.contains(e.target)) {
+        closeTimestampInput();
       }
+    });
+  }
 
-      goBtn.addEventListener('click', handleTimestampGo);
-      tsInput.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter') handleTimestampGo();
-        if (e.key === 'Escape') closeTimestampInput();
-      });
+  /* ── Utility functions ────────────────────── */
+  function makeBtn(label, onClick) {
+    const btn = document.createElement('button');
+    btn.textContent = label;
+    btn.addEventListener('click', onClick);
+    return btn;
+  }
 
-      document.addEventListener('click', (e) => {
-        if (tsOpen && !pill.contains(e.target)) {
-          closeTimestampInput();
-        }
-      });
-    }
+  function makeSep() {
+    const sep       = document.createElement('div');
+    sep.className   = 'pill-sep';
+    return sep;
+  }
 
-    /* ── Utility functions ────────────────────── */
+  function tsToSeconds(ts) {
+    const parts = ts.split(':').map(Number);
+    if (parts.length === 3) return parts[0] * 3600 + parts[1] * 60 + parts[2];
+    if (parts.length === 2) return parts[0] * 60 + parts[1];
+    return parts[0] * 60;
+  }
 
-    function makeBtn(label, onClick) {
-      const btn = document.createElement('button');
-      btn.textContent = label;
-      btn.addEventListener('click', onClick);
-      return btn;
-    }
+  function parseUserTime(raw) {
+    const cleaned = raw.replace(/[^\d:]/g, '');
+    if (!cleaned) return null;
 
-    function makeSep() {
-      const sep     = document.createElement('div');
-      sep.className = 'pill-sep';
-      return sep;
-    }
+    const parts = cleaned.split(':').filter(p => p !== '');
+    if (parts.length === 0 || parts.length > 3) return null;
+    if (parts.some(p => isNaN(Number(p)))) return null;
 
-    function tsToSeconds(ts) {
-      const parts = ts.split(':').map(Number);
-      if (parts.length === 3) return parts[0] * 3600 + parts[1] * 60 + parts[2];
-      if (parts.length === 2) return parts[0] * 60 + parts[1];
-      return parts[0] * 60;
-    }
+    const nums = parts.map(Number);
+    if (nums.length === 1) return nums[0] * 60;
+    if (nums.length === 2) return nums[0] * 60 + nums[1];
+    return nums[0] * 3600 + nums[1] * 60 + nums[2];
+  }
 
-    function parseUserTime(raw) {
-      const cleaned = raw.replace(/[^\d:]/g, '');
-      if (!cleaned) return null;
-
-      const parts = cleaned.split(':').filter(p => p !== '');
-      if (parts.length === 0 || parts.length > 3) return null;
-      if (parts.some(p => isNaN(Number(p)))) return null;
-
-      const nums = parts.map(Number);
-      if (nums.length === 1) return nums[0] * 60;
-      if (nums.length === 2) return nums[0] * 60 + nums[1];
-      return nums[0] * 3600 + nums[1] * 60 + nums[2];
-    }
-
-  })();
-  </script>
+})();
+</script>
 </body>
 </html>
+
