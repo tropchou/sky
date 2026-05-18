@@ -477,50 +477,329 @@ notes: 보이다 is the passive form of 보다 (to see). 보다 = to see (active
 
 — [02:16] ————————————————————————————————————————
 
-[02:16]
-  KO: 눈부셔 보여
-  FR: Ça a l'air éblouissant
-  EN: It looks dazzling
+=== [02:16] 눈부셔 보여 ===
+meaning: I look dazzling, don't I? / Do I look dazzling?
+tone: Informal, playful, self-confident. Hwasa is likely reading a fan comment saying she looks dazzling/radiant and is repeating it back with a teasing, pleased tone — or saying it about herself with characteristic confidence. Classic Hwasa energy with her Twits.
 
-[02:31]
-  KO: 오늘 마무리하면서 해야 할 일이 있는데
-  FR: J'ai quelque chose à faire en finissant aujourd'hui.
-  EN: I have something to do as I finish today.
+--- word ---
+term: 눈부셔
+type: adjective (casual conjugation)
+breakdown: 눈부시다 (to be dazzling/blinding) → 눈부셔 (시 irregular: 시 + 어 → 셔)
+meaning: dazzling / blinding / radiant
+notes: 눈부시다 literally breaks down to 눈 (eye) + 부시다 (to be overwhelmed/blinded), meaning "so bright or beautiful it overwhelms the eyes." It can describe literal bright light or, as likely here, someone's appearance being stunningly beautiful. The conjugation follows the 시 → 셔 pattern: 눈부시 + 어 → 눈부셔. This word carries a poetic, dramatic flair — it is a common compliment in fan culture and K-drama contexts. Given that the previous conversation was about the screen looking hazy/foggy, there is a fun contrast here — the blurry camera might actually be creating a soft glow effect, making Hwasa look radiant. She may be playfully reframing the camera issue as a beauty filter.
 
-[02:35]
-  KO: 또 그거에다가는 못 켤 것 같아서
-  FR: De plus, je ne pense pas pouvoir l'allumer.
-  EN: Also, I don't think I can turn it on.
+--- word ---
+term: 보여
+type: verb (casual conjugation)
+breakdown: 보이다 (to appear / to look) → 보여 (casual form)
+meaning: I look / it looks
+notes: Same [adjective + 보이다] pattern from [02:02]. 눈부셔 보여 = "looks dazzling." This is the same structure as 뿌얘 보여 (looks hazy) from the previous sentence — Hwasa is using the exact same grammar but swapping the adjective, shifting from a practical observation about camera quality to a playful comment about her appearance. This kind of parallel structure appearing naturally in conversation is a great example for learners to see how one pattern can be reused flexibly. Other examples: 행복해 보여 (looks happy), 슬퍼 보여 (looks sad), 젊어 보여 (looks young).
 
-[02:39]
-  KO: 이걸 그래도
-  FR: Toujours ça
-  EN: Still this
 
-[02:45]
-  KO: 간만에 좀 사람 얼굴 몰골을 한 김에
-  FR: Pour la première fois depuis longtemps, je ressemblais à un être humain.
-  EN: For the first time in a while, I looked like a human being.
+=== [02:31] 오늘 마무리하면서 해야 할 일이 있는데 ===
+meaning: There's something I need to do while wrapping things up today.
+tone: Informal, transitional, slightly teasing. Hwasa is shifting the conversation toward something she wants to share or do with the Twits before ending the call. The sentence trails off with -는데, signaling there is more to come.
 
-[02:55]
-  KO: 보고 싶더라고
-  FR: Tu m'as manqué
-  EN: I missed you
+--- word ---
+term: 오늘
+type: noun (time word)
+breakdown:
+meaning: today
+notes: As noted in [01:51], time words like 오늘 function adverbially without needing a particle. Here it sets the timeframe for what Hwasa needs to do.
 
-[03:03]
-  KO: 아니야 내 기준이 있어 사람 아닌 얼굴
-  FR: Non, j'ai mes propres normes. Un visage qui n'est pas humain.
-  EN: No, I have my own standards. A face that is not human.
+--- word ---
+term: 마무리하면서
+type: verb + connective ending
+breakdown: 마무리하다 (to wrap up / to finish) → 마무리하 (stem) + 면서 (while / at the same time)
+meaning: while wrapping up / while finishing
+notes: 마무리 is a noun meaning "finishing touch" or "wrapping up," and 마무리하다 is the verb form. It implies bringing something to a neat close, not just stopping abruptly. The ending -(으)면서 means "while doing" — it connects two simultaneous actions. Here: "while wrapping up (today)." Compare with -면서 vs -(으)며: both mean "while," but -면서 is more common in spoken Korean while -(으)며 is more literary/formal. Also note: -면서 requires the same subject for both clauses in standard grammar, which holds here — Hwasa is the one wrapping up and the one who has something to do. Related: 마무리 짓다 is another way to say "to finalize/wrap up."
 
-[03:06]
-  KO: 나의 그 얼굴이 있어
-  FR: j'ai ce visage
-  EN: I have that face
+--- word ---
+term: 해야
+type: verb + obligation pattern
+breakdown: 하다 (to do) → 해 (casual stem) + 야 (must/should)
+meaning: must do / have to do
+notes: -아/어야 is the grammar pattern expressing obligation or necessity — "must" or "have to." 하다 → 해야 (must do). This is one of the most essential grammar points in Korean. The full pattern is -아/어야 하다/되다, but in natural speech the 하다/되다 at the end is often omitted when another verb follows, as it does here (해야 할). Learners should note: 해야 하다 and 해야 되다 both mean "must do" — 하다 is slightly more standard, 되다 is slightly more colloquial, but both are correct.
 
-[03:10]
-  KO: 예인은 갖추고 오고 싶어
-  FR: Je veux venir équipé d'un cadeau
-  EN: I want to come equipped with a gift
+--- word ---
+term: 할
+type: verb (future modifier form)
+breakdown: 하다 (to do) → 할 (하 + ㄹ future modifier)
+meaning: that needs to be done / to do
+notes: The future modifier -(으)ㄹ appears again, as seen in [01:51] with 올. Here 해야 할 일 = "a task that must be done." The modifier 할 connects the obligation (해야) to the noun 일. This is a layered construction: 해야 할 일 literally parses as "a thing that [one] must do." Stacking grammar patterns like this — obligation + modifier + noun — is very common in Korean and learners should practice recognizing these chains.
+
+--- word ---
+term: 일이
+type: noun + particle
+breakdown: 일 (thing / task / matter) + 이 (subject particle)
+meaning: a thing to do / a task
+notes: 일 has multiple meanings: "work," "task," "matter," or "thing (to deal with)." Here it means "something (that needs to be done)" — a task or matter. Not to be confused with 일 meaning the number one or 일 meaning "day." Context makes the meaning clear. Subject particle 이 marks it as the subject of 있는데.
+
+--- word ---
+term: 있는데
+type: verb + connective ending
+breakdown: 있다 (to exist / there is) → 있 (stem) + 는데 (background/trailing connective)
+meaning: there is (something), but... / there is (something), so...
+notes: -는데 is one of the most versatile and important endings in Korean. It provides background information and implies the sentence is not finished — something more will follow. It can mean "but," "so," "and (for context)," or simply trail off to let the listener anticipate what comes next. Here Hwasa is setting up: "there's something I need to do, and..." — she is building anticipation before revealing what it is. This trailing -는데 is extremely common in spoken Korean and gives a natural, conversational flow. Learners often struggle with -는데 because it does not map to one single English word. Think of it as "here's the situation: ..." For descriptive verbs the form is -(으)ㄴ데, for action verbs and 있다/없다 it is -는데. Since 있다 takes -는데 (not -은데), this is a useful exception to remember.
+
+
+=== [02:35] 또 그거에다가는 못 켤 것 같아서 ===
+meaning: And I don't think I'll be able to turn it on again for that (thing), so...
+tone: Informal, explanatory, trailing off. Hwasa is giving context for why she's doing something now — she likely won't be able to start another Bstage/POP call for whatever she has planned, so she wants to handle it during this current session. The sentence trails off with -아서, implying a follow-up action or explanation.
+
+--- word ---
+term: 또
+type: adverb
+breakdown:
+meaning: again / also / and (additionally)
+notes: Here 또 functions as a conversational connector, similar to "and" or "also" — adding another piece of information to what she just said in [02:31]. In casual speech 또 is frequently used this way to loosely chain thoughts together, beyond its core meaning of "again."
+
+--- word ---
+term: 그거에다가는
+type: pronoun + compound particles
+breakdown: 그거 (that thing) + 에다가 (to/onto, emphatic locative) + 는 (topic/contrast particle)
+meaning: for that (thing) / onto that (occasion)
+notes: This is a dense particle stack worth unpacking. 그거 is the casual contraction of 그것 (that thing) — here likely referring to the task or occasion Hwasa mentioned in [02:31]. 에다가 is an emphatic or colloquial version of 에 (locative particle). Adding 다가 after 에 does not change the core meaning but adds emphasis or a sense of direction/purpose — it feels more spoken and natural than plain 에. Then 는 (topic/contrast particle) is stacked on top, adding a contrastive nuance: "as for that thing (in contrast to now)..." The implication is "for that particular occasion, I won't be able to, but right now I can." This kind of triple particle stacking (에 + 다가 + 는) is very characteristic of natural spoken Korean and can intimidate learners, but each piece adds a small, logical layer of meaning.
+
+--- word ---
+term: 못
+type: adverb (negation)
+breakdown:
+meaning: cannot / unable to
+notes: 못 is placed before a verb to express inability — "cannot." Compare with 안, which expresses unwillingness or simple negation ("don't/won't"). 못 켜다 = cannot turn on; 안 켜다 = won't turn on / don't turn on. This is a fundamental distinction in Korean negation. 못 can indicate either physical inability or circumstantial impossibility — here Hwasa means she won't have the opportunity to do it, not that she lacks the physical ability.
+
+--- word ---
+term: 켤
+type: verb (future modifier form)
+breakdown: 켜다 (to turn on / to light up) → 켤 (켜 + ㄹ future modifier)
+meaning: will turn on / would turn on
+notes: 켜다 means "to turn on" (a light, a device, a broadcast). In the context of a Bstage POP call, 켜다 likely refers to turning on or starting another video call session. The future modifier -(으)ㄹ attaches to form 켤, modifying 것 in the 것 같다 pattern. The opposite is 끄다 (to turn off). Both are useful everyday verbs: 불 켜다 (turn on the light), 불 끄다 (turn off the light), 라이브 켜다 (start a livestream).
+
+--- word ---
+term: 것
+type: bound noun (의존명사)
+breakdown:
+meaning: thing / fact
+notes: Part of the -(으)ㄹ 것 같다 pattern again, as in [01:51]. 못 켤 것 같다 = "it seems like I won't be able to turn it on" / "I don't think I can turn it on."
+
+--- word ---
+term: 같아서
+type: adjective + causal connective
+breakdown: 같다 (to seem) → 같 (stem) + 아서 (because / so)
+meaning: because it seems like / since I think...
+notes: -아/어서 is a connective ending expressing cause or reason — "because" or "so." Here 같아서 = "because it seems like (I can't)..." The sentence trails off, which is very natural in spoken Korean. Hwasa is setting up a reason: "since I don't think I'll be able to turn it on for that..." — and the implied continuation is something like "...I'll do it now" or "...let me take care of it during this call." Trailing -아/어서 sentences are extremely common in conversation — the listener is expected to fill in the conclusion from context. Compare -아/어서 with -(으)니까: both mean "because," but -아/어서 is softer and more commonly used for sequential/natural reasoning, while -(으)니까 is more emphatic or used with commands/suggestions.
+
+
+=== [02:39] 이걸 그래도 ===
+meaning: This (thing), still... / Even so, this...
+tone: Informal, transitional, trailing. Hwasa is mid-thought, continuing from the previous sentence. She is explaining that despite not being able to start another call later, she still wants to get this particular thing done now. The sentence is incomplete — she is building up to what she wants to do.
+
+--- word ---
+term: 이걸
+type: pronoun + particle (contraction)
+breakdown: 이것 (this thing) + 을 (object particle) → 이거 + 를 → contracted to 이걸
+meaning: this (thing) [as object]
+notes: 이걸 is the casual contracted form of 이것을. The contraction chain: 이것을 → 이거를 → 이걸. This follows the same pattern as 뭘 from [01:51] (뭐를 → 뭘). The three demonstrative object forms: 이걸 (this), 그걸 (that), 저걸 (that over there). Here 이걸 refers to whatever task Hwasa mentioned in [02:31] — the thing she needs to do while wrapping up. It is marked with the object particle because it is the thing she intends to act on.
+
+--- word ---
+term: 그래도
+type: adverb / conjunction
+breakdown: 그래 (even so / that being the case) + 도 (even/also particle)
+meaning: still / nevertheless / even so
+notes: 그래도 is a very common conversational conjunction meaning "still," "nevertheless," or "even so." It comes from 그렇다 (to be so) → 그래 + 도 (even). It acknowledges a previous point but pivots: "that may be true, but still..." Here Hwasa is connecting to her previous statement — she said she probably can't start another call for this task, and now with 그래도 she pivots to say she still wants to handle it. Learners should note that 그래도 is one of the most useful linking words in Korean conversation. Compare: 그래도 (still/nevertheless — softer), 그렇지만 (however — slightly more formal), 하지만 (but — neutral), 그런데 (but/by the way — multipurpose). In spoken Korean, 그래도 often carries a warm or determined nuance — "even so, I want to..."
+
+
+=== [02:45] 간만에 좀 사람 얼굴 몰골을 한 김에 ===
+meaning: Since for the first time in a while I somewhat have a presentable face...
+tone: Informal, self-deprecating, humorous. Hwasa is joking that she actually looks decent for once, so she might as well take advantage of it.
+
+--- word ---
+term: 간만에
+type: adverb + particle
+breakdown: 간만 (a long while / a gap of time) + 에 (time particle)
+meaning: for the first time in a while
+notes: 간만에 is a shortened, casual form of 오랜만에 or 오랫만에, which itself comes from 오래간만에. All mean "for the first time in a long time." In everyday speech 간만에 is very common and feels natural, though some consider it quite casual. The more standard/polite form is 오랜만에. Learners will hear both constantly — 간만에 in casual talk, 오랜만에 in slightly more careful speech.
+
+--- word ---
+term: 좀
+type: adverb
+breakdown: 조금 (a little) → contracted to 좀
+meaning: a little / somewhat / kind of
+notes: 좀 is the casual contraction of 조금 (a little). Here it softens the claim — she is not saying she looks great, just "somewhat" presentable. 좀 is also commonly used to soften requests: 좀 도와줘 (help me out a bit). It is one of the most frequently used words in spoken Korean and almost always replaces 조금 in conversation.
+
+--- word ---
+term: 사람
+type: noun
+breakdown:
+meaning: person / human
+notes: 사람 here is part of the humorous compound phrase 사람 얼굴/몰골을 하다 — literally "to have a human face/appearance." The joke is that she is implying she usually does not look like a proper person (messy, bare-faced, etc.), and today she happens to look somewhat human. This kind of playful self-deprecation is common in Korean casual speech.
+
+--- word ---
+term: 얼굴
+type: noun
+breakdown:
+meaning: face
+notes: 얼굴 works together with 몰골 here. She stacks both words — 얼굴 (face) and then 몰골 (appearance/state) — almost correcting or elaborating mid-sentence. This kind of mid-sentence self-correction is natural in spontaneous speech.
+
+--- word ---
+term: 몰골을
+type: noun + particle
+breakdown: 몰골 (appearance / state of one's looks) + 을 (object particle)
+meaning: appearance / the way one looks
+notes: 몰골 means "appearance" or "state of how someone looks," but it almost always carries a negative or rough connotation — it implies a messy, unkempt, or rough look. 몰골이 말이 아니다 (one's appearance is a mess) is a common expression. Here Hwasa uses it self-deprecatingly within the phrase 몰골을 하다 (to have a certain appearance). The humor is in combining 사람 (human) with 몰골 — "for once I have a human-looking appearance." 을 marks it as the object of 하다.
+
+--- word ---
+term: 한
+type: verb (modifier form)
+breakdown: 하다 (to do / to have) → 한 (하 + ㄴ past/present modifier)
+meaning: having done / having (an appearance)
+notes: 하다 here means "to have" or "to sport" in the sense of appearance — 몰골을 하다 = to have a certain look. The modifier form 한 connects to 김에, making 한 김에 a grammatical unit. See next entry.
+
+--- word ---
+term: 김에
+type: bound noun + particle (grammar pattern)
+breakdown: 김 (opportunity / occasion, bound noun) + 에 (particle)
+meaning: while at it / since (the occasion arose) / taking the opportunity
+notes: -(으)ㄴ 김에 is an important grammar pattern meaning "since (something happened / is the case), might as well..." or "while I'm at it." 김 is a bound noun referring to the occasion or momentum of doing something. It always follows a modifier. Examples: 나온 김에 (since I'm already out), 시작한 김에 (since I've already started). Here: 사람 몰골을 한 김에 = "since I happen to look presentable..." The implication is she wants to take advantage of this rare occasion to do something — likely the task she mentioned in [02:31]. This pattern is very useful and natural in spoken Korean.
+
+
+=== [02:55] 보고 싶더라고 ===
+meaning: I was missing you / I realized I wanted to see you.
+tone: Informal, warm, sincere. Hwasa telling her Twits she missed them — a sweet moment in the middle of her rambling setup.
+
+--- word ---
+term: 보고
+type: verb + connective
+breakdown: 보다 (to see) → 보 (stem) + 고 (connective)
+meaning: to see
+notes: 보다 here means "to see (someone)" in the sense of meeting or being with them. 보고 connects to 싶다 to form the compound pattern 보고 싶다 (to want to see / to miss someone). This is one of the most well-known Korean expressions, especially among K-pop fans. 보고 싶다 literally = "want to see" but is the standard way to say "I miss you" in Korean. There is no separate word for "miss" in the English sense — Korean expresses it through wanting to see.
+
+--- word ---
+term: 싶더라고
+type: auxiliary adjective + retrospective ending
+breakdown: 싶다 (to want to) → 싶 (stem) + 더라고 (retrospective casual ending)
+meaning: I realized I wanted to / I found that I wanted to
+notes: Two grammar layers here. First, -고 싶다 = "to want to (do something)." 보고 싶다 = want to see. Second, -더라고(요) is a retrospective ending expressing something the speaker personally experienced or realized in the past and is now reporting. It carries the nuance of "I noticed that..." or "it turned out that..." So 보고 싶더라고 = "I realized I was missing you" or "I found myself wanting to see you." The -더- infix is key — it signals the speaker is reflecting on a past feeling or discovery. Compare: 보고 싶어 (I miss you — direct, present feeling) vs 보고 싶더라고 (I realized I missed you — reflecting on the feeling). The -더라고 ending is casual; the polite form is -더라고요. Learners often find -더- difficult because it does not exist in English — think of it as the speaker stepping back and reporting on their own experience as if observing it from the outside.
+
+
+=== [03:03] 아니야 내 기준이 있어 사람 아닌 얼굴 ===
+meaning: No no, I have my own standard for what counts as a non-human face.
+tone: Informal, playful, self-roasting. Hwasa is doubling down on her earlier joke about having "a human face for once" — clarifying that she has her own personal criteria for when she looks human vs. not.
+
+--- word ---
+term: 아니야
+type: adjective (casual conjugation)
+breakdown: 아니다 (to not be) → 아니 (stem) + 야 (casual ending)
+meaning: no / it's not / that's not it
+notes: 아니야 is the casual form of 아니다 and is used both as a flat "no" and as "that's not it." Here Hwasa is dismissing something — likely a fan comment protesting her self-deprecation. Very common conversation starter when correcting or pushing back casually. Polite form: 아니에요.
+
+--- word ---
+term: 내
+type: pronoun (possessive)
+breakdown: 나 (I) + 의 (possessive particle) → contracted to 내
+meaning: my
+notes: 내 is the standard casual possessive form of 나. In spoken Korean, 나의 is rarely used — 내 is the natural form. Polite equivalent: 제 (from 저 + 의). Here: 내 기준 = "my standard."
+
+--- word ---
+term: 기준이
+type: noun + particle
+breakdown: 기준 (standard / criteria) + 이 (subject particle)
+meaning: standard / criteria
+notes: 기준 is a Sino-Korean word (基準) meaning "standard," "benchmark," or "criteria." It is used in both casual and formal contexts. 내 기준 = "by my standard" or "in my judgment." A common colloquial pattern is 내 기준에 (by my standards) or 내 기준으로 (according to my criteria).
+
+--- word ---
+term: 있어
+type: verb (casual conjugation)
+breakdown: 있다 (to exist / to have) → 있어 (casual form)
+meaning: I have / there is
+notes: 있다 conjugated casually. 기준이 있어 = "I have a standard" or "a standard exists." This ends the first clause of the sentence — what follows (사람 아닌 얼굴) is a separate trailing phrase that elaborates.
+
+--- word ---
+term: 사람
+type: noun
+breakdown:
+meaning: person / human
+notes: Same word as in [02:45]. Here it feeds into the modifier phrase 사람 아닌 — "not a person / non-human."
+
+--- word ---
+term: 아닌
+type: adjective (modifier form)
+breakdown: 아니다 (to not be) → 아닌 (아니 + ㄴ modifier ending)
+meaning: that is not / non-
+notes: 아닌 is the modifier form of 아니다, used to modify a following noun. 사람 아닌 얼굴 = "a face that is not (that of) a person" / "a non-human face." The structure [noun] + 아닌 + [noun] is a useful pattern: 학생 아닌 사람 (a person who is not a student), 진짜 아닌 것 (something that is not real). Note the word order — what is being negated (사람) comes before 아닌, which then modifies the following noun (얼굴).
+
+--- word ---
+term: 얼굴
+type: noun
+breakdown:
+meaning: face
+notes: Here 사람 아닌 얼굴 is Hwasa's trailing elaboration — she is defining what her "standard" is about. She is saying she has criteria for what counts as a "non-human face," meaning she knows when she looks rough. The phrase hangs at the end like an afterthought, which is very natural in spontaneous Korean speech — speakers often tack on a clarifying noun phrase after completing the main clause.
+
+
+=== [03:06] 나의 그 얼굴이 있어 ===
+meaning: I have that face (of mine).
+tone: Informal, humorous, continuing the joke. Hwasa is saying she has a specific "look" she's referring to — her rough/non-human face that she claims to recognize.
+
+--- word ---
+term: 나의
+type: pronoun + possessive particle
+breakdown: 나 (I) + 의 (possessive particle)
+meaning: my
+notes: Hwasa uses the uncontracted 나의 here instead of the more common 내. In casual speech 내 is far more frequent, but 나의 does appear when the speaker wants slight emphasis or a more deliberate rhythm. It can also feel a touch more dramatic or playful. In written Korean or song lyrics 나의 is common, but in fast conversation 내 dominates.
+
+--- word ---
+term: 그
+type: determiner
+breakdown:
+meaning: that
+notes: 그 is a demonstrative determiner meaning "that" — referring to something both speaker and listener are aware of or that was previously mentioned. Here 그 얼굴 = "that face" — Hwasa is pointing to a specific look the Twits should know about. The three Korean determiners: 이 (this, near speaker), 그 (that, shared knowledge or near listener), 저 (that over there, distant). 그 is also used when referencing something from earlier in conversation, which is exactly this case.
+
+--- word ---
+term: 얼굴이
+type: noun + particle
+breakdown: 얼굴 (face) + 이 (subject particle)
+meaning: face
+notes: 얼굴 appears again — this is the third time in recent sentences. Hwasa is building a running joke about her face. Subject particle 이 marks it as the subject of 있어.
+
+--- word ---
+term: 있어
+type: verb (casual conjugation)
+breakdown: 있다 (to exist / to have) → 있어 (casual form)
+meaning: there is / I have
+notes: Same as [03:03]. 나의 그 얼굴이 있어 = "I have that face (of mine)" or "that face of mine exists." The structure [possession] + 이/가 있다 is the standard Korean way to express having something — Korean says "the thing exists (to me)" rather than "I have the thing." This is a key structural difference from English that learners should internalize early.
+
+
+=== [03:10] 예인은 갖추고 오고 싶어 ===
+meaning: Yein wants to come looking put-together.
+tone: Informal, sincere with a touch of humor. Hwasa is referring to herself by her real name (예인), explaining that she personally wants to show up looking properly done up for her fans.
+
+--- word ---
+term: 예인은
+type: proper noun + particle
+breakdown: 예인 (Yein — could be a reference to Hwasa's real name, 안혜진 Ahn Hyejin) + 은 (topic particle)
+meaning: Yein (as for "Yein"/"Hyejin"-?)
+notes: Hwasa refers to herself in the third person. Speaking about yourself in the third person is common and endearing in Korean idol culture — it creates a cute, playful, or sincere effect. The topic particle 은 (after a consonant-ending noun) marks 예인 as the topic, giving a "as for Yein/Hyejin, she..." framing. This also subtly separates her "real self" (예인) from her idol persona (화사/Hwasa), adding a layer of intimacy with the Twits — she is saying the real her, Yein/Hyejin, cares about showing up looking nice for them.
+
+--- word ---
+term: 갖추고
+type: verb + connective
+breakdown: 갖추다 (to prepare / to be equipped / to put together) → 갖추 (stem) + 고 (sequential connective)
+meaning: getting prepared / putting oneself together (and then...)
+notes: 갖추다 means "to equip," "to prepare," or "to get properly set up." It implies having everything in order — appearance, tools, qualifications, etc. Here it refers to getting her appearance together — hair, makeup, outfit — before coming to see the fans. 갖추다 has a sense of thoroughness and propriety. Related expressions: 예의를 갖추다 (to show proper manners), 조건을 갖추다 (to meet requirements), 모습을 갖추다 (to get one's appearance in order). The connective -고 links this action sequentially to 오다: first get ready, then come.
+
+--- word ---
+term: 오고
+type: verb + connective
+breakdown: 오다 (to come) → 오 (stem) + 고 (connective)
+meaning: come (and)
+notes: 오고 here connects to 싶다 via the -고 싶다 pattern. The full chain is 갖추고 오다 (get ready and come) → 갖추고 오고 싶다 (want to get ready and come). Note there are two -고 connectives in this sentence serving different functions: 갖추고 (sequential "and then") and 오고 싶다 (desire pattern "want to"). Learners should be comfortable recognizing -고 in both uses.
+
+--- word ---
+term: 싶어
+type: auxiliary adjective (casual conjugation)
+breakdown: 싶다 (to want to) → 싶 (stem) + 어 (casual ending)
+meaning: want to
+notes: -고 싶다 = "want to do (something)." Here the full structure is 갖추고 오고 싶어 = "I want to come looking put-together." Compare with [02:55] 보고 싶더라고 (realized I missed you) — same 싶다 but with a different ending changing the nuance. 싶어 is direct present desire; 싶더라고 was retrospective realization.
 
 
 — [03:29] ————————————————————————————————————————
