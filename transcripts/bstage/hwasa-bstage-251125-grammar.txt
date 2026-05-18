@@ -803,50 +803,374 @@ notes: -고 싶다 = "want to do (something)." Here the full structure is 갖추
 
 — [03:29] ————————————————————————————————————————
 
-[03:29]
-  KO: 나도 보고 싶었어
-  FR: Tu m'as manqué aussi
-  EN: I missed you too
+=== [03:29] 나도 보고 싶었어 ===
+meaning: I missed you too / I wanted to see you too
+tone: Informal, warm, direct to fans. 반말 (casual speech) — natural for an idol speaking affectionately to fans.
 
-[03:37]
-  KO: 여행을 갔다 왔어
-  FR: je reviens d'un voyage
-  EN: I came back from a trip
+--- word ---
+term: 나
+type: pronoun
+breakdown:
+meaning: I / me
+notes: Casual first-person pronoun. The polite equivalent is 저 (jeo). Using 나 here signals 반말 (banmal, casual speech), which fits the intimate idol-to-fan dynamic on a Bstage live where Hwasa is speaking directly to Twits.
 
-[03:43]
-  KO: 여행 가서
-  FR: partir en voyage
-  EN: go on a trip
+--- word ---
+term: 도
+type: particle
+breakdown:
+meaning: too / also
+notes: Additive particle attached to 나. Implies a fan said "I missed you" first (보고 싶었어), and Hwasa is reciprocating with "me too." 도 always attaches directly to the noun it modifies — 나도, 너도 (you too), 우리도 (us too).
 
-[03:47]
-  KO: 언니들이랑 친언니들이랑
-  FR: Avec mes sœurs et mes vraies sœurs
-  EN: With my sisters and real sisters
+--- word ---
+term: 보고
+type: verb (connective form)
+breakdown: 보다 (to see) + -고 (connective ending)
+meaning: see (as part of a compound expression)
+notes: 보다 literally means "to see," but here it's part of the set expression 보고 싶다 (bogo sipda, "to want to see" = "to miss someone"). The -고 connects 보다 to 싶다. This is one of the first expressions Korean learners encounter — 보고 싶다 is the standard way to say "I miss you" in Korean. It's more literal than the English concept: you're expressing that you want to see the person.
 
-[03:51]
-  KO: 처음으로 여행을 갔다 왔어
-  FR: Je suis parti en voyage pour la première fois
-  EN: I went on a trip for the first time
+--- word ---
+term: 싶었어
+type: auxiliary verb (past, informal)
+breakdown: 싶다 (to want) + -었- (past tense) + -어 (informal ending)
+meaning: wanted to
+notes: 싶다 is an auxiliary verb meaning "to want to (do something)," always preceded by a verb in -고 form: 먹고 싶다 (want to eat), 가고 싶다 (want to go). Here 싶었어 is past tense — "wanted to see" / "have been wanting to see." The informal ending -어 confirms 반말. Polite equivalents: 싶었어요 (casual polite) or 싶었습니다 (formal polite). In practice, 보고 싶었어 often carries a present emotional weight — "I've been missing you (and still do)" — rather than a strictly completed past action.
 
-[03:55]
-  KO: 거기서 좋은 소식을 이렇게 들어가지고
-  FR: C'est là qu'intervient la bonne nouvelle.
-  EN: That's where the good news comes in.
 
-[04:03]
-  KO: 청룡 끝나자마자 바로 떠났거든
-  FR: Je suis parti juste après la fin de Blue Dragon.
-  EN: I left right after Blue Dragon ended.
+=== [03:37] 여행을 갔다 왔어 ===
+meaning: I went on a trip and came back
+tone: Informal, casual storytelling. Sharing a personal update with fans.
 
-[04:17]
-  KO: 후쿠호카 갔다 왔어 후쿠호카
-  FR: Je suis allé à Fukuhoka. Je reviens de Fukuhoka.
-  EN: I went to Fukuhoka. I came back from Fukuhoka.
+--- word ---
+term: 여행
+type: noun
+breakdown:
+meaning: trip / travel
+notes: Sino-Korean word (旅行). Very common noun. Can be combined with 하다 to form the verb 여행하다 (to travel). Related: 여행지 (travel destination), 해외여행 (overseas travel), 국내여행 (domestic travel).
 
-[04:27]
-  KO: 온천 갔어
-  FR: Je suis allé dans une source chaude
-  EN: I went to a hot spring
+--- word ---
+term: 을
+type: particle
+breakdown:
+meaning: object marker
+notes: Marks 여행 as the object of the verb. 을 is used after consonant-ending nouns; 를 is used after vowel-ending nouns. Here 여행 ends in ㅇ (a consonant in final position), so 을 is correct. Common learner mistake: 을/를 is often dropped in casual speech, but Hwasa includes it here, which is natural — dropping it is optional, not mandatory.
+
+--- word ---
+term: 갔다
+type: verb (sequential past form)
+breakdown: 가다 (to go) + -았- (past tense) + -다 (citation/sequential ending)
+meaning: went (and then...)
+notes: This is the key grammar point. 갔다 here is NOT a sentence-ending form — it's a sequential connector meaning "went and then (did something next)." The pattern V-았/었다 + V creates a "did X then did Y" sequence. It implies the first action was completed before the second began. This form is very natural in spoken Korean and quite common in everyday storytelling. Don't confuse this with the dictionary/written form 갔다 used to end a sentence — context and what follows determine the function.
+
+--- word ---
+term: 왔어
+type: verb (past, informal)
+breakdown: 오다 (to come) + -았- (past tense) + -어 (informal ending)
+meaning: came (back)
+notes: 오다 conjugates irregularly in past tense: 오 + 았 contracts to 왔. The full expression 갔다 왔어 is an extremely common set phrase meaning "went and came back." You'll hear it constantly in daily Korean: 학교 갔다 왔어 (went to school and came back), 회사 갔다 왔어 (went to work and came back). A related greeting: 다녀왔습니다 (I'm back / I've returned) — a set phrase said when arriving home, more formal than 갔다 왔어.
+
+
+=== [03:43] 여행 가서 ===
+meaning: (I) went on a trip, so... / Since (I) went on a trip...
+tone: Informal, trailing off. Mid-thought — likely setting up a reason or explanation in the next sentence.
+
+--- word ---
+term: 여행
+type: noun
+breakdown:
+meaning: trip / travel
+notes: Same word as the previous sentence. Notice here 을 (object particle) is dropped — 여행 가서 instead of 여행을 가서. This is extremely common in casual spoken Korean. Particles are often omitted when the meaning is clear from context. Comparing the two sentences back to back (여행을 갔다 왔어 vs 여행 가서) is a good example of how particle usage fluctuates naturally even within the same speaker and conversation.
+
+--- word ---
+term: 가서
+type: verb (causal/sequential connective)
+breakdown: 가다 (to go) + -아서 (causal/sequential ending)
+meaning: went (so...) / because (I) went
+notes: -아서/-어서 is a versatile connective ending with two main uses: (1) reason/cause — "because/since I did X" and (2) sequence — "did X and then." Here it functions as reason: "since I went on a trip, (something happened)..." The sentence trails off, meaning Hwasa is about to explain what happened or what she did on the trip. Key distinction: -아서 vs -으니까 — both can mean "because," but -아서 is softer and more narrative, while -(으)니까 is stronger and more argumentative. -아서 cannot be used with imperative or suggestion endings; -(으)니까 can. Common learner trap: 가 + 아서 contracts to 가서 (not 가아서). Vowel ㅏ merges with 아 seamlessly.
+
+
+=== [03:47] 언니들이랑 친언니들이랑 ===
+meaning: With (my) older sisters — (my) biological older sisters
+tone: Informal, mid-sentence. Self-correcting or clarifying — she first says "언니들" then specifies "친언니들" to make clear she means her actual sisters, not just older women she's close with.
+
+--- word ---
+term: 언니
+type: noun
+breakdown:
+meaning: older sister (used by a female speaker)
+notes: 언니 is what a woman calls an older female. It can refer to a biological sister OR any older woman she's close with — friends, colleagues, seniors, etc. This double meaning is exactly why Hwasa clarifies with 친언니 in the second half. In idol/entertainment contexts, 언니 is used constantly for older female peers, so fans might assume she means industry friends. Male speakers use 누나 (nuna) for an older female instead.
+
+--- word ---
+term: 들
+type: suffix
+breakdown:
+meaning: plural marker
+notes: 들 marks plurality: 언니 (one older sister) → 언니들 (older sisters). Hwasa has two older sisters, so the plural fits. Korean doesn't require plural markers as strictly as English — context often suffices — but 들 is used here naturally for clarity.
+
+--- word ---
+term: 이랑
+type: particle
+breakdown:
+meaning: with / and
+notes: Casual particle meaning "with" or "and." Used after consonant-ending nouns (이랑); after vowel-ending nouns it's 랑. Here 들 ends in ㄹ (consonant), so 이랑 is correct. Register comparison: 이랑/랑 (casual) → 하고 (neutral) → (이)랑 and 과/와 (formal/written). 이랑 fits the 반말 tone of this live perfectly. Notice she says 이랑 twice — this is a listing pattern: "with X and with Y," trailing off before finishing the thought.
+
+--- word ---
+term: 친언니
+type: noun (compound)
+breakdown: 친 (biological/real) + 언니 (older sister)
+meaning: biological older sister
+notes: 친 (親) is a Sino-Korean prefix meaning "biological" or "real." It's used specifically to distinguish blood relations from the broader social use of family terms. Common examples: 친엄마 (biological mom), 친아빠 (biological dad), 친동생 (biological younger sibling). This is a useful prefix to know because Korean family terms are used so loosely in social contexts that clarification is often needed. The self-correction from 언니들 to 친언니들 is very natural spoken Korean — she catches herself and adds precision mid-sentence.
+
+--- word ---
+term: 들이랑
+type: suffix + particle
+breakdown: 들 (plural) + 이랑 (with/and)
+meaning: (plural) with
+notes: Same structure as above. The sentence trails off after this second 이랑, suggesting she's about to say what they did together. The repeated 이랑 pattern (A이랑 B이랑) is a casual way to list companions or items, similar to "with A and B" in English.
+
+
+=== [03:51] 처음으로 여행을 갔다 왔어 ===
+meaning: I went on a trip (with them) for the first time and came back
+tone: Informal, sharing a personal milestone with fans. Continues the story from previous sentences.
+
+--- word ---
+term: 처음
+type: noun / adverb
+breakdown:
+meaning: the first time / first
+notes: 처음 can function as a noun ("the beginning/first time") or an adverb ("for the first time") depending on context. Here it's used as a noun, paired with the particle 으로. Related expressions: 처음에 (at first / in the beginning — marks a starting point in time), 처음부터 (from the very start). Don't confuse 처음 with 첫 (first as a modifier before nouns): 첫사랑 (first love), 첫날 (first day).
+
+--- word ---
+term: 으로
+type: particle
+breakdown:
+meaning: as / by means of / for (direction/manner)
+notes: 으로 is a multi-purpose particle. After consonant-ending nouns it's 으로; after vowel-ending nouns or ㄹ-final nouns it's 로. Here 처음으로 means "for the first time" — 으로 indicates manner or capacity. Other uses of (으)로: direction (서울로 — toward Seoul), means/method (버스로 — by bus), reason (감기로 — due to a cold). 처음으로 vs 처음: adding 으로 emphasizes the milestone quality — "for the first time (ever)" — while bare 처음 is more neutral.
+
+--- word ---
+term: 여행을
+type: noun + particle
+breakdown: 여행 (trip) + 을 (object marker)
+meaning: a trip (as object)
+notes: Here she includes 을 again (compare [03:43] where she dropped it). Both are perfectly natural. In this sentence the full structure 처음으로 여행을 갔다 왔어 has a slightly more complete, storytelling feel — she's delivering the punchline of her setup from the previous sentences.
+
+--- word ---
+term: 갔다 왔어
+type: verb phrase (sequential past, informal)
+breakdown: 가다 (to go) + -았다 (sequential past) + 오다 (to come) + -았어 (past informal)
+meaning: went and came back
+notes: Same structure as [03:37]. Covered in detail there. The full sentence now connects: she traveled with her biological older sisters (친언니들이랑) for the first time — a personal milestone she's sharing with Twits. 갔다 오다 as a set phrase implies a completed round trip.
+
+
+=== [03:55] 거기서 좋은 소식을 이렇게 들어가지고 ===
+meaning: I heard good news there like this, so... / While I was there, I got some good news and so...
+tone: Informal, building toward something. Trailing connective — she's setting up what happened next as a result of the news.
+
+--- word ---
+term: 거기
+type: pronoun
+breakdown:
+meaning: there / that place
+notes: Demonstrative place pronoun. Part of the 이/그/저 spatial system: 여기 (here, near speaker), 거기 (there, near listener or previously mentioned), 저기 (over there, far from both). 거기 here refers back to the trip destination she's been talking about.
+
+--- word ---
+term: 서
+type: particle
+breakdown:
+meaning: at / in / from (location of action)
+notes: Short form of 에서, the particle marking where an action takes place. 거기에서 → 거기서 — dropping 에 is extremely common in casual speech and sounds more natural. Key distinction: 에 marks static location or destination (거기에 있어 — "I'm there"), while 에서 marks where an action happens (거기서 들었어 — "I heard it there"). This is a frequent learner confusion point.
+
+--- word ---
+term: 좋은
+type: adjective (modifier form)
+breakdown: 좋다 (to be good) + -(으)ㄴ (adjective modifier ending)
+meaning: good
+notes: -(으)ㄴ turns a descriptive verb (adjective) into a noun modifier. 좋다 → 좋은: the ㅎ-ending stem 좋 + 은. Pattern: 크다 → 큰 (big), 작다 → 작은 (small), 나쁘다 → 나쁜 (bad). Don't confuse this with the verb modifier -는, which is used for action verbs in present tense: 먹는 사람 (person who eats) vs 좋은 사람 (good person).
+
+--- word ---
+term: 소식
+type: noun
+breakdown:
+meaning: news / tidings
+notes: Sino-Korean word (消息). 좋은 소식 (good news) is a very common pairing. Related: 나쁜 소식 (bad news), 소식을 듣다 (to hear news), 소식을 전하다 (to deliver news). Not to be confused with the homophone 소식 meaning "eating small portions" (小食), which is a completely different word.
+
+--- word ---
+term: 을
+type: particle
+breakdown:
+meaning: object marker
+notes: Marks 소식 as the direct object of 듣다 (to hear). Consonant-final noun, so 을 (not 를).
+
+--- word ---
+term: 이렇게
+type: adverb
+breakdown: 이렇다 (to be like this) + -게 (adverb-forming ending)
+meaning: like this / in this way
+notes: Part of the 이/그/저 set: 이렇게 (like this), 그렇게 (like that), 저렇게 (like that over there). In casual spoken Korean, 이렇게 is often used as a filler or for vague emphasis — similar to English "just like that" or "you know, like this." Here Hwasa isn't pointing to anything specific; it's more of a storytelling device to convey "this is how it happened." Very natural in spoken Korean.
+
+--- word ---
+term: 들어가지고
+type: verb + connective
+breakdown: 듣다 (to hear) + -어 (connective) + 가지고 (causal/sequential connective)
+meaning: heard (it), and so... / having heard...
+notes: This is a two-part structure. First: 듣다 conjugates irregularly — ㄷ-irregular verb. When followed by a vowel ending, ㄷ changes to ㄹ: 듣 + 어 → 들어. This is a must-know irregular pattern (cf. 걷다 → 걸어, to walk). Second: -어/아 가지고 (often shortened to -어/아 갖고 in fast speech) is a casual spoken connective meaning "because of doing X" or "having done X, and then." It functions similarly to -어서 but is more colloquial and characteristic of spoken Korean. Textbooks often teach -어서 first, but native speakers use -어/아 가지고 just as frequently in conversation. The sentence trails off here — she's about to tell fans what the good news led to.
+
+
+=== [04:03] 청룡 끝나자마자 바로 떠났거든 ===
+meaning: (You see,) I left right as soon as Blue Dragon ended
+tone: Informal, explanatory. Using -거든 to give background info — "the reason/context is..."
+
+--- word ---
+term: 청룡
+type: noun (abbreviation)
+breakdown:
+meaning: Blue Dragon (short for 청룡영화상, Blue Dragon Film Awards)
+notes: 청룡 (靑龍) literally means "blue dragon." Here it's a
+casual abbreviation of 청룡영화상 (Blue Dragon Film Awards),
+one of South Korea's most prestigious film award ceremonies.
+The 46th ceremony was held on November 19, 2025 — six days
+before this Bstage live. Hwasa performed "Good Goodbye" with
+actor Park Jeong-min (박정민) at the ceremony, and the
+performance went viral, sending the song back to #1 on all
+major Korean charts. She's explaining that she left for her
+trip immediately after, missing the explosion in real time.
+
+--- word ---
+term: 끝나자마자
+type: verb + grammar pattern
+breakdown: 끝나다 (to end/finish) + -자마자 (as soon as)
+meaning: as soon as it ended
+notes: -자마자 is a crucial intermediate grammar pattern meaning
+"as soon as" or "the moment (something happens)." It attaches
+directly to the verb stem — no tense marker needed. 끝나다
+(to end) → 끝나 + 자마자 = 끝나자마자. More examples:
+도착하자마자 (as soon as I arrived), 먹자마자 (as soon as
+I ate). The pattern emphasizes zero delay between the two
+events. Don't confuse 끝나다 (to end, intransitive) with
+끝내다 (to finish/complete something, transitive).
+
+--- word ---
+term: 바로
+type: adverb
+breakdown:
+meaning: right away / immediately
+notes: 바로 reinforces the immediacy already conveyed by
+-자마자 — a natural doubling-up in spoken Korean for emphasis.
+"As soon as it ended, immediately left." 바로 has multiple
+meanings depending on context: (1) immediately/right away
+(time), (2) right/directly (location — 바로 옆에, right
+next to), (3) correctly/properly (바로 말하다, to speak
+correctly). Here it's meaning (1). Similar adverb: 곧바로
+(right away, slightly more emphatic).
+
+--- word ---
+term: 떠났거든
+type: verb + ending
+breakdown: 떠나다 (to leave/depart) + -았- (past tense) +
+-거든 (explanatory/background ending)
+meaning: (the thing is,) I left / I departed, you see
+notes: Two important elements here.
+
+떠나다 means "to leave" or "to depart," often with a sense
+of going on a journey. It's more dramatic/literary than just
+가다 (to go). 여행을 떠나다 (to depart on a trip) is a
+natural collocation.
+
+-거든 is the key grammar point. In sentence-final position
+(as here), it provides background explanation or a reason
+the listener didn't know — roughly "you see" or "the thing
+is." Hwasa is explaining WHY she wasn't around when
+everything blew up: "the thing is, I left right away."
+Common learner mistake: -거든 can also mean "if" in
+mid-sentence (conditional), but sentence-final -거든 is
+explanatory, not conditional. These are different usages.
+Register: -거든 is casual. The polite form is -거든요.
+
+
+=== [04:17] 후쿠호카 갔다 왔어 후쿠호카 ===
+meaning: I went to Fukuoka and came back — Fukuoka
+tone: Informal, excited. Repeating the destination at the end for emphasis — very natural spoken rhythm, like "I went to Fukuoka! Fukuoka!"
+
+--- word ---
+term: 후쿠호카
+type: noun (place name)
+breakdown:
+meaning: Fukuoka (city in Japan)
+notes: This is the Korean pronunciation of 福岡 (Fukuoka), a
+major city in southern Japan and an extremely popular travel
+destination for Koreans due to its proximity (roughly a 1.5
+hour flight from Seoul, or a ferry from Busan). The standard
+Korean spelling is 후쿠오카, but Hwasa says 후쿠호카 — this
+is a common casual/colloquial pronunciation where the ㅗ
+sound in 오 shifts. You'll hear both 후쿠오카 and 후쿠호카
+from native speakers in natural speech. This kind of
+variation with foreign place names is normal and not
+considered incorrect in conversation.
+
+--- word ---
+term: 갔다 왔어
+type: verb phrase (sequential past, informal)
+breakdown: 가다 (to go) + -았다 (sequential past) + 오다
+(to come) + -았어 (past informal)
+meaning: went and came back
+notes: Third time this phrase appears in the conversation
+([03:37], [03:51], now here). By now this pattern should be
+feeling familiar — that's exactly how acquisition works with
+real native speech. Notice that here there's no 을 particle:
+후쿠호카 갔다 왔어 rather than 후쿠호카를 갔다 왔어. With
+place names and 가다, the destination particle is often
+에 (후쿠오카에 갔다 왔어), but in casual speech it's
+frequently dropped entirely, as here.
+
+--- word ---
+term: 후쿠호카 (repeated)
+type: noun (place name, repeated)
+breakdown:
+meaning: Fukuoka
+notes: Repeating a key word at the end of a sentence is a
+very common spoken Korean pattern. It functions as emphasis,
+self-confirmation, or excitement — like saying "yeah,
+Fukuoka!" It can also serve as a repair or clarification,
+making sure the listener caught the important detail. You'll
+hear this constantly in vlives and casual conversation:
+"밥 먹었어, 밥" (I ate, food/I ate!). It's not a grammar
+rule taught in textbooks, but it's essential to understanding
+natural spoken Korean rhythm.
+
+
+=== [04:27] 온천 갔어 ===
+meaning: I went to a hot spring
+tone: Informal, brief. Casually listing what she did on the trip.
+
+--- word ---
+term: 온천
+type: noun
+breakdown:
+meaning: hot spring / onsen
+notes: Sino-Korean word (溫泉) — 온 (warm/hot) + 천 (spring/
+fountain). Refers to natural hot spring baths. Fukuoka and
+the broader Kyushu region are famous for onsen, so this is a
+classic activity for Koreans visiting that area. In Korean
+the word 온천 covers both the natural hot spring itself and
+the bathing facility. Related: 온천 여행 (hot spring trip),
+노천 온천 (open-air hot spring), 온천수 (hot spring water).
+
+--- word ---
+term: 갔어
+type: verb (past, informal)
+breakdown: 가다 (to go) + -았- (past tense) + -어 (informal
+ending)
+meaning: went
+notes: Notice she uses 갔어 here rather than 갔다 왔어. The
+difference: 갔다 왔어 emphasizes the full round trip ("went
+and came back"), while 갔어 simply states "I went." In this
+context she's listing trip activities casually — the round
+trip is already understood from the broader conversation, so
+the simpler 갔어 is enough. Also note the particle drop
+again: 온천 갔어 instead of 온천에 갔어. The location
+particle 에 is omitted, which is completely natural in
+casual spoken Korean, especially for common activity-
+destination pairs like 온천 가다, 학교 가다 (go to school),
+카페 가다 (go to a café).
 
 
 — [04:47] ————————————————————————————————————————
