@@ -140,7 +140,6 @@ meaning: "it's (the) reaction" / "the reaction is"
 notes: 반응 is a Sino-Korean word (from Chinese 反應) meaning "reaction" or "response." Very commonly used when talking about how people react to something, especially online — 반응이 좋다 ("the reaction is good"), 반응이 뜨겁다 ("the reaction is heated/intense"). The ending 이야 is the 반말 (casual) copula form of 이다 ("to be"), used after nouns ending in a consonant. After a vowel it becomes -야 (e.g., 뭐야, "what is it?"). Polite version would be 반응이에요. Here Hwasa is wrapping up her observation: the reaction is (one of) "why did you come?" — said with playful disbelief.
 
 
-
 — [01:03] ————————————————————————————————————————
 
 === [01:03] 무슨 반응인 거야 이거는 ===
@@ -176,20 +175,89 @@ meaning: "this (as for this)"
 notes: 이거 is the casual spoken form of 이것 ("this thing"). Adding 는 (topic particle) emphasizes contrast or singles it out — "as for THIS..." It's placed at the end of the sentence here, which is a very natural Korean spoken word order shift called 도치 (inversion/afterthought). In textbook order it would be 이거는 무슨 반응인 거야, but putting 이거는 at the end adds a feeling of "...I mean, seriously, THIS?" — like she's tacking it on as an exasperated afterthought. This kind of rearrangement is extremely common in casual spoken Korean and something textbooks rarely teach.
 
 
-[01:07]
-  KO: 갑작스럽긴 하지
-  FR: Ce n'est pas soudain
-  EN: It's not sudden
+=== [01:07] 갑작스럽긴 하지 ===
+meaning: It is kind of sudden, though.
+tone: Informal, reflective, self-acknowledging. The speaker is admitting something is sudden, almost talking to themselves or softly agreeing with an unspoken thought.
 
-[01:09]
-  KO: 나 원래 갑작스럽게 오잖아
-  FR: D'habitude, je viens ici soudainement
-  EN: I usually come here suddenly
+--- word ---
+term: 갑작스럽긴
+type: adjective + contraction
+breakdown: 갑작스럽다 (to be sudden) → 갑작스럽 (stem) + 기는 (기는 contracted to 긴)
+meaning: being sudden (with concessive nuance)
+notes: 갑작스럽다 is the descriptive verb meaning "to be sudden/abrupt." It is built from the noun 갑작 (suddenness) + the suffix -스럽다, which turns nouns into adjectives meaning "having the quality of." Other examples: 사랑스럽다 (to be lovely, from 사랑 love), 자연스럽다 (to be natural, from 자연 nature). The ending -기는 (nominalization + topic particle 는) is used to concede a point: "it IS [X], but..." In casual speech -기는 almost always contracts to -긴. The full uncontracted form 갑작스럽기는 would sound stiff and overly formal in conversation. Learners should get comfortable recognizing -긴 as this contraction since it appears constantly in spoken Korean.
 
-[01:16]
-  KO: 더 늦은 시간에도 오잖아
-  FR: Tu viens encore plus tard
-  EN: You come even later
+--- word ---
+term: 하지
+type: auxiliary verb + casual ending
+breakdown: 하다 (to do/to be) → 하 (stem) + 지 (sentence-ending particle)
+meaning: it is, right / though
+notes: Here 하다 functions as an auxiliary verb completing the -긴 하다 pattern. The full construction -긴 하다 means "it IS (something), admittedly" — it acknowledges a fact while implying there is more to the story. The ending -지 in this position is a soft sentence ender that seeks mild agreement or expresses self-confirmation, similar to "right?" or "though" in English. It is 반말 (casual speech), so it would only be used with friends, people younger than you, or when talking to yourself. Compare: -지요/죠 is the polite equivalent. Note that -지 has many uses in Korean — it can mark negation (않지), rhetorical questions, or soft assertions depending on context. Here it gives a musing, reflective feel, like the speaker is acknowledging reality to themselves.
+
+=== [01:09] 나 원래 갑작스럽게 오잖아 ===
+meaning: I always come suddenly, you know.
+tone: Informal, playful, self-justifying. The speaker is defending the suddenness by reminding listeners this is just how they are. Feels lighthearted and characteristic of idol-to-fan casual talk.
+
+--- word ---
+term: 나
+type: pronoun
+breakdown:
+meaning: I / me
+notes: 나 is the casual first-person pronoun, used in 반말 (informal speech). The polite equivalent is 저. Here it appears without any particle — in spoken Korean, the subject particle 가 (나 + 가 → 내가) is very frequently dropped. Learners should note that particle-dropping is normal and expected in casual speech, not a mistake.
+
+--- word ---
+term: 원래
+type: adverb
+breakdown:
+meaning: originally / by nature / always (as a general trait)
+notes: 원래 means "originally" or "by nature." It is used to describe something that has always been the case or is someone's inherent characteristic. Here it carries the nuance of "I've always been this way" — it is not about a single past event but a general pattern. Common in everyday speech. Compare with 항상 (always), which emphasizes frequency, whereas 원래 emphasizes that something is a fundamental or default trait. Example: 나 원래 이래 (I'm just like this by nature).
+
+--- word ---
+term: 갑작스럽게
+type: adverb (derived from adjective)
+breakdown: 갑작스럽다 (to be sudden) → 갑작스럽 (stem) + 게 (adverbial suffix)
+meaning: suddenly / in a sudden manner
+notes: The suffix -게 converts a descriptive verb (adjective) into an adverb, similar to adding "-ly" in English. 갑작스럽다 → 갑작스럽게 (suddenly). This is one of the most productive and useful patterns in Korean. Other examples: 자연스럽다 → 자연스럽게 (naturally), 조용하다 → 조용하게 (quietly). Note the simpler synonym 갑자기 also means "suddenly" and is more common in everyday speech. 갑작스럽게 feels slightly more descriptive or emphatic by comparison.
+
+--- word ---
+term: 오잖아
+type: verb + ending
+breakdown: 오다 (to come) → 오 (stem) + 잖아 (sentence ending)
+meaning: I come, you know / as you know, I come
+notes: -잖아 is a casual sentence ending that means "you know" or "as you already know." It reminds the listener of something both parties should be aware of. It is a contraction of -지 않다 (to not) but has evolved into its own distinct meaning — it no longer carries a negative sense. This is a common point of confusion for learners: -잖아 does NOT mean "don't" here. Full polite form: -잖아요. This ending is extremely common in spoken Korean, especially when someone is explaining themselves or lightly protesting. Here the speaker is saying "you already know I show up suddenly" — it is playful self-awareness. Related: -잖아 can sound slightly whiny or insistent depending on tone, but here it is lighthearted.
+
+
+=== [01:16] 더 늦은 시간에도 오잖아 ===
+meaning: I even come at later times, you know.
+tone: Informal, playful, continuing to justify the suddenness. Hwasa is building on the previous point — not only does she come suddenly, she even comes at later hours than this. Casual idol-to-fan banter.
+
+--- word ---
+term: 더
+type: adverb
+breakdown:
+meaning: more / even more
+notes: 더 is one of the most common adverbs in Korean, meaning "more." It modifies the adjective 늦은 here, creating "later" (more late). Unlike English, Korean does not change the adjective form for comparatives — instead 더 is simply placed before the adjective. 더 크다 (to be bigger), 더 빠르다 (to be faster). Simple but essential word that learners should internalize early.
+
+--- word ---
+term: 늦은
+type: adjective (modifier form)
+breakdown: 늦다 (to be late) → 늦 (stem) + 은 (modifier/관형형 ending)
+meaning: late
+notes: The ending -(으)ㄴ is the past/present modifier form for descriptive verbs (adjectives), allowing them to modify a following noun. 늦다 → 늦은 시간 (a late time). For action verbs this same ending indicates past tense modification, but for descriptive verbs like 늦다 it indicates a present state. This is a key distinction that trips up learners. Compare: 먹은 사람 (a person who ate — past action) vs 늦은 시간 (a late time — present description).
+
+--- word ---
+term: 시간에도
+type: noun + particles
+breakdown: 시간 (time) + 에 (locative particle) + 도 (particle meaning "also/even")
+meaning: at times, even / even at times
+notes: 시간 means "time" or "hour." The particle 에 marks a point in time ("at"). The particle 도 adds the meaning of "also" or "even." When stacked together, 에도 means "even at." Particle stacking is very common in Korean — learners should get comfortable combining particles. The 도 here is what gives the sentence its "even" emphasis: the speaker is saying "I come even at later times than this." Other stacking examples: 에서도 (even at/from a place), 한테도 (even to a person).
+
+--- word ---
+term: 오잖아
+type: verb + ending
+breakdown: 오다 (to come) → 오 (stem) + 잖아 (sentence ending)
+meaning: I come, you know
+notes: Same construction as in the previous sentence [01:09]. The speaker is reusing -잖아 to again appeal to shared knowledge with the listener. Repetition of the same ending across sentences is natural in Korean conversation, especially when someone is making a continuing argument. Here it reinforces the tone of "come on, you already know this about me." See notes at [01:09] for full breakdown of -잖아.
+
 
 === [01:22] 고마워 ===
 meaning: "Thank you." / "Thanks."
@@ -274,25 +342,137 @@ meaning: "thanks" / "thank you"
 notes: 고맙다 is an irregular adjective — the ㅂ in the stem drops and becomes 우 when conjugated, giving 고마워 instead of the expected 고맙아. This ㅂ-irregular pattern is very common and trips up learners: 춥다 ("to be cold") → 추워, 어렵다 ("to be difficult") → 어려워, 귀엽다 ("to be cute") → 귀여워. 고마워 is 반말 (casual) — use it only with close friends, younger people, or in contexts like this where an idol is being familiar with fans. Polite versions: 고마워요 (casual-polite), 감사합니다 (formal-polite). 감사합니다 is Sino-Korean (from 感謝) and more appropriate in professional or formal settings. Between friends and fans, 고마워 feels genuine and intimate — using 감사합니다 here would create emotional distance.
 
 
-[01:51]
-  KO: 뭘 또 오늘 올 것 같았어
-  FR: Selon vous, qu'est-ce qui arriverait d'autre aujourd'hui ?
-  EN: What else did you think would come today?
+=== [01:51] 뭘 또 오늘 올 것 같았어 ===
+meaning: What, did you think I'd come again today?
+tone: Informal, teasing, playful. Hwasa is poking fun at her fans (Twits), pretending to be surprised that they expected her to show up. Fits her characteristic playful banter with her fandom.
 
-[01:56]
-  KO: 이거 화면이 뿌얀 것 같지
-  FR: L'écran semble flou
-  EN: The screen seems blurry
+--- word ---
+term: 뭘
+type: pronoun + particle (contraction)
+breakdown: 뭐 (what) + 를 (object particle) → contracted to 뭘
+meaning: what
+notes: 뭘 is a very common spoken contraction of 뭐를. In casual speech, 뭐를 almost never appears in its full form — 뭘 is the natural way to say it. Here 뭘 is used rhetorically at the start of the sentence, adding a tone of disbelief or teasing, similar to "what, you thought...?" in English. This rhetorical use of 뭘 at the beginning of a sentence is a very natural spoken pattern. It does not literally ask "what" but expresses mild surprise or playful challenge.
 
-[02:00]
-  KO: 그치
-  FR: droite
-  EN: right
+--- word ---
+term: 또
+type: adverb
+breakdown:
+meaning: again / also
+notes: 또 means "again" or "also." Here it adds the nuance of "again" — implying the fans might have expected her to come yet another time. 또 is one of the most frequently used adverbs in everyday Korean. Compare with 다시 (again), which emphasizes repeating something from the start, while 또 simply means "once more" or "in addition." In this context 또 carries a lighthearted, slightly exasperated feel — "what, again?"
 
-[02:02]
-  KO: 어때 화면 뿌얘 보여
-  FR: Comment l'écran semble-t-il flou ?
-  EN: How does the screen look blurry?
+--- word ---
+term: 오늘
+type: noun (time word)
+breakdown:
+meaning: today
+notes: 오늘 means "today." Time words like 오늘, 어제 (yesterday), 내일 (tomorrow) do not require particles in Korean — they function as adverbs on their own. Since this was November 25, 2025, Hwasa is teasing the Twits about whether they expected her to show up that particular day.
+
+--- word ---
+term: 올
+type: verb (modifier form)
+breakdown: 오다 (to come) → 올 (future modifier form, stem 오 + ㄹ)
+meaning: would come / will come
+notes: -(으)ㄹ is the future/prospective modifier ending, used to modify a following noun. 오다 → 올, creating "coming" in the future sense. Here it modifies 것 to form 올 것 (the thing of coming / that one would come). Note the irregular appearance: 오 + ㄹ → 올. Compare the three modifier forms: 온 (past — who came), 오는 (present — who is coming), 올 (future — who will come). Mastering these three is essential for Korean fluency.
+
+--- word ---
+term: 것
+type: bound noun (의존명사)
+breakdown:
+meaning: thing / fact
+notes: 것 is a bound noun meaning "thing" or "fact." It cannot stand alone and always follows a modifier. In casual speech 것 is very often contracted to 거. Hwasa uses the full form here, though 올 거 같았어 would be equally natural and perhaps even more common in fast casual speech. Learners should recognize both forms as identical in meaning.
+
+--- word ---
+term: 같았어
+type: adjective (past tense, casual)
+breakdown: 같다 (to seem / to be like) → 같 (stem) + 았 (past tense) + 어 (casual ending)
+meaning: did it seem like / did you think
+notes: The full pattern here is -(으)ㄹ 것 같다, one of the most important grammar patterns in Korean. It means "to seem like (something) will happen" or "to think (something) will happen." In past tense — 같았어 — it becomes "did you think it would...?" or "it seemed like it would..." Hwasa is using it as a teasing question: "did you think I would come?" The casual ending -어 with rising intonation makes it a question without any question particle. In 반말, Korean speakers often mark questions purely through intonation. The polite equivalent would be 같았어요.
+
+
+=== [01:56] 이거 화면이 뿌얀 것 같지 ===
+meaning: The screen looks kind of hazy/foggy, doesn't it?
+tone: Informal, observational, seeking soft agreement. Hwasa is noticing something about her camera or screen quality and commenting on it to the Twits, casually checking if they see the same thing.
+
+--- word ---
+term: 이거
+type: pronoun (contraction)
+breakdown: 이것 (this thing) → contracted to 이거
+meaning: this
+notes: 이거 is the casual spoken contraction of 이것. In conversation, 이것 sounds stiff — 이거 is what native speakers almost always use. The three demonstrative pronouns follow the same pattern: 이거 (this, near speaker), 그거 (that, near listener or previously mentioned), 저거 (that over there, far from both). Here Hwasa is referring to the current broadcast screen or camera feed — "this" being what is right in front of her and the viewers.
+
+--- word ---
+term: 화면이
+type: noun + particle
+breakdown: 화면 (screen) + 이 (subject particle)
+meaning: the screen
+notes: 화면 means "screen" or "display" — it can refer to a phone screen, TV screen, or in this case a livestream video feed. It is a Sino-Korean word (화 畫 picture + 면 面 surface). The subject particle 이 marks 화면 as the subject of the sentence. Remember: 이 follows consonant-ending nouns, 가 follows vowel-ending nouns. Since 화면 ends in ㄴ (a consonant), it takes 이.
+
+--- word ---
+term: 뿌얀
+type: adjective (modifier form)
+breakdown: 뿌얗다 (to be hazy/foggy/milky white) → 뿌야 (ㅎ-irregular stem) + ㄴ (modifier ending)
+meaning: hazy / foggy / milky
+notes: 뿌얗다 is a descriptive verb meaning "hazy," "foggy," or "milky white" — describing something that looks clouded or not clear. It is a ㅎ-irregular adjective. In ㅎ-irregular verbs, the ㅎ at the end of the stem drops when followed by a vowel, and combines with the modifier ending -(으)ㄴ in a special way: 뿌얗 → 뿌얀. Other ㅎ-irregulars work the same way: 하얗다 (to be white) → 하얀, 빨갛다 (to be red) → 빨간, 노랗다 (to be yellow) → 노란. This irregular pattern is important for learners to memorize as it applies to many common color and appearance adjectives. 뿌얗다 is more colloquial and descriptive than simply saying 흐릿하다 (to be blurry) — it specifically evokes a whitish, misty quality, fitting for a foggy camera lens.
+
+--- word ---
+term: 것
+type: bound noun (의존명사)
+breakdown:
+meaning: thing / fact
+notes: Same bound noun as in the previous sentence [01:51]. Here it is part of the pattern -(으)ㄴ 것 같다 — note the difference from the previous sentence which used -(으)ㄹ 것 같다 (future). With the -(으)ㄴ modifier (present state for adjectives), the pattern means "it seems like it IS (something)" rather than "it seems like it WILL." So 뿌얀 것 같다 = "it seems hazy (right now)."
+
+--- word ---
+term: 같지
+type: adjective + ending
+breakdown: 같다 (to seem / to be like) → 같 (stem) + 지 (casual sentence-ending particle)
+meaning: it seems like, right? / doesn't it?
+notes: Here -지 is used as a sentence-ending particle seeking soft confirmation, just like in [01:07] 갑작스럽긴 하지. With a slight rising intonation it becomes a gentle question — "doesn't it seem that way?" It is much softer than directly asking 그렇지 않아? (isn't that so?). Hwasa is inviting the Twits to agree with her observation rather than making a strong claim. This is a very natural and frequent conversational move in Korean. The full pattern here is -(으)ㄴ 것 같지, combining the "seems like" grammar with the agreement-seeking ending — a common and useful combo in everyday speech.
+
+
+=== [02:00] 그치 ===
+meaning: Right? / Yeah, huh?
+tone: Informal, confirming, conversational. Hwasa is agreeing with herself or with fan comments about the screen being hazy. Very casual and natural filler in spoken Korean.
+
+--- word ---
+term: 그치
+type: interjection (contraction)
+breakdown: 그렇지 (that's right, isn't it) → contracted to 그치
+meaning: right? / yeah?
+notes: 그치 is a heavily contracted form of 그렇지, which itself comes from 그렇다 (to be so/like that) + 지 (agreement-seeking ending). The contraction chain is: 그렇지 → 그치. This is one of the most common casual fillers in spoken Korean, used to confirm agreement or seek validation — like "right?" or "yeah?" in English. It can be self-directed (confirming your own thought) or directed at others (checking they agree). Given the context, Hwasa likely saw fan comments agreeing that the screen looks foggy and is responding with a quick "right?" The polite form would be 그렇죠 or its contraction 그쵸. Learners will hear 그치 constantly in Korean dramas, variety shows, and vlives. Related casual confirmation words: 맞지 (that's correct, right?), 그니까 (I know, right? / exactly).
+
+
+=== [02:02] 어때 화면 뿌얘 보여 ===
+meaning: How is it? Does the screen look hazy?
+tone: Informal, direct, checking in with fans. Hwasa is asking the Twits on her Bstage POP call whether her phone camera looks foggy on their end. Casual and conversational.
+
+--- word ---
+term: 어때
+type: adjective (contraction)
+breakdown: 어떻다 (to be how) → 어떠해 → contracted to 어때
+meaning: how is it?
+notes: 어때 is the casual contracted form of 어떠해 or 어떻게 해, from the adjective 어떻다 (to be how / what is it like). It is used as a standalone question meaning "how is it?" or "what do you think?" The contraction chain: 어떻다 → 어떠하다 → 어때. This is extremely common in casual speech. The polite form is 어때요. Learners often confuse 어때 (how is it — asking for an opinion or status) with 어떻게 (how — asking about a method or way). Here Hwasa is asking for the fans' impression of the video quality, so 어때 is the right choice.
+
+--- word ---
+term: 화면
+type: noun
+breakdown:
+meaning: screen / display
+notes: Same word as in [01:56]. Here it appears without a particle — in casual spoken Korean, particles are frequently dropped when the meaning is clear from context. The subject particle 이 is implied. In the previous sentence she said 화면이 with the particle; now she drops it. This kind of particle-dropping between related sentences is very natural and shows how spoken Korean flows more loosely than written Korean.
+
+--- word ---
+term: 뿌얘
+type: adjective (casual conjugation)
+breakdown: 뿌얗다 (to be hazy/foggy) → 뿌얘 (ㅎ-irregular casual conjugation)
+meaning: is hazy / is foggy
+notes: This is the casual 해체 (intimate speech level) conjugation of 뿌얗다. As a ㅎ-irregular adjective, the ㅎ drops and the vowel merges: 뿌얗 + 아 → 뿌얘. The same pattern applies to other ㅎ-irregular color/appearance adjectives: 하얗다 → 하얘 (is white), 빨갛다 → 빨개 (is red), 노랗다 → 노래 (is yellow), 까맣다 → 까매 (is black). In [01:56] we saw the modifier form 뿌얀; here we see the sentence-final casual form 뿌얘. Mastering both forms of ㅎ-irregulars is essential. Note that 뿌얘 here is not ending the sentence on its own — it connects to 보여 as a description of how the screen appears.
+
+--- word ---
+term: 보여
+type: verb (casual conjugation)
+breakdown: 보이다 (to be seen / to appear / to look) → 보여 (casual form, 보이 + 어 → 보여)
+meaning: does it look / it looks
+notes: 보이다 is the passive form of 보다 (to see). 보다 = to see (active), 보이다 = to be seen / to appear / to look (passive). The casual conjugation is 보여. Here the structure 뿌얘 보여 means "it looks hazy" — the adjective describes how something appears, and 보이다 indicates visual perception. This [adjective + 보이다] pattern is very useful: 예뻐 보여 (looks pretty), 피곤해 보여 (looks tired), 맛있어 보여 (looks delicious). With rising intonation, Hwasa is asking a question: "does it look hazy?" — again, in casual Korean, questions are often marked by intonation alone with no grammar change.
+
 
 
 — [02:16] ————————————————————————————————————————
