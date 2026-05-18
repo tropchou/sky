@@ -1095,16 +1095,7 @@ term: 후쿠호카
 type: noun (place name)
 breakdown:
 meaning: Fukuoka (city in Japan)
-notes: This is the Korean pronunciation of 福岡 (Fukuoka), a
-major city in southern Japan and an extremely popular travel
-destination for Koreans due to its proximity (roughly a 1.5
-hour flight from Seoul, or a ferry from Busan). The standard
-Korean spelling is 후쿠오카, but Hwasa says 후쿠호카 — this
-is a common casual/colloquial pronunciation where the ㅗ
-sound in 오 shifts. You'll hear both 후쿠오카 and 후쿠호카
-from native speakers in natural speech. This kind of
-variation with foreign place names is normal and not
-considered incorrect in conversation.
+notes: This is the Korean pronunciation of 福岡 (Fukuoka), a major city in southern Japan and an extremely popular travel destination for Koreans due to its proximity (roughly a 1.5 hour flight from Seoul, or a ferry from Busan). The standard Korean spelling is 후쿠오카, but Hwasa says 후쿠호카 — this is a common casual/colloquial pronunciation where the ㅗ sound in 오 shifts. You'll hear both 후쿠오카 and 후쿠호카 from native speakers in natural speech. This kind of variation with foreign place names is normal and not considered incorrect in conversation.
 
 --- word ---
 term: 갔다 왔어
@@ -1112,29 +1103,14 @@ type: verb phrase (sequential past, informal)
 breakdown: 가다 (to go) + -았다 (sequential past) + 오다
 (to come) + -았어 (past informal)
 meaning: went and came back
-notes: Third time this phrase appears in the conversation
-([03:37], [03:51], now here). By now this pattern should be
-feeling familiar — that's exactly how acquisition works with
-real native speech. Notice that here there's no 을 particle:
-후쿠호카 갔다 왔어 rather than 후쿠호카를 갔다 왔어. With
-place names and 가다, the destination particle is often
-에 (후쿠오카에 갔다 왔어), but in casual speech it's
-frequently dropped entirely, as here.
+notes: Third time this phrase appears in the conversation ([03:37], [03:51], now here). By now this pattern should be feeling familiar — that's exactly how acquisition works with real native speech. Notice that here there's no 을 particle: 후쿠호카 갔다 왔어 rather than 후쿠호카를 갔다 왔어. With place names and 가다, the destination particle is often 에 (후쿠오카에 갔다 왔어), but in casual speech it's frequently dropped entirely, as here.
 
 --- word ---
 term: 후쿠호카 (repeated)
 type: noun (place name, repeated)
 breakdown:
 meaning: Fukuoka
-notes: Repeating a key word at the end of a sentence is a
-very common spoken Korean pattern. It functions as emphasis,
-self-confirmation, or excitement — like saying "yeah,
-Fukuoka!" It can also serve as a repair or clarification,
-making sure the listener caught the important detail. You'll
-hear this constantly in vlives and casual conversation:
-"밥 먹었어, 밥" (I ate, food/I ate!). It's not a grammar
-rule taught in textbooks, but it's essential to understanding
-natural spoken Korean rhythm.
+notes: Repeating a key word at the end of a sentence is a very common spoken Korean pattern. It functions as emphasis, self-confirmation, or excitement — like saying "yeah, Fukuoka!" It can also serve as a repair or clarification, making sure the listener caught the important detail. You'll hear this constantly in vlives and casual conversation: "밥 먹었어, 밥" (I ate, food/I ate!). It's not a grammar rule taught in textbooks, but it's essential to understanding natural spoken Korean rhythm.
 
 
 === [04:27] 온천 갔어 ===
@@ -1146,13 +1122,7 @@ term: 온천
 type: noun
 breakdown:
 meaning: hot spring / onsen
-notes: Sino-Korean word (溫泉) — 온 (warm/hot) + 천 (spring/
-fountain). Refers to natural hot spring baths. Fukuoka and
-the broader Kyushu region are famous for onsen, so this is a
-classic activity for Koreans visiting that area. In Korean
-the word 온천 covers both the natural hot spring itself and
-the bathing facility. Related: 온천 여행 (hot spring trip),
-노천 온천 (open-air hot spring), 온천수 (hot spring water).
+notes: Sino-Korean word (溫泉) — 온 (warm/hot) + 천 (spring/fountain). Refers to natural hot spring baths. Fukuoka and the broader Kyushu region are famous for onsen, so this is a classic activity for Koreans visiting that area. In Korean the word 온천 covers both the natural hot spring itself and the bathing facility. Related: 온천 여행 (hot spring trip), 노천 온천 (open-air hot spring), 온천수 (hot spring water).
 
 --- word ---
 term: 갔어
@@ -1160,17 +1130,7 @@ type: verb (past, informal)
 breakdown: 가다 (to go) + -았- (past tense) + -어 (informal
 ending)
 meaning: went
-notes: Notice she uses 갔어 here rather than 갔다 왔어. The
-difference: 갔다 왔어 emphasizes the full round trip ("went
-and came back"), while 갔어 simply states "I went." In this
-context she's listing trip activities casually — the round
-trip is already understood from the broader conversation, so
-the simpler 갔어 is enough. Also note the particle drop
-again: 온천 갔어 instead of 온천에 갔어. The location
-particle 에 is omitted, which is completely natural in
-casual spoken Korean, especially for common activity-
-destination pairs like 온천 가다, 학교 가다 (go to school),
-카페 가다 (go to a café).
+notes: Notice she uses 갔어 here rather than 갔다 왔어. The difference: 갔다 왔어 emphasizes the full round trip ("went and came back"), while 갔어 simply states "I went." In this context she's listing trip activities casually — the round trip is already understood from the broader conversation, so the simpler 갔어 is enough. Also note the particle drop again: 온천 갔어 instead of 온천에 갔어. The location particle 에 is omitted, which is completely natural in casual spoken Korean, especially for common activity- destination pairs like 온천 가다, 학교 가다 (go to school), 카페 가다 (go to a café).
 
 
 — [04:47] ————————————————————————————————————————
