@@ -1135,60 +1135,214 @@ notes: Notice she uses 갔어 here rather than 갔다 왔어. The difference: �
 
 — [04:47] ————————————————————————————————————————
 
-[04:47]
-  KO: 오히려 언니들이랑 여행을 가니까
-  FR: Je pars plutôt en voyage avec mes sœurs.
-  EN: Rather, I go on a trip with my sisters.
+=== [04:47] 오히려 언니들이랑 여행을 가니까 ===
+meaning: Rather, since I'm going on a trip with my (older) sisters...
+tone: Informal, explanatory, trailing. The sentence ends with ~니까, leaving the consequence unstated — very natural in spoken Korean.
 
-[04:51]
-  KO: 뭐랄까
-  FR: Que puis-je dire
-  EN: What can I say
+--- word ---
+term: 오히려
+type: adverb
+breakdown:
+meaning: rather, on the contrary, instead
+notes: Used to flip or contrast an expectation. Similar to "actually" or "if anything" in casual English. Often appears at the start of a sentence to reframe what was just said. Not to be confused with 차라리 (charari, "I'd rather / it would be better to"), which expresses preference. 오히려 corrects or reverses an assumption.
 
-[04:54]
-  KO: 집에 있는 기분이었어
-  FR: J'avais l'impression d'être chez moi
-  EN: I felt like I was at home
+--- word ---
+term: 언니들이랑
+type: noun + plural suffix + particle
+breakdown: 언니 (older sister, from a female speaker) + 들 (plural) + 이랑 (with, and)
+meaning: with (my) older sisters
+notes: 언니 is used by women to address/refer to older females — biological sisters, close friends, or senior women. Men use 누나 (nuna) instead for older females. 이랑 is the casual form of "with/and." More formal equivalents: 와/과 (written/formal), ~하고 (neutral). 이랑 attaches after a consonant; 랑 after a vowel. Possessives like "my" are typically dropped in Korean when context makes the relationship obvious.
 
-[04:57]
-  KO: 너무 편해서
-  FR: Parce que c'est tellement confortable
-  EN: Because it’s so comfortable
+--- word ---
+term: 여행을
+type: noun + object particle
+breakdown: 여행 (travel, trip) + 을 (object marker)
+meaning: a trip (as the object)
+notes: 을 marks 여행 as the direct object of 가다. 을 follows consonants; 를 follows vowels. 여행을 가다 (to go on a trip) is a fixed collocation — even though 가다 means "to go," 여행 still takes the object particle 을, not a destination particle like 에. This is a common pattern learners should memorize as a set phrase.
 
-[05:08]
-  KO: 그래가지고
-  FR: Oui, avec ça
-  EN: Yes, with that
+--- word ---
+term: 가니까
+type: verb + causal ending
+breakdown: 가다 (to go) + ~니까 (because, since)
+meaning: since (I'm) going
+notes: ~니까 gives a reason or cause, similar to ~아/어서, but with key differences. ~니까 is more subjective/emphatic and commonly used in speech. It can precede commands and suggestions (unlike ~아서). Here, the sentence trails off after ~니까 — the speaker leaves the result implied. This is extremely common in spoken Korean; the listener fills in the conclusion from context. Textbooks teach complete sentences, but real speech often hangs like this.
 
-[05:12]
-  KO: 멍청이들은
-  FR: Les idiots
-  EN: Idiots
 
-[05:14]
-  KO: 어때
-  FR: comment
-  EN: how
+=== [04:51] 뭐랄까 ===
+meaning: What can I say... / How should I put it...
+tone: Informal, hesitant filler. A thinking-out-loud moment before choosing words.
 
-[05:20]
-  KO: 어머니가 노래를 너무 좋아해 주셔
-  FR: Ma mère aime tellement la chanson
-  EN: My mother likes the song so much
+--- word ---
+term: 뭐랄까
+type: filler expression (contraction)
+breakdown: 뭐 (what) + 라고 할까 (should I say) → contracted to 뭐랄까
+meaning: what should I say, how do I put this
+notes: This is a spoken contraction of 뭐라고 할까 (mwo-rago halkka). 라고 is the quotation particle ("that..."), 하다 means "to do/say," and ~ㄹ까 expresses wondering or deliberation. The full chain: 뭐라고 할까 → 뭐랄까. Functions like English "how shall I put it" or "what's the word." It's a discourse filler, not a real question — the speaker is buying time to organize their thoughts. Very common in natural Korean speech. Similar fillers: 어떻게 말하지 (eotteoke malhaji, "how do I say this"), 그러니까 (geureonikka, "I mean / so").
 
-[05:26]
-  KO: 너무 행복해
-  FR: Je suis tellement heureux
-  EN: I'm so happy
 
-[05:33]
-  KO: 그래
-  FR: d'accord
-  EN: okay
+=== [04:54] 집에 있는 기분이었어 ===
+meaning: It felt like being at home.
+tone: Informal, reflective, warm. Hwasa sharing a personal feeling with her fans (Twits) — casual and intimate register typical of idol-fan livestreams.
 
-[05:42]
-  KO: 진짜
-  FR: vraiment
-  EN: really
+--- word ---
+term: 집에
+type: noun + location particle
+breakdown: 집 (home, house) + 에 (at, in)
+meaning: at home
+notes: 에 marks a static location ("at/in") or a destination ("to"). Here it indicates location — "at home." Contrast with 에서, which marks where an action actively takes place. 집에 있다 (to be at home) uses 에 because 있다 expresses existence/state, not active doing. This 에 vs 에서 distinction trips up learners often.
+
+--- word ---
+term: 있는
+type: verb (modifier form)
+breakdown: 있다 (to be, to exist) + ~는 (present tense modifier/관형형)
+meaning: being (at), that exists
+notes: ~는 turns a verb into a modifier for the following noun. Here 있는 modifies 기분: "the feeling of being (at home)." This is a 관형형 (gwanhyeonghyeong) — a verb modifying a noun, similar to a relative clause in English. Present tense modifier for action verbs is ~는; for past tense it's ~ㄴ/은. With 있다 specifically, ~는 is used (not ~ㄴ), which is an exception learners should note.
+
+--- word ---
+term: 기분이었어
+type: noun + copula (past, informal)
+breakdown: 기분 (feeling, mood) + 이다 (to be) → 이었어 (past informal)
+meaning: it was the feeling, it felt like
+notes: 기분 means "feeling" or "mood." 이다 (to be, the copula) conjugates to 이었어 in informal past tense. Full chain: 이다 → 이었다 (past plain) → 이었어 (past informal/반말). If the preceding noun ended in a vowel, you'd see ~였어 instead (e.g., 분위기였어). 기분이다 is how Korean expresses "it is (a) feeling" — Korean uses a copula where English might use "felt like."
+
+
+=== [04:57] 너무 편해서 ===
+meaning: Because it was so comfortable...
+tone: Informal, trailing. Continues the thought from the previous sentence — explaining why it felt like home.
+
+--- word ---
+term: 너무
+type: adverb
+breakdown:
+meaning: so, too much, very
+notes: Strictly, 너무 means "excessively/too much" (negative nuance), but in modern spoken Korean it's used constantly as just "very/so" in positive contexts too. This shift is so widespread it's now standard in conversation. Textbooks may still flag 너무 as negative-only — that's outdated. Alternatives: 정말 (jeongmal, "really"), 진짜 (jinjja, "really" — more casual/slangy), 매우 (maeu, "very" — formal/written).
+
+--- word ---
+term: 편해서
+type: adjective + causal connector
+breakdown: 편하다 (to be comfortable, at ease) + ~아/어서 (because, so)
+meaning: because it's comfortable
+notes: 편하다 is a descriptive verb (adjective) meaning "comfortable, easy, at ease." Conjugation: 편하 + 여서 → 편해서 (하 verbs contract 하여 → 해). ~아/어서 links cause to result. Compared to ~니까 (which Hwasa used moments earlier at 04:47), ~아서 is softer and more explanatory, while ~니까 is more emphatic or subjective. Also, ~아서 cannot precede commands or suggestions, but ~니까 can. Here the sentence trails off again — the result is understood from context (the previous line). This trailing style is characteristic of natural, relaxed speech in fan livestreams.
+
+
+=== [05:08] 그래가지고 ===
+meaning: So... / And so... / Because of that...
+tone: Informal, connective, trailing. Casual spoken filler linking thoughts.
+
+--- word ---
+term: 그래가지고
+type: connective expression (contraction)
+breakdown: 그래서 (so, therefore) + 가지고 (having, carrying) → 그래가지고
+meaning: and so, because of that
+notes: This is a very common spoken contraction. 그래가지고 is the casual/colloquial version of 그래서 (geuraeseo, "so/therefore"). The ~가지고 form comes from 가지다 (gajida, "to have/hold") and in speech acts as a casual connective meaning "and then" or "so." You'll also hear it shortened further to 그래갖고 (geuraegajgo) in fast speech. This is distinctly spoken Korean — you'd almost never see 그래가지고 in writing. Textbook equivalent: 그래서. Learners should recognize this form in conversation even if they stick to 그래서 in their own speech at first.
+
+
+=== [05:12] 멍청이들은 ===
+meaning: (You) idiots... / The dummies...
+tone: Informal, playful/affectionate. Hwasa teasing her fans (Twits) — this kind of mock insult is a common way idols show closeness with their fandom.
+
+--- word ---
+term: 멍청이들은
+type: noun + plural + topic particle
+breakdown: 멍청이 (idiot, dummy) + 들 (plural) + 은 (topic marker)
+meaning: idiots (as for the idiots...)
+notes: 멍청이 comes from the adjective 멍청하다 (meongcheonghada, "to be stupid/clueless") + 이 (a suffix that turns descriptive roots into "person" nouns, like English "-ie" or "-o"). Similar formations: 뚱뚱이 (ttungttungi, "chubby one"), 겁쟁이 (geopjaengi, "coward"). 은/는 is the topic marker — here it sets up 멍청이들 as the topic for whatever follows ("as for you idiots..."). The sentence is incomplete, which is natural in livestream speech. Idols affectionately calling fans 멍청이, 바보 (babo, "fool"), etc. is a well-known fan-culture dynamic — it signals intimacy, not real insult.
+
+
+=== [05:14] 어때 ===
+meaning: How is it? / How about it?
+tone: Informal, direct. A quick casual question aimed at the fans.
+
+--- word ---
+term: 어때
+type: adjective (informal interrogative)
+breakdown: 어떻다 (to be how) → 어때 (informal/반말 conjugation)
+meaning: how is it, how about it
+notes: 어떻다 is an irregular descriptive verb (ㅎ-irregular). Conjugation: 어떻 + 아 → the ㅎ drops and merges → 어때. This ㅎ-irregular pattern applies to several adjectives: 그렇다 → 그래 (geureota → geurae), 이렇다 → 이래 (ireota → irae). Polite form: 어때요. Formal: 어떻습니까. 어때 by itself as a standalone question is very casual — like tossing out "so how is it?" or "what do you think?" to the audience.
+
+
+=== [05:20] 어머니가 노래를 너무 좋아해 주셔 ===
+meaning: My mother likes the song so much (for me).
+tone: Informal-polite mix. Hwasa speaks casually to fans but uses 주셔 (honorific) when referring to her mother's actions — showing respect for her parent even in casual speech.
+
+--- word ---
+term: 어머니가
+type: noun + subject particle
+breakdown: 어머니 (mother, formal/respectful) + 가 (subject marker)
+meaning: (my) mother
+notes: 어머니 is the respectful/formal word for mother. Casual equivalents: 엄마 (eomma, "mom"). Hwasa uses 어머니 here, which reflects Korean cultural norms — when talking about your own parent to others, using the respectful form shows good upbringing. 가 marks the subject (after a vowel); 이 is used after a consonant. As usual, the possessive "my" is omitted because context makes it obvious.
+
+--- word ---
+term: 노래를
+type: noun + object particle
+breakdown: 노래 (song) + 를 (object marker)
+meaning: the song
+notes: 를 follows vowel-ending nouns; 을 follows consonant-ending nouns. 노래 here likely refers to a specific song Hwasa released — context from the livestream would clarify which one.
+
+--- word ---
+term: 너무
+type: adverb
+breakdown:
+meaning: so (much), really
+notes: Same usage as at 04:57 — modern colloquial "very/so much" in a positive context. See earlier note.
+
+--- word ---
+term: 좋아해
+type: verb (informal present)
+breakdown: 좋아하다 (to like) + ~아/어 → 좋아해
+meaning: likes
+notes: Important distinction: 좋다 (jota) = "to be good/likeable" (descriptive verb, describes the object), while 좋아하다 (joahada) = "to like" (action verb, requires a subject who does the liking). 좋아하다 takes an object with 를/을. Conjugation: 좋아하 + 여 → 좋아해 (하 contracts with 여 → 해).
+
+--- word ---
+term: 주셔
+type: auxiliary verb (honorific, informal)
+breakdown: 주다 (to give, to do for someone) + 시 (honorific) + 어 → 주셔
+meaning: does (it) for me (honorific)
+notes: ~아/어 주다 means "to do something for someone's benefit." Adding ~시~ makes it honorific, elevating the doer (here, Hwasa's mother). Full chain: 주다 → 주시다 (honorific) → 주시어 → 주셔 (contracted). The sentence ending is technically incomplete — full polite form would be 주셔요 or 주세요. Dropping the 요 while keeping 시 creates an interesting casual-but-still-respectful tone. This is common in relaxed speech among younger Koreans: they maintain honorifics for family elders but drop sentence-final politeness markers when talking to peers/fans.
+
+
+=== [05:26] 너무 행복해 ===
+meaning: I'm so happy.
+tone: Informal, warm, sincere. A direct expression of emotion to her fans.
+
+--- word ---
+term: 너무
+type: adverb
+breakdown:
+meaning: so, very
+notes: See earlier notes at 04:57. Positive-context usage, fully standard in modern speech.
+
+--- word ---
+term: 행복해
+type: adjective (informal present)
+breakdown: 행복하다 (to be happy) + ~아/어 → 행복해
+meaning: (I'm) happy
+notes: 행복하다 is a 하다-type descriptive verb. Conjugation follows the standard 하 contraction: 행복하 + 여 → 행복해. Compare with 기뻐 (gippeo, from 기쁘다/gippeuda) which also means "happy" but is more immediate/momentary — like "glad" or "delighted" in reaction to something. 행복하다 is broader and deeper — a state of happiness or contentment. No subject is stated — Korean regularly drops 나는 (I) when the speaker is obviously talking about themselves.
+
+
+=== [05:33] 그래 ===
+meaning: Okay. / Yeah. / Right.
+tone: Informal, casual acknowledgment. A short conversational beat, likely responding to fan comments.
+
+--- word ---
+term: 그래
+type: adjective/interjection (informal)
+breakdown: 그렇다 (to be so, to be that way) → 그래 (informal/반말)
+meaning: okay, yeah, right, that's so
+notes: 그렇다 is a ㅎ-irregular, same pattern as 어떻다 → 어때 (see 05:14). Conjugation: 그렇 + 아 → ㅎ drops → 그래. Extremely versatile in conversation. Depending on intonation: 그래 (falling) = "okay, sure, right"; 그래? (rising) = "really? is that so?"; 그래! (emphatic) = "yes! exactly!" Related forms: 그래요 (polite), 그렇습니다 (formal). One of the most frequent words in spoken Korean — functions as agreement, acknowledgment, or a filler to keep conversation flowing.
+
+
+=== [05:42] 진짜 ===
+meaning: Really. / For real.
+tone: Informal, emphatic. Likely reinforcing something she just said or reacting to a fan comment.
+
+--- word ---
+term: 진짜
+type: adverb / noun / interjection
+breakdown:
+meaning: really, for real, the real thing
+notes: 진짜 literally means "the real thing / genuine article" (noun), but is used constantly as an adverb meaning "really/truly" and as a standalone interjection meaning "seriously?!" or "for real." It's more casual and punchy than 정말 (jeongmal, "really/truly"), which is slightly more neutral. In everyday spoken Korean, 진짜 is arguably more common than 정말, especially among younger speakers. Can also be doubled for emphasis: 진짜진짜 = "really really." As a standalone like here, tone of voice determines meaning — it could be confirming ("really, I mean it"), reacting ("seriously?!"), or emphasizing what comes next.
+
 
 
 — [05:55] ————————————————————————————————————————
