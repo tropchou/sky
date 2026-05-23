@@ -1347,103 +1347,698 @@ notes: 진짜 literally means "the real thing / genuine article" (noun), but is 
 
 — [05:55] ————————————————————————————————————————
 
-[05:55]
-  KO: 오케이
-  FR: d'accord
-  EN: okay
+=== [05:55] 오케이 ===
+meaning: Okay.
+tone: Informal, breezy. Loanword used as a quick acknowledgment.
 
-[06:09]
-  KO: 역시 멍청이들은 좋아해 줄 줄 알았어
-  FR: Je pensais que les idiots aimeraient ça aussi
-  EN: I thought idiots would like it too
+--- word ---
+term: 오케이
+type: interjection (loanword)
+breakdown:
+meaning: okay
+notes: Direct borrowing from English "okay," written in Hangul. Konglish (Korean-English loanwords) like this are extremely common in casual speech, especially among younger Koreans and in entertainment contexts. You'll also hear/see 오키 (oki) as a cuter variant. Native Korean equivalents: 그래 (geurae, "okay/yeah," see 05:33), 알겠어 (algesseo, "got it"), 좋아 (joa, "good/alright"). In a livestream like this, 오케이 has a light, transitional feel — Hwasa moving the conversation along.
 
-[06:28]
-  KO: sg 촬영이 뭐지 sg 촬영
-  FR: Qu'est-ce que le tir SG ? tir sg
-  EN: What is sg shooting? sg shooting
 
-[06:35]
-  KO: 아 실력을 잃을
-  FR: Oh, je perds mes compétences
-  EN: Oh, I'm losing my skills
+=== [06:09] 역시 멍청이들은 좋아해 줄 줄 알았어 ===
+meaning: As expected, I knew the Twits would like it (for me).
+tone: Informal, affectionate, teasing. Hwasa playfully praising her fandom (멍청이들/Twits) while pretending to take their support for granted — classic idol-fan banter.
 
-[06:40]
-  KO: 당연하지
-  FR: bien sûr
-  EN: of course
+--- word ---
+term: 역시
+type: adverb
+breakdown:
+meaning: as expected, sure enough, indeed
+notes: Used when something confirms what you already thought or felt. Carries a tone of satisfied expectation — "I knew it" / "just as I thought." Here Hwasa is saying her Twits are reliably supportive, which is both teasing and affectionate. 역시 can also be used to compliment someone: 역시 너야! (yeoksi neoya, "That's so you!" / "You're the best, as always!"). Very common in daily Korean.
 
-[06:43]
-  KO: 이미 이미 진작에 했어
-  FR: je l'ai déjà fait il y a longtemps
-  EN: I already did it a long time ago
+--- word ---
+term: 멍청이들은
+type: noun + plural + topic particle
+breakdown: 멍청이 (Twit/dummy) + 들 (plural) + 은 (topic marker)
+meaning: the Twits (as for the Twits...)
+notes: See earlier note at 05:12. 멍청이들 is Hwasa's fandom name — literally "dummies/idiots" but used with complete affection. The 은 topic marker here sets up the Twits as the topic and carries a slight contrastive nuance: "the Twits (unlike others perhaps) — I knew they'd like it." This kind of loving mockery between Hwasa and her Twits is a signature part of their dynamic.
 
-[06:49]
-  KO: 그래 이건 뭐 컴백도 아닌데 숨길 필요가 뭐 있어 그치
-  FR: D'accord, ce n'est même pas un retour, alors pourquoi le cacher ?
-  EN: Okay, this isn't even a comeback, so why hide it?
+--- word ---
+term: 좋아해
+type: verb (present base)
+breakdown: 좋아하다 (to like) → 좋아해
+meaning: like (it)
+notes: See earlier note at 05:20. Here 좋아하다 is not sentence-final — it connects forward into the 줄 줄 알았어 construction.
 
-[06:53]
-  KO: 왜 이렇게 나는 이제 숨기는게 버릇이 된거야
-  FR: Pourquoi est-ce devenu une habitude pour moi de cacher des choses maintenant ?
-  EN: Why has it become a habit for me to hide things now?
+--- word ---
+term: 줄
+type: auxiliary verb (benefactive) + grammatical noun
+breakdown: 주다 (to do for someone) → 줄 (prospective modifier form, i.e., 주 + ㄹ)
+meaning: would do (for me)
+notes: This first 줄 is from ~아/어 주다 (to do something for someone's benefit). 좋아해 주다 = "to like (it) for my sake" — implies gratitude that the fans' liking benefits Hwasa personally. The ~ㄹ ending here is the prospective/future modifier form, turning the verb into a modifier for the next 줄.
+
+--- word ---
+term: 줄
+type: bound noun (grammar pattern)
+breakdown: 줄 (bound noun meaning "way/fact/expectation")
+meaning: that (someone) would
+notes: This second 줄 is a dependent noun used in the pattern ~ㄹ 줄 알다 (to know/expect that someone will do something). ~ㄹ 줄 알다 = "to know/think/expect that ~." The opposite: ~ㄹ 줄 모르다 = "to not know that ~ / to not expect that ~." Despite appearing identical, these two 줄s serve completely different grammatical roles — the first is part of the verb 주다, the second is the bound noun in the ~줄 알다 pattern. This double-줄 is a fun example of how Korean can stack grammar in ways that look confusing on paper but feel natural in speech.
+
+--- word ---
+term: 알았어
+type: verb (informal past)
+breakdown: 알다 (to know) + ~았어 (past informal)
+meaning: I knew, I expected
+notes: 알다 means "to know." In the ~ㄹ 줄 알았어 pattern, it expresses a past expectation: "I knew (they) would..." Conjugation: 알 + 았어 → 알았어. Hwasa is saying she fully expected her Twits to come through — a warm, confident statement dressed up in her signature playful tone.
+
+
+=== [06:28] sg 촬영이 뭐지 sg 촬영 ===
+meaning: What's "sg shooting"? sg shooting...
+tone: Informal, confused/amused. Hwasa reading a fan comment aloud and puzzling over it. The repetition signals she's trying to figure out what "sg" means.
+
+--- word ---
+term: sg
+type: abbreviation (from fan comment)
+breakdown:
+meaning: unclear / context-dependent
+notes: Likely an abbreviation from a Twit's comment in the chat. Could stand for various things depending on context — possibly a reference to a project, a song, or internet shorthand. Hwasa herself doesn't seem to know what it means here, which is the whole point of the sentence. Fan livestream chats are full of abbreviations and slang that even the idol may not immediately recognize.
+
+--- word ---
+term: 촬영이
+type: noun + subject particle
+breakdown: 촬영 (filming, shooting, photography) + 이 (subject marker)
+meaning: filming/shooting (as subject)
+notes: 촬영 is a Sino-Korean word (撮影) used broadly for any kind of filming, photo shooting, or recording session. Very common in entertainment contexts — 촬영하다 (to film/shoot), 촬영장 (chwareyongjang, filming location/set). 이 marks it as the subject of the question. 이 after consonants, 가 after vowels.
+
+--- word ---
+term: 뭐지
+type: pronoun + copula (informal wondering)
+breakdown: 뭐 (what) + 이지 → 뭐지 (contracted)
+meaning: what is it, what could it be
+notes: 뭐지 is a contraction of 뭐이지, from the copula 이다 + ~지 (a sentence ending expressing wondering or self-directed questioning). ~지 in this usage is the speaker thinking aloud — not directly asking someone else. Compare: 뭐야? (mwoya, "what is it?" — direct question to someone) vs 뭐지? (mwoji, "what is it..." — wondering to oneself). Hwasa is puzzling over the fan's comment out loud, which is classic livestream behavior.
+
+--- word ---
+term: sg 촬영
+type: noun phrase (repeated)
+breakdown:
+meaning: sg shooting
+notes: Hwasa repeats the phrase, a natural spoken habit when trying to process something unfamiliar. Repetition for clarification or emphasis is very common in Korean conversation and especially in livestreams where the speaker is reading chat in real time.
+
+
+=== [06:35] 아 실력을 잃을 ===
+meaning: Oh, (they're going to) lose their skills...
+tone: Informal, trailing, likely mock-alarmed or teasing. The sentence is cut off — Hwasa probably reacted to a fan comment about losing skills (possibly related to the unknown "sg" abbreviation moment).
+
+--- word ---
+term: 아
+type: interjection
+breakdown:
+meaning: oh, ah
+notes: A common reaction interjection. Depending on tone: surprise (아!), realization (아~), mild frustration (아...). Here it reads as a moment of realization or playful reaction.
+
+--- word ---
+term: 실력을
+type: noun + object particle
+breakdown: 실력 (skill, ability, competence) + 을 (object marker)
+meaning: skills/ability (as object)
+notes: 실력 is a Sino-Korean word (實力) meaning one's actual ability or skill level. Very commonly used: 실력이 좋다 (sillyeogi jota, "to be skilled"), 실력이 늘다 (sillyeogi neulda, "skills improve"). In entertainment/idol contexts, it often refers to singing, dancing, or performance ability.
+
+--- word ---
+term: 잃을
+type: verb (prospective modifier, incomplete)
+breakdown: 잃다 (to lose) + ~ㄹ (future/prospective modifier)
+meaning: will lose, going to lose
+notes: 잃다 means "to lose" (skills, possessions, etc.) — not to be confused with 지다 (jida, "to lose" a game/competition). The ~ㄹ ending here is a prospective modifier form, suggesting the sentence was heading toward a noun (e.g., 잃을 것 같아, "seems like they'll lose...") but got cut off. This trailing, incomplete grammar is completely natural in spoken Korean, especially in a livestream where Hwasa's thoughts move fast.
+
+
+=== [06:40] 당연하지 ===
+meaning: Of course. / Obviously.
+tone: Informal, confident, matter-of-fact. Hwasa affirming something with her characteristic directness.
+
+--- word ---
+term: 당연하지
+type: adjective + confirmatory ending
+breakdown: 당연하다 (to be natural, to be obvious) + ~지 (confirmatory/assertive ending)
+meaning: of course, naturally, obviously
+notes: 당연하다 is a 하다-type descriptive verb meaning "to be natural/obvious." 당연 alone is a Sino-Korean noun (當然, "a given/certainty"). The ~지 ending here is different from the wondering ~지 in 뭐지 (06:28). Same ending, two functions: with falling intonation ~지 confirms or asserts ("of course it is"); with rising intonation ~지? it seeks confirmation or wonders ("isn't it? / I wonder..."). Context and tone are everything. 당연하지 is a very Hwasa-like expression — blunt, confident, no hedging. Polite version: 당연하죠 (dangyeonhajyo). Similar expressions: 물론이지 (mulloniji, "of course"), 그럼 (geureom, "sure/naturally").
+
+
+=== [06:43] 이미 이미 진작에 했어 ===
+meaning: I already already did it ages ago.
+tone: Informal, emphatic, slightly smug. Hwasa reassuring her Twits that the Season's Greetings shoot is long done — no need to worry.
+
+--- word ---
+term: 이미
+type: adverb
+breakdown:
+meaning: already
+notes: 이미 means "already" — indicates something is completed before the current moment. Hwasa repeats it twice for emphasis, a natural spoken habit. 이미 vs 벌써 (beolsseo) is a common learner confusion point: 이미 is neutral/factual ("it's already done"), while 벌써 carries surprise or emotional reaction ("already?! so soon?!"). Here 이미 fits because Hwasa is stating a fact, not expressing surprise.
+
+--- word ---
+term: 진작에
+type: adverb + particle
+breakdown: 진작 (long ago, earlier) + 에 (at, time particle)
+meaning: a long time ago, way earlier
+notes: 진작 means "long ago" or "much earlier than now." It carries a nuance of "earlier than you might think" or "I should have / could have done it sooner." 에 is optional here — 진작 alone works fine, but 진작에 is common in speech. Similar words: 이미 (already — factual), 벌써 (already — surprised), 진작 (long ago — implies earliness was notable). Stacking 이미 이미 with 진작에 is Hwasa being extra emphatic: "I did this ages ago, relax."
+
+--- word ---
+term: 했어
+type: verb (informal past)
+breakdown: 하다 (to do) + ~았/었어 → 했어 (past informal)
+meaning: did (it)
+notes: 하다 → 했어 is one of the most fundamental conjugations. 하 + 였어 contracts to 했어. Here "it" (the Season's Greetings shoot) is understood from context and dropped — very typical Korean. No need to say 촬영을 했어 when everyone knows what's being discussed.
+
+
+=== [06:49] 그래 이건 뭐 컴백도 아닌데 숨길 필요가 뭐 있어 그치 ===
+meaning: Okay, this isn't even a comeback, so what's the need to hide it, right?
+tone: Informal, candid, rhetorical. Hwasa being her straightforward self — openly telling Twits about the Season's Greetings shoot since there's no secrecy needed. Very characteristic of her no-nonsense communication style with fans.
+
+--- word ---
+term: 그래
+type: interjection
+breakdown: 그렇다 (to be so) → 그래 (informal)
+meaning: okay, yeah, right
+notes: See note at 05:33. Here functioning as a transitional "okay" or "so" before launching into her reasoning.
+
+--- word ---
+term: 이건
+type: pronoun + topic particle (contracted)
+breakdown: 이것 (this thing) + 은 (topic marker) → 이건 (contracted)
+meaning: this (topic)
+notes: Full form: 이것은. In speech, 이것은 almost always contracts to 이건. Same pattern: 그것은 → 그건 (geugeon, "that"), 저것은 → 저건 (jeogeon, "that over there"). Learners should get comfortable with these contractions early — the full forms sound stiff in conversation.
+
+--- word ---
+term: 뭐
+type: adverb/filler
+breakdown:
+meaning: (filler) like, well, you know
+notes: 뭐 as a filler is different from 뭐 meaning "what." Here it softens the statement or adds a casual, dismissive tone — roughly "I mean" or "it's not like..." in English. Very common in spoken Korean. It appears twice in this sentence with slightly different flavors: the first 뭐 is a filler ("I mean, it's not even a comeback"), the second adds rhetorical dismissiveness ("what need is there").
+
+--- word ---
+term: 컴백도
+type: noun + particle
+breakdown: 컴백 (comeback) + 도 (even, also)
+meaning: even a comeback
+notes: 컴백 is a Konglish term borrowed from English, but in K-pop it has a very specific meaning: an artist's return with new music, usually accompanied by promotions, performances, and carefully managed teasers and secrets. 도 here means "even" — 컴백도 아닌데 = "it's not even a comeback." The implication: comebacks require secrecy and buildup, but a Season's Greetings shoot doesn't warrant that level of mystery.
+
+--- word ---
+term: 아닌데
+type: copula (negative) + connective ending
+breakdown: 아니다 (to not be) + ~ㄴ데 (but, since, given that)
+meaning: it's not (a comeback), and given that...
+notes: 아니다 is the negative copula ("to not be"). ~ㄴ데 is a versatile connective ending that can mean "but," "since," or "given that" depending on context. Here it sets up background/reason: "given that it's not even a comeback..." → therefore no need to hide it. ~ㄴ데 is one of the most important and frequently used endings in Korean — learners will encounter it constantly. For descriptive verbs and 이다/아니다, the modifier form is ~ㄴ데; for action verbs it's ~는데.
+
+--- word ---
+term: 숨길
+type: verb (prospective modifier)
+breakdown: 숨기다 (to hide something) + ~ㄹ (future/prospective modifier)
+meaning: to hide, hiding
+notes: 숨기다 is the transitive form — "to hide something." Compare with 숨다 (sumda), the intransitive form — "to hide oneself." This transitive/intransitive pair is a common pattern: 숨다 (I hide) vs 숨기다 (I hide something). ~ㄹ here modifies the following noun 필요: "the need to hide."
+
+--- word ---
+term: 필요가
+type: noun + subject particle
+breakdown: 필요 (need, necessity) + 가 (subject marker)
+meaning: the need (to)
+notes: 필요 is a Sino-Korean noun (必要, "necessity"). Common patterns: 필요가 있다/없다 (there is/isn't a need), 필요하다 (to be necessary). Here: 숨길 필요가 있어 = "is there a need to hide it."
+
+--- word ---
+term: 뭐
+type: adverb (rhetorical)
+breakdown:
+meaning: what (rhetorical — "what need is there")
+notes: This second 뭐 functions rhetorically. 필요가 뭐 있어 = "what need is there" = "there's no need." Rhetorical questions with 뭐 are a natural way to dismiss something in Korean. The expected answer is "none."
+
+--- word ---
+term: 있어
+type: verb (informal present)
+breakdown: 있다 (to exist, to have) + ~어 (informal ending)
+meaning: is there
+notes: 있다 here means "to exist / there is." Combined with the rhetorical 뭐, the meaning becomes "what (need) is there?" = "there's no need."
+
+--- word ---
+term: 그치
+type: interjection (contracted)
+breakdown: 그렇지 (right? isn't it so?) → 그치 (casual contraction)
+meaning: right? yeah?
+notes: Full form: 그렇지 (geureochi), from 그렇다 + ~지. Contracted in fast casual speech to 그치. Functions as a tag question seeking agreement — like English "right?" or "yeah?" Hwasa is inviting her Twits to agree with her logic. Even more casual variant: 그쵸 (geuchyo, with polite 요 but still feels casual due to the contraction). This is a very high-frequency spoken form that textbooks rarely cover in its contracted version.
+
+
+=== [06:53] 왜 이렇게 나는 이제 숨기는게 버릇이 된거야 ===
+meaning: Why has hiding things become a habit for me now?
+tone: Informal, self-reflective, amused. Hwasa catching herself mid-thought — she just said there's no need to hide the Season's Greetings shoot, then realizes secrecy has become second nature from all her comeback promotions. A funny, self-aware moment.
+
+--- word ---
+term: 왜
+type: adverb (interrogative)
+breakdown:
+meaning: why
+notes: Standard question word. Here it kicks off a rhetorical/self-directed question — Hwasa isn't really asking anyone, she's musing to herself and her Twits. 왜 at the start of a sentence gives it an exasperated or bewildered tone, like "why on earth..."
+
+--- word ---
+term: 이렇게
+type: adverb
+breakdown: 이렇다 (to be like this) → 이렇게 (adverbial form, "like this / this much")
+meaning: like this, to this extent
+notes: 이렇게 is the adverbial form of 이렇다 (ㅎ-irregular). The 게 ending converts descriptive verbs into adverbs: 이렇다 → 이렇게, 그렇다 → 그렇게 (geureoke, "like that"), 어떻다 → 어떻게 (eotteoke, "how"). Here 왜 이렇게 together is a very natural spoken combo meaning "why so much" or "why like this" — it amplifies the 왜 with a sense of disbelief.
+
+--- word ---
+term: 나는
+type: pronoun + topic particle
+breakdown: 나 (I, casual) + 는 (topic marker)
+meaning: I (as for me)
+notes: 나 is the casual/반말 first-person pronoun. Polite equivalent: 저 (jeo). 는 marks it as the topic. Hwasa uses 나 freely here, consistent with the intimate casual register she uses with Twits. In many of the earlier sentences, 나는 was dropped entirely — here she includes it because she's specifically reflecting on herself and her own habits.
+
+--- word ---
+term: 이제
+type: adverb
+breakdown:
+meaning: now, by now, at this point
+notes: 이제 vs 지금 (jigeum) is an important distinction. 지금 = "right now" (a specific point in time). 이제 = "now" with a sense of transition or change — "from now on" or "by this point." Here Hwasa means "at this point" or "by now" — hiding things has become habitual over time. 이제 implies a shift has occurred, which is exactly her point: she didn't used to be secretive, but now it's automatic.
+
+--- word ---
+term: 숨기는게
+type: verb (noun-modified form) + subject particle (contracted)
+breakdown: 숨기다 (to hide something) + ~는 (present modifier) + 것 (thing) + 이 (subject marker) → 숨기는 게 (contracted)
+meaning: hiding things (as subject), the act of hiding
+notes: This is nominalization — turning a verb into a noun phrase. 숨기다 → 숨기는 (modifier, "hiding") + 것 (bound noun, "thing/act") = "the act of hiding." 것이 contracts to 게 in speech — full form 숨기는 것이 becomes 숨기는 게. This ~는 것 nominalization is one of the most essential grammar patterns in Korean. Learners will see 것 contracted to 거 or 게 constantly in spoken Korean. See also 된거야 below for another 것 contraction.
+
+--- word ---
+term: 버릇이
+type: noun + subject particle
+breakdown: 버릇 (habit) + 이 (subject marker)
+meaning: a habit
+notes: 버릇 means "habit," but carries a slightly negative or involuntary nuance — a habit you've picked up, often without meaning to. Compare with 습관 (seupgwan), which is more neutral and can refer to deliberate routines (e.g., 좋은 습관, "good habits"). 버릇 often appears in contexts like 나쁜 버릇 (nappeun beoreut, "bad habit") or 버릇이 되다 (it became a habit). Hwasa using 버릇 here is self-deprecating and funny — secrecy crept up on her as an occupational hazard.
+
+--- word ---
+term: 된거야
+type: verb + nominalizer + copula (informal, contracted)
+breakdown: 되다 (to become) + ~ㄴ (past modifier) + 것 (thing) + 이야 (copula, informal) → 된 거야
+meaning: has become, is that it became
+notes: Full uncontracted form: 된 것이야. 되다 means "to become." ~ㄴ is the past tense modifier for 되다 (since it patterns like a descriptive verb here). 것 contracts to 거 in casual speech. 이야 is the informal present copula. The ~ㄴ 거야 pattern is extremely common for explaining or emphasizing a situation: "the thing is that..." or "it's that..." Here: 버릇이 된 거야 = "it's become a habit" / "the situation is that it became a habit." The whole sentence has a beautifully natural spoken flow — Hwasa stacks rhetorical 왜 이렇게, drops in 이제 for the time shift, nominalizes with ~는 게, and closes with ~ㄴ 거야 to land the punchline on herself.
+
 
 
 — [06:57] ————————————————————————————————————————
 
-[06:57]
-  KO: 너무 웃기네
-  FR: C'est tellement drôle
-  EN: It's so funny
+=== [06:57] 너무 웃기네 ===
+meaning: That's so funny
+tone: Informal, self-amused. Hwasa reacting to her own behavior.
 
-[06:59]
-  KO: 자꾸 숨겨
-  FR: Je continue de le cacher
-  EN: I keep hiding it
+--- word ---
+term: 너무
+type: adverb
+breakdown:
+meaning: so, too much, very
+notes: Textbook Korean treats 너무 as "excessively" (negative), but in modern spoken Korean it's used freely as "very/so" for both positive and neutral contexts, like here. Synonyms: 정말 (really), 진짜 (for real).
 
-[07:03]
-  KO: 아니 컴백도 아닌데 나 왜 이렇게 막 꾹꾹 숨겨
-  FR: Non, ce n'est pas un retour, pourquoi est-ce que je le cache si étroitement ?
-  EN: No, it's not a comeback, why am I hiding it so tightly?
+--- word ---
+term: 웃기네
+type: verb + sentence-ending
+breakdown: 웃기다 (to be funny) + -네 (exclamatory ending)
+meaning: it's funny (expressing mild surprise/realization)
+notes: 웃기다 means "to be funny / to make someone laugh." Don't confuse with 웃다 (to laugh) — 웃기다 is the causative form ("to cause laughter"). -네 expresses the speaker's spontaneous reaction or mild surprise at something they're noticing in the moment. It's softer than -다 and more personal than -네요 (polite). Very natural in casual self-talk like this.
 
-[07:14]
-  KO: 스포?
-  FR: Becquet?
-  EN: Spoiler?
 
-[07:16]
-  KO: 스포는 안돼
-  FR: Pas de spoiler
-  EN: No spoilers
+=== [06:59] 자꾸 숨겨 ===
+meaning: I keep hiding it
+tone: Informal, self-directed, mildly exasperated.
 
-[07:23]
-  KO: 왜 공지를 안주냐고
-  FR: Pourquoi ne donnez-vous pas de préavis ?
-  EN: Why aren't you giving notice?
+--- word ---
+term: 자꾸
+type: adverb
+breakdown:
+meaning: repeatedly, keep (doing something)
+notes: 자꾸 implies something happens again and again, often with a nuance of annoyance or compulsion — "I keep doing it (even though I shouldn't)." Similar: 계속 (continuously) is more neutral. 자꾸 carries more of a "can't help it / it keeps happening" feeling. Very common in casual speech.
 
-[07:30]
-  KO: 내가 사진 셀렉을 하면 돼
-  FR: Je peux sélectionner les photos
-  EN: I can select the photos
+--- word ---
+term: 숨겨
+type: verb (informal)
+breakdown: 숨기다 (to hide something) + -어 (casual ending)
+meaning: hide (it), am hiding (it)
+notes: 숨기다 is transitive — you hide something. Don't confuse with 숨다 (intransitive, to hide oneself). The object (SG details) is dropped here, which is normal in spoken Korean when context makes it obvious. -어 is the casual 반말 (informal speech) ending, natural for Hwasa talking to herself or to her 멍청이들.
 
-[07:33]
-  KO: 사진 셀렉 하는대로 공지가 가지 않을까 싶어
-  FR: Je pense qu'un avis sera envoyé dès que les photos seront sélectionnées.
-  EN: I think a notice will be sent as soon as the photos are selected.
 
-[07:37]
-  KO: 그래서 내가 사실 해야하는 일이 오늘 사진 셀렉을 해야 돼
-  FR: Ce que je dois donc faire, c'est sélectionner des photos aujourd'hui.
-  EN: So what I actually have to do is select photos today.
+=== [07:03] 아니 컴백도 아닌데 나 왜 이렇게 막 꾹꾹 숨겨 ===
+meaning: No wait, it's not even a comeback — why am I hiding it so hard?
+tone: Informal, self-correcting, playfully self-aware. Hwasa catching herself being unnecessarily secretive about a Season's Greetings.
 
-[07:44]
-  KO: 회사에서 제발 셀렉 좀 빨리 해달래
-  FR: L'entreprise merci de me sélectionner rapidement.
-  EN: The company please select me quickly.
+--- word ---
+term: 아니
+type: interjection
+breakdown:
+meaning: no, wait, hold on
+notes: As an interjection at the start of a sentence, 아니 doesn't just mean "no" — it signals self-correction or disbelief, like "wait, hold on" or "actually..." Very common filler in natural Korean speech.
 
-[07:54]
-  KO: 어떻게 같이 해 이거 꺼지는데
-  FR: Comment pouvons-nous faire cela ensemble ?
-  EN: How can we do this together?
+--- word ---
+term: 컴백도
+type: noun + particle
+breakdown: 컴백 (comeback) + -도 (even, also)
+meaning: even a comeback
+notes: 컴백 is Konglish from English "comeback," used in K-pop to mean a new album/single release cycle. -도 here means "even" — emphasizing that this situation doesn't even rise to the level of a comeback, so secrecy is unwarranted.
+
+--- word ---
+term: 아닌데
+type: copula + connective ending
+breakdown: 아니다 (to not be) + -ㄴ데 (but, given that)
+meaning: it's not (a comeback), and yet...
+notes: -ㄴ데 connects two clauses with a sense of contrast or background context: "given that it's not X, (why am I doing Y)?" This is one of the most versatile and frequent endings in Korean — it can mean "but," "so," "since," or just set the scene. Here it sets up the contrast before her rhetorical question.
+
+--- word ---
+term: 나
+type: pronoun
+breakdown:
+meaning: I, me
+notes: Casual first-person pronoun. The polite equivalent is 저. Hwasa uses 나 because she's speaking casually to fans / to herself.
+
+--- word ---
+term: 왜
+type: adverb
+breakdown:
+meaning: why
+notes: Rhetorical here — she's not actually asking for a reason, just expressing disbelief at her own behavior.
+
+--- word ---
+term: 이렇게
+type: adverb
+breakdown: 이렇다 (to be like this) → 이렇게 (adverbial form)
+meaning: like this, this much, so (much)
+notes: Part of the 이/그/저 demonstrative system. 이렇게 = "like this" (near speaker), 그렇게 = "like that" (near listener or previously mentioned), 저렇게 = "like that" (far from both). Here it intensifies the action — "why am I this secretive?"
+
+--- word ---
+term: 막
+type: adverb
+breakdown:
+meaning: recklessly, without restraint, all over the place
+notes: 막 is a very colloquial adverb meaning doing something carelessly, excessively, or without thinking. It adds a casual, emphatic flavor. Hard to translate directly — think "just" or "all." Textbooks often undercover this word but native speakers use it constantly.
+
+--- word ---
+term: 꾹꾹
+type: adverb (mimetic/onomatopoeia)
+breakdown: 꾹 (pressing down firmly) repeated for emphasis
+meaning: tightly, pressing down hard, stuffing away
+notes: 꾹꾹 is a Korean 의태어 (mimetic word) that evokes the physical motion of pressing or pushing something down firmly and repeatedly. Paired with 숨기다 it creates a vivid image of stuffing a secret away as hard as possible. Korean is rich in these sound/motion-symbolic words (e.g., 살살 = gently, 빙빙 = spinning around). They add texture that's hard to capture in English. Hwasa's use here is comedic — she's dramatizing how aggressively secretive she was being over something as low-stakes as a Season's Greetings.
+
+--- word ---
+term: 숨겨
+type: verb (informal)
+breakdown: 숨기다 (to hide something) + -어 (casual ending)
+meaning: hide (it), am hiding (it)
+notes: Same form as [06:59]. Here it closes the rhetorical question. The casual 반말 ending is consistent throughout — Hwasa's relaxed tone with her fans.
+
+
+=== [07:14] 스포? ===
+meaning: Spoiler?
+tone: Informal, playful. Hwasa reacting to fans asking for details.
+
+--- word ---
+term: 스포
+type: noun (slang abbreviation)
+breakdown: 스포일러 (spoiler) → 스포 (shortened)
+meaning: spoiler
+notes: 스포 is a casual abbreviation of 스포일러, which is Konglish from English "spoiler." Shortening loanwords is extremely common in Korean internet/fan culture, e.g., 프사 from 프로필 사진 (profile picture). Used here as a one-word question — Hwasa is reading fans' requests and echoing them back. Rising intonation makes it a question without any grammatical marker, which is very natural in casual speech.
+
+
+=== [07:16] 스포는 안돼 ===
+meaning: No spoilers / Spoilers are a no
+tone: Informal, firm but playful. Hwasa teasing fans by shutting them down.
+
+--- word ---
+term: 스포는
+type: noun + particle
+breakdown: 스포 (spoiler) + -는 (topic particle)
+meaning: spoilers (as for spoilers...)
+notes: -는 is the topic-marking particle. Here it sets up 스포 as the topic being addressed, with a contrastive nuance — "as for spoilers (specifically), no." The contrast particle usage implies other things might be okay, but not this. Compare with -이/가 (subject particle), which would simply identify the subject without that "as for X" framing.
+
+--- word ---
+term: 안돼
+type: verb (negative)
+breakdown: 안 (not) + 되다 (to be allowed, to work, to become) → 안 돼 (is not allowed)
+meaning: can't, not allowed, no way
+notes: 안 돼 (properly spaced as two words) is one of the most common ways to say "no" to a request or express that something isn't allowed. Don't confuse the spelling: 안 돼 (present, "can't do") vs. 안 됐다 (past, "it didn't work out"). A very common learner mistake is writing 안 되 instead of 안 돼 — the correct present casual form is 돼 (contracted from 되어). Hwasa uses it here to playfully refuse her fans' spoiler requests.
+
+
+=== [07:23] 왜 공지를 안주냐고 ===
+meaning: (They're asking) why I'm not giving any notice
+tone: Informal, reporting. Hwasa relaying a fan question out loud.
+
+--- word ---
+term: 왜
+type: adverb
+breakdown:
+meaning: why
+notes: Same usage as before — here it's part of a quoted question from fans.
+
+--- word ---
+term: 공지를
+type: noun + particle
+breakdown: 공지 (announcement/notice) + -를 (object particle)
+meaning: an announcement / notice (as direct object)
+notes: 공지 is short for 공지사항 (official notice/announcement). In K-pop fan culture, 공지 refers to official posts or notices from an artist's team about upcoming releases, schedules, events, or — in this case — something like a Season's Greetings drop. Fans are asking Hwasa why there hasn't been an official announcement yet. -를 marks it as the direct object of 주다.
+
+--- word ---
+term: 안주냐고
+type: verb (negative) + quoted question ending
+breakdown: 안 (not) + 주다 (to give) + -냐고 (indirect quotation of a question)
+meaning: (asking) why (someone) isn't giving
+notes: This packs a lot in. 안 주다 = "not give." -냐고 is the indirect speech quotation form for questions, meaning "they're asking whether/why ~." The full structure is -냐고 하다 (to say/ask that ~) with 하다 dropped, which is completely standard in casual speech. So 왜 공지를 안주냐고 = "(they're) asking why I'm not giving notice." Hwasa is paraphrasing what fans are typing in the chat. This indirect quotation pattern (-다고, -냐고, -자고, -라고) is essential grammar for intermediate learners — it shows up constantly when relaying what someone said or asked.
+
+
+=== [07:30] 내가 사진 셀렉을 하면 돼 ===
+meaning: I just need to do the photo selection (and then it's good to go)
+tone: Informal, matter-of-fact. Hwasa casually explaining where things stand with the SG — almost everything is done, she just needs to pick the photos.
+
+--- word ---
+term: 내가
+type: pronoun + particle
+breakdown: 나 (I) + -가 (subject particle) → 내가
+meaning: I (as subject)
+notes: When 나 (I) combines with the subject particle -가, it contracts to 내가, not 나가. This is an irregular but essential form to memorize. Similarly, 너 (you) + -가 = 네가, but because 내가 and 네가 sound nearly identical in modern Korean, speakers often pronounce 네가 as 니가 to distinguish them. In writing, 네가 is standard.
+
+--- word ---
+term: 사진
+type: noun
+breakdown:
+meaning: photo, photograph
+notes: 사진 (寫真) is a Sino-Korean word. Very common vocabulary. In this context it refers to the photos from Hwasa's Season's Greetings photoshoot.
+
+--- word ---
+term: 셀렉을
+type: noun + particle
+breakdown: 셀렉 (selection) + -을 (object particle)
+meaning: the selection (as direct object)
+notes: 셀렉 is a casual Konglish abbreviation of 셀렉션 (selection), from English "selection." In K-pop and entertainment industry lingo, 셀렉 specifically refers to the process where an artist picks which photos from a shoot will be used. It's insider/industry slang that fans also pick up. -을 marks it as the object of 하다.
+
+--- word ---
+term: 하면
+type: verb + conditional
+breakdown: 하다 (to do) + -면 (if/when)
+meaning: if/when (I) do
+notes: -면 is the conditional ending meaning "if" or "when." 하면 here means "if/when I do (the selection)." Combined with 돼 at the end, the structure 하면 돼 is a very useful everyday pattern meaning "all I have to do is ~" or "it'll be fine if I just ~." It implies the task is simple or that this is the only remaining step.
+
+--- word ---
+term: 돼
+type: verb (casual)
+breakdown: 되다 (to be okay, to work, to become) + -어 → 돼
+meaning: it's fine, it works, it's okay
+notes: 돼 is the casual present form of 되다, contracted from 되어. The pattern V-면 돼 ("if you do V, it's fine") is one of the most practical structures in Korean — it means "you just have to V" or "all that's needed is V." Hwasa is saying the SG is essentially done; the only remaining step is photo selection. Remember: 돼 (contracted, used as a final or conjugated form) vs. 되 (bare stem, used before other endings like -는, -지, -고). This trips up even intermediate learners.
+
+
+=== [07:33] 사진 셀렉 하는대로 공지가 가지 않을까 싶어 ===
+meaning: I think the announcement will probably go out as soon as I do the photo selection
+tone: Informal, speculative. Hwasa thinking out loud about the timeline for her fans.
+
+--- word ---
+term: 사진
+type: noun
+breakdown:
+meaning: photo
+notes: Same as previous — referring to the SG photoshoot images.
+
+--- word ---
+term: 셀렉
+type: noun (Konglish slang)
+breakdown: 셀렉션 (selection) → 셀렉 (shortened)
+meaning: selection (of photos)
+notes: Covered previously. Industry shorthand for choosing which photos make the final cut.
+
+--- word ---
+term: 하는대로
+type: verb + compound ending
+breakdown: 하다 (to do) + -는 대로 (as soon as, the moment that)
+meaning: as soon as (I) do it
+notes: -는 대로 is an important grammar pattern meaning "as soon as" or "right after." It attaches to the present tense modifier form of a verb. Don't confuse with -대로 attached to nouns, which means "as/according to" (e.g., 말한 대로 = "as I said"). Here 하는 대로 = "the moment I do (the selection)." Very useful for expressing immediate sequence of events.
+
+--- word ---
+term: 공지가
+type: noun + particle
+breakdown: 공지 (announcement/notice) + -가 (subject particle)
+meaning: the announcement (as subject)
+notes: Here 공지 is the subject of the verb 가다. -가 marks it as the thing performing the action. Compare with 공지를 in the previous sentence [07:23] where it was the object being given.
+
+--- word ---
+term: 가지
+type: verb + negative prefix
+breakdown: 가다 (to go) + -지 (part of negative construction -지 않다)
+meaning: go (part of "won't it go out?")
+notes: 가다 here means "to go out" as in the announcement being sent/released. -지 않다 is the long-form negation pattern (vs. short-form 안 가다). Using 가다 for notices or messages going out is natural Korean — similar to English "the notice will go out."
+
+--- word ---
+term: 않을까
+type: negative verb + speculative ending
+breakdown: 않다 (to not) + -을까 (wondering whether, I wonder if)
+meaning: won't it? / I wonder if it might
+notes: -을까 expresses speculation or a soft guess. 가지 않을까 literally means "might it not go?" which in Korean is actually a positive expectation — "I think it probably will go out." This double-negative-as-positive-guess pattern is very common and can confuse learners. It's softer and less assertive than saying 갈 거야 (it will go).
+
+--- word ---
+term: 싶어
+type: verb (casual)
+breakdown: 싶다 (to want, to think/feel) + -어 (casual ending)
+meaning: I think, I feel like
+notes: -지 않을까 싶다 is a set pattern meaning "I have a feeling that ~ / I think maybe ~." 싶다 on its own usually means "to want" (V-고 싶다 = "want to V"), but in this construction it expresses a tentative personal opinion or guess. It's softer than 생각해 (I think) — more like "I have a hunch." Hwasa is hedging because she's not 100% sure of the timeline but is giving fans a reasonable expectation.
+
+
+=== [07:37] 그래서 내가 사실 해야하는 일이 오늘 사진 셀렉을 해야 돼 ===
+meaning: So actually the thing I need to do is — I need to do the photo selection today
+tone: Informal, self-reminding. Hwasa talking through her to-do list on stream, realizing she should get this done today.
+
+--- word ---
+term: 그래서
+type: conjunction
+breakdown: 그렇다 (to be so) + -어서 (because, so)
+meaning: so, therefore
+notes: 그래서 connects to the previous thought — because the announcement goes out after selection, "so" she needs to do it. One of the most common conjunctions in spoken Korean. Compare with 그러니까 (so/therefore, slightly more emphatic or explanatory).
+
+--- word ---
+term: 내가
+type: pronoun + particle
+breakdown: 나 (I) + -가 (subject particle) → 내가
+meaning: I (as subject)
+notes: Covered previously. Contracted form of 나 + 가.
+
+--- word ---
+term: 사실
+type: adverb
+breakdown:
+meaning: actually, in fact
+notes: 사실 (事實) literally means "fact/truth" as a noun, but used adverbially at the start or middle of a sentence it means "actually/to be honest." Hwasa is adding a confessional tone — she's admitting what she really needs to get done. Very common in natural speech.
+
+--- word ---
+term: 해야하는
+type: verb + modifier
+breakdown: 하다 (to do) + -아야 하다 (must do) + -는 (present modifier)
+meaning: that (I) have to do
+notes: -아/어야 하다 means "must/have to." Adding -는 turns the whole thing into a modifier for the following noun (일). So 해야하는 일 = "a thing that I have to do." This is a relative clause structure — Korean places modifiers before the noun, opposite to English. The ability to stack verb phrases into modifiers like this is a key intermediate grammar skill.
+
+--- word ---
+term: 일이
+type: noun + particle
+breakdown: 일 (thing, task, work) + -이 (subject particle)
+meaning: the thing/task (as subject)
+notes: 일 here means "task" or "thing to do" rather than "work" in the job sense. -이 is the subject particle (used after consonant-ending nouns; -가 after vowel-ending nouns). The whole phrase 내가 해야하는 일이 sets up "the thing I have to do is..." but then Hwasa restates it more directly instead of completing the formal structure — very natural in unscripted speech.
+
+--- word ---
+term: 오늘
+type: noun/adverb
+breakdown:
+meaning: today
+notes: Functions as a time adverb here. Hwasa is specifying when she needs to do the selection.
+
+--- word ---
+term: 사진 셀렉을
+type: noun phrase + particle
+breakdown: 사진 (photo) + 셀렉 (selection) + -을 (object particle)
+meaning: the photo selection (as direct object)
+notes: Same noun phrase as before, now marked with -을 as the object of 해야 돼.
+
+--- word ---
+term: 해야 돼
+type: verb + obligation ending
+breakdown: 하다 (to do) + -아야 되다 (must, have to)
+meaning: have to do, must do
+notes: 해야 돼 and 해야 해 are interchangeable ways to say "have to do." 되다 and 하다 both work as the auxiliary verb in this obligation pattern. 해야 돼 is slightly more colloquial. Notice Hwasa started with the relative clause version (해야하는 일이) then pivoted to just stating it directly (해야 돼) — this kind of mid-sentence restructuring is totally normal in spontaneous spoken Korean and a good reminder that real speech doesn't always follow textbook sentence patterns.
+
+
+=== [07:44] 회사에서 제발 셀렉 좀 빨리 해달래 ===
+meaning: The company is begging me to please do the selection quickly
+tone: Informal, amused, slightly bragging. Hwasa relaying that her agency has been nagging her to finish the photo picks.
+
+--- word ---
+term: 회사에서
+type: noun + particle
+breakdown: 회사 (company) + -에서 (from, at — as source/agent)
+meaning: the company (as the one making the request)
+notes: 회사 here refers to Hwasa's agency/label (P Nation). -에서 can mark a location ("at") but also the source or agent of an action when the subject is an organization or group rather than a specific person. So 회사에서 = "from/by the company." This is a common pattern — organizations take -에서 as an agent marker where an individual person would take -이/가.
+
+--- word ---
+term: 제발
+type: adverb
+breakdown:
+meaning: please, I beg you
+notes: 제발 is stronger and more desperate than 좀 — it carries a pleading, almost begging tone. Hwasa is dramatizing how urgently her company has been asking. Using 제발 and 좀 together in the same sentence really stacks the pleading effect for comedic emphasis.
+
+--- word ---
+term: 셀렉
+type: noun (Konglish slang)
+breakdown: 셀렉션 (selection) → 셀렉 (shortened)
+meaning: (photo) selection
+notes: Covered previously. At this point in the conversation it's clearly established as the photo selection for the Season's Greetings.
+
+--- word ---
+term: 좀
+type: adverb
+breakdown: 조금 (a little) → 좀 (contracted)
+meaning: please, a bit
+notes: 좀 is a contraction of 조금 (a little), but in requests it functions as a softener meaning "please" or "would you kindly." It's less intense than 제발 on its own, but here paired with 제발 it reinforces the begging tone. 좀 is extremely frequent in everyday Korean — one of those words that pops up in almost every conversation.
+
+--- word ---
+term: 빨리
+type: adverb
+breakdown: 빠르다 (to be fast) → 빨리 (adverb form)
+meaning: quickly, fast
+notes: Irregular adverb derivation — 빠르다 doesn't become 빠르게 in casual speech (though 빠르게 is grammatically valid and more formal). 빨리 is the natural spoken form. 빨리빨리 (hurry hurry) is a well-known expression tied to Korean culture's fast-paced tempo.
+
+--- word ---
+term: 해달래
+type: verb + request quotation
+breakdown: 하다 (to do) + -아/어 달라다 (to ask someone to do something for them) + -래 (casual indirect quote ending)
+meaning: (they're) asking me to do (it for them)
+notes: This is a layered ending. 해 달라다 = "to request that someone do something (as a favor)." -래 is the casual contracted form of -라고 해 (they say/ask that ~). So 해달래 = "they're asking me to do it." The full uncontracted form would be 해달라고 해. Compare: -해줘 (do it for me, direct request) vs. 해달래 (they're asking me to do it, reported request). Hwasa is quoting her company's plea in a casual, slightly exasperated way — the kind of reported speech that comes up constantly in Korean storytelling.
+
+
+=== [07:54] 어떻게 같이 해 이거 꺼지는데 ===
+meaning: How would we do this together? This (stream) is about to end
+tone: Informal, dismissive but affectionate. Hwasa responding to fans who want to help pick photos — she's pointing out the stream is ending so that's not realistic.
+
+--- word ---
+term: 어떻게
+type: adverb
+breakdown: 어떻다 (to be how) → 어떻게 (adverb form)
+meaning: how, in what way
+notes: Here used rhetorically — "how would we even do that?" Hwasa isn't asking for a real method; she's saying it's not feasible. 어떻게 as a rhetorical question is very common in Korean to express that something is impossible or unreasonable.
+
+--- word ---
+term: 같이
+type: adverb
+breakdown:
+meaning: together
+notes: 같이 and 함께 both mean "together." 같이 is more casual and spoken; 함께 is slightly more formal or written. Fans apparently suggested doing the photo selection together with Hwasa on stream.
+
+--- word ---
+term: 해
+type: verb (casual)
+breakdown: 하다 (to do) + -어 → 해 (casual ending)
+meaning: do
+notes: Casual 반말 form of 하다. Here part of the rhetorical question "how would we do (this)?"
+
+--- word ---
+term: 이거
+type: pronoun (contracted)
+breakdown: 이것 (this thing) → 이거 (casual contraction)
+meaning: this (thing)
+notes: 이거 is the spoken contraction of 이것. Similarly: 그것 → 그거 (that), 저것 → 저거 (that over there). 이거 here refers to the livestream itself. These contracted forms are standard in all but the most formal speech.
+
+--- word ---
+term: 꺼지는데
+type: verb + ending
+breakdown: 꺼지다 (to turn off, to go out) + -는데 (but, given that)
+meaning: it's turning off / about to end, so...
+notes: 꺼지다 is the intransitive/passive form of 끄다 (to turn off). 꺼지다 = "to go off / be turned off" — here meaning the stream is ending or about to shut down. -는데 sets up background context or contrast, trailing off to imply "so how would that even work?" Leaving the sentence hanging after -는데 is extremely natural in spoken Korean — the listener fills in the obvious conclusion. Note: 꺼지다 can also be rude slang meaning "get lost / go away" (꺼져!), but that's not the meaning here — context makes it clear she's talking about the broadcast ending.
+
 
 
 — [07:59] ————————————————————————————————————————
