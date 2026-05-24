@@ -505,6 +505,11 @@ let audioReady = false;
         audioUrl = candidate;
         audioReady = true;
         console.log('Audio available:', audioUrl);
+        // If the button already exists (pill built before HEAD returned), show it now
+        const btn = document.getElementById('audioToggle');
+        const sep = document.getElementById('audioSep');
+        if (btn) btn.style.display = '';
+        if (sep) sep.style.display = '';
       } else {
         console.log('No audio found (status ' + r.status + ')');
       }
@@ -990,6 +995,14 @@ let audioReady = false;
   audioToggleBtn.textContent = '🔊';
   audioToggleBtn.style.display = 'none';
   pill.appendChild(audioToggleBtn);
+
+    // If HEAD check already completed before pill was built, show button now
+  if (audioReady) {
+    audioSep.style.display = '';
+    audioToggleBtn.style.display = '';
+  }
+
+    
   // ── End audio toggle button ──
 
   function updateBtnStates() {
