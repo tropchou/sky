@@ -582,6 +582,17 @@
   white-space: nowrap;
 }
 
+/* ── Karaoke highlighting ────────────────── */
+.line-group.audio-active pre strong {
+  background: rgba(74, 144, 184, 0.15);
+  border-radius: 2px;
+  transition: background 0.2s ease;
+}
+
+.line-group.audio-playing pre strong {
+  background: rgba(74, 144, 184, 0.3);
+}
+
     
   </style>
 </head>
@@ -823,6 +834,11 @@ let audioReady = false;
       lineGroups.forEach(group => {
         const groupEl       = document.createElement('div');
         groupEl.className   = 'line-group';
+        if (group.ts) {
+          groupEl.dataset.audioSeconds = tsToSeconds(group.ts);
+          groupEl.dataset.audioTs = group.ts;
+        }
+
 
         const pre = document.createElement('pre');
         if (group.ts && group.ko) {
@@ -1248,7 +1264,6 @@ function initAudioPlayer() {
   const segBtn    = document.getElementById('audioStartSegment');
   const segTsEl   = document.getElementById('audioSegmentTs');
   const toggleBtn = document.getElementById('audioToggle');
-  const toggleSep = document.getElementById('audioSep');
 
   if (!audioReady || !audioUrl) return;
 
@@ -1258,6 +1273,18 @@ function initAudioPlayer() {
 
   let panelOpen = false;
   let currentSegmentSeconds = 0;
+
+  // ── Build sorted list of KO line-group cues ──
+  const cues = [];
+  document.querySelectorAll('.line-group[data-audio-seconds]').forEach(el => {
+    cues.push({
+      el: el,
+      seconds: parseFloat(el.dataset.audioSeconds)
+    });
+  });
+  cues.sort((a, b) => a.seconds - b.seconds);
+
+  let activeCue = null;
 
   // ── Toggle panel open/close ──
   toggleBtn.addEventListener('click', () => {
@@ -1273,6 +1300,40 @@ function initAudioPlayer() {
     return m + ':' + (s < 10 ? '0' : '') + s;
   }
 
+  // ── Find active cue for a given time ──
+  function findCueAt(time) {
+    let best = null;
+    for (let i = 0; i < cues.length; i++) {
+      if (cues[i].seconds <= time) {
+        best = cues[i];
+      } else {
+        break;
+      }
+    }
+    return best;
+  }
+
+  // ── Highlight the active cue ──
+  function updateHighlight(time) {
+    const cue = findCueAt(time);
+    if (cue === activeCue) return;
+
+    // Remove old highlight
+    if (activeCue) {
+      activeCue.el.classList.remove('audio-active', 'audio-playing');
+    }
+
+    activeCue = cue;
+
+    // Add new highlight
+    if (activeCue) {
+      activeCue.el.classList.add('audio-active');
+      if (!audio.paused) {
+        activeCue.el.classList.add('audio-playing');
+      }
+    }
+  }
+
   // ── Play / Pause ──
   playBtn.addEventListener('click', () => {
     if (audio.paused) {
@@ -1284,10 +1345,18 @@ function initAudioPlayer() {
 
   audio.addEventListener('play', () => {
     playBtn.textContent = '⏸';
+    // Upgrade active highlight to "playing" state
+    if (activeCue) {
+      activeCue.el.classList.add('audio-playing');
+    }
   });
 
   audio.addEventListener('pause', () => {
     playBtn.textContent = '▶';
+    // Downgrade to "paused at position" state
+    if (activeCue) {
+      activeCue.el.classList.remove('audio-playing');
+    }
   });
 
   // ── Seek bar updates ──
@@ -1299,10 +1368,12 @@ function initAudioPlayer() {
   audio.addEventListener('timeupdate', () => {
     seekBar.value = audio.currentTime;
     timeEl.textContent = fmtTime(audio.currentTime) + ' / ' + fmtTime(audio.duration);
+    updateHighlight(audio.currentTime);
   });
 
   seekBar.addEventListener('input', () => {
     audio.currentTime = parseFloat(seekBar.value);
+    updateHighlight(audio.currentTime);
   });
 
   // ── Speed selector ──
@@ -1328,7 +1399,6 @@ function initAudioPlayer() {
     segTsEl.textContent = label ? ('Segment: ' + label) : '';
   };
 
-  // Set initial segment to 0:00
   window.setAudioSegment(0, '0:00');
 }
 
