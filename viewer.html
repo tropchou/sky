@@ -593,6 +593,11 @@
   background: rgba(74, 144, 184, 0.3);
 }
 
+/* ── Tap-to-play cursor hint on KO lines ── */
+.line-group[data-audio-seconds] pre strong {
+  cursor: pointer;
+}
+
     
   </style>
 </head>
@@ -1285,6 +1290,8 @@ function initAudioPlayer() {
   cues.sort((a, b) => a.seconds - b.seconds);
 
   let activeCue = null;
+  let sentenceEndTime = null;  // non-null means "stop after this time"
+  let sentenceMode = false;    // true = playing a single sentence
 
   // ── Toggle panel open/close ──
   toggleBtn.addEventListener('click', () => {
@@ -1313,19 +1320,27 @@ function initAudioPlayer() {
     return best;
   }
 
+  // ── Get the end time for a cue (= start of next cue, or audio duration) ──
+  function getCueEndTime(cue) {
+    for (let i = 0; i < cues.length; i++) {
+      if (cues[i] === cue && i + 1 < cues.length) {
+        return cues[i + 1].seconds;
+      }
+    }
+    return audio.duration || Infinity;
+  }
+
   // ── Highlight the active cue ──
   function updateHighlight(time) {
     const cue = findCueAt(time);
     if (cue === activeCue) return;
 
-    // Remove old highlight
     if (activeCue) {
       activeCue.el.classList.remove('audio-active', 'audio-playing');
     }
 
     activeCue = cue;
 
-    // Add new highlight
     if (activeCue) {
       activeCue.el.classList.add('audio-active');
       if (!audio.paused) {
@@ -1337,6 +1352,9 @@ function initAudioPlayer() {
   // ── Play / Pause ──
   playBtn.addEventListener('click', () => {
     if (audio.paused) {
+      // If user manually hits play, exit sentence mode
+      sentenceMode = false;
+      sentenceEndTime = null;
       audio.play();
     } else {
       audio.pause();
@@ -1345,7 +1363,6 @@ function initAudioPlayer() {
 
   audio.addEventListener('play', () => {
     playBtn.textContent = '⏸';
-    // Upgrade active highlight to "playing" state
     if (activeCue) {
       activeCue.el.classList.add('audio-playing');
     }
@@ -1353,7 +1370,6 @@ function initAudioPlayer() {
 
   audio.addEventListener('pause', () => {
     playBtn.textContent = '▶';
-    // Downgrade to "paused at position" state
     if (activeCue) {
       activeCue.el.classList.remove('audio-playing');
     }
@@ -1369,9 +1385,19 @@ function initAudioPlayer() {
     seekBar.value = audio.currentTime;
     timeEl.textContent = fmtTime(audio.currentTime) + ' / ' + fmtTime(audio.duration);
     updateHighlight(audio.currentTime);
+
+    // ── Stop at end of single sentence ──
+    if (sentenceMode && sentenceEndTime !== null && audio.currentTime >= sentenceEndTime) {
+      audio.pause();
+      sentenceMode = false;
+      sentenceEndTime = null;
+    }
   });
 
   seekBar.addEventListener('input', () => {
+    // Manual seek exits sentence mode
+    sentenceMode = false;
+    sentenceEndTime = null;
     audio.currentTime = parseFloat(seekBar.value);
     updateHighlight(audio.currentTime);
   });
@@ -1381,26 +1407,53 @@ function initAudioPlayer() {
     audio.playbackRate = parseFloat(speedSel.value);
   });
 
-  // ── Start from beginning ──
+  // ── Start from beginning (continuous playback) ──
   startBtn.addEventListener('click', () => {
+    sentenceMode = false;
+    sentenceEndTime = null;
     audio.currentTime = 0;
     audio.play();
   });
 
-  // ── Start from current segment ──
+  // ── Start from current segment (continuous playback) ──
   segBtn.addEventListener('click', () => {
+    sentenceMode = false;
+    sentenceEndTime = null;
     audio.currentTime = currentSegmentSeconds;
     audio.play();
   });
 
-  // ── Update current segment (will be called by other features later) ──
-  window.setAudioSegment = function(seconds, label) {
+  // ── Update current segment ──
+  function setSegment(seconds, label) {
     currentSegmentSeconds = seconds;
     segTsEl.textContent = label ? ('Segment: ' + label) : '';
-  };
+  }
+  window.setAudioSegment = setSegment;
+  setSegment(0, '0:00');
 
-  window.setAudioSegment(0, '0:00');
+  // ── Tap-to-play single sentence ──
+  cues.forEach((cue, i) => {
+    cue.el.addEventListener('click', (e) => {
+      // Don't interfere with grammar toggle button clicks
+      if (e.target.closest('.grammar-toggle') || e.target.closest('.grammar-panel') || e.target.closest('.grammar-collapse-btn')) {
+        return;
+      }
+
+      const startTime = cue.seconds;
+      const endTime = (i + 1 < cues.length) ? cues[i + 1].seconds : (audio.duration || Infinity);
+
+      // Set this as the current segment
+      setSegment(startTime, cue.el.dataset.audioTs);
+
+      // Play just this sentence
+      sentenceMode = true;
+      sentenceEndTime = endTime;
+      audio.currentTime = startTime;
+      audio.play();
+    });
+  });
 }
+
 
 
   
