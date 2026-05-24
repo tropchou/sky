@@ -1297,6 +1297,10 @@ function initAudioPlayer() {
   toggleBtn.addEventListener('click', () => {
     panelOpen = !panelOpen;
     panel.classList.toggle('open', panelOpen);
+    // Pause audio when panel is closed
+    if (!panelOpen && !audio.paused) {
+      audio.pause();
+    }
   });
 
   // ── Format seconds as m:ss ──
@@ -1335,7 +1339,7 @@ function initAudioPlayer() {
     const rect = cueEl.getBoundingClientRect();
     const panelHeight = panelOpen ? panel.offsetHeight : 0;
     const viewTop = panelHeight + 20;
-    const viewBottom = window.innerHeight - 100; // leave room for nav pill
+    const viewBottom = window.innerHeight - 100;
 
     if (rect.top < viewTop || rect.bottom > viewBottom) {
       const scrollTarget = window.scrollY + rect.top - viewTop - 40;
@@ -1356,6 +1360,14 @@ function initAudioPlayer() {
     });
   }
 
+  // ── Clear all highlights ──
+  function clearHighlight() {
+    if (activeCue) {
+      activeCue.el.classList.remove('audio-active', 'audio-playing');
+      activeCue = null;
+    }
+  }
+
   // ── Highlight the active cue ──
   function updateHighlight(time) {
     const cue = findCueAt(time);
@@ -1373,11 +1385,7 @@ function initAudioPlayer() {
       activeCue.el.classList.add('audio-active');
       if (!audio.paused) {
         activeCue.el.classList.add('audio-playing');
-
-        // Auto-scroll during playback (not when paused/seeking)
         scrollToActiveCue(activeCue.el);
-
-        // Collapse grammar panels on the PREVIOUS cue as we move past it
         if (previousCue) {
           collapseGrammarPanels(previousCue.el);
         }
@@ -1410,6 +1418,14 @@ function initAudioPlayer() {
     }
   });
 
+  // ── Audio ended: clear everything ──
+  audio.addEventListener('ended', () => {
+    playBtn.textContent = '▶';
+    sentenceMode = false;
+    sentenceEndTime = null;
+    clearHighlight();
+  });
+
   // ── Seek bar updates ──
   audio.addEventListener('loadedmetadata', () => {
     seekBar.max = audio.duration;
@@ -1421,7 +1437,6 @@ function initAudioPlayer() {
     timeEl.textContent = fmtTime(audio.currentTime) + ' / ' + fmtTime(audio.duration);
     updateHighlight(audio.currentTime);
 
-    // ── Stop at end of single sentence ──
     if (sentenceMode && sentenceEndTime !== null && audio.currentTime >= sentenceEndTime) {
       audio.pause();
       sentenceMode = false;
@@ -1441,7 +1456,7 @@ function initAudioPlayer() {
     audio.playbackRate = parseFloat(speedSel.value);
   });
 
-  // ── Start from beginning (continuous playback) ──
+  // ── Start from beginning ──
   startBtn.addEventListener('click', () => {
     sentenceMode = false;
     sentenceEndTime = null;
@@ -1449,7 +1464,7 @@ function initAudioPlayer() {
     audio.play();
   });
 
-  // ── Start from current segment (continuous playback) ──
+  // ── Start from current segment ──
   segBtn.addEventListener('click', () => {
     sentenceMode = false;
     sentenceEndTime = null;
@@ -1465,25 +1480,61 @@ function initAudioPlayer() {
   window.setAudioSegment = setSegment;
   setSegment(0, '0:00');
 
-  // ── Tap-to-play single sentence ──
+  // ── Tap-to-play with long-press detection ──
+  const TAP_THRESHOLD = 300; // ms — shorter = tap, longer = long-press
+
   cues.forEach((cue, i) => {
+    let touchStartTime = 0;
+    let touchMoved = false;
+
+    // ── Touch events (mobile) ──
+    cue.el.addEventListener('touchstart', (e) => {
+      if (e.target.closest('.grammar-toggle') || e.target.closest('.grammar-panel') || e.target.closest('.grammar-collapse-btn')) {
+        return;
+      }
+      touchStartTime = Date.now();
+      touchMoved = false;
+    }, { passive: true });
+
+    cue.el.addEventListener('touchmove', () => {
+      touchMoved = true;
+    }, { passive: true });
+
+    cue.el.addEventListener('touchend', (e) => {
+      if (e.target.closest('.grammar-toggle') || e.target.closest('.grammar-panel') || e.target.closest('.grammar-collapse-btn')) {
+        return;
+      }
+      if (touchMoved) return;
+
+      const elapsed = Date.now() - touchStartTime;
+      if (elapsed >= TAP_THRESHOLD) return; // long-press — let browser handle it
+
+      e.preventDefault(); // prevent click from also firing
+      playSentence(cue, i);
+    });
+
+    // ── Click event (desktop) ──
     cue.el.addEventListener('click', (e) => {
       if (e.target.closest('.grammar-toggle') || e.target.closest('.grammar-panel') || e.target.closest('.grammar-collapse-btn')) {
         return;
       }
-
-      const startTime = cue.seconds;
-      const endTime = (i + 1 < cues.length) ? cues[i + 1].seconds : (audio.duration || Infinity);
-
-      setSegment(startTime, cue.el.dataset.audioTs);
-
-      sentenceMode = true;
-      sentenceEndTime = endTime;
-      audio.currentTime = startTime;
-      audio.play();
+      playSentence(cue, i);
     });
   });
+
+  function playSentence(cue, i) {
+    const startTime = cue.seconds;
+    const endTime = (i + 1 < cues.length) ? cues[i + 1].seconds : (audio.duration || Infinity);
+
+    setSegment(startTime, cue.el.dataset.audioTs);
+
+    sentenceMode = true;
+    sentenceEndTime = endTime;
+    audio.currentTime = startTime;
+    audio.play();
+  }
 }
+
 
 
 
