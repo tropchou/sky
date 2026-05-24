@@ -666,7 +666,7 @@ let audioReady = false;
     .replace('transcripts/', 'audio/')
     .replace('.txt', '.mp3')
     .replace(/\/hwasa-/, '/');
-  fetch(candidate, { method: 'HEAD' })
+  fetch(candidate + '?_=' + Date.now(), { method: 'HEAD', cache: 'no-store' })
     .then(r => {
       if (r.ok) {
         audioUrl = candidate;
