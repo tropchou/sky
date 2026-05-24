@@ -1290,8 +1290,8 @@ function initAudioPlayer() {
   cues.sort((a, b) => a.seconds - b.seconds);
 
   let activeCue = null;
-  let sentenceEndTime = null;  // non-null means "stop after this time"
-  let sentenceMode = false;    // true = playing a single sentence
+  let sentenceEndTime = null;
+  let sentenceMode = false;
 
   // ── Toggle panel open/close ──
   toggleBtn.addEventListener('click', () => {
@@ -1320,7 +1320,7 @@ function initAudioPlayer() {
     return best;
   }
 
-  // ── Get the end time for a cue (= start of next cue, or audio duration) ──
+  // ── Get the end time for a cue ──
   function getCueEndTime(cue) {
     for (let i = 0; i < cues.length; i++) {
       if (cues[i] === cue && i + 1 < cues.length) {
@@ -1330,10 +1330,38 @@ function initAudioPlayer() {
     return audio.duration || Infinity;
   }
 
+  // ── Auto-scroll to keep active cue visible ──
+  function scrollToActiveCue(cueEl) {
+    const rect = cueEl.getBoundingClientRect();
+    const panelHeight = panelOpen ? panel.offsetHeight : 0;
+    const viewTop = panelHeight + 20;
+    const viewBottom = window.innerHeight - 100; // leave room for nav pill
+
+    if (rect.top < viewTop || rect.bottom > viewBottom) {
+      const scrollTarget = window.scrollY + rect.top - viewTop - 40;
+      window.scrollTo({ top: scrollTarget, behavior: 'smooth' });
+    }
+  }
+
+  // ── Auto-collapse grammar panels in a line group ──
+  function collapseGrammarPanels(cueEl) {
+    const openPanels = cueEl.querySelectorAll('.grammar-panel.open');
+    openPanels.forEach(p => {
+      p.classList.remove('open');
+      const btn = p.previousElementSibling;
+      if (btn && btn.classList.contains('grammar-toggle')) {
+        btn.classList.remove('open');
+        btn.textContent = 'Grammar ▾';
+      }
+    });
+  }
+
   // ── Highlight the active cue ──
   function updateHighlight(time) {
     const cue = findCueAt(time);
     if (cue === activeCue) return;
+
+    const previousCue = activeCue;
 
     if (activeCue) {
       activeCue.el.classList.remove('audio-active', 'audio-playing');
@@ -1345,6 +1373,14 @@ function initAudioPlayer() {
       activeCue.el.classList.add('audio-active');
       if (!audio.paused) {
         activeCue.el.classList.add('audio-playing');
+
+        // Auto-scroll during playback (not when paused/seeking)
+        scrollToActiveCue(activeCue.el);
+
+        // Collapse grammar panels on the PREVIOUS cue as we move past it
+        if (previousCue) {
+          collapseGrammarPanels(previousCue.el);
+        }
       }
     }
   }
@@ -1352,7 +1388,6 @@ function initAudioPlayer() {
   // ── Play / Pause ──
   playBtn.addEventListener('click', () => {
     if (audio.paused) {
-      // If user manually hits play, exit sentence mode
       sentenceMode = false;
       sentenceEndTime = null;
       audio.play();
@@ -1395,7 +1430,6 @@ function initAudioPlayer() {
   });
 
   seekBar.addEventListener('input', () => {
-    // Manual seek exits sentence mode
     sentenceMode = false;
     sentenceEndTime = null;
     audio.currentTime = parseFloat(seekBar.value);
@@ -1434,7 +1468,6 @@ function initAudioPlayer() {
   // ── Tap-to-play single sentence ──
   cues.forEach((cue, i) => {
     cue.el.addEventListener('click', (e) => {
-      // Don't interfere with grammar toggle button clicks
       if (e.target.closest('.grammar-toggle') || e.target.closest('.grammar-panel') || e.target.closest('.grammar-collapse-btn')) {
         return;
       }
@@ -1442,10 +1475,8 @@ function initAudioPlayer() {
       const startTime = cue.seconds;
       const endTime = (i + 1 < cues.length) ? cues[i + 1].seconds : (audio.duration || Infinity);
 
-      // Set this as the current segment
       setSegment(startTime, cue.el.dataset.audioTs);
 
-      // Play just this sentence
       sentenceMode = true;
       sentenceEndTime = endTime;
       audio.currentTime = startTime;
@@ -1453,6 +1484,7 @@ function initAudioPlayer() {
     });
   });
 }
+
 
 
 
