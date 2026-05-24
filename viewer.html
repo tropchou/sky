@@ -454,6 +454,135 @@
         font-size: 0.74rem;
       }
     }
+
+/* ── Audio Player Panel ──────────────────── */
+.audio-panel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1100;
+  background: rgba(26, 26, 26, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  color: #ccc;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.82rem;
+  padding: 12px 20px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.25);
+  transform: translateY(-100%);
+  transition: transform 0.3s ease;
+}
+
+.audio-panel.open {
+  transform: translateY(0);
+}
+
+.audio-panel-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  max-width: 740px;
+  margin: 0 auto;
+}
+
+.audio-panel-row + .audio-panel-row {
+  margin-top: 8px;
+}
+
+.audio-play-btn {
+  background: none;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #ccc;
+  font-size: 1rem;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.audio-play-btn:hover {
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.audio-seek {
+  flex: 1;
+  height: 4px;
+  -webkit-appearance: none;
+  appearance: none;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 2px;
+  outline: none;
+  cursor: pointer;
+}
+
+.audio-seek::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #ccc;
+  cursor: pointer;
+}
+
+.audio-time {
+  font-size: 0.75rem;
+  color: #999;
+  white-space: nowrap;
+  min-width: 80px;
+  text-align: right;
+}
+
+.audio-speed {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.72rem;
+  background: rgba(255, 255, 255, 0.08);
+  color: #ccc;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+  padding: 4px 6px;
+  cursor: pointer;
+  outline: none;
+}
+
+.audio-speed option {
+  background: #1a1a1a;
+  color: #ccc;
+}
+
+.audio-start-btn {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  color: #ccc;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: color 0.15s, background 0.15s;
+  white-space: nowrap;
+}
+
+.audio-start-btn:hover {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.audio-segment-ts {
+  font-size: 0.72rem;
+  color: #777;
+  white-space: nowrap;
+}
+
+    
   </style>
 </head>
 <body>
@@ -475,6 +604,28 @@
     </p>
   </div>
 
+<!-- Audio Player Panel (hidden by default, toggled by JS) -->
+<div class="audio-panel" id="audioPanel">
+  <div class="audio-panel-row">
+    <button class="audio-play-btn" id="audioPlayBtn">▶</button>
+    <input type="range" class="audio-seek" id="audioSeek" min="0" max="100" value="0" step="0.1">
+    <span class="audio-time" id="audioTime">0:00 / 0:00</span>
+    <select class="audio-speed" id="audioSpeed">
+      <option value="0.5">0.5x</option>
+      <option value="0.75">0.75x</option>
+      <option value="1" selected>1x</option>
+      <option value="1.25">1.25x</option>
+      <option value="1.5">1.5x</option>
+    </select>
+  </div>
+  <div class="audio-panel-row">
+    <button class="audio-start-btn" id="audioStartBegin">▶ From beginning</button>
+    <button class="audio-start-btn" id="audioStartSegment">▶ From current segment</button>
+    <span class="audio-segment-ts" id="audioSegmentTs"></span>
+  </div>
+</div>
+
+  
   <!-- Navigation Pill (hidden by default, built by JS) -->
   <div class="nav-pill" id="navPill"></div>
 
@@ -552,6 +703,7 @@ let audioReady = false;
           const blocks = parseBlocks(text);
           renderBlocks(blocks, grammarMap);
           initNavPill(blocks);
+          initAudioPlayer();
         });
     })
     .catch(() => {
@@ -1083,7 +1235,105 @@ let audioReady = false;
   });
 }
 
+/* ══════════════════════════════════════════════════════
+   AUDIO PLAYER LOGIC
+   ══════════════════════════════════════════════════════ */
+function initAudioPlayer() {
+  const panel     = document.getElementById('audioPanel');
+  const playBtn   = document.getElementById('audioPlayBtn');
+  const seekBar   = document.getElementById('audioSeek');
+  const timeEl    = document.getElementById('audioTime');
+  const speedSel  = document.getElementById('audioSpeed');
+  const startBtn  = document.getElementById('audioStartBegin');
+  const segBtn    = document.getElementById('audioStartSegment');
+  const segTsEl   = document.getElementById('audioSegmentTs');
+  const toggleBtn = document.getElementById('audioToggle');
+  const toggleSep = document.getElementById('audioSep');
 
+  if (!audioReady || !audioUrl) return;
+
+  const audio = new Audio();
+  audio.preload = 'metadata';
+  audio.src = audioUrl;
+
+  let panelOpen = false;
+  let currentSegmentSeconds = 0;
+
+  // ── Toggle panel open/close ──
+  toggleBtn.addEventListener('click', () => {
+    panelOpen = !panelOpen;
+    panel.classList.toggle('open', panelOpen);
+  });
+
+  // ── Format seconds as m:ss ──
+  function fmtTime(sec) {
+    if (isNaN(sec)) return '0:00';
+    const m = Math.floor(sec / 60);
+    const s = Math.floor(sec % 60);
+    return m + ':' + (s < 10 ? '0' : '') + s;
+  }
+
+  // ── Play / Pause ──
+  playBtn.addEventListener('click', () => {
+    if (audio.paused) {
+      audio.play();
+    } else {
+      audio.pause();
+    }
+  });
+
+  audio.addEventListener('play', () => {
+    playBtn.textContent = '⏸';
+  });
+
+  audio.addEventListener('pause', () => {
+    playBtn.textContent = '▶';
+  });
+
+  // ── Seek bar updates ──
+  audio.addEventListener('loadedmetadata', () => {
+    seekBar.max = audio.duration;
+    timeEl.textContent = fmtTime(0) + ' / ' + fmtTime(audio.duration);
+  });
+
+  audio.addEventListener('timeupdate', () => {
+    seekBar.value = audio.currentTime;
+    timeEl.textContent = fmtTime(audio.currentTime) + ' / ' + fmtTime(audio.duration);
+  });
+
+  seekBar.addEventListener('input', () => {
+    audio.currentTime = parseFloat(seekBar.value);
+  });
+
+  // ── Speed selector ──
+  speedSel.addEventListener('change', () => {
+    audio.playbackRate = parseFloat(speedSel.value);
+  });
+
+  // ── Start from beginning ──
+  startBtn.addEventListener('click', () => {
+    audio.currentTime = 0;
+    audio.play();
+  });
+
+  // ── Start from current segment ──
+  segBtn.addEventListener('click', () => {
+    audio.currentTime = currentSegmentSeconds;
+    audio.play();
+  });
+
+  // ── Update current segment (will be called by other features later) ──
+  window.setAudioSegment = function(seconds, label) {
+    currentSegmentSeconds = seconds;
+    segTsEl.textContent = label ? ('Segment: ' + label) : '';
+  };
+
+  // Set initial segment to 0:00
+  window.setAudioSegment(0, '0:00');
+}
+
+
+  
   /* ── Utility functions ────────────────────── */
   function makeBtn(label, onClick) {
     const btn = document.createElement('button');
