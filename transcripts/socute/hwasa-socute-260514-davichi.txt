@@ -959,11 +959,6 @@ Uploaded: 2026-05-14
   FR: Oh vraiment?
   EN: Oh really?
 
-[05:16]
-  KO: 더 offenders
-  FR: plus de délinquants
-  EN: more offenders
-
 [05:17]
   KO: 어떻게 좋아하시길래 많이
   FR: Comment ça te plaît-il autant ?
@@ -981,8 +976,8 @@ Uploaded: 2026-05-14
 
 [05:21]
   KO: 아아
-  FR: café glacé
-  EN: iced coffee
+  FR: ahh
+  EN: ahh
 
 [05:23]
   KO: 그러니까 이 밥을 먹을 때
@@ -1006,8 +1001,8 @@ Uploaded: 2026-05-14
 
 [05:29]
   KO: 이번에 서큐트 자체를
-  FR: Cette fois, Circut lui-même
-  EN: This time, Circut itself
+  FR: Cette fois, So Cute lui-même
+  EN: This time, So Cute itself
 
 [05:31]
   KO: 조금 급하게 잡아가지고
@@ -1686,11 +1681,6 @@ Uploaded: 2026-05-14
   FR: J'ai trente-deux ans maintenant
   EN: I'm thirty-two now
 
-[09:04]
-  KO: 아아
-  FR: café glacé
-  EN: iced coffee
-
 [09:05]
   KO: 돼지띠
   FR: année du cochon
@@ -1773,11 +1763,6 @@ Uploaded: 2026-05-14
   KO: 춤을 추면 노래가 좀 어렵잖아
   FR: Chanter est un peu difficile quand on danse.
   EN: Singing is a bit difficult when you dance.
-
-[09:27]
-  KO: 아아
-  FR: café glacé
-  EN: iced coffee
 
 [09:27]
   KO: 우리는 가만히 있어서 노래만 보자
@@ -3108,56 +3093,6 @@ Uploaded: 2026-05-14
   KO: 못 쉬는 사람들 있잖아 왜
   FR: Il y a des gens qui ne peuvent pas se reposer, pourquoi ?
   EN: There are people who can't rest, why?
-
-[15:23]
-  KO: 아 진짜?
-  FR: Oh vraiment?
-  EN: Oh really?
-
-[15:24]
-  KO: 네
-  FR: Oui
-  EN: yes
-
-[15:25]
-  KO: 아 진짜?
-  FR: Oh vraiment?
-  EN: Oh really?
-
-[15:26]
-  KO: 아 진짜?
-  FR: Oh vraiment?
-  EN: Oh really?
-
-[15:27]
-  KO: 아 진짜?
-  FR: Oh vraiment?
-  EN: Oh really?
-
-[15:28]
-  KO: 아 진짜?
-  FR: Oh vraiment?
-  EN: Oh really?
-
-[15:29]
-  KO: 아 진짜?
-  FR: Oh vraiment?
-  EN: Oh really?
-
-[15:30]
-  KO: 아 진짜?
-  FR: Oh vraiment?
-  EN: Oh really?
-
-[15:31]
-  KO: 아 진짜?
-  FR: Oh vraiment?
-  EN: Oh really?
-
-[15:32]
-  KO: 아 진짜?
-  FR: Oh vraiment?
-  EN: Oh really?
 
 [15:33]
   KO: 왜?
