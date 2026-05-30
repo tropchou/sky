@@ -2674,141 +2674,104 @@ notes: 꺼지다 is the intransitive/passive form of 끄다 (to turn off). 꺼�
   EN: That's what I want to know. It's a cheese structure.
 
 
-[19:54]
+[19:59]
   KO: 오늘, 오늘은 8시. 8시에 일어났어.
   FR: Aujourd'hui, il est 8 heures. Je me suis réveillé à 8 heures.
   EN: Today, today is 8 o'clock. I woke up at 8 o'clock.
 
 
-[20:09]
+[20:15]
   KO: 학교 가고서 몸자약이랑
   FR: Après être allé à l'école, j'ai pris soin de moi
   EN: After going to school, I took care of myself
 
 
-[20:15]
+[20:20]
   KO: 또 뭐냐.
   FR: Quoi d'autre?
   EN: What else?
 
-[20:16]
+[20:26]
   KO: 뭐지?
   FR: quoi ?
   EN: what?
 
-[20:18]
+[20:28]
   KO: 모츠나베랑
   FR: Avec motsunabe
   EN: With motsunabe
 
 
-[20:23]
+[20:33]
   KO: 그리고 이자카야 가서
   FR: Et va à l'izakaya
   EN: And go to the izakaya
 
-[20:27]
+[20:28]
   KO: 또 막 여러 개 시키고
   FR: Et j'en ai commandé plusieurs autres.
   EN: And I ordered several more.
 
-[20:30]
+[20:39]
   KO: 되게 이자카야 갔는데 심지어
   FR: Je suis allé dans un izakaya et même
   EN: I went to an izakaya and even
 
-[20:34]
+[20:44]
   KO: 나를 뭐 알아보신 것도 아니고
   FR: Ce n'est pas comme si tu me reconnaissais
   EN: It's not like you recognize me
 
-[20:36]
-  KO: 나를 못 알아보신 것도 아니고
-  FR: Ce n'est pas que tu ne me reconnaisses pas
-  EN: It's not that you don't recognize me
-
-[20:38]
-  KO: 나를 못 알아보신 것도 아니고
-  FR: Ce n'est pas que tu ne me reconnaisses pas
-  EN: It's not that you don't recognize me
-
-[20:40]
-  KO: 나를 못 알아보신 것도 아니고
-  FR: Ce n'est pas que tu ne me reconnaisses pas
-  EN: It's not that you don't recognize me
-
-[20:42]
+[20:50]
   KO: 음식을 보내주신 거야.
   FR: Il m'a envoyé de la nourriture.
   EN: He sent me food.
 
-[20:44]
+[20:54]
   KO: 다른 테이블 그런 분께서
   FR: Quelqu'un d'une autre table
   EN: Someone from another table
 
 
-— [20:49] ————————————————————————————————————————
+— [20:59] ————————————————————————————————————————
 
-[20:49]
+[20:59]
   KO: 한국 너무 좋아한다고.
   FR: J'aime tellement la Corée.
   EN: I love Korea so much.
 
-
-[20:56]
+[21:05]
   KO: 너무 참 기분이 좋았어.
   FR: C'était si bon.
   EN: It felt so good.
 
-
-[21:03]
-  KO: 그리고
-  FR: et
-  EN: and
-
-[21:05]
-  KO: 그리고
-  FR: et
-  EN: and
-
-[21:07]
-  KO: 그리고
-  FR: et
-  EN: and
-
-[21:09]
-  KO: 그리고
-  FR: et
-  EN: and
-
-[21:10]
+[21:13]
   KO: 아니, 작업이 아니라
   FR: non, ça ne marche pas
   EN: no, not work
 
-[21:13]
+[21:15]
   KO: 한국을 너무 좋아한대.
   FR: Ils disent qu’ils aiment tellement la Corée.
   EN: They say they like Korea so much.
 
 
-[21:18]
+[21:20]
   KO: 그래서
   FR: donc
   EN: so
 
-[21:20]
+[21:21]
   KO: 음식을 이렇게 주신 거야.
   FR: C'est comme ça que tu m'as donné à manger.
   EN: This is how you gave me food.
 
-[21:22]
+[21:23]
   KO: 그리고 사장님, 이자카야 사장님도
   FR: Et le propriétaire, le propriétaire de l'izakaya
   EN: And the owner, the izakaya owner
 
-[21:26]
+[21:27]
   KO: 한국말을 막 하시는 거야.
   FR: Vous parlez juste coréen.
   EN: You're just speaking Korean.
