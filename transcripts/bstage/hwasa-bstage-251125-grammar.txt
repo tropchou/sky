@@ -2038,63 +2038,353 @@ meaning: is it a story/is that what's being said?
 notes: 얘기 is the casual/spoken form of 이야기 ("talk, story"). 인가 is a soft self-questioning ending ("I wonder if it is~"), often used when thinking aloud rather than asking someone directly. 얘기인가 contracts to 얘긴가 in speech. Full nuance: "Is this [them] telling me to turn it off now, I wonder?" Very natural, idol-on-camera vibe — she's puzzling something out for the audience to overhear.
 
 
-[08:05]
-  KO: 아이패드에 없어 이 휴대폰에 있어
-  FR: Ce n'est pas sur l'iPad. C'est sur ce téléphone.
-  EN: It's not on the iPad. It's on this phone.
+=== [08:05] 아이패드에 없어 이 휴대폰에 있어 ===
+meaning: It's not on the iPad, it's on this phone.
+tone: Casual, matter-of-fact; thinking out loud while locating something.
 
-[08:10]
-  KO: 꺼야 되나
-  FR: Dois-je l'éteindre ?
-  EN: Should I turn it off?
+--- word ---
+term: 아이패드에
+type: noun + particle
+breakdown: 아이패드 (iPad) + 에 (location particle)
+meaning: on/in the iPad
+notes: 아이패드 is a Konglish loanword (Korean pronunciation of "iPad"). The particle 에 marks a static location ("at, in, on"). Don't confuse with 에서, which marks the location of an action ("at [a place where something happens]"). For existence (있다/없다), always use 에, never 에서.
 
-[08:21]
-  KO: 화면 공유 기능이 아이폰엔 있어?
-  FR: Existe-t-il une fonctionnalité de partage d’écran sur l’iPhone ?
-  EN: Is there a screen sharing feature on the iPhone?
+--- word ---
+term: 없어
+type: verb (informal)
+breakdown: 없다 (to not exist / to not have) + -어 (casual sentence ending)
+meaning: (it) isn't there / doesn't exist
+notes: 없다 is the negative counterpart of 있다 ("to exist / have"). The 반말 (casual speech) form 없어 is used with close friends, family, or in monologue. Polite form: 없어요. Honorific: 없으세요 (when something doesn't belong to a respected person — used carefully).
 
-[08:38]
-  KO: 아 배고프다
-  FR: Oh, j'ai faim.
-  EN: Oh, I'm hungry.
+--- word ---
+term: 이
+type: demonstrative determiner
+breakdown:
+meaning: this
+notes: 이 modifies a following noun ("this ___"). The trio: 이 (this, near speaker), 그 (that, near listener / previously mentioned), 저 (that, far from both). Don't confuse with the pronoun 이거 ("this thing") which stands alone.
 
-[08:42]
-  KO: 여러분 배고픈거야
-  FR: Tout le monde, vous avez faim ?
-  EN: Everyone, are you hungry?
+--- word ---
+term: 휴대폰에
+type: noun + particle
+breakdown: 휴대폰 (cell phone) + 에 (location particle)
+meaning: on the cell phone
+notes: 휴대폰 literally = "carry-around phone" (휴대 "portable" + 폰 "phone"). Common synonyms: 핸드폰 (hand+phone, Konglish, very common in speech), 스마트폰 (smartphone), 폰 (just "phone," very casual). Textbooks often teach 휴대전화 but native speakers usually say 핸드폰 or 폰.
 
-[08:45]
-  KO: 살짝 좀 멍청이들 우리 얘기하다 보면 배고파지는 것 같아
-  FR: Espèce d'idiots, j'ai l'impression d'avoir faim pendant que nous parlons.
-  EN: You idiots, I feel like I'm getting hungry as we talk.
+--- word ---
+term: 있어
+type: verb (informal)
+breakdown: 있다 (to exist / to have) + -어 (casual sentence ending)
+meaning: (it) is there / exists
+notes: 있다 is one of the most fundamental Korean verbs, covering both "to exist (somewhere)" and "to have." Context tells you which. Here it means "it exists [on the phone]" = "it's on the phone." Polite: 있어요. Honorific for a respected person's possession/presence: 계시다 (for people) or 있으시다 (for things belonging to them).
 
-[08:54]
-  KO: 왜 그러는거야
-  FR: pourquoi tu fais ça
-  EN: why are you doing this
+=== [08:10] 꺼야 되나 ===
+meaning: Do I have to turn it off? / Should I turn it off?
+tone: Casual, self-questioning; thinking aloud, uncertain.
 
-[08:58]
-  KO: 밥을
-  FR: riz
-  EN: rice
+--- word ---
+term: 꺼야
+type: verb + obligation ending
+breakdown: 끄다 (to turn off) + -어야 (must / have to)
+meaning: have to turn off
+notes: 끄다 means "to turn off / extinguish" (lights, devices, fire). Conjugation note: 끄다 is an 으-irregular verb — the ㅡ drops before -어, giving 꺼 (not 끄어). The -어야 ending sets up "must/have to" and almost always pairs with 되다 or 하다 to complete the meaning: -어야 되다 / -어야 하다 ("have to ~"). Opposite verb: 켜다 (to turn on).
+
+--- word ---
+term: 되나
+type: verb + self-questioning ending
+breakdown: 되다 (to become / to be okay) + -나 (wondering question ending)
+meaning: I wonder if it's needed / should I?
+notes: 되다 here works as the "be okay / be the case" half of the -어야 되다 obligation pattern. The ending -나 turns it into a soft, self-directed question ("I wonder if..."), similar to 인가 from earlier. Compare:
+  • 꺼야 돼? — "Do I have to turn it off?" (asking someone)
+  • 꺼야 되나? — "Should I turn it off, I wonder?" (musing to self)
+  • 꺼야 될까? — "I wonder if I should turn it off?" (slightly more deliberative)
+-나 is very common when idols/streamers think out loud on camera. Textbook Korean leans on -ㄹ까, but -나 is everywhere in real speech.
+
+
+=== [08:21] 화면 공유 기능이 아이폰엔 있어? ===
+meaning: Does the iPhone have a screen-sharing function?
+tone: Casual question, asking staff or fans; genuine curiosity.
+
+--- word ---
+term: 화면
+type: noun (Sino-Korean)
+breakdown: 화(畵 picture) + 면(面 surface)
+meaning: screen / display
+notes: 화면 refers to any screen — TV, phone, monitor. Don't confuse with 스크린 (Konglish, usually refers to movie/projection screens) or 모니터 (computer monitor specifically). Common phrases: 화면 캡처 (screenshot), 화면 보호기 (screen protector/screensaver).
+
+--- word ---
+term: 공유
+type: noun (Sino-Korean)
+breakdown: 공(共 together) + 유(有 have)
+meaning: sharing
+notes: Becomes a verb with 하다: 공유하다 ("to share"). Modern tech vocabulary uses it constantly: 파일 공유 (file sharing), 위치 공유 (location sharing). Fun trivia: 공유 is also the stage name of the famous actor (Goblin/도깨비).
+
+--- word ---
+term: 기능이
+type: noun + subject particle
+breakdown: 기능 (function/feature) + 이 (subject particle)
+meaning: the function (as subject)
+notes: 기능 = "function, feature, capability." The particle 이 marks the grammatical subject (used after consonants; 가 is used after vowels). In casual speech, subject particles are often dropped, but Hwasa keeps it here for clarity. Note: 화면 공유 기능 is a noun stack — Korean freely chains nouns to modify each other, like English "screen share function."
+
+--- word ---
+term: 아이폰엔
+type: noun + particle + topic marker (contraction)
+breakdown: 아이폰 (iPhone) + 에 (location) + 는 (topic) → 에는 → 엔
+meaning: on the iPhone (as for...)
+notes: 에는 contracts to 엔 in speech. The combo 에 + 는 means "as for [at this location]" — it adds contrast or focus. Here it implies "on the iPhone (as opposed to other devices)." Compare:
+  • 아이폰에 있어? — "Is it on iPhone?" (neutral)
+  • 아이폰엔 있어? — "Is it on iPhone [specifically/by contrast]?"
+This contrast nuance is exactly why she's asking — she's comparing iPhone to her iPad from the earlier line.
+
+--- word ---
+term: 있어?
+type: verb (informal question)
+breakdown: 있다 (to exist / have) + -어 (casual ending) + ? (rising intonation)
+meaning: is there? / does (it) have?
+notes: Same 있다 as before, but now a question via rising intonation alone — no question particle needed in casual speech. Polite version: 있어요? Formal: 있습니까? In context, "있어?" here means "does [the iPhone] have [the feature]?" — 있다 covers both "exist" and "have," and Korean speakers pick whichever feels natural without thinking about it.
+
+=== [08:38] 아 배고프다 ===
+meaning: Ah, I'm hungry.
+tone: Casual exclamation, self-directed; spontaneous expression of feeling.
+
+--- word ---
+term: 아
+type: interjection
+breakdown:
+meaning: ah / oh
+notes: A versatile filler/exclamation expressing realization, mild frustration, fatigue, or just a thought popping up. Tone depends entirely on delivery — drawn out (아~) it's wistful or tired; short and sharp it's surprise or annoyance. Distinct from 어 (more like "uh / oh"), 와 (wow), and 아이고 (oh dear / oh my).
+
+--- word ---
+term: 배고프다
+type: adjective (descriptive verb)
+breakdown: 배 (stomach/belly) + 고프다 (to be hungry, as in empty)
+meaning: (I'm) hungry
+notes: Literally "stomach is empty/hungry." 고프다 only ever attaches to 배 — it's not a standalone word in modern usage. The -다 ending here is the plain/dictionary form, but in speech it's used as a spontaneous exclamation expressing one's own current feeling — NOT as a flat statement. This is a key native-speaker pattern:
+  • 배고파 — "I'm hungry" (telling someone)
+  • 배고파요 — polite version
+  • 배고프다! — "Ahh, I'm hungry!" (blurted out, to oneself or generally)
+Using plain -다 form for adjectives expressing your own state (춥다! 덥다! 졸리다! 피곤하다!) sounds natural and emotive. Learners often default to 배고파요 even when alone, which sounds oddly formal. Opposite: 배부르다 ("to be full"). Related: 배가 고파 죽겠어 ("I'm dying of hunger") — common hyperbole.
+
+
+=== [08:42] 여러분 배고픈거야 ===
+meaning: Everyone, I'm hungry, you know. / Guys, the thing is, I'm hungry.
+tone: Casual, explanatory; addressing fans directly with a soft "let me tell you" feel.
+
+--- word ---
+term: 여러분
+type: pronoun (plural address)
+breakdown: 여러 (several/many) + 분 (honorific counter for people)
+meaning: everyone / everybody (you all)
+notes: Polite plural "you all," used to address an audience, viewers, or a group respectfully. The 분 part is the honorific counter for people (vs. plain 명). Idols use 여러분 constantly when addressing fans — it's warm but respectful. Compare:
+  • 여러분 — everyone (polite, audience)
+  • 너희(들) — you guys (casual, to friends/juniors)
+  • 얘들아 — hey guys/kids (very casual, affectionate)
+
+--- word ---
+term: 배고픈거야
+type: adjective + nominalizer + copula (casual)
+breakdown: 배고프다 (to be hungry) → 배고픈 (modifier form) + 거 (thing, short for 것) + 야 (casual copula, short for 이야)
+meaning: (the thing is) I'm hungry / it's that I'm hungry
+notes: This is the -(으)ㄴ/는 거야 pattern — one of the most useful conversational structures in Korean. It turns a statement into an explanation, like English "the thing is..." or "it's that...":
+  • 배고파 — "I'm hungry." (plain statement)
+  • 배고픈 거야 — "(You see,) I'm hungry." (explaining, giving context)
+Because 배고프다 is a descriptive verb (adjective), it takes -(으)ㄴ before 거 → 배고픈 거. Action verbs would take -는 거 instead (e.g., 먹는 거야 "the thing is I'm eating").
+
+거야 = 것이야 contracted: 것 (thing) + 이야 (casual copula). Polite form: 배고픈 거예요. The nuance here: she just blurted 배고프다! a moment earlier, and now she's turning to her fans to "explain" why she said that — softening it into a little aside. Very natural conversational rhythm.
+
+
+=== [08:45] 살짝 좀 멍청이들 우리 얘기하다 보면 배고파지는 것 같아 ===
+meaning: We're a little — y'know, you dummies — when we get to talking, I think I start getting hungry.
+tone: Casual, affectionate teasing; rambling mid-thought with playful insult toward fans. Classic Hwasa energy.
+
+--- word ---
+term: 살짝
+type: adverb
+breakdown:
+meaning: a little / slightly / a bit
+notes: 살짝 means "slightly" but with a softer, more playful nuance than 조금 or 약간. Often used to soften a statement or admission: 살짝 피곤해 ("I'm a little tired"). Also means "lightly/gently" physically: 살짝 만지다 ("touch gently"). Very common in casual speech and idol talk.
+
+--- word ---
+term: 좀
+type: adverb (filler/softener)
+breakdown: short for 조금
+meaning: a bit / kinda (here functioning as filler)
+notes: 좀 is a contraction of 조금 ("a little"), but in conversation it's used way beyond its literal meaning — as a filler, softener, or to ease a request. Here, stacking 살짝 + 좀 is redundant in meaning but very natural rhythmically; she's stalling/thinking. Compare:
+  • 물 좀 주세요 — "Could I get some water?" (softener, not literally "a little")
+  • 좀 그래 — "It's kinda... y'know" (vague hedging)
+
+--- word ---
+term: 멍청이들
+type: noun + plural marker
+breakdown: 멍청이 (dummy/idiot) + 들 (plural)
+meaning: dummies / silly ones
+notes: 멍청이 = "dummy, fool, airhead" — from 멍청하다 ("to be dim-witted") + -이 (noun-forming suffix for person/thing). The plural marker 들 is optional in Korean but used here for direct address to a group. Tone is crucial: among friends/fans, this is AFFECTIONATE teasing, not an insult. Idols often call fans things like 멍청이들, 바보들 (fools), 똥강아지 (lit. "poop puppy" = cutie) as terms of endearment. Saying it to a stranger would be rude.
+
+--- word ---
+term: 우리
+type: pronoun
+breakdown:
+meaning: we / us / our
+notes: 우리 is "we/our" but Korean uses it MUCH more broadly than English — it expresses in-group belonging. 우리 집 (our house, even if you live alone), 우리 엄마 (my mom), 우리 애들 (my kids/my fans). Here 우리 frames her and the fans as one group. The placement is loose — it's floating between the insult and the next clause, like "us... when we talk..."
+
+--- word ---
+term: 얘기하다 보면
+type: verb + grammar pattern
+breakdown: 얘기하다 (to talk/chat) + -다(가) 보면 (when/if you keep doing ~, you find that...)
+meaning: when we get to talking / once we start chatting
+notes: 얘기하다 = casual form of 이야기하다 ("to talk, chat"). The pattern -다(가) 보면 is super useful: it means "if you keep doing X, [some result tends to happen]." It expresses a discovered tendency or natural consequence:
+  • 살다 보면 알게 돼 — "As you live, you come to understand."
+  • 듣다 보면 익숙해져 — "If you keep listening, you get used to it."
+Here: "when we get into talking [for a while], [I find that I get hungry]." The 가 in -다가 보면 is often dropped in speech → -다 보면.
+
+--- word ---
+term: 배고파지는
+type: adjective + change-of-state + modifier
+breakdown: 배고프다 (to be hungry) + -아/어지다 (to become ~) + -는 (present modifier ending)
+meaning: getting/becoming hungry
+notes: The -아/어지다 pattern attaches to adjectives to mean "to become [adjective]" — it expresses a gradual change of state:
+  • 예쁘다 → 예뻐지다 (to become pretty)
+  • 좋다 → 좋아지다 (to get better / come to like)
+  • 배고프다 → 배고파지다 (to get hungry / grow hungry)
+Once -지다 is attached, it behaves as an action verb, so it takes -는 (not -ㄴ) as its present modifier → 배고파지는. Important nuance: 배고파 = "I'm hungry (now)," 배고파져 = "I'm getting hungry (becoming so)."
+
+--- word ---
+term: 것 같아
+type: grammar pattern (guess/opinion softener)
+breakdown: 것 (thing) + 같다 (to seem/be like) + -아 (casual ending)
+meaning: I think / it seems
+notes: -(으)ㄴ/는/(으)ㄹ 것 같다 is THE go-to pattern for softening opinions in Korean — basically "I think / it seems." Koreans use this constantly to avoid sounding too assertive:
+  • 배고파 — "I'm hungry." (direct)
+  • 배고픈 것 같아 — "I think I'm hungry." (softer, more polite-feeling)
+Combined with 배고파지는 → 배고파지는 것 같아 = "I think I'm getting hungry." The -는 before 것 marks present-tense action (since -지다 made it an action verb). Casual ending 같아; polite 같아요. This pattern is one of the most native-sounding things you can learn.
+
+
+=== [08:54] 왜 그러는거야 ===
+meaning: Why are you/they doing that? / Why is it like that?
+tone: Casual, slightly exasperated or puzzled; rhetorical complaint or genuine wondering.
+
+--- word ---
+term: 왜
+type: interrogative adverb
+breakdown:
+meaning: why
+notes: The basic "why" question word. On its own with rising intonation (왜?) it can also mean "what?" / "what is it?" as a casual response when called — like English "Yeah?" or "What's up?" Don't confuse with 뭐 ("what" for things) — 왜 always asks reason/cause.
+
+--- word ---
+term: 그러는거야
+type: verb + nominalizer pattern (casual)
+breakdown: 그러다 (to do/act like that) + -는 (present modifier) + 거 (thing, = 것) + 야 (casual copula, = 이야)
+meaning: (the thing is) doing like that / acting that way
+notes: 그러다 is a hugely common verb meaning "to do/say/act like that" — it's a pro-verb that stands in for whatever action was just referenced, like English "do that." Forms to recognize:
+  • 그래 — "okay / yeah / fine" or "do/be like that"
+  • 그러지 마 — "don't do that"
+  • 그러는 거야? — "are you doing that?" / "why are you like that?"
+
+The -는 거야 pattern again (same as 배고픈 거야 from earlier, but with an action verb so it takes -는 instead of -ㄴ). It frames the question as "what's the deal with [you/them/it] acting this way?" rather than a flat "why are you doing that?"
+
+Three flavors of this exact phrase by tone:
+  • 왜 그래? — "What's wrong? / Why are you like that?" (most common)
+  • 왜 그러는 거야? — "Why ARE you doing that?" (more emphatic, asks for explanation)
+  • 왜 그러는데? — "Why though? / Why are you like that?" (challenging)
+
+Context matters a lot — without knowing what just happened on the stream, this could be:
+  - Reacting to something on chat/screen ("why's it doing that?")
+  - Teasing fans ("why are you guys like this?")
+  - Talking about a third party she just mentioned
+  - Even directed at her own device misbehaving
+
+Note on spacing: properly written as 그러는 거야 with a space before 거, but in casual texting/captions it's often smushed to 그러는거야.
+
+
+=== [08:58] 밥을 ===
+meaning: rice / a meal (as object)
+tone: Casual fragment; likely start of an interrupted or trailing thought about eating.
+
+--- word ---
+term: 밥을
+type: noun + object particle
+breakdown: 밥 (rice/meal) + 을 (object particle)
+meaning: rice/meal (as direct object)
+notes: 밥 literally means "cooked rice" but broadly means "a meal" or "food" in general. 밥 먹었어? ("Did you eat?") is the standard Korean greeting equivalent to "How are you?" The particle 을 marks the direct object (used after consonants; 를 after vowels). Fragment suggests a verb like 먹다 (to eat) is coming next.
+
 
 
 — [09:04] ————————————————————————————————————————
 
-[09:04]
-  KO: 나 오늘 밥 먹었나?
-  FR: Est-ce que j'ai mangé aujourd'hui ?
-  EN: Did I eat today?
+=== [09:04] 나 오늘 밥 먹었나? ===
+meaning: Did I even eat today?
+tone: Casual, self-questioning; thinking aloud, mildly surprised at herself.
 
-[09:12]
-  KO: 오늘은 호밤이가 없어
-  FR: Il n'y a pas de hobam aujourd'hui
-  EN: There is no hobam today
+--- word ---
+term: 나
+type: pronoun
+breakdown:
+meaning: I / me
+notes: Casual "I" — used with friends, family, or in self-talk. Polite version: 저. Subject particle 가 is dropped here, which is normal in casual speech.
 
-[09:18]
-  KO: 무슨 소리야
-  FR: De quoi parles-tu?
-  EN: What are you talking about?
+--- word ---
+term: 오늘
+type: noun/adverb
+breakdown:
+meaning: today
+notes: Functions as both noun and time adverb. Time words usually don't need a particle. Related: 어제 (yesterday), 내일 (tomorrow), 모레 (day after tomorrow).
+
+--- word ---
+term: 밥
+type: noun
+breakdown:
+meaning: rice / meal / food
+notes: Object particle 을 dropped (very common in casual speech). 밥 먹다 = "to eat (a meal)" — the default phrase for eating in Korean.
+
+--- word ---
+term: 먹었나?
+type: verb + past tense + self-questioning ending
+breakdown: 먹다 (to eat) + -었 (past) + -나 (wondering question ending)
+meaning: did I eat, I wonder?
+notes: -나 is the same self-directed wondering ending from 되나 earlier. Asking yourself out loud rather than asking someone. Compare: 먹었어? ("did you eat?" — asking someone) vs 먹었나? ("did I eat, hmm?" — musing).
+
+=== [09:12] 오늘은 호밤이가 없어 ===
+meaning: Hobam isn't here today.
+tone: Casual, matter-of-fact; mentioning an absence with mild affection.
+
+--- word ---
+term: 오늘은
+type: noun + topic particle
+breakdown: 오늘 (today) + 은 (topic particle)
+meaning: as for today / today (in contrast)
+notes: 은 marks topic and adds contrast — implying "today (unlike other days)." Suggests Hobam is usually around.
+
+--- word ---
+term: 호밤이가
+type: proper noun + filler syllable + subject particle
+breakdown: 호밤 (Hobam, name) + 이 (euphonic suffix for names ending in consonants) + 가 (subject particle)
+meaning: Hobam (as subject)
+notes: When a Korean name ends in a consonant, 이 is often added before particles to make it flow better — purely phonetic, not a separate meaning. So 호밤 → 호밤이 → 호밤이가. Hobam (호밤) is likely Hwasa's pet — she's well known for her dog. The -이 suffix on names also adds a warm, familiar tone.
+
+--- word ---
+term: 없어
+type: verb (casual)
+breakdown: 없다 (to not exist / not be present) + -어 (casual ending)
+meaning: isn't here / isn't around
+notes: 없다 covers both "doesn't exist" and "isn't here/present." Context makes it "isn't here today."
+
+=== [09:18] 무슨 소리야 ===
+meaning: What are you talking about? / What do you mean?
+tone: Casual, reactive; mild disbelief, confusion, or playful pushback.
+
+--- word ---
+term: 무슨
+type: interrogative determiner
+breakdown:
+meaning: what / what kind of
+notes: 무슨 modifies a noun ("what ___"). Different from 뭐 (standalone "what") and 어떤 ("which / what kind of," more about selection). 무슨 often carries a tone of "what on earth..." when used reactively.
+
+--- word ---
+term: 소리야
+type: noun + casual copula
+breakdown: 소리 (sound / words / talk) + 야 (casual copula, = 이야)
+meaning: is it (what kind of) talk
+notes: 소리 literally means "sound" but figuratively means "what someone said / words / nonsense." 무슨 소리야 is a set phrase ≈ "what are you saying?" / "what do you mean?" Tone ranges from genuine confusion to playful disbelief ("what nonsense is this?"). Polite: 무슨 소리예요? Related: 무슨 말이야? (same meaning, slightly more neutral).
+
 
 [09:35]
   KO: 간단하게 먹을 거?
