@@ -219,6 +219,7 @@
       <option value="socute">So Cute</option>
       <option value="bstage">B-Stage</option>
       <option value="ggb">Good Goodbye</option>
+      <option value="mmm">Mamamoo</option>
     </select>
     <select id="sortBy" onchange="applySort()">
       <option value="date-desc">Date (Newest)</option>
@@ -264,6 +265,14 @@
         <div class="entry" data-year="2025" data-era="bstage" data-date="251125"></div>
       </div>
     </section>
+
+<section class="era-section" data-era-name="mmm">
+      <h2>Mamamoo</h2>
+      <div class="entries-grid">
+        <div class="entry" data-year="2026" data-era="mmm" data-date="260605" data-desc="comebackCountdown"></div>
+      </div>
+    </section>
+    
   </main>
 
   <script>
@@ -271,13 +280,15 @@
     const ERA_LABELS = {
       ggb:    'Good Goodbye',
       socute: 'So Cute',
-      bstage: 'B-Stage'
+      bstage: 'B-Stage',
+      mmm: 'Mamamoo'
     };
 
     const ERA_ORDER = {
       socute: 1,
       bstage: 2,
-      ggb:    3
+      ggb:    3,
+      mmm: 4
       // future eras: tbd: 4, ...
     };
 
