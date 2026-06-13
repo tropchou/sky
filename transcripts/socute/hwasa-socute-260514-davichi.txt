@@ -944,7 +944,7 @@ Uploaded: 2026-05-14
   FR: Je suis
   EN: I am
 
-[05:12]
+[05:13]
   KO: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
   FR: Hahahahahahahahahahaha
   EN: Hahahahahahahahahahaha
@@ -1197,17 +1197,17 @@ Uploaded: 2026-05-14
   FR: Ou ce vrai nom
   EN: Or that real name
 
-[06:33]
+[06:34]
   KO: 혜진 씨?
   FR: Hyejin ?
   EN: Hyejin?
 
-[06:34]
+[06:35]
   KO: 말 편하게 해주세요
   FR: S'il vous plaît, parlez confortablement
   EN: Please speak comfortably
 
-[06:35]
+[06:36]
   KO: 저는 사실 본명 불러주는 거 좋아해요
   FR: En fait, j'aime être appelé par mon vrai nom.
   EN: Actually, I like being called by my real name.
@@ -1277,7 +1277,7 @@ Uploaded: 2026-05-14
   FR: Hyejin, n'est-ce pas comme ça ?
   EN: Hyejin, isn’t it like that?
 
-[06:53]
+[06:54]
   KO: 어 혜진도 나한테
   FR: Oh Hyejin, pour moi aussi
   EN: Oh Hyejin to me too
@@ -1302,7 +1302,7 @@ Uploaded: 2026-05-14
   FR: Je n'ai parlé à personne
   EN: I haven't spoken to anyone
 
-[07:01]
+[07:00]
   KO: 아 정말?
   FR: Oh vraiment?
   EN: Oh really?
@@ -1378,7 +1378,7 @@ Uploaded: 2026-05-14
   FR: Cette chanson vient de cet endroit désertique
   EN: This song is from that desert place
 
-[07:36]
+[07:37]
   KO: 귀여움을 쌓이는 그런 노래거든요
   FR: C'est le genre de chanson qui crée de la gentillesse.
   EN: It's the kind of song that builds up cuteness.
@@ -1398,7 +1398,7 @@ Uploaded: 2026-05-14
   FR: Peu importe ce que je fais, je me sens fatigué
   EN: No matter what I do, I feel tired
 
-[07:42]
+[07:43]
   KO: 뭘 해도 그 자리인 거 같고
   FR: Peu importe ce que je fais, j'ai l'impression que c'est toujours là
   EN: No matter what I do, it feels like it's still there
@@ -1407,11 +1407,6 @@ Uploaded: 2026-05-14
   KO: 그럴 때가 있잖아요
   FR: Il y a des moments comme ça.
   EN: There are times like that.
-
-[07:46]
-  KO: 있지
-  FR: Oui
-  EN: Yes
 
 [07:46]
   KO: 인내의 시간들이잖아요
@@ -1448,17 +1443,17 @@ Uploaded: 2026-05-14
   FR: C'était
   EN: It was
 
-[07:57]
+[07:59]
   KO: 아 뭐야 너무 진박
   FR: Oh qu'est-ce que c'est si vrai
   EN: Oh what is this so true
 
-[07:59]
+[08:00]
   KO: 유치해
   FR: C'est enfantin
   EN: It's childish
 
-[08:00]
+[08:01]
   KO: 이러면서 그냥 이렇게 넘겼었는데
   FR: Je viens de le transmettre comme ça.
   EN: I just passed it on like this.
@@ -1468,7 +1463,7 @@ Uploaded: 2026-05-14
   FR: Dès le lendemain
   EN: From the next day
 
-[08:03]
+[08:04]
   KO: 좀 귀엽게 생각하려 하고
   FR: J'essaie de penser à quelque chose de mignon
   EN: I'm trying to think of something cute
@@ -1479,9 +1474,9 @@ Uploaded: 2026-05-14
   EN: Trying to look cute
 
 
-— [08:06] ————————————————————————————————————————
+— [08:07] ————————————————————————————————————————
 
-[08:06]
+[08:07]
   KO: 그래서 아 좀 그때부터
   FR: Alors à partir de là
   EN: So, from then on
@@ -1521,7 +1516,7 @@ Uploaded: 2026-05-14
   FR: Dois-je devenir chef du parti ? N'y a-t-il pas des paroles comme celle-ci ?
   EN: Should I become the party leader? Aren’t there lyrics like this?
 
-[08:21]
+[08:20]
   KO: 아 맞아요
   FR: Oh c'est vrai
   EN: Oh right
