@@ -2386,30 +2386,217 @@ meaning: is it (what kind of) talk
 notes: 소리 literally means "sound" but figuratively means "what someone said / words / nonsense." 무슨 소리야 is a set phrase ≈ "what are you saying?" / "what do you mean?" Tone ranges from genuine confusion to playful disbelief ("what nonsense is this?"). Polite: 무슨 소리예요? Related: 무슨 말이야? (same meaning, slightly more neutral).
 
 
-[09:35]
-  KO: 간단하게 먹을 거?
-  FR: Tu veux quelque chose à manger ?
-  EN: Want something to eat?
+=== [09:35] 간단하게 먹을 거? ===
+meaning: (Are you) going to eat something simple? / Just a simple bite?
+tone: Casual, inquisitive, conversational. Hwassa is likely asking the fans or someone nearby what they are planning to eat, or suggesting a simple meal. The question mark indicates uncertainty or a gentle suggestion.
 
-[09:38]
-  KO: 없어
-  FR: n'existe pas
-  EN: doesn't exist
+--- word ---
+term: 간단하게 (gan-dan-ha-ge)
+type: Adverb
+breakdown: 
+  - 간단 (gandan): Adjective stem meaning "simple" or "brief".
+  - 하 (ha): Connective form (from 하다) linking adjective to adverbial ending.
+  - 게 (ge): Adverbial particle turning an adjective into an adverb ("in a simple way").
+meaning: Simply / Easily / Without complication
+notes: 
+  - Usage: This is very common for describing food (간단한 식사 - simple meal) or actions. It implies "not a big production" or "just a snack/light meal."
+  - Comparison: Similar to "쉽게" (easily) but specifically emphasizes lack of complexity or effort.
+  - Native usage: Often used when suggesting a quick solution, e.g., "간단하게 먹자" (Let's eat simply/quickly).
 
-[09:40]
-  KO: 맨날 용통 끼면 냉장고 뒤져
-  FR: Chaque fois que je tombe malade, je fouille le réfrigérateur.
-  EN: Every time I get sick, I search the refrigerator.
+--- word ---
+term: 먹을 (meogeul)
+type: Verb Modifier (Future/Potential)
+breakdown: 
+  - 먹 (meok): Root of 먹다 (meokda) - to eat.
+  - 을 (eul): Future/potential modifier ending attached to verbs.
+meaning: (Something) that will be eaten / Going to eat
+notes: 
+  - Grammar Point: When a verb + 을/ㄹ modifies a noun (here, the implied noun "것" or "거"), it creates a future tense relative clause. 
+  - Context: It turns the action "to eat" into a descriptor for the object "thing/meal." So "먹을 거" literally means "the thing that will be eaten."
+  - Common Confusion: Don't confuse with "먹는" (what is being eaten now/habitual). "먹을" specifically points to the future intention.
 
-[09:46]
-  KO: 너무 웃기는 루틴이네
-  FR: C'est une routine tellement drôle.
-  EN: It's such a funny routine.
+--- word ---
+term: 거 (geo)
+type: Noun (Colloquial contraction of 것 - geot)
+breakdown: Contraction of 것 (geot).
+meaning: Thing / That which...
+notes: 
+  - Slang/Colloquialism: In spoken Korean, especially among younger people and idols, '것' is almost always pronounced and written as '거'.
+  - Function here: It acts as the head noun for the phrase "will-eat-thing," essentially meaning "meal" or "food item" in this context.
+  - Full form: If formal, it would be "간단하게 먹을 것이?" or "간단하게 먹을 건가요?". The short form makes it sound like a casual snippet of conversation.
 
-[09:53]
-  KO: 그러니까 멍청이들
-  FR: Alors vous êtes des idiots
-  EN: So you idiots
+--- word ---
+term: (Implied Question Marker) ?
+type: Intonation/Context
+breakdown: No explicit particle like "-까" (ka) or "-나요" (nayo) at the end; relies on rising intonation.
+meaning: Indicates a question.
+notes: 
+  - Style: Dropping the specific question particle and just using a bare verb phrase + question mark (or rising tone) is very typical of casual chat. It sounds softer and less interrogative than adding "-니?" or "-아?" directly to the verb stem.
+  - Nuance: It feels more like "So, just a simple bite?" rather than a formal "Will you eat something simple?"
+
+=== [09:38] 없어 ===
+meaning: There isn't any. / I don't have (any). / No.
+tone: Casual, direct, conversational.
+
+--- word ---
+term: 없어
+type: Adjective (Existence/Negation)
+breakdown: 없 (root of 없다) + 어 (informal present ending)
+meaning: None / Do not exist / Do not have
+notes: 
+- Contraction: Short form of "없어요" (polite casual) or "없습니다" (formal). The 'ㅂ' in the root '없다' is dropped before adding vowel endings.
+- Usage: Indicates absence or lack of possession. Common in casual speech to answer "Do you have...?" or "Is there...?" questions with a simple "No/None."
+- Register: Banmal (casual speech). Used freely among friends, family, or by idols to fans to create intimacy. Avoid with strangers or superiors.
+- Context: In response to asking about food ("Will you eat something simple?"), it confirms there is nothing available or no intention to eat.
+- Related forms: Formal: 없습니다; Polite: 없어요; Written/Formal noun phrase: 없음.
+- Learner Tip: Don't confuse with 아니다 (to be not). Use 없다 for existence/possession ("There is no water") and 아니다 for identity ("That is not water").
+
+=== [09:40] 맨날 용통 끼면 냉장고 뒤져 ===
+meaning: Whenever I get hungry (literally "when the stomach empties"), I dig through the fridge.
+tone: Casual, storytelling, slightly complaining but relatable. Using slang and vivid imagery to describe a habit.
+
+--- word ---
+term: 맨날 (maennal)
+type: Adverb
+breakdown: contraction of 매일 날 (maeil nal - every day) -> 매날 -> 맨날
+meaning: Every day; always; constantly
+notes: 
+- Origin: Contraction of "매일" (every day) + "날" (day). Common in spoken Korean.
+- Usage: Emphasizes frequency. Often implies a recurring habit that might be annoying or inevitable.
+- Comparison: Similar to "자꾸" (again and again) but specifically implies a daily/regular cycle.
+- Register: Very casual. Formal equivalent is "매일."
+
+--- word ---
+term: 용통 (yongtong)
+type: Noun (Slang/Dialect)
+breakdown: Not a standard dictionary word. Likely a playful distortion or onomatopoeic expression for "stomach rumbling/emptying." Could be a mix of "배" (stomach) sounds or a specific inside joke/slang among the speaker's circle. In some contexts, it mimics the sound of an empty stomach growling (gurgling). Given the context of Hwassa and the action of digging the fridge, "용통" here acts as the trigger for hunger. 
+meaning: Slang for feeling hungry / Stomach rumbling / Empty stomach sensation.
+notes: 
+- Non-standard: This is not in standard dictionaries. It appears to be spontaneous speech, slang, or a transcription error for a similar-sounding word like "공복" (empty stomach) or "배고픔" (hunger).
+- Contextual Meaning: Despite being non-standard, the meaning is clear from the context: "When I feel that empty feeling."
+- Note for learners: Be careful with slang. If you hear a word you don't know, rely on context. Here, "digging in the fridge" confirms it means "hunger."
+- Possible origin: Could be a playful combination of "용" (dragon/strong) and "통" (pain/feeling), implying a strong hunger pang.
+
+--- word ---
+term: 끼면 (kkimyeon)
+type: Verb Condition (Contraction)
+breakdown: 
+  - The root is likely "끼다" (kkida) - to stick in, to happen (often used for hunger pains: 배에 끼다 - hunger hits the stomach).
+  - Actually, the phrase is "배에 끼다" (to have hunger pangs). The subject "배" (stomach) is dropped.
+  - Root: 끼 (from 끼다).
+  - Ending: -으면 (-(eu)myeon) - conditional ending "if/whenever".
+  - Contraction: 끼 + 으면 -> 끼면 (kki + eumyeon -> kkimyŏn). The '으' drops after vowels/double consonants in some dialects or fast speech.
+meaning: If/whenever (the feeling of hunger) comes up / whenever it hurts/sticks.
+notes: 
+- Grammar: "-(으) 면" indicates a condition or recurring time ("whenever").
+- Idiom: "배에 끼다" (or just "끼다" in context) means to feel hunger pangs or pain. "Hunger hits me."
+- Contraction: Standard form is "끼우면" or "끼면" depending on verb stem. For 끼다, it's 끼 + 으면 = 끼면.
+- Nuance: Suggests an unavoidable, periodic feeling.
+
+--- word ---
+term: 냉장고 (naengjanggo)
+type: Noun
+breakdown: 냉 (cold) + 장고 (storage cabinet)
+meaning: Refrigerator / Fridge
+notes: 
+- Structure: Compound noun from Hanja roots.
+- Usage: Universal term in Korea.
+- Cultural: The "fridge check" is a universal trope in Korean culture when hungry or bored.
+
+--- word ---
+term: 뒤져 (duijeo)
+type: Verb (Present Informal)
+breakdown: 
+  - 뒤지다 (dujida) - to dig, to search frantically, to turn over.
+  - Ending: -어 (eo) - informal present tense.
+meaning: Dig (through); Search frantically; Rummage.
+notes: 
+- Meaning: Unlike just "찾다" (to find/search), "뒤지다" implies searching thoroughly, moving things around, digging deep. Implies a frantic or thorough search, looking for any available food scraps. "냉장고를 뒤지다" (Dig through the fridge) is a very common collocation in Korea describing late-night snacking behavior. Casual. Polite form: 뒤져요. Evokes the visual of someone tossing ingredients around to find something edible.
+
+=== [09:46] 너무 웃기는 루틴이네 ===
+meaning: That's such a funny routine. / What a hilarious habit.
+tone: Self-deprecating, amused, casual reflection. Hwassa is laughing at her own described behavior of digging through the fridge whenever hungry.
+
+--- word ---
+term: 너무 (neomu)
+type: Adverb
+breakdown: -
+meaning: Too; very; extremely
+notes: 
+- Usage: Originally meant "too much" (negative connotation), but in modern casual Korean, it frequently means "very" or "extremely" in a positive or neutral context (e.g., "너무 좋아요" = It's very good).
+- Collocation: Often paired with adjectives like 웃기다 (funny), 좋다 (good), 싫다 (bad).
+- Nuance: Emphasizes the degree of the adjective following it.
+
+--- word ---
+term: 웃기는 (utgineun)
+type: Adjective (Modifying Form)
+breakdown: 
+  - Root: 웃기다 (utgida) - to make someone laugh / be funny / be ridiculous.
+  - Ending: -는 (neun) - present attributive ending (modifies the following noun).
+meaning: Funny; ridiculous; amusing
+notes: 
+- Meaning: Can mean "humorous" or "ridiculous/absurd" depending on context. Here, it leans towards "amusingly absurd."
+- Grammar: Modifies the noun "루틴" (routine). Without this ending, it would be just "웃긴 루틴" (shortened form often used in speech) or "웃기는 것" (the thing that is funny).
+- Comparison: "재미있는" (jaeminneun) means "interesting/fun" in a positive way. "웃기는" implies something might be silly, weird, or unintentionally funny.
+
+--- word ---
+term: 루틴 (rutin)
+type: Noun (Loanword)
+breakdown: From English "Routine".
+meaning: Routine; habit; regular procedure
+notes: 
+- Origin: English loanword (Konglish). Widely used in daily conversation, K-pop, and business contexts.
+- Usage: Refers to a sequence of actions performed regularly (e.g., morning routine, skincare routine).
+- Spelling: Often written as "루틴" in Hangul. Sometimes confused with "리듬" (rhythm) by learners, but they are distinct.
+- Context: She calls her habit of checking the fridge a "routine," highlighting how predictable and automatic it has become.
+
+--- word ---
+term: 이네 (ine)
+type: Sentence Ending
+breakdown: 
+  - Root: 이다 (ida) - copula (to be). Attached to nouns ending in a consonant (like 루틴 -> 루틴 + 이).
+  - Ending: -네 (-ne) - exclamatory/discovery ending.
+  - Contraction: 루틴 + 이 + 네 -> 루틴이네.
+meaning: It is...! / I see...! / Oh, so it is...
+notes: 
+- Function: Expresses realization, discovery, or strong feeling/emphasis. It often translates to "Oh, that's..." or ends a sentence with a tone of "I'm realizing this now."
+- Tone: Casual. The formal version would be "-습니다만" or "-군요".
+- Nuance: Adds a sense of "Ah, I see what kind of thing this is!" or "Wow, look at this habit." It softens the statement slightly while adding emphasis.
+- Variations: 
+  * If the noun ended in a vowel: N + 가 + 네 -> N+ 가네 (e.g., "집이네" vs "집가네" - wait, for vowels it's N+ 네? No. Noun+vowel+가네? No. 
+    * Rule: Noun + 이다 -> Noun + 이 + 네 (for consonants) or Noun + 네 (for vowels). 
+    * Example: '학생' (consonant) -> 학생이네. '의자' (vowel) -> 의자네. 
+    * '루틴' ends in 'ㄴ', a consonant. So '루틴' + '이' + '네' -> '루틴이네'. Correct.
+- Register: Informal. Used in casual conversation, diaries, or internal monologue.
+
+=== [09:53] 그러니까 멍청이들 ===
+meaning: That's why (we're) idiots / So, you know what? Idiots. (Used as a playful self-deprecation or teasing fans for being similarly obsessed with food).
+tone: Playful, affectionate teasing, slightly exaggerated. Hwassa is likely joking that she and her fans ("Twits") are "idiots" for having such predictable food habits.
+
+--- word ---
+term: 그러니까 (geureokka)
+type: Conjunction / Discourse Marker
+breakdown: 그 (that) + 러다 (to be so) + 니까 (because/so) -> Literal: "Because it is like that."
+meaning: So; therefore; in other words; I mean; that's why
+notes: 
+- Usage: Extremely common connector used to draw a conclusion, summarize a previous point, or emphasize a statement. It often transitions from an explanation to the main punchline.
+- Nuance: Here, it links her habit of digging in the fridge to the conclusion that they are "fools" for doing it. It functions like "So basically..." or "That explains why..."
+- Register: Casual. Formal equivalent would be "따라서" (ttarahaseo) or "그러므로" (geureomoro).
+- Spoken Habit: Often elongated in speech: "그리니까" or just "그래서" (geuraeseo), but "그러니까" adds a stronger logical link or explanatory tone.
+
+--- word ---
+term: 멍청이들 (meongcheong-i-deul)
+type: Noun (Plural)
+breakdown: 
+  - 멍청이 (meongcheongi): Idiot / fool / silly person. Derived from 멍청하다 (meongcheonghada - to be dull/silly).
+  - 들 (deul): Plural marker.
+meaning: Idiots; fools; silly people
+notes: 
+- Connotation: "멍청이" is generally negative but can be used affectionately among close friends or by idols to fans to create a sense of shared silliness. It's not as harsh as "바보" (babo) which is more generic "idiot," implying a bit of "spacing out" or "ditzy" behavior.
+- Contextual Use: In this specific context, Hwassa is almost certainly using it humorously to include herself and the audience in a shared "foolish" habit (being food-obsessed). It's an "us vs. the world" kind of joke.
+- Grammar: The plural marker "-들" is often omitted in casual speech if the plurality is obvious, but adding it here emphasizes "all of us" or "the group."
+- Related terms: 바보 (babo), 아해 (aha - slang), 멍때리기 (staring blankly).
+- Cultural Note: K-pop idols frequently call fans "아기" (babies) or use mild insults like this affectionately to build intimacy. It should never be used seriously with strangers.
 
 
 — [10:15] ————————————————————————————————————————
@@ -2424,30 +2611,302 @@ notes: 소리 literally means "sound" but figuratively means "what someone said 
   FR: j'ai tellement faim
   EN: I'm so hungry
 
-[10:21]
-  KO: 뭐야 진짜 뭐지? 신기하다 나 진짜 아까까지만 해도 배가 안 고팠어
-  FR: Qu'est-ce que c'est vraiment ? C'est incroyable, je n'avais pas vraiment faim jusqu'à maintenant.
-  EN: What is it really? It's amazing, I wasn't really hungry until just now.
+=== [10:21] 뭐야 진짜 뭐지? 신기하다 나 진짜 아까까지만 해도 배가 안 고팠어 ===
+meaning: What is it, seriously? What's up? It's weird. I wasn't hungry even just a little while ago.
+tone: Confused, surprised, self-reflective, casual stream of consciousness. Hwassa is reacting to how quickly her hunger returned, expressing disbelief at the speed of change.
 
-[10:28]
-  KO: 안 고팠는데
-  FR: je n'avais pas faim
-  EN: I wasn't hungry
+--- word ---
+term: 뭐야 (mwoya)
+type: Interjection / Sentence Fragment
+breakdown: 무엇 (mueot - what) + 야 (ya - informal copula ending for nouns ending in vowel or 'ㅎ' drop? No, '무엇' drops '엇' -> '뭐' + 야).
+meaning: What is it? / What the...?
+notes: 
+- Usage: Very common expression of confusion, surprise, or annoyance. Can range from "What?" to "Seriously, what?" depending on tone.
+- Register: Casual. Polite form is "뭐예요?" or "무엇입니까?".
+- Context: Here, it functions as an exclamation of sudden realization or confusion about her stomach's behavior.
 
-[10:30]
-  KO: 이거 라이브 키자마자 배가 고파
-  FR: Dès que c'est mis en ligne, j'ai faim
-  EN: As soon as this goes live, I get hungry
+--- word ---
+term: 진짜 (jinjja)
+type: Adverb / Interjection
+breakdown: Real + thing (from Hanja 眞實 物).
+meaning: Really; seriously; for real; honestly.
+notes: 
+- Usage: Used to emphasize truth, sincerity, or frustration. Can stand alone ("Really!") or modify an adjective/verb ("Really hungry").
+- Nuance: In this context, it amplifies the confusion: "What is this, *seriously*?"
+- Register: Universal in casual speech. Formal equivalent: 정말 (jeongmal), 사실 (sasil).
+- Common Pairing: Often used with "뭐야" (진짜 뭐야 - Seriously, what?) or "말도 안 돼" (No way).
 
-[10:33]
-  KO: 뭐지?
-  FR: quoi ?
-  EN: what?
+--- word ---
+term: 뭐지 (mwoji)
+type: Question Phrase (Internal Monologue)
+breakdown: 무엇 (what) + 지 (ji - question particle for internal thought or rhetorical question).
+meaning: I wonder what it is? / What's going on?
+notes: 
+- Function: Unlike "뭐야" which asks the listener, "뭐지" often indicates the speaker is talking to themselves, trying to figure something out.
+- Grammar: The ending "-지" softens the question and makes it sound like a thought process rather than a direct inquiry.
+- Tone: Pensive, curious, slightly perplexed.
+- Comparison: "뭐야?" = "What is that?!"; "뭐지?" = "I wonder what that is..."
 
-[10:35]
-  KO: 아 이거 혹이나 다이어트 하게 될 때는
-  FR: Ah, c'est à ce moment-là que je fais un régime.
-  EN: Ah, this is when I go on a diet.
+--- word ---
+term: 신기하다 (singihadahada)
+type: Adjective
+breakdown: 신기 (singi - magical/mysterious) + 하다 (hada - to be/do).
+meaning: Amazing; miraculous; strange/fascinating; surprising.
+notes: 
+- Meaning: Describes something that evokes a sense of wonder or disbelief because it's unexpected or unexplainable.
+- Context: Hwassa finds it "miraculous" or "weird" that she went from full to hungry so fast.
+- Nuance: Less negative than "이상하다" (iseanghada - strange/suspicious). It implies fascination with the phenomenon.
+- Related: 경이롭다 (gyeongirapda - awe-inspiring), 놀랍다 (nollapda - surprising).
+
+--- word ---
+term: 아까까지만 해도 (akkakkajiman haedo)
+type: Time Phrase + Conjugation
+breakdown: 
+  - 아까 (akka): Awhile ago / earlier.
+  - 까지 (kkaji): Until / up to.
+  - 만 (man): Only / just.
+  - 해 (hae): Stem of 하다 (to do/make/exist in this context).
+  - 도 (do): Even / also (particle indicating contrast).
+  - Full phrase: "Even up to just a little while ago..."
+meaning: As recently as just now / Even until a moment ago.
+notes: 
+- Structure: This is a complex time marker emphasizing the short timeframe. "아까까지" (until earlier) + "만" (only) + "해도" (even if doing).
+- Nuance: Highlights the abruptness of the change. "It was fine *just* a few minutes ago, and now look!"
+- Common Mistake: Learners often miss the subtle emphasis of "-만 해도," which stresses that the previous state lasted only a very short time before changing.
+- Alternative: "방금 전에도" (Even just moments ago).
+
+--- word ---
+term: 배가 (baega)
+type: Noun + Particle
+breakdown: 배 (bae - stomach) + 가 (ga - subject particle).
+meaning: Stomach (as the subject).
+notes: 
+- Idiom: In Korean, we say "stomach is hungry" (배가 고프다), not "I am hungry" directly with 'I'.
+- Particle: '가' marks 'stomach' as the subject experiencing the state.
+
+--- word ---
+term: 안 고팠어 (an gopasseo)
+type: Negation + Verb (Past Informal)
+breakdown: 
+  - 안 (an): Not (negation adverb).
+  - 고파서 (gopaseo)? No. Root: 고프다 (gopeuda).
+  - Past Tense: 고프다 -> 고프 + 았다 -> 고팠다 (drop ㅂ, add 우+어 = 워? No. 
+    * Standard conjugation: 
+      * Present: 배가 고프다 -> 배가 고파요 (polite), 배가 배고파 (casual plain).
+      * Past: 배가 고팠다 -> 배가 고팠어요.
+      * Negative Past: 안 + 고팠다 -> 안 고팠다.
+      * So: 안 (not) + 고팠 (past stem) + 어 (ending).
+meaning: Was not hungry.
+notes: 
+- Grammar: "안" is placed before the verb/adjective stem for negation.
+- Irregularity Note: 고프다 is a ㅂ-irregular verb. In past tense, it changes to "고팠다" (Goppatda). 
+  * Why? Stem: 고프. Remove ㅂ -> 고프. Add 우 (for ㅂ verbs) -> 고무. Then add 았 -> 곰앗 -> 고맇? No.
+  * Let's stick to the result: 고프다 -> 고파다 (colloquial base) -> 고팠다 (past).
+- Register: Casual plain form. Polite would be "안 고팠어요".
+
+=== [10:28] 안 고팠는데 ===
+meaning: I wasn't hungry, but... / It's not that I was hungry though... (implying a contrast or incomplete thought).
+tone: Casual, explanatory, trailing off. Hwassa is reiterating her previous state to emphasize how strange it is that she is now hungry again so soon.
+
+--- word ---
+term: 안 (an)
+type: Negation Adverb
+breakdown: -
+meaning: Not; don't; didn't.
+notes: 
+- Usage: Placed before verbs/adjectives to negate them. Equivalent to "아니" + verb but much more common in casual speech.
+- Position: Always precedes the word being negated. e.g., "안 가다" (don't go), "안 먹다" (don't eat).
+- Register: Universal in informal contexts. Formal written negation often uses "-지 않다" (e.g., 고프지 않다).
+
+--- word ---
+term: 고팠는데 (gopanneunde)
+type: Verb Phrase (Past + Connective Ending)
+breakdown: 
+  - Root: 고프다 (gopeuda) - to be hungry.
+  - Past Stem: 고팠 (goppat). Derived from the irregular conjugation where ㅂ changes and combines with past tense marker -았/었.
+    * Specifics: 고프다 -> 고파 (present colloquial) -> 고팠다 (past).
+  - In rapid speech, "고팠는데" (goppa-neun-de) is often used as a contraction of "고팠었는데" or derived from the stem "고파" + past "였" + "는데".
+    * Most accurate breakdown for learner: It is the past tense of "고파(요)" + "는데". 
+    * Full logical form: 배가 고프지 않았는데 (Was not hungry but...) -> colloquial: 안 고팠는데.
+meaning: ...wasn't hungry (but).
+notes: 
+- Grammar: The suffix "-는데" adds a nuance of background information, contrast, or hesitation. It sets up a contrast with the present situation ("I wasn't hungry... [but now I am]").
+- Contrast: This sentence fragment strongly implies a contradiction follows, even if unspoken. "I wasn't hungry (so why am I eating/digging now?)."
+- Contraction: In fast speech, the full past connective "고팠었는데" often shortens to "고팠는데".
+- Contextual Flow: Repetition of this idea from the previous sentence reinforces the speaker's confusion about their own body's signals.
+
+=== [10:30] 이거 라이브 키자마자 배가 고파 ===
+meaning: Right as I turn on the live (stream), I get hungry. / The moment I start the live, my stomach starts rumbling.
+tone: Observational, frustrated but humorous, casual. Hwassa notices a strange pattern between starting her live broadcast and hunger hitting her.
+
+--- word ---
+term: 이거 (igeo)
+type: Pronoun (Demonstrative)
+breakdown: 이 (this) + 거 (short for 것 - thing)
+meaning: This; this thing; this situation
+notes: 
+- Usage: Very common colloquial contraction of "이것" (igeot). Used to point to a current situation, object, or topic.
+- Register: Casual. Formal equivalent is "이것".
+- Context: She refers to "this live stream" or "this situation" with "이거," creating an immediate, in-the-moment feel.
+- Learner Tip: Often misused by learners who confuse "이거" (this) with "저거" (that over there) or "그거" (that one).
+
+--- word ---
+term: 라이브 (raibeu)
+type: Noun (Loanword)
+breakdown: From English "Live" (live broadcast/streaming)
+meaning: Live (broadcast); streaming session
+notes: 
+- Origin: Konglish loanword from English. Widely used in K-pop, gaming, and social media contexts.
+- Usage: Refers specifically to real-time video broadcasting (like Instagram Live, YouTube Live, etc.).
+
+--- word ---
+term: 키자마자 (ki-jamaja)
+type: Verb + Time Conjunction
+breakdown: 
+  - 키다 (kida): To turn on / to start (device, system)
+    * Actually, '키다' is often short for '켜다' (kyeoda) in casual speech. '켜다' means to turn on an electronic device.
+  - -자마자 (-jamaja): Grammatical ending meaning "as soon as..." / "immediately upon..."
+meaning: As soon as I turn (it) on
+notes: 
+- Grammar: "-자마자" expresses that one action happens immediately after another with no time gap. Structure: Verb stem + -자마자.
+- Key Point: The verb here is technically "켜다" (to turn on electronics), but in fast speech, it's often pronounced/written as "키다" (confusion with '키다' - to grow/nurture). In this context, it clearly means "turn on" the live stream.
+- Common Mistake: Learners may confuse "켜다" (turn on) with "끄다" (kkuda - turn off). They are opposites.
+- Example: 전화기 켜자마자... = As soon as I turn on the phone...
+- Nuance: Emphasizes the immediacy - zero delay between turning on the stream and feeling hungry.
+
+--- word ---
+term: 배가 (baega)
+type: Noun + Particle
+breakdown: 배 (stomach) + 가 (subject particle)
+meaning: Stomach (as subject)
+notes: 
+- Idiom: Korean consistently uses "배가 고프다" (stomach is hungry) rather than translating directly "I am hungry."
+- Particle: '가' marks 'stomach' as the subject experiencing the sensation.
+- Cultural Note: This body-part-focused expression is typical in Korean for physical sensations (배고프다 - hungry, 머리가 아파요 - head hurts, etc.)
+
+--- word ---
+term: 고파 (gopa)
+type: Adjective (Present Informal)
+breakdown: Root: 고프다 (gopeuda) - to be hungry
+  - Colloquial form: 고프다 -> 고파 (dropping ㅂ irregularity)
+  - Ending: -아/-어 (informal present)
+meaning: Hungry
+notes: 
+- Irregular Verb: 고프다 is a ㅂ-irregular adjective. When followed by a vowel, the ㅂ drops and 우 is added: 고프 + 아 → 고와? No. Actually: 고프다 -> 고파 (present colloquial).
+- Present Tense: This is the plain informal statement "I'm hungry."
+- Polite Form: 고파요 (gopayo)
+- Common Usage: Often combined with other words like "너무 고파" (very hungry), "배고파" (colloquial full form).
+- Register: Casual plain form. Perfect for live streams, chatting with close friends, internal monologue.
+
+=== [10:33] 뭐지? ===
+meaning: What is it? / I wonder what...? / What's going on?
+tone: Confused, questioning, internal thought. Hwassa is pondering her sudden hunger phenomenon with curiosity and mild bewilderment.
+
+--- word ---
+term: 뭐 (mwo)
+type: Pronoun / Interrogative
+breakdown: 무엇 (mueot - formal 'what') + colloquial contraction dropping '엇'
+meaning: What
+notes: 
+- Contraction: Most common colloquial form of '무엇'. Used in almost all casual conversation.
+- Usage: Can function as subject, object, or predicate depending on context. With '-지' here, it forms an internal question.
+- Register: Casual. Formal written form would be '무엇'.
+- Common Combinations: 뭐야 (what is it?), 뭐해 (what are you doing?), 뭐라고 (what did you say?).
+
+--- word ---
+term: 지 (ji)
+type: Question Particle (for Internal/Reflective Questions)
+breakdown: Attached to verb stems or nouns to indicate uncertainty, self-questioning, or soft inquiry
+meaning: ...I wonder; Is it that...? (question marker for thought)
+notes: 
+- Function: Indicates the speaker is asking themselves rather than directly addressing someone. Creates a reflective, pensive tone.
+- Comparison: '뭐야?' = direct question to listener ("What is it?!"). '뭐지?' = internal monologue ("Hmm, what could it be...").
+- Grammar: Often attached to bare verbs/nouns without additional endings. Can also appear as '-는지', '-인지' in more complex structures.
+- Tone: Softer, less demanding than direct question particles like '-니', '-아/어'.
+- Usage Context: Common in situations of confusion, discovery, or when processing unexpected information aloud.
+- Related Forms: 어떻게 된 걸까 (I wonder what happened), 왜 이럴까 (I wonder why it's like this).
+
+=== [10:35] 아 이거 혹이나 다이어트 하게 될 때는 ===
+meaning: Ah, when I decide to diet or... (the sentence trails off, implying a contrast or consequence follows).
+tone: Realization, explanatory, conversational. Hwassa is connecting her hunger pattern to specific life events like dieting, likely to explain why she's eating so much now (or vice versa).
+
+--- word ---
+term: 아 (a)
+type: Interjection
+breakdown: -
+meaning: Ah; oh; well
+notes: 
+- Usage: Expresses sudden realization, surprise, recall, or emphasis. Very common filler sound at the start of sentences in spoken Korean.
+- Tone: Can indicate "Oh right!", "Ah I see!", or just a breathing pause before speaking.
+- Context: Here it marks a moment of clarity where she connects her current state to a past pattern.
+
+--- word ---
+term: 이거 (igeo)
+type: Pronoun
+breakdown: 이 (this) + 거 (thing)
+meaning: This; this situation; this thing
+notes: 
+- Function: Refers back to the "phenomenon" discussed (getting hungry immediately upon starting live stream).
+- Colloquialism: Shortened form of '이것'. Standard in casual speech.
+
+--- word ---
+term: 혹이나 (hogina)
+type: Noun + Particle (Uncertain/Conditional)
+breakdown: 
+  - 혹시 (hoksi): Perhaps; by any chance; maybe.
+  - -나 (-na): Uncertainty particle or colloquial truncation of '-거나' (or).
+- She is saying "Ah, this happens when I happen to decide to go on a diet..." (implying she eats more then? Or less?).
+  - *Conclusion*: The word is **혹시나** (hoksina), often pronounced quickly as "혹이나".
+meaning: Just in case; by any chance; if it turns out that...
+notes: 
+- Grammar: Contraction of '혹시' + '나' (uncertainty/emphasis). Used to express a hypothetical or unlikely situation.
+- Nuance: Adds a layer of "it might not happen, but if it does..."
+- Usage: Common in conditional scenarios: "혹시나 비가 오면" (If it happens to rain...).
+
+--- word ---
+term: 다이어트 (daieoteu)
+type: Noun (Loanword)
+breakdown: From English "Diet"
+meaning: Diet; weight loss program
+notes: 
+- Origin: Konglish. Universal term in Korea for losing weight.
+- Usage: "다이어트를 하다" (to diet) is the common verb phrase.
+- Cultural Context: K-pop idols are famous for strict diets, making this a frequent topic of conversation and fan concern.
+
+--- word ---
+term: 하게 될 때 (hage doel ttae)
+type: Verb Phrase (Future/Eventuality + Time)
+breakdown: 
+  - 하다 (hada): To do.
+  - 게 되다 (ge doeda): Passive/formal structure indicating "come to be done" or "end up doing". Indicates a change of state or future occurrence.
+  - 때 (ttae): Time/When.
+meaning: When (I) end up doing / When the time comes to do...
+notes: 
+- Structure: 하다 + -게 되다 + -는 + 때. 
+- Nuance: '하게 되다' implies a process leading to the decision or state, not just a simple action. It suggests "when the situation arises where I have to/diagram".
+- Translation: "When I decide to diet" or "When the time comes for me to diet."
+- Register: Neutral to slightly formal within the sentence structure, but common in explanation.
+
+--- word ---
+term: 는 (neun)
+type: Topic Particle
+breakdown: Attached to 시간 표현 (time expression) to mark it as the topic of the condition.
+meaning: (Regarding the time) when...
+notes: 
+- Function: Marks '때' (time) as the topic. Often dropped in very casual speech ("할 때"), but adding '-는' emphasizes the specific timeframe being discussed.
+- Flow: Connects the time clause to the main clause (which is missing here, implied to follow).
+
+--- word ---
+term: 은 (eun)
+type: Topic Particle
+breakdown: Attached to noun ending in consonant.
+meaning: (As for) ...
+notes: 
+- Wait, the text says "때에는"? No, "때는".
+- Correction: The prompt says "때는" (tteuneun). 
+- Breakdown: 때 (time) + 는 (topic particle).
+- Meaning: As for that time / Regarding when...
+- Function: Emphasizes the contrast between "dieting times" and other times. "In those specific cases..."
 
 [10:39]
   KO: 키면 안 되겠다
