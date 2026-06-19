@@ -10,21 +10,37 @@ Notes: There is a long intro section where Mamamoo songs are being playing. Real
 
 — [00:00] ————————————————————————————————————————
 
-
 [00:00]
-  KO: 목소리
-  FR: Voix
-  EN: Voice
+  KO: pyramid
+  FR: pyramide
+  EN: pyramid
 
-[00:01]
-  KO: 왕여자가 걸어왔대 마침
-  FR: Une femme royale est arrivée, juste à ce moment-là.
-  EN: A queen-like woman walked by, just then.
 
-[00:29]
-  KO: 저 누구예요? 여자였어?
-  FR: Qui est-ce ? C'était une femme ?
-  EN: Who is that? Was it a woman?
+[00:23]
+  KO: YOU
+  FR: TOI
+  EN: YOU
+
+
+[00:30]
+  KO: 그게 여자친구인 건지
+  FR: C'est ta copine ?
+  EN: Is that your girlfriend?
+
+[00:33]
+  KO: 아님 친구인 건지
+  FR: Ou es-tu un ami ?
+  EN: Or are you a friend?
+
+[00:35]
+  KO: 다가와
+  FR: Se rapprocher
+  EN: Come closer
+
+[00:36]
+  KO: 언니 이 여자 누구예요? 여자였어?
+  FR: Ma sœur, qui est cette femme ? Était-ce une femme ?
+  EN: Sister, who is this woman? Was it a woman?
 
 [00:39]
   KO: Oh my god
@@ -32,47 +48,2238 @@ Notes: There is a long intro section where Mamamoo songs are being playing. Real
   EN: Oh my god
 
 [00:40]
-  KO: 머리 어깨 무릎 다 힙해
-  FR: La tête, les épaules, les genoux, tout est branché.
-  EN: Head, shoulders, knees, everything is hip.
+  KO: Oh yeah
+  FR: Oh ouais
+  EN: Oh yeah
+
+[00:42]
+  KO: 음 오 아 예
+  FR: Euh oh ah ouais
+  EN: Um oh ah yeah
+
+[00:44]
+  KO: 너에게 빠져들겠어
+  FR: je tombe amoureux de toi
+  EN: I'm falling for you
+
+[00:47]
+  KO: 자꾸 반응하잖아
+  FR: Tu continues de réagir
+  EN: You keep reacting
+
+[00:49]
+  KO: Oh my god
+  FR: Oh mon Dieu
+  EN: Oh my god
+
+[00:50]
+  KO: Oh yes
+  FR: Oh oui
+  EN: Oh yes
+
+[00:51]
+  KO: 음 오 아 예
+  FR: Euh oh ah ouais
+  EN: Um oh ah yeah
+
+[00:54]
+  KO: 그래 넌 다가가겠어
+  FR: oui, tu me contacteras
+  EN: yes you will reach out
+
+[00:56]
+  KO: 넌 내 취향저격에
+  FR: Tu es à mon goût
+  EN: You suit my taste
+
+[00:58]
+  KO: Oh yeah
+  FR: Oh ouais
+  EN: Oh yeah
+
+[00:59]
+  KO: 목소리도
+  FR: Même la voix
+  EN: Even the voice
 
 
-— [04:39] ────────────────────────────────────────
+— [01:01] ————————————————————————————————————————
 
-[04:39]
-  KO: 지금 저한테 관심 있으세요?
-  FR: Vous êtes intéressée par moi en ce moment ?
-  EN: Are you interested in me right now?
+[01:01]
+  KO: Oh yeah
+  FR: Oh ouais
+  EN: Oh yeah
+
+[01:02]
+  KO: 눈을 떴고
+  FR: J'ai ouvert les yeux
+  EN: I opened my eyes
+
+[01:03]
+  KO: Oh yeah
+  FR: Oh ouais
+  EN: Oh yeah
+
+[01:04]
+  KO: 널 모두 yeah uh huh
+  FR: Vous tous ouais euh hein
+  EN: All of you yeah uh huh
+
+[01:06]
+  KO: 머리부터 발 끝까지 다
+  FR: De la tête aux pieds
+  EN: From head to toe
+
+[01:08]
+  KO: Oh yes
+  FR: Oh oui
+  EN: Oh yes
 
 
-— [11:19] ────────────────────────────────────────
+[01:25]
+  KO: 화려하게 빛날들
+  FR: Ils brilleront de mille feux
+  EN: They will shine brightly
+
+[01:29]
+  KO: 벌쩍 피운 꽃은 지겠지
+  FR: La fleur qui a fleuri va se faner
+  EN: The flower that has bloomed will fade
+
+[01:33]
+  KO: Yeah
+  FR: Ouais
+  EN: Yeah
+
+[01:34]
+  KO: 한순간 깊게 물들어
+  FR: Profondément coloré en un instant
+  EN: Deeply colored in a moment
+
+[01:37]
+  KO: 더 말처럼 치듯 안녕
+  FR: Au revoir, c'est plutôt des mots
+  EN: Goodbye, more like words
+
+[01:42]
+  KO: 그룹인 채로 깊게 paint
+  FR: Peignez profondément en groupe
+  EN: Paint deeply as a group
+
+[01:44]
+  KO: World turns blue I'm the only one in pain
+  FR: Le monde devient bleu, je suis le seul à souffrir
+  EN: World turns blue I'm the only one in pain
+
+[01:46]
+  KO: 날카롭게 paint
+  FR: aiguiser la peinture
+  EN: sharpen paint
+
+[01:47]
+  KO: 손톱 틈에 갇힌 채
+  FR: Coincé entre les ongles
+  EN: Trapped between fingernails
+
+[01:49]
+  KO: 내내 계속 Drip
+  FR: Goutte tout le temps
+  EN: Drip all the time
+
+[01:49]
+  KO: 밤새 거친 후
+  FR: Après une dure nuit
+  EN: After a rough night
+
+[01:51]
+  KO: Ooh
+  FR: Ooh
+  EN: Ooh
+
+[01:52]
+  KO: One for the memories
+  FR: Un pour les souvenirs
+  EN: One for the memories
+
+[01:53]
+  KO: Two for the flame
+  FR: Deux pour la flamme
+  EN: Two for the flame
+
+[01:54]
+  KO: Three for the silence
+  FR: Trois pour le silence
+  EN: Three for the silence
+
+[01:55]
+  KO: Four for the shame
+  FR: Quatre pour la honte
+  EN: Four for the shame
+
+[01:57]
+  KO: 그저 리 지나간 그 전이
+  FR: C'est juste un passé qui est révolu
+  EN: It's just a past that has passed
+
+[02:00]
+  KO: 꽃은 피고
+  FR: Les fleurs s'épanouissent
+  EN: Flowers bloom
 
 
-[11:19]
-  KO: 여러분
-  FR: Tout le monde
-  EN: Everyone
+— [02:02] ————————————————————————————————————————
 
-[11:19]
-  KO: 박수 한번 쳐주세요
-  FR: Applaudissez s'il vous plaît.
-  EN: Please give us a round of applause.
+[02:02]
+  KO: 꽃은 다시 지고
+  FR: Les fleurs retombent
+  EN: The flowers fall again
+
+[02:05]
+  KO: 이별 뒤에 우린 다 사랑하고
+  FR: Après la rupture, on s'aime tous
+  EN: After the breakup, we all love each other
+
+[02:09]
+  KO: 흩어져도
+  FR: Même dispersé
+  EN: Even if scattered
+
+[02:11]
+  KO: 우린은 안 안 안
+  FR: Nous ne le ferons pas, nous ne le ferons pas
+  EN: We won't, we won't
+
+[02:14]
+  KO: 이별 그 후에
+  FR: Après la rupture
+  EN: After the breakup
+
+[02:16]
+  KO: 다시 피우는 ooh
+  FR: Je fume encore ooh
+  EN: Smoking again ooh
+
+[02:18]
+  KO: Four flowers
+  FR: Quatre fleurs
+  EN: Four flowers
+
+[02:21]
+  KO: As beautiful as
+  FR: Aussi beau que
+  EN: As beautiful as
+
+[02:23]
+  KO: Four flowers
+  FR: Quatre fleurs
+  EN: Four flowers
 
 
-— [14:01] ────────────────────────────────────────
+[02:27]
+  KO: Four flowers
+  FR: Quatre fleurs
+  EN: Four flowers
 
-[14:01]
-  KO: 여러분 저희가 이제 또 12주년
-  FR: Tout le monde, nous célébrons notre 12e anniversaire...
-  EN: Everyone, we're now celebrating our 12th anniversary...
+[02:29]
+  KO: As beautiful as
+  FR: Aussi beau que
+  EN: As beautiful as
+
+[02:32]
+  KO: Four flowers
+  FR: Quatre fleurs
+  EN: Four flowers
 
 
-— [20:20] ────────────────────────────────────────
+[02:38]
+  KO: Falling petals
+  FR: Pétales qui tombent
+  EN: Falling petals
 
-[20:20]
-  KO: 지금 현재 12일 전인데요
-  FR: ...qui est dans 12 jours.
-  EN: ...which is currently 12 days away.
+[02:40]
+  KO: Deeper traces
+  FR: Des traces plus profondes
+  EN: Deeper traces
+
+[02:42]
+  KO: 저럴 때 멈추지 않을 flow
+  FR: Un flux qui ne s'arrêtera pas dans des moments comme ça
+  EN: A flow that won't stop at times like that
+
+[02:46]
+  KO: 멀어졌던 way
+  FR: La façon dont nous sommes partis
+  EN: The way we went away
+
+[02:48]
+  KO: Winkling away
+  FR: Clin d'œil
+  EN: Winkling away
+
+[02:49]
+  KO: I breathe again
+  FR: Je respire à nouveau
+  EN: I breathe again
+
+[02:50]
+  KO: Don't let it end
+  FR: Ne laisse pas ça se terminer
+  EN: Don't let it end
+
+[02:51]
+  KO: 끝이 끝나지 않도록
+  FR: Pour que la fin ne se termine pas
+  EN: So that the end doesn't end
+
+[02:56]
+  KO: You're a flower that fell still in the breeze
+  FR: Tu es une fleur qui tombe encore dans la brise
+  EN: You're a flower that fell still in the breeze
+
+[02:58]
+  KO: And the solviness keeping all your memories
+  FR: Et la solvabilité garde tous tes souvenirs
+  EN: And the solvency keeping all your memories
+
+[03:00]
+  KO: 많아 이별 다 똑같지만
+  FR: Il y a beaucoup de ruptures, mais elles sont toutes identiques
+  EN: There are a lot of breakups, but they are all the same
+
+
+— [03:03] ————————————————————————————————————————
+
+[03:03]
+  KO: 확실한 건 오직 내 결정
+  FR: La seule chose qui est sûre c'est ma décision
+  EN: The only thing that is certain is my decision
+
+[03:05]
+  KO: One for the memories
+  FR: Un pour les souvenirs
+  EN: One for the memories
+
+[03:06]
+  KO: Two for the flame
+  FR: Deux pour la flamme
+  EN: Two for the flame
+
+[03:07]
+  KO: Three for the silence
+  FR: Trois pour le silence
+  EN: Three for the silence
+
+[03:08]
+  KO: Four for the shame
+  FR: Quatre pour la honte
+  EN: Four for the shame
+
+[03:10]
+  KO: 우리가 지나온 그 자리에
+  FR: A l'endroit où nous sommes passés
+  EN: At the place we passed by
+
+[03:13]
+  KO: 꽃은 피고
+  FR: Les fleurs s'épanouissent
+  EN: Flowers bloom
+
+[03:15]
+  KO: 꽃은 다시 지고
+  FR: Les fleurs retombent
+  EN: The flowers fall again
+
+[03:18]
+  KO: 이별 뒤에 우린 다 사랑하고
+  FR: Après la rupture, on s'aime tous
+  EN: After the breakup, we all love each other
+
+[03:22]
+  KO: 흩어져도
+  FR: Même dispersé
+  EN: Even if scattered
+
+[03:24]
+  KO: 우린은 안 안 안
+  FR: Nous ne le ferons pas, nous ne le ferons pas
+  EN: We won't, we won't
+
+[03:27]
+  KO: 이별 그 후에
+  FR: Après la rupture
+  EN: After the breakup
+
+[03:29]
+  KO: 다시 피우는 ooh
+  FR: Je fume encore ooh
+  EN: Smoking again ooh
+
+[03:31]
+  KO: Only four flowers
+  FR: Seulement quatre fleurs
+  EN: Only four flowers
+
+[03:33]
+  KO: 여긴 다시 그 위로
+  FR: C'est encore là-haut
+  EN: This is up there again
+
+[03:36]
+  KO: Only four flowers
+  FR: Seulement quatre fleurs
+  EN: Only four flowers
+
+[03:38]
+  KO: 흠난 있던 기억 빌다 모아
+  FR: Je prie et collectionne les souvenirs imparfaits
+  EN: I pray and collect the flawed memories
+
+[03:40]
+  KO: Don't let them slip away
+  FR: Ne les laissez pas s'échapper
+  EN: Don't let them slip away
+
+[03:42]
+  KO: We bring the light inside our hearts
+  FR: Nous apportons la lumière dans nos cœurs
+  EN: We bring the light inside our hearts
+
+[03:48]
+  KO: 새롭게 다시 피어나
+  FR: Il refleurit
+  EN: It blooms again
+
+[03:50]
+  KO: Four flowers
+  FR: Quatre fleurs
+  EN: Four flowers
+
+[03:51]
+  KO: L.C.A.
+  FR: L.C.A.
+  EN: L.C.A.
+
+[03:52]
+  KO: Ten flowers
+  FR: Dix fleurs
+  EN: Ten flowers
+
+[03:54]
+  KO: Burning red
+  FR: Rouge brûlant
+  EN: Burning red
+
+[03:55]
+  KO: Four flowers
+  FR: Quatre fleurs
+  EN: Four flowers
+
+[03:56]
+  KO: 내버댈 수 필요
+  FR: J'ai besoin de pouvoir résister
+  EN: I need to be able to resist
+
+[03:57]
+  KO: Four flowers
+  FR: Quatre fleurs
+  EN: Four flowers
+
+[03:59]
+  KO: Four flowers
+  FR: Quatre fleurs
+  EN: Four flowers
+
+
+— [04:04] ————————————————————————————————————————
+
+[04:04]
+  KO: Four flowers
+  FR: Quatre fleurs
+  EN: Four flowers
+
+[04:08]
+  KO: Four flowers
+  FR: Quatre fleurs
+  EN: Four flowers
+
+[04:11]
+  KO: It's a bit of shame
+  FR: C'est un peu dommage
+  EN: It's a bit of shame
+
+[04:13]
+  KO: Four flowers
+  FR: Quatre fleurs
+  EN: Four flowers
+
+
+[04:17]
+  KO: 꽃은 피고
+  FR: Les fleurs s'épanouissent
+  EN: Flowers bloom
+
+[04:19]
+  KO: 꽃은 다시 지고
+  FR: Les fleurs retombent
+  EN: The flowers fall again
+
+[04:22]
+  KO: 이별 뒤에 우린 다 사랑하고
+  FR: Après la rupture, on s'aime tous
+  EN: After the breakup, we all love each other
+
+
+[04:52]
+  KO: I love you
+  FR: Je t'aime
+  EN: I love you
+
+[04:54]
+  KO: 네가 뭘 하든 간에
+  FR: peu importe ce que tu fais
+  EN: no matter what you do
+
+[04:56]
+  KO: Respect you
+  FR: Te respecter
+  EN: Respect you
+
+[04:58]
+  KO: 네가 뭘 하든 간에
+  FR: peu importe ce que tu fais
+  EN: no matter what you do
+
+[04:59]
+  KO: She's crazy
+  FR: Elle est folle
+  EN: She's crazy
+
+[05:00]
+  KO: 날 따끈따끈해
+  FR: Ça me fait chaud
+  EN: It makes me warm
+
+[05:02]
+  KO: 그 관심이 따끈따끈해
+  FR: L'intérêt est si chaleureux
+  EN: The interest is so warm
+
+[05:03]
+  KO: 또 힐끔 힐끔 힐끔
+  FR: Un autre regard, un regard
+  EN: Another glance, a glance
+
+
+— [05:06] ————————————————————————————————————————
+
+[05:06]
+  KO: 이제 모든 일이 갓분해 Beverly
+  FR: Maintenant tout est fou Beverly
+  EN: Now everything is crazy Beverly
+
+[05:08]
+  KO: 성공을 서로 먹어 마치 Michelin
+  FR: Mangeons le succès de chacun comme Michelin
+  EN: Let’s eat each other’s success like Michelin
+
+[05:10]
+  KO: 누구보다 빠른 걸음을 걸어내
+  FR: Je marche plus vite que n'importe qui d'autre
+  EN: I walk faster than anyone else
+
+[05:12]
+  KO: This season 이젠지도 오래야
+  FR: Cette saison est longue maintenant
+  EN: This season has been a long time now
+
+[05:14]
+  KO: 뒷걸음을 걸어내
+  FR: Prendre du recul
+  EN: Take a step back
+
+[05:16]
+  KO: 이 시즌 이젠지도 오래야
+  FR: Cela faisait longtemps depuis cette saison
+  EN: It's been a long time since this season
+
+[05:17]
+  KO: 이 시즌 이젠지도 오래야
+  FR: Cela faisait longtemps depuis cette saison
+  EN: It's been a long time since this season
+
+[05:19]
+  KO: 이 시즌 이젠지도 오래야
+  FR: Cela faisait longtemps depuis cette saison
+  EN: It's been a long time since this season
+
+[05:22]
+  KO: I'm not one of these
+  FR: Je ne fais pas partie de ceux-là
+  EN: I'm not one of these
+
+[05:23]
+  KO: 멋진 내 멋대로 collect
+  FR: Je le collectionne comme je veux
+  EN: I collect it the way I want
+
+[05:25]
+  KO: 머리 어깨 무릎 다 hip
+  FR: Tête, épaules, genoux, hanches
+  EN: Head, shoulders, knees, hip
+
+[05:28]
+  KO: 뱁뱁뱁
+  FR: Bap bap bap
+  EN: Bap bap bap
+
+[05:29]
+  KO: 뭘 아니 된 건 fashion
+  FR: Ce qui s'est passé, c'est la mode
+  EN: What happened was fashion
+
+[05:31]
+  KO: 밸런스엔 안서 그저 action
+  FR: Pas d'équilibre, juste de l'action
+  EN: No balance, just action
+
+[05:35]
+  KO: 자꾸 click me click me
+  FR: Je continue de cliquer sur moi, cliquez sur moi
+  EN: I keep clicking me click me
+
+[05:37]
+  KO: 훈인 날씨 주워
+  FR: Ramassez le beau temps
+  EN: Pick up the good weather
+
+[05:39]
+  KO: Close up close up close up
+  FR: Gros plan gros plan gros plan
+  EN: Close up close up close up
+
+[05:42]
+  KO: Hip hip hip hip
+  FR: hanche hanche hanche hanche
+  EN: Hip hip hip hip
+
+[05:44]
+  KO: 머리 어깨 무릎 hip hip hip hip
+  FR: tête épaules genoux hanche hanche hanche hanche
+  EN: head shoulders knees hip hip hip hip
+
+[05:49]
+  KO: Hip hip hip hip hip hip hip
+  FR: Hip hip hip hip hip hip hip
+  EN: Hip hip hip hip hip hip hip
+
+
+[05:57]
+  KO: 어딜 가든 you
+  FR: Où que vous alliez, vous
+  EN: Wherever you go, you
+
+[06:00]
+  KO: Reflection
+  FR: Réflexion
+  EN: Reflection
+
+[06:00]
+  KO: 빛날 수 있어
+  FR: je peux briller
+  EN: I can shine
+
+[06:03]
+  KO: 세상엔 넌 하나뿐인 걸
+  FR: Tu es le seul au monde
+  EN: You are the only one in the world
+
+
+— [06:07] ————————————————————————————————————————
+
+[06:07]
+  KO: 근데 왜 이래
+  FR: Mais pourquoi est-ce comme ça
+  EN: But why is this like this
+
+[06:08]
+  KO: 네 얼굴에 침 뱄니
+  FR: Est-ce que je t'ai craché au visage ?
+  EN: Did I spit on your face?
+
+[06:09]
+  KO: K2
+  FR: K2
+  EN: K2
+
+[06:10]
+  KO: 날 자극한 여러분 감싸
+  FR: Je protège tous ceux qui m'ont provoqué
+  EN: I protect everyone who provoked me
+
+[06:12]
+  KO: 거기서 몸통 찌질이 뻥싸
+  FR: Il y a beaucoup de graisse corporelle là-bas.
+  EN: There's a lot of body fat there.
+
+[06:14]
+  KO: 또 힐끔 내 나의 멘탈은 단단해
+  FR: Un autre regard, ma mentalité est forte
+  EN: Another glance, my mentality is strong
+
+[06:15]
+  KO: 난 다음 앨범 만들러 갈게
+  FR: Je vais faire le prochain album
+  EN: I'm going to go make the next album
+
+[06:17]
+  KO: Are you wanna be? It's trendy
+  FR: Veux-tu l'être ? C'est tendance
+  EN: Are you wanna be? It's trendy
+
+[06:19]
+  KO: 어그로 즐기기맥같이
+  FR: Profitez de l'aggro comme un Mac
+  EN: Enjoy the aggro like a Mac
+
+[06:21]
+  KO: 그런 아들 끼리끼리 hip
+  FR: Ces fils sont branchés ensemble
+  EN: Those sons are hip together
+
+[06:23]
+  KO: B-B-B-No!
+  FR: B-B-B-Non !
+  EN: B-B-B-No!
+
+[06:25]
+  KO: 아니, demo, fashion
+  FR: Non, démo, mode
+  EN: No, demo, fashion
+
+[06:27]
+  KO: 별로 신경 안 써, 그저 action
+  FR: Je m'en fiche, juste de l'action
+  EN: I don't really care, just action
+
+[06:31]
+  KO: 자꾸 click me, click me
+  FR: Je continue de cliquer sur moi, de cliquer sur moi
+  EN: I keep clicking me, clicking me
+
+[06:33]
+  KO: 헝인 듯이 zoom
+  FR: Zoomer comme accroché
+  EN: Zoom as if hung
+
+[06:35]
+  KO: Close up, close up, close up
+  FR: Gros plan, gros plan, gros plan
+  EN: Close up, close up, close up
+
+[06:37]
+  KO: Hip!
+  FR: Hanche!
+  EN: Hip!
+
+[06:38]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:38]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:39]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:40]
+  KO: 머리, 어깨, 무릎, hip
+  FR: Tête, épaules, genoux, hanches
+  EN: Head, shoulders, knees, hips
+
+[06:42]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:42]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:42]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:42]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:42]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:42]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:42]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:42]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:42]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:42]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:43]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:43]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:43]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:43]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:43]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:43]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:43]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:43]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:43]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:43]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:44]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:44]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:44]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:44]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:44]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:44]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:44]
+  KO: Hip!
+  FR: Hanche!
+  EN: Hip!
+
+[06:47]
+  KO: 머리, 어깨, 무릎, hip
+  FR: Tête, épaules, genoux, hanches
+  EN: Head, shoulders, knees, hips
+
+[06:48]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:49]
+  KO: Hey!
+  FR: Hé!
+  EN: Hey!
+
+[06:51]
+  KO: 코 묻은 티, 비전 나온 입
+  FR: T-shirt sur le nez, la bouche avec vision
+  EN: T-shirt on nose, mouth with vision
+
+[06:53]
+  KO: 떡진 머리 난 상관 없지
+  FR: Je m'en fiche si tu as les cheveux épais
+  EN: I don't care if you have thick hair
+
+[06:55]
+  KO: 코 묻은 티, 비전 나온 입
+  FR: T-shirt sur le nez, la bouche avec vision
+  EN: T-shirt on nose, mouth with vision
+
+[06:57]
+  KO: 떡진 머리 내가 하면 hip
+  FR: Si j'ai les cheveux épais, je serai branché
+  EN: If I have thick hair, I’ll be hip
+
+[06:59]
+  KO: 코 묻은 티, 비전 나온 팬티
+  FR: T-shirt avec nez, culotte avec vision
+  EN: T-shirt with nose on, panties with vision
+
+[07:00]
+  KO: 떡진 머리 난 상관 없지
+  FR: Je m'en fiche si tu as les cheveux épais
+  EN: I don't care if you have thick hair
+
+[07:02]
+  KO: 코 묻은 티, 비전 나온 팬티
+  FR: T-shirt avec nez, culotte avec vision
+  EN: T-shirt with nose on, panties with vision
+
+[07:04]
+  KO: 떡진 머리 내가 하면 hip
+  FR: Si j'ai les cheveux épais, je serai branché
+  EN: If I have thick hair, I’ll be hip
+
+
+— [07:44] ————————————————————————————————————————
+
+
+[07:44]
+  KO: 해 해 해 해 해 해
+  FR: Fais-le, fais-le, fais-le, fais-le, fais-le, fais-le
+  EN: Do it, do it, do it, do it, do it, do it
+
+
+[07:54]
+  KO: One two three
+  FR: Un deux trois
+  EN: One two three
+
+[07:55]
+  KO: 밤이 깊어져 단둘이
+  FR: Alors que la nuit s'approfondit, nous sommes seuls
+  EN: As the night deepens, we are alone
+
+[07:58]
+  KO: 밤이 깨져 열두시
+  FR: La nuit se lève à midi
+  EN: The night breaks at twelve o'clock
+
+[08:01]
+  KO: 까먹은 문제야
+  FR: j'avais oublié ce problème
+  EN: I forgot about this problem
+
+[08:02]
+  KO: 일렐라해 일렐라해
+  FR: Faisons-le, faisons-le, faisons-le
+  EN: Let's do it, let's do it, let's do it
+
+[08:05]
+  KO: 웜홀키
+  FR: Clé du trou de ver
+  EN: Wormhole Key
+
+[08:06]
+  KO: 밤은 깊어지고 달빛이
+  FR: La nuit s'approfondit et le clair de lune
+  EN: The night deepens and the moonlight
+
+[08:09]
+  KO: 꽉 차올라
+  FR: C'est plein
+  EN: It's full
+
+[08:10]
+  KO: Yeah
+  FR: Ouais
+  EN: Yeah
+
+[08:13]
+  KO: 일렐라해 일렐라해
+  FR: Faisons-le, faisons-le, faisons-le
+  EN: Let's do it, let's do it, let's do it
+
+[08:16]
+  KO: 해가 끝기 전에는
+  FR: Avant la fin de l'année
+  EN: Before the year ends
+
+[08:18]
+  KO: 너를 떠보고 싶어 오늘 밤
+  FR: Je veux te quitter ce soir
+  EN: I want to leave you tonight
+
+[08:21]
+  KO: 이리 날까 이리 남을까
+  FR: Dois-je voler comme ça ou rester comme ça ?
+  EN: Should I fly like this or stay like this?
+
+[08:24]
+  KO: 열이 빛나는 밤에
+  FR: Par une chaude nuit
+  EN: On a hot night
+
+[08:27]
+  KO: 나의 눈빛을 지어 고 있어
+  FR: je fais mes yeux
+  EN: I'm making my eyes
+
+[08:30]
+  KO: 아닌 척해 또 티가 나 점점
+  FR: Je fais semblant que ça n'arrive pas, mais ça commence à se voir de plus en plus
+  EN: I pretend it's not happening, but it's starting to show more and more
+
+[08:33]
+  KO: 이리 날까 이리 남을까
+  FR: Dois-je voler comme ça ou rester comme ça ?
+  EN: Should I fly like this or stay like this?
+
+[08:35]
+  KO: 모두 잠든 이 밤에
+  FR: Cette nuit où tout le monde dort
+  EN: On this night when everyone is asleep
+
+[08:38]
+  KO: 이 밤은 다 그래 또 놀라게 따라와
+  FR: Tout est comme ça cette nuit, c'est encore une surprise
+  EN: Everything is like that this night, it comes with a surprise again
+
+[08:41]
+  KO: 끝날게 Don't stop 더 더 따라와
+  FR: Ça va finir, ne t'arrête pas, suis-moi plus loin
+  EN: It will end, don't stop, follow me further
+
+[08:44]
+  KO: 이름만 말려봐
+  FR: Dis juste mon nom
+  EN: Just say my name
+
+
+— [08:45] ————————————————————————————————————————
+
+[08:45]
+  KO: 아마 잔뜩 성인한 야수처럼 웃어
+  FR: Probablement souriant comme une bête adulte
+  EN: Probably smiling like an adult beast
+
+[08:49]
+  KO: One two three
+  FR: Un deux trois
+  EN: One two three
+
+[08:51]
+  KO: 밤이 깊어져 단둘이
+  FR: Alors que la nuit s'approfondit, nous sommes seuls
+  EN: As the night deepens, we are alone
+
+[08:53]
+  KO: 밤이 깊어져 열두시
+  FR: La nuit devient plus profonde, midi
+  EN: The night gets deeper, twelve o'clock
+
+[08:56]
+  KO: 까먹은 문제야
+  FR: j'avais oublié ce problème
+  EN: I forgot about this problem
+
+[08:57]
+  KO: 일렐라해 일렐라해
+  FR: Faisons-le, faisons-le, faisons-le
+  EN: Let's do it, let's do it, let's do it
+
+[09:00]
+  KO: 웜홀키
+  FR: Clé du trou de ver
+  EN: Wormhole Key
+
+[09:02]
+  KO: 밤은 깊어지고 달빛이
+  FR: La nuit s'approfondit et le clair de lune
+  EN: The night deepens and the moonlight
+
+[09:04]
+  KO: 꽉 차올라
+  FR: C'est plein
+  EN: It's full
+
+[09:05]
+  KO: Yeah
+  FR: Ouais
+  EN: Yeah
+
+[09:08]
+  KO: 일렐라해 일렐라해
+  FR: Faisons-le, faisons-le, faisons-le
+  EN: Let's do it, let's do it, let's do it
+
+[09:11]
+  KO: Hey
+  FR: Hé
+  EN: Hey
+
+[09:12]
+  KO: 일렐라해 일렐라해
+  FR: Faisons-le, faisons-le, faisons-le
+  EN: Let's do it, let's do it, let's do it
+
+[09:16]
+  KO: Hey
+  FR: Hé
+  EN: Hey
+
+[09:19]
+  KO: 일렐라해 일렐라해
+  FR: Faisons-le, faisons-le, faisons-le
+  EN: Let's do it, let's do it, let's do it
+
+[09:22]
+  KO: 너를 기대어 너와 나
+  FR: S'appuyant sur toi, toi et moi
+  EN: Leaning on you, you and me
+
+[09:25]
+  KO: 팅글댕글
+  FR: Picotement pendant
+  EN: Tingle dangle
+
+[09:27]
+  KO: 오프라 컨실러
+  FR: correcteur Oprah
+  EN: oprah concealer
+
+[09:28]
+  KO: 맘대축야 매일 밤
+  FR: Bonne maman tous les soirs
+  EN: Happy Mom every night
+
+[09:30]
+  KO: 집에 가지 마
+  FR: ne rentre pas à la maison
+  EN: don't go home
+
+[09:31]
+  KO: 취하는 밤에
+  FR: Par une nuit arrosée
+  EN: On a drunken night
+
+[09:33]
+  KO: 너와 밤깔을 헤매고 있어
+  FR: J'erre dans la nuit avec toi
+  EN: I'm wandering through the night with you
+
+[09:36]
+  KO: 모든 것들이 다 맞춰 보여
+  FR: Tout semble bien
+  EN: Everything looks right
+
+[09:39]
+  KO: 이리 날까 이리 난 날까
+  FR: Dois-je voler comme ça ? Dois-je voler comme ça ?
+  EN: Should I fly like this? Should I fly like this?
+
+[09:41]
+  KO: Ah
+  FR: Ah
+  EN: Ah
+
+[09:44]
+  KO: One two three
+  FR: Un deux trois
+  EN: One two three
+
+
+— [09:46] ————————————————————————————————————————
+
+[09:46]
+  KO: 밤이 깊어져 단둘이
+  FR: Alors que la nuit s'approfondit, nous sommes seuls
+  EN: As the night deepens, we are alone
+
+[09:48]
+  KO: 밤이 깊어져 열두시
+  FR: La nuit devient plus profonde, midi
+  EN: The night gets deeper, twelve o'clock
+
+[09:51]
+  KO: 까먹은 문제야
+  FR: j'avais oublié ce problème
+  EN: I forgot about this problem
+
+[09:52]
+  KO: 일렐라해 일렐라해
+  FR: Faisons-le, faisons-le, faisons-le
+  EN: Let's do it, let's do it, let's do it
+
+[09:55]
+  KO: 웜홀키
+  FR: Clé du trou de ver
+  EN: Wormhole Key
+
+[09:57]
+  KO: 밤은 깊어지고 달빛이
+  FR: La nuit s'approfondit et le clair de lune
+  EN: The night deepens and the moonlight
+
+[09:59]
+  KO: 꽉 차올라
+  FR: C'est plein
+  EN: It's full
+
+[10:01]
+  KO: Yeah
+  FR: Ouais
+  EN: Yeah
+
+[10:03]
+  KO: 일렐라해 일렐라해
+  FR: Faisons-le, faisons-le, faisons-le
+  EN: Let's do it, let's do it, let's do it
+
+[10:05]
+  KO: 일렐라해 일렐라해
+  FR: Faisons-le, faisons-le, faisons-le
+  EN: Let's do it, let's do it, let's do it
+
+[10:10]
+  KO: 일렐라해 일렐라
+  FR: Illella, Illella.
+  EN: Illella, Illella.
+
+[10:12]
+  KO: Hey
+  FR: Hé
+  EN: Hey
+
+[10:14]
+  KO: 일렐라해 일렐라이
+  FR: Illelaï Illelaï
+  EN: Illelai Illelai
+
+[10:17]
+  KO: Prey
+  FR: Proie
+  EN: Prey
+
+[10:20]
+  KO: 일렐라해 일렐라해
+  FR: Faisons-le, faisons-le, faisons-le
+  EN: Let's do it, let's do it, let's do it
+
+[10:22]
+  KO: 일렐라해 일렐라해
+  FR: Faisons-le, faisons-le, faisons-le
+  EN: Let's do it, let's do it, let's do it
+
+[10:26]
+  KO: 일렐라해 일렐라해
+  FR: Faisons-le, faisons-le, faisons-le
+  EN: Let's do it, let's do it, let's do it
+
+
+[10:35]
+  KO: göster ALMA MOO
+  FR: goster ALMA MOO
+  EN: göster ALMA MOO
+
+[10:41]
+  KO: 皆 them
+  FR: Par eux
+  EN: By them
+
+[10:45]
+  KO: 엄청나 Incredible
+  FR: Incroyable
+  EN: Incredible
+
+
+— [10:49] ————————————————————————————————————————
+
+[10:49]
+  KO: 이나
+  FR: Ina
+  EN: Ina
+
+[10:54]
+  KO: 그녀의
+  FR: son
+  EN: her
+
+[11:03]
+  KO: Hello Mr.M&M
+  FR: Bonjour Monsieur M&M
+  EN: Hello Mr.M&M
+
+[11:05]
+  KO: 멀리 덫이 걸린 난 애장결핍이야
+  FR: Piégé au loin, je manque d'affection
+  EN: Trapped far away, I lack affection
+
+[11:08]
+  KO: MAMAMOO MAMAMOO
+  FR: MAMAMOO MAMAMOO
+  EN: MAMAMOO MAMAMOO
+
+[11:10]
+  KO: 거긴 내 편의 MAMAMOO
+  FR: C'est mon MAMAMOO
+  EN: That's my MAMAMOO
+
+[11:12]
+  KO: 찔러보지 마 말고 저 질러봐
+  FR: Ne me poignarde pas, crie-moi juste
+  EN: Don't stab me, just yell at me
+
+[11:16]
+  KO: Now 신사생 여러분
+  FR: Maintenant, messieurs
+  EN: Now, gentlemen
+
+[11:18]
+  KO: Let's get on with the show
+  FR: Continuons le spectacle
+  EN: Let's get on with the show
+
+
+[11:23]
+  KO: Darling it's you
+  FR: Chérie, c'est toi
+  EN: Darling it's you
+
+
+[11:27]
+  KO: 아직 넌 왜 눈치를 못채니 넌
+  FR: Pourquoi ne l'as-tu pas encore remarqué ?
+  EN: Why haven't you noticed yet?
+
+[11:32]
+  KO: Mr.M&M
+  FR: Monsieur M&M
+  EN: Mr.M&M
+
+[11:33]
+  KO: 날 헷갈리게 하지마
+  FR: ne me confond pas
+  EN: don't confuse me
+
+
+[11:38]
+  KO: My love is for you
+  FR: Mon amour est pour toi
+  EN: My love is for you
+
+
+[11:42]
+  KO: 왜 자꾸 내 맘을 몰라주는거니 왜
+  FR: Pourquoi continuez-vous à ignorer mes sentiments ? Pourquoi?
+  EN: Why do you keep ignoring my feelings? Why?
+
+[11:47]
+  KO: Oh Mr.M&M
+  FR: Oh Monsieur M&M
+  EN: Oh Mr. M&M
+
+[11:48]
+  KO: 날 갖고 놀려 하지마
+  FR: N'essaye pas de jouer avec moi
+  EN: Don't try to play with me
+
+
+— [11:55] ————————————————————————————————————————
+
+
+[11:55]
+  KO: 꼭꼭 숨어 머리카락 보일래
+  FR: Je veux cacher et montrer mes cheveux
+  EN: I want to hide and show my hair
+
+
+[12:02]
+  KO: 캔디를 뭉듯한 달콤한 말투
+  FR: Un discours doux comme un bonbon
+  EN: Sweet speech like candy
+
+[12:06]
+  KO: 양의 탈을 쓰는 고리친 웃음
+  FR: Un rire moqueur déguisé en mouton
+  EN: A mocking laugh disguised as a sheep
+
+[12:09]
+  KO: MAMAMOO MAMAMOO
+  FR: MAMAMOO MAMAMOO
+  EN: MAMAMOO MAMAMOO
+
+[12:11]
+  KO: 거긴 내 편의 MAMAMOO
+  FR: C'est mon MAMAMOO
+  EN: That's my MAMAMOO
+
+[12:13]
+  KO: 대신 떨지 말고 나를 가져봐
+  FR: Au lieu de cela, ne tremble pas et prends-moi
+  EN: Instead, don't tremble and have me
+
+[12:17]
+  KO: Oh 신사생 여러분
+  FR: Oh messieurs
+  EN: Oh gentlemen
+
+[12:19]
+  KO: Let's get on with the show
+  FR: Continuons le spectacle
+  EN: Let's get on with the show
+
+
+[12:24]
+  KO: Darling it's you
+  FR: Chérie, c'est toi
+  EN: Darling it's you
+
+[12:26]
+  KO: 아직 넌 왜 눈치를 못채니 넌
+  FR: Pourquoi ne l'as-tu pas encore remarqué ?
+  EN: Why haven't you noticed yet?
+
+[12:32]
+  KO: Mr.M&M
+  FR: Monsieur M&M
+  EN: Mr.M&M
+
+[12:33]
+  KO: 날 헷갈리게 하지마
+  FR: ne me confond pas
+  EN: don't confuse me
+
+
+[12:38]
+  KO: My love is for you
+  FR: Mon amour est pour toi
+  EN: My love is for you
+
+
+[12:42]
+  KO: 왜 자꾸 내 맘을 몰라주는거니 왜
+  FR: Pourquoi continuez-vous à ignorer mes sentiments ? Pourquoi?
+  EN: Why do you keep ignoring my feelings? Why?
+
+[12:47]
+  KO: Oh Mr.M&M
+  FR: Oh Monsieur M&M
+  EN: Oh Mr. M&M
+
+[12:48]
+  KO: 날 갖고 놀려 하지마
+  FR: N'essaye pas de jouer avec moi
+  EN: Don't try to play with me
+
+[12:51]
+  KO: Hey Mr.M
+  FR: Salut Monsieur M
+  EN: Hey Mr. M
+
+[12:52]
+  KO: 꼭꼭 숨어 머리카락 보일래
+  FR: Je veux cacher et montrer mes cheveux
+  EN: I want to hide and show my hair
+
+
+— [12:59] ————————————————————————————————————————
+
+
+[12:59]
+  KO: Mr.M&M
+  FR: Monsieur M&M
+  EN: Mr.M&M
+
+[13:00]
+  KO: 왜 삐딱하게 구는건데 마치 베레모
+  FR: Pourquoi es-tu tordu, comme un béret ?
+  EN: Why are you acting crooked, like a beret?
+
+[13:02]
+  KO: 잘해 가보지 말고 빨리 와요 내게도
+  FR: Faites de votre mieux et venez vite vers moi aussi.
+  EN: Do your best and come quickly to me too.
+
+[13:04]
+  KO: 사랑은 칭취하는거야 불러봐요 세리모
+  FR: L'amour est une louange. Appelez-moi Serimo.
+  EN: Love is praise. Call me Serimo.
+
+[13:06]
+  KO: MAMAMOO MAMAMOO
+  FR: MAMAMOO MAMAMOO
+  EN: MAMAMOO MAMAMOO
+
+[13:08]
+  KO: 거긴 내 편의 MAMAMOO
+  FR: C'est mon MAMAMOO
+  EN: That's my MAMAMOO
+
+[13:10]
+  KO: 아마도 남아 구 딴 여자 있는 것 같다고
+  FR: Peut-être que le garçon a une autre fille.
+  EN: Maybe the boy has another girl.
+
+[13:14]
+  KO: Oh 신사생 여러분
+  FR: Oh messieurs
+  EN: Oh gentlemen
+
+[13:16]
+  KO: 날 헷갈리게 하지마
+  FR: ne me confond pas
+  EN: don't confuse me
+
+[13:21]
+  KO: Let's get on with the show
+  FR: Continuons le spectacle
+  EN: Let's get on with the show
+
+
+[13:26]
+  KO: Darling it's you
+  FR: Chérie, c'est toi
+  EN: Darling it's you
+
+[13:29]
+  KO: 아직 넌 왜 눈치를 못채니 넌
+  FR: Pourquoi ne l'as-tu pas encore remarqué ?
+  EN: Why haven't you noticed yet?
+
+[13:34]
+  KO: Mr.M&M
+  FR: Monsieur M&M
+  EN: Mr.M&M
+
+[13:35]
+  KO: 날 헷갈리게 하지마
+  FR: ne me confond pas
+  EN: don't confuse me
+
+
+[13:41]
+  KO: My love is for you
+  FR: Mon amour est pour toi
+  EN: My love is for you
+
+[13:44]
+  KO: 왜 자꾸 내 맘을 몰라주는거니 왜
+  FR: Pourquoi continuez-vous à ignorer mes sentiments ? Pourquoi?
+  EN: Why do you keep ignoring my feelings? Why?
+
+[13:49]
+  KO: Oh Mr.M&M
+  FR: Oh Monsieur M&M
+  EN: Oh Mr. M&M
+
+[13:50]
+  KO: 날 갖고 놀려 하지마
+  FR: N'essaye pas de jouer avec moi
+  EN: Don't try to play with me
+
+
+[13:57]
+  KO: 괜찮다면 박수 한번 쳐주세요
+  FR: Si cela ne vous dérange pas, applaudissez-moi s'il vous plaît.
+  EN: If you don't mind, please give me a round of applause.
+
+
+— [14:21] ————————————————————————————————————————
+
+
+[14:21]
+  KO: Ella Ella Ella Ella Ella Ella
+  FR: Ella Ella Ella Ella Ella Ella
+  EN: Ella Ella Ella Ella Ella Ella
+
+[14:26]
+  KO: 폰은 저렇게 쉬우기는 좀 더 불여
+  FR: Ce n'est pas si simple avec le téléphone.
+  EN: It's not that easy with the phone.
+
+[14:28]
+  KO: 골치 아픈건 던져
+  FR: Jetez tout ce qui fait mal
+  EN: Throw away anything that hurts
+
+[14:31]
+  KO: 여기서는 잘해 상처를 다 마셔
+  FR: Faites bien ici et buvez toute la souffrance.
+  EN: Do well here and drink away all the hurt.
+
+[14:33]
+  KO: 착한 척은 그만 둬
+  FR: Arrête de faire semblant d'être gentil
+  EN: Stop pretending to be nice
+
+[14:36]
+  KO: 봉 각각봉 다 터둔
+  FR: J'ai ouvert toutes les tiges
+  EN: I opened all the rods
+
+[14:39]
+  KO: 리듬에 몸을 맡겨
+  FR: Laissez votre corps au rythme
+  EN: Leave your body to the rhythm
+
+[14:41]
+  KO: 뻔뻔하게 놀아요
+  FR: Jouez sans vergogne
+  EN: Play shamelessly
+
+[14:43]
+  KO: La La La
+  FR: La La La
+  EN: La La La
+
+[14:46]
+  KO: 하루쯤은 내가 변한건 아니야
+  FR: Je n'ai pas changé depuis un jour
+  EN: I didn't change for a day
+
+[14:48]
+  KO: 별거 아닌거에 의미가 같이 뭐해 뭐해
+  FR: Ce n'est pas grave, mais cela a un sens. Que fais-tu?
+  EN: It's not a big deal, but it has meaning. What are you doing?
+
+[14:51]
+  KO: 괜한 어둠 포티 등도 민적 없지
+  FR: Même les ténèbres inutiles, Potty, etc. n'ont aucune trace.
+  EN: Even the pointless darkness, Potty, etc. have no trace.
+
+[14:53]
+  KO: 알고 알고 보드플라이 양전을 부딪쳐
+  FR: Je sais, je sais, j'ai touché le pôle positif du board fly
+  EN: I know, I know, I hit the board fly positive pole
+
+[14:55]
+  KO: That's okay do not be fine
+  FR: C'est bon, ça ne va pas
+  EN: That's okay do not be fine
+
+[14:58]
+  KO: 괜찮지 않아도 괜찮아
+  FR: C'est normal de ne pas aller bien
+  EN: It's okay to not be okay
+
+[15:01]
+  KO: 뻔뻔하게 즐겨
+  FR: Profitez-en sans vergogne
+  EN: Shamelessly enjoy it
+
+[15:04]
+  KO: Go Go Baby
+  FR: Allez, allez bébé
+  EN: Go Go Baby
+
+[15:05]
+  KO: 여자 파이 슛 and slide
+  FR: femme tarte tirer et glisser
+  EN: woman pie shoot and slide
+
+[15:08]
+  KO: Dress code wing wing wing
+  FR: Code vestimentaire aile aile aile
+  EN: Dress code wing wing wing
+
+[15:10]
+  KO: 너와 나의 믹스 안해
+  FR: Ne mélange pas toi et moi
+  EN: Don't mix you and me
+
+[15:13]
+  KO: 되지만 run run
+  FR: Mais cours, cours
+  EN: But run run
+
+[15:14]
+  KO: Go Go Baby
+  FR: Allez, allez bébé
+  EN: Go Go Baby
+
+[15:15]
+  KO: 뻔뻔하게 놀아
+  FR: Jouez sans vergogne
+  EN: Play shamelessly
+
+[15:18]
+  KO: 미친듯이 즐겨
+  FR: Profitez-en comme un fou
+  EN: Enjoy it like crazy
+
+[15:20]
+  KO: 필요 없어 run and slide
+  FR: Pas besoin, cours et glisse
+  EN: No need, run and slide
+
+
+— [15:23] ————————————————————————————————————————
+
+[15:23]
+  KO: On and on on and on
+  FR: Encore et encore, encore et encore
+  EN: On and on on and on
+
+[15:24]
+  KO: Go Go Baby
+  FR: Allez, allez bébé
+  EN: Go Go Baby
+
+[15:26]
+  KO: Ella Ella Ella Ella Ella
+  FR: Ella Ella Ella Ella Ella
+  EN: Ella Ella Ella Ella Ella
+
+[15:29]
+  KO: Don't go baby
+  FR: Ne pars pas bébé
+  EN: Don't go baby
+
+[15:31]
+  KO: Ella Ella Ella Ella Ella
+  FR: Ella Ella Ella Ella Ella
+  EN: Ella Ella Ella Ella Ella
+
+[15:34]
+  KO: Go Go Baby
+  FR: Allez, allez bébé
+  EN: Go Go Baby
+
+[15:36]
+  KO: Look up the hill
+  FR: Regarde la colline
+  EN: Look up the hill
+
+[15:37]
+  KO: Bokapokupokas
+  FR: Bokapokupokas
+  EN: Bokapokupokas
+
+[15:38]
+  KO: 난 나의 비사치
+  FR: Je suis mon non-luxe
+  EN: I am my non-luxury
+
+[15:40]
+  KO: 무시해 잔소리 음소겨
+  FR: Ignorez les lancinants et faites du bruit
+  EN: Ignore the nagging and make noise
+
+[15:41]
+  KO: Click Click Click
+  FR: Cliquez Cliquez Cliquez
+  EN: Click Click Click
+
+[15:42]
+  KO: 이렇다 저렇다 가다 보다 공료만은 없지
+  FR: Il n'y a rien de tel que d'aller ici et là.
+  EN: There is no such thing as going here and there.
+
+[15:45]
+  KO: 아는 애돌이 먼저
+  FR: L'enfant que je connais en premier
+  EN: The kid I know first
+
+[15:46]
+  KO: 영어에서 다 예술을 두지
+  FR: Tout est art en anglais
+  EN: Everything is art in English
+
+[15:48]
+  KO: That's okay do not be fine
+  FR: C'est bon, ça ne va pas
+  EN: That's okay do not be fine
+
+[15:51]
+  KO: 괜찮지 않아도 괜찮아
+  FR: C'est normal de ne pas aller bien
+  EN: It's okay to not be okay
+
+[15:53]
+  KO: 뻔뻔하게 즐겨
+  FR: Profitez-en sans vergogne
+  EN: Shamelessly enjoy it
+
+[15:55]
+  KO: Drop Drop Drop
+  FR: Laisser tomber Laisser tomber
+  EN: Drop Drop Drop
+
+[15:56]
+  KO: Go Go Baby
+  FR: Allez, allez bébé
+  EN: Go Go Baby
+
+[15:58]
+  KO: 여자 파이 슛 and slide
+  FR: femme tarte tirer et glisser
+  EN: woman pie shoot and slide
+
+[16:00]
+  KO: Dress code wing wing wing
+  FR: Code vestimentaire aile aile aile
+  EN: Dress code wing wing wing
+
+[16:03]
+  KO: 너와 나의 믹스 안해
+  FR: Ne mélange pas toi et moi
+  EN: Don't mix you and me
+
+[16:05]
+  KO: 되지만 run run
+  FR: Mais cours, cours
+  EN: But run run
+
+[16:06]
+  KO: Go Go Baby
+  FR: Allez, allez bébé
+  EN: Go Go Baby
+
+[16:08]
+  KO: 뻔뻔하게 놀아
+  FR: Jouez sans vergogne
+  EN: Play shamelessly
+
+[16:10]
+  KO: 미친듯이 즐겨
+  FR: Profitez-en comme un fou
+  EN: Enjoy it like crazy
+
+[16:12]
+  KO: 필요 없어 run and slide
+  FR: Pas besoin, cours et glisse
+  EN: No need, run and slide
+
+[16:15]
+  KO: On and on and on
+  FR: Encore et encore et encore
+  EN: On and on and on
+
+[16:16]
+  KO: Go Go Baby
+  FR: Allez, allez bébé
+  EN: Go Go Baby
+
+[16:18]
+  KO: Ella Ella Ella Ella
+  FR: Ella Ella Ella Ella
+  EN: Ella Ella Ella Ella
+
+[16:21]
+  KO: Don't go baby
+  FR: Ne pars pas bébé
+  EN: Don't go baby
+
+
+— [16:23] ————————————————————————————————————————
+
+[16:23]
+  KO: Ella Ella Ella Ella
+  FR: Ella Ella Ella Ella
+  EN: Ella Ella Ella Ella
+
+[16:26]
+  KO: Go Go Baby
+  FR: Allez, allez bébé
+  EN: Go Go Baby
+
+[16:28]
+  KO: 9 slash 6, 6, 19
+  FR: 9 barre oblique 6, 6, 19
+  EN: 9 slash 6, 6, 19
+
+[16:32]
+  KO: 9 slash 6, go go baby
+  FR: 9 slash 6, vas-y bébé
+  EN: 9 slash 6, go go baby
+
+[16:37]
+  KO: 온다 일어나서
+  FR: Viens te lever
+  EN: Come get up
+
+[16:39]
+  KO: 매주 좀 빌어졌어
+  FR: J'ai prié un peu chaque semaine
+  EN: I prayed a little every week
+
+[16:42]
+  KO: 시작해 와
+  FR: Commençons
+  EN: Let's get started
+
+[16:44]
+  KO: 다들 난리가 나
+  FR: Tout le monde devient fou
+  EN: Everyone is going crazy
+
+[16:45]
+  KO: 난리가 나
+  FR: Il y a un tumulte
+  EN: There's an uproar
+
+
+[16:48]
+  KO: Go Go Baby
+  FR: Allez, allez bébé
+  EN: Go Go Baby
+
+[16:49]
+  KO: 여자 파이 슛 and slide
+  FR: femme tarte tirer et glisser
+  EN: woman pie shoot and slide
+
+[16:51]
+  KO: Dress code wing wing wing
+  FR: Code vestimentaire aile aile aile
+  EN: Dress code wing wing wing
+
+[16:54]
+  KO: 너와 나의 믹스 안해
+  FR: Ne mélange pas toi et moi
+  EN: Don't mix you and me
+
+[16:56]
+  KO: 되지만 run run
+  FR: Mais cours, cours
+  EN: But run run
+
+[16:58]
+  KO: Go Go Baby
+  FR: Allez, allez bébé
+  EN: Go Go Baby
+
+[16:59]
+  KO: 뻔뻔하게 놀아
+  FR: Jouez sans vergogne
+  EN: Play shamelessly
+
+[17:01]
+  KO: 미친듯이 즐겨
+  FR: Profitez-en comme un fou
+  EN: Enjoy it like crazy
+
+[17:04]
+  KO: 필요 없어 run and slide
+  FR: Pas besoin, cours et glisse
+  EN: No need, run and slide
+
+[17:06]
+  KO: On and on and on
+  FR: Encore et encore et encore
+  EN: On and on and on
+
+[17:07]
+  KO: Go Go Baby
+  FR: Allez, allez bébé
+  EN: Go Go Baby
+
+[17:09]
+  KO: Ella Ella Ella Ella
+  FR: Ella Ella Ella Ella
+  EN: Ella Ella Ella Ella
+
+[17:13]
+  KO: Don't go baby
+  FR: Ne pars pas bébé
+  EN: Don't go baby
+
+[17:15]
+  KO: Ella Ella Ella Ella
+  FR: Ella Ella Ella Ella
+  EN: Ella Ella Ella Ella
+
+[17:18]
+  KO: Go Go Baby
+  FR: Allez, allez bébé
+  EN: Go Go Baby
+
+[17:20]
+  KO: Go Go Baby
+  FR: Allez, allez bébé
+  EN: Go Go Baby
+
+
+— [18:13] ————————————————————————————————————————
+
+
+[18:13]
+  KO: I'm so low
+  FR: je suis si bas
+  EN: I'm so low
+
+[18:14]
+  KO: 한숨이 가득
+  FR: plein de soupirs
+  EN: full of sighs
+
+[18:16]
+  KO: 그 공간을 채워
+  FR: remplir cet espace
+  EN: fill that space
+
+[18:18]
+  KO: 태경이 찾아오면
+  FR: Quand Taekyung vient nous rendre visite
+  EN: When Taekyung comes to visit
+
+[18:21]
+  KO: 혼자만 터질다면
+  FR: S'il explose tout seul
+  EN: If it explodes alone
+
+
+[18:27]
+  KO: Starry night
+  FR: Nuit étoilée
+  EN: Starry night
+
+[18:28]
+  KO: 별이 빛나는 밤
+  FR: nuit étoilée
+  EN: starry night
+
+[18:31]
+  KO: 네가 휘이 불어와
+  FR: tu souffles
+  EN: you are blowing
+
+[18:35]
+  KO: 너와 나
+  FR: toi et moi
+  EN: you and me
+
+[18:36]
+  KO: 남은 수많은 밤
+  FR: il reste beaucoup de nuits
+  EN: many nights left
+
+[18:38]
+  KO: 날 취하게 만들어
+  FR: me saoule
+  EN: get me drunk
+
+[18:42]
+  KO: Starry night
+  FR: Nuit étoilée
+  EN: Starry night
+
+
+[18:47]
+  KO: Ella Ella Ella Ella
+  FR: Ella Ella Ella Ella
+  EN: Ella Ella Ella Ella
+
+[18:50]
+  KO: Starry night
+  FR: Nuit étoilée
+  EN: Starry night
+
+
+[18:55]
+  KO: Ella Ella Ella Ella
+  FR: Ella Ella Ella Ella
+  EN: Ella Ella Ella Ella
+
+[18:58]
+  KO: Starry night
+  FR: Nuit étoilée
+  EN: Starry night
+
+[18:59]
+  KO: 겨울이 지나고 또다시 꽃이 피고
+  FR: Une fois l’hiver passé, les fleurs refleurissent
+  EN: After winter passes, flowers bloom again
+
+[19:03]
+  KO: 따뜻한 공기 냄새가 날 감싸
+  FR: L'odeur de l'air chaud m'entoure
+  EN: The smell of warm air surrounds me
+
+[19:07]
+  KO: 달라진 거 없는 똑같은 일상이
+  FR: Le même quotidien, rien n'a changé
+  EN: The same daily life, nothing has changed
+
+[19:10]
+  KO: 반복돼
+  FR: C'est répété
+  EN: It's repeated
+
+[19:12]
+  KO: 그래도 내일을 기다려 봐
+  FR: Attends encore demain
+  EN: Still wait for tomorrow
+
+
+— [19:14] ————————————————————————————————————————
+
+[19:14]
+  KO: 하루의 끝에서 이 자리에 나는 서
+  FR: À la fin de la journée, je reste ici
+  EN: At the end of the day, I stand here
+
+[19:18]
+  KO: 어린 어린 센터로 너를 그리고 있어
+  FR: Je t'imagine comme un jeune jeune centre
+  EN: I'm picturing you as a young young center
+
+[19:22]
+  KO: Do you want me to leave? No 난 그 자리 그대로
+  FR: Tu veux que je parte ? Non, je reste où je suis
+  EN: Do you want me to leave? No, I stay where I am
+
+[19:25]
+  KO: 까만 밤 하늘을 가려
+  FR: Couvre le ciel nocturne noir
+  EN: Cover the black night sky
+
+[19:27]
+  KO: 잠시 보이지 않는 거야
+  FR: Je ne pourrai pas te voir pendant un moment
+  EN: I won't be able to see you for a while
+
+[19:29]
+  KO: 새벽이 찾아오면
+  FR: Quand l'aube arrive
+  EN: When dawn comes
+
+[19:33]
+  KO: 혼자만 터질 때면
+  FR: Quand j'explose seul
+  EN: When I explode alone
+
+[19:37]
+  KO: Starry night
+  FR: Nuit étoilée
+  EN: Starry night
+
+[19:40]
+  KO: 별이 빛나는 밤
+  FR: nuit étoilée
+  EN: starry night
+
+[19:43]
+  KO: 네가 휘이 불어와
+  FR: tu souffles
+  EN: you are blowing
+
+[19:47]
+  KO: 너와 나
+  FR: toi et moi
+  EN: you and me
+
+[19:48]
+  KO: 남은 수많은 밤
+  FR: il reste beaucoup de nuits
+  EN: many nights left
+
+[19:51]
+  KO: 날 취하게 만들어
+  FR: me saoule
+  EN: get me drunk
+
+[19:54]
+  KO: 별이 빛나는 밤
+  FR: nuit étoilée
+  EN: starry night
+
+
+[20:02]
+  KO: 켜졌어요 켜졌어요 네 켜졌어요 지금
+  FR: C'est allumé, c'est allumé, oui, c'est allumé maintenant
+  EN: It's on, it's on, yes, it's on now
+
+[20:04]
+  KO: 자 무무들 보고 있나요 반갑습니다
+  FR: Hé Moomoo, tu regardes ? Ravi de vous rencontrer.
+  EN: Hey Moomoo, are you watching? Nice to meet you.
+
+[20:06]
+  KO: 저기 보이나요?
+  FR: Tu le vois là-bas ?
+  EN: Can you see it over there?
+
+[20:08]
+  KO: 인사를 다시 한번 할까요? 둘 셋
+  FR: Voudriez-vous dire bonjour à nouveau ? deux trois
+  EN: Would you like to say hello again? two three
+
+[20:10]
+  KO: I say mama mama moo
+  FR: Je dis maman maman meuh
+  EN: I say mama mama moo
+
+[20:12]
+  KO: 안녕하세요 마마무입니다
+  FR: Bonjour, c'est Mamamoo
+  EN: Hello, this is Mamamoo
+
+
+— [20:16] ————————————————————————————————————————
+
+
+[20:16]
+  KO: 반갑습니다
+  FR: Ravi de vous rencontrer
+  EN: Nice to meet you
+
+[20:18]
+  KO: 여러분 저희가 12주년 현재 12일 전인데요
+  FR: Tout le monde, cela fait 12 jours depuis notre 12ème anniversaire.
+  EN: Everyone, it’s been 12 days since our 12th anniversary.
 
 [20:23]
   KO: 그래서 저희끼리 일단 자축 파티를 잠깐 했어요
@@ -86,13 +2293,13 @@ Notes: There is a long intro section where Mamamoo songs are being playing. Real
 
 [20:28]
   KO: 포플라워 케이크예요
-  FR: C'est un gâteau Four Season Flower.
-  EN: It's a Four Season Flower cake.
+  FR: C'est un gâteau Four Flower.
+  EN: It's a Four Flower cake.
 
 [20:29]
   KO: 포플라워
-  FR: Four Season Flower.
-  EN: Four Season Flower.
+  FR: Four Flower.
+  EN: Four Flower.
 
 [20:30]
   KO: 감사합니다 감사합니다
@@ -131,8 +2338,8 @@ Notes: There is a long intro section where Mamamoo songs are being playing. Real
 
 [20:45]
   KO: 또 스페셜 싱글 포플라워
-  FR: ...notre single spécial, Four Season Flower.
-  EN: ...our special single, Four Season Flower.
+  FR: ...notre single spécial, Four Flower.
+  EN: ...our special single, Four Flower.
 
 [20:47]
   KO: 홍보를 안 할 수가 없어요
