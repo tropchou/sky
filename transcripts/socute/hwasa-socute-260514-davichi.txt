@@ -344,147 +344,147 @@ Uploaded: 2026-05-14
 
 [01:57]
   KO: 축하하다가 이게
-  FR: Waouh !
-  EN: Wow!
+  FR: ...
+  EN: While celebrating, this
 
 [01:59]
   KO: 너무 예쁘다
-  FR: Ça vous va si bien en ce moment.
-  EN: It suits you so well right now.
+  FR: ...
+  EN: It's so pretty.
 
 
 — [02:00] ────────────────────────────────────────
 
 [02:00]
   KO: 개포지
-  FR: Je vais vous le mettre dans un vase.
-  EN: I'll put this in a vase for you.
+  FR: ...
+  EN: Awesome!
 
 [02:01]
   KO: 우와
-  FR: Puisque nous nous rencontrions aujourd'hui, j'ai senti que je devais faire quelques recherches.
-  EN: Since we were meeting today, I felt like I needed to do some studying.
+  FR: Waoh!
+  EN: Wow!
 
 [02:03]
   KO: 너무 잘 어울려 지금
-  FR: Alors j'ai fait défiler votre Instagram.
-  EN: So I scrolled through your Instagram.
+  FR: Ça te va tellement bien en ce moment.
+  EN: It suits you so well right now.
 
 [02:04]
   KO: 저 이거 화병에 꽂아줄게요
-  FR: J'ai fait une petite « enquête » sur vos anciennes publications.
-  EN: I did some "back-investigation" on your old posts.
+  FR: Je vais mettre ça dans un vase.
+  EN: I'll put this in a vase for you.
 
 [02:06]
   KO: 오늘 만나니까 좀 공부를 해야 될 거 같은 거야
-  FR: Mais en regardant,
-  EN: But as I was looking,
+  FR: En se réunissant aujourd'hui, j'ai l'impression que je dois étudier un peu plus.
+  EN: Since I was meeting you today, I felt like I should do some research.
 
 [02:09]
   KO: 그래갖고 인스타를 이렇게 쭉
-  FR: vous savez, cette robe Marc Gong que vous avez portée ?
-  EN: you know that Marc Gong dress you wore?
+  FR: Alors j'ai continué à naviguer sur Instagram comme ça.
+  EN: So, I scrolled through Instagram like this
 
 [02:10]
   KO: 옛날 걸 내가 뒷주사를 좀 했어
-  FR: Oui.
-  EN: Yes.
+  FR: J'ai donné quelques coups de retour du vieux
+  EN: I did some 'back-investigating' of her old posts.
 
 [02:12]
   KO: 근데 보는데
-  FR: Elle était si jolie.
-  EN: That was so pretty.
+  FR: Mais en regardant ça,
+  EN: But as I was looking
 
 [02:13]
   KO: 그 마크공 드레스 입은 거 있잖아요
-  FR: C'est cette couleur.
-  EN: It's that color.
+  FR: Tu sais cette robe Markkong qu'il portait.
+  EN: You know that Marc Gong dress you wore?
 
 [02:16]
   KO: 네
-  FR: Waouh, c'est tellement émouvant !
-  EN: Wow, that's so touching!
+  FR: Oui.
+  EN: Yes.
 
 [02:16]
   KO: 그게 너무 예뻐요
-  FR: Cette image rémanente est restée avec moi.
-  EN: That afterimage remained with me.
+  FR: C'est tellement beau
+  EN: That was so pretty
 
 [02:18]
   KO: 그 색깔이에요
-  FR: Oh, qu'est-ce que c'est ?
-  EN: Oh, what is this?
+  FR: C'est cette couleur.
+  EN: It's that color.
 
 [02:20]
   KO: 우와 너무 감동이다
-  FR: Puis-je prendre une photo ?
-  EN: Can I take a picture?
+  FR: Waouh, je suis tellement ému
+  EN: Wow, it's so touching!
 
 [02:22]
   KO: 그 잔상이 남아서
-  FR: N'est-ce pas joli ?
-  EN: Isn't it pretty?
+  FR: Cette image rémanente subsiste
+  EN: Because that afterimage remains
 
 [02:24]
   KO: 아 뭐야
-  FR: Oh oh oh.
-  EN: Oh oh oh.
+  FR: Ah, qu'est-ce que c'est?
+  EN: Oh, what is it?
 
 [02:25]
   KO: 사진 찍어줘도 돼요?
-  FR: Aujourd'hui, je vais vraiment vous le mettre joliment dans un vase.
-  EN: Today, I'll really put this beautifully in a vase for you.
+  FR: Je peux te prendre en photo?
+  EN: Can I take a picture?
 
 [02:29]
   KO: 예쁘지 않아요?
-  FR: Ah, quel soulagement.
-  EN: Ah, that's a relief.
+  FR: N'est-ce pas joli?
+  EN: Isn't it pretty?
 
 [02:30]
   KO: 오오오
-  FR: Tada !
-  EN: Ta-da!
+  FR: Oh oh oh
+  EN: Oh oh oh
 
 [02:31]
   KO: 오늘 이거 진짜 화룡이에 예쁘게 꽂아줄게요
-  FR: Ma styliste unnie,
-  EN: My stylist unnie,
+  FR: Aujourd'hui, je vais vraiment mettre ça de façon magnifique pour le Dragon de Feu
+  EN: Today, I'll really put this beautifully on Hwaryong.
 
 [02:33]
   KO: 아 다행이다
-  FR: disant « Hyejin, j'ai un cadeau pour toi », m'a fait ça.
-  EN: saying "Hyejin, I have a gift for you," made this for me.
+  FR: Ah, merci mon Dieu
+  EN: Oh, that's a relief.
 
 [02:34]
   KO: 짜잔
-  FR: Tiens, ça.
-  EN: Here, this.
+  FR: Ta-da!
+  EN: Ta-da!
 
 
 [02:37]
   KO: 스타일리스트 언니가
-  FR: En voyant le nom de l'agence...
-  EN: Seeing the agency name...
+  FR: La sœur styliste..
+  EN: The stylist unnie..
 
 [02:39]
   KO: 혜진아 선물 있어 하면서 이걸 만들어 온 거예요
-  FR: Oui.
-  EN: Yes.
+  FR: Hyejin, j'ai fait ça parce que j'avais un cadeau
+  EN: Saying, "Hyejin, I have a gift," she made this and brought it.
 
 [02:42]
   KO: 자 이거
-  FR: Unnie a astucieusement fait ça.
-  EN: Unnie cleverly made this.
+  FR: Maintenant, ceci
+  EN: Here, this.
 
 [02:44]
   KO: 소속사 이름 봐가지고
-  FR: N'est-ce pas ? Ce genre de codes...
-  EN: Right? These kinds of codes...
+  FR: Regarde le nom de l'agence,...
+  EN: (She) saw the agency's name, so...
 
 [02:44]
   KO: 네
-  FR: Ils rendent cette journée, qui n'est rien de spécial,
-  EN: They make that day, which is nothing special,
+  FR: Oui
+  EN: Yes
 
 [02:45]
   KO: 언니가 센스 있게 이거를
@@ -503,18 +503,18 @@ Uploaded: 2026-05-14
 
 [02:52]
   KO: 좀 특별하게 해주는 느낌
-  FR: [missing]
-  EN: [missing]
+  FR: C'est un peu spécial
+  EN: a feeling that makes it a bit special.
 
 [02:54]
   KO: 그래서 오늘 맞추자 그런 거구나
-  FR: [missing]
-  EN: [missing]
+  FR: C'est pourquoi nous avons décidé de l'égaler aujourd'hui.
+  EN: So that's why we decided to match today.
 
 [02:56]
   KO: 네
-  FR: [missing]
-  EN: [missing]
+  FR: Oui
+  EN: Yes
 
 [02:56]
   KO: 아 지금 가는 식당이
@@ -531,13 +531,13 @@ Uploaded: 2026-05-14
 
 [03:01]
   KO: 거기가 막창집이 맛있다 그래서 갔었다가
-  FR: et j'y suis allée parce qu'on disait que le makchang y était délicieux.
-  EN: and I went there because they said the makchang was delicious.
+  FR: J'y suis allé parce que le restaurant Makchang était délicieux.
+  EN: that place, a makchang restaurant, was delicious, so after going there.
 
 [03:03]
   KO: 회사원들이 막 이렇게 다
-  FR: Les employés de bureau, tous comme ça,
-  EN: The office workers, all like this,
+  FR: Les employés de bureau disent toujours ce genre de choses.
+  EN: office workers, like, all of them
 
 [03:05]
   KO: 회사원 복장으로 일과 끝내고
