@@ -194,153 +194,153 @@ Uploaded: 2026-05-14
 
 [01:08]
   KO: 비즈니스 스케쥴 이렇게 좀 맞춰보면 어떠냐고 그래서
-  FR: Oh, regardez-moi ça !
-  EN: Oh, look at you!
+  FR: ...
+  EN: Like, 'How about we match our business schedules a bit?' So
 
 [01:11]
   KO: 무슨 이유인지 모르겠으나 어쨌든
-  FR: Seonbaenim, bonjour !
-  EN: Seonbaenim, hello!
+  FR: ...
+  EN: I don't know what the reason is, but anyway
 
 [01:13]
   KO: 입고 왔습니다
-  FR: Attendez, ce n'était pas censé être un rendez-vous d'affaires tout à l'heure ?
-  EN: Wait, wasn't it supposed to be a business schedule earlier?
+  FR: ...
+  EN: I came wearing it.
 
 [01:14]
   KO: 성태정이다
-  FR: C'est trop sexy !
-  EN: This is too sexy!
+  FR: ...
+  EN: It's Sung Tae-jeong.
 
 [01:17]
   KO: 선배님 안녕하세요
-  FR: Ah, Seonbaenim !
-  EN: Ah, Seonbaenim!
+  FR: ...
+  EN: Senior, hello.
 
 [01:28]
   KO: 아니 아까 비즈니스 스케쥴 아니었어요?
-  FR: Je vous ai apporté du vin.
-  EN: I brought some wine for you.
+  FR: ...
+  EN: Wait, wasn't it a business schedule earlier?
 
 [01:29]
   KO: 이거 너무 섹시해
-  FR: Vous aimez le vin ?
-  EN: Do you like wine?
+  FR: ...
+  EN: This is too sexy.
 
 [01:31]
   KO: 아 선배님
-  FR: J'aime ça.
-  EN: I like it.
+  FR: ...
+  EN: Ah, Senior.
 
 [01:32]
   KO: 이거 와인 좀 갖고 왔어요
-  FR: J'adore ça !
-  EN: I love it!
+  FR: ...
+  EN: I brought some wine.
 
 [01:34]
   KO: 와인 좋아해요?
-  FR: Tellement, tellement !
-  EN: So, so much!
+  FR: ...
+  EN: Do you like wine?
 
 [01:35]
   KO: 좋아요
-  FR: D'accord.
-  EN: Okay.
+  FR: ...
+  EN: I like it.
 
 [01:36]
   KO: 너무 좋아요
-  FR: Elle ressemble à une célébrité.
-  EN: She looks like a celebrity.
+  FR: ...
+  EN: I really like it!
 
 [01:37]
   KO: 너무너무
-  FR: Qu'avez-vous dit ?
-  EN: What did you say?
+  FR: ...
+  EN: So, so (much)
 
 [01:38]
   KO: 오케이
-  FR: Pourquoi ressemblez-vous tant à une célébrité ?
-  EN: Why do you look so much like a celebrity?
+  FR: ...
+  EN: Okay.
 
 [01:40]
   KO: 연예인 같다
-  FR: Oh oh oh.
-  EN: Oh oh oh.
+  FR: ...
+  EN: You look like a celebrity.
 
 [01:42]
   KO: 무슨 소리 하셨는데
-  FR: Non, pas du tout.
-  EN: No, I don't.
+  FR: ...
+  EN: What did you say?
 
 [01:43]
   KO: 왜 이렇게 연예인 같아?
-  FR: Attendez une minute.
-  EN: Wait a minute.
+  FR: ...
+  EN: Why do you look so much like a celebrity?
 
 [01:44]
   KO: 오오오
-  FR: Non, je vais vous donner quelque chose aussi.
-  EN: No, I'll give you something too.
+  FR: ...
+  EN: Oh oh oh
 
 [01:46]
   KO: 아니에요
-  FR: Hé, attendez.
-  EN: Hey, wait.
+  FR: ...
+  EN: No, I'm not. / It's not.
 
 [01:46]
   KO: 잠깐만
-  FR: Pourquoi ?
-  EN: Why?
+  FR: ...
+  EN: Just a moment.
 
 [01:47]
   KO: 아니 나도 좀 줄게
-  FR: Qu'est-ce que c'est ?
-  EN: What is it?
+  FR: ...
+  EN: Oh, I'll give you some too.
 
 [01:48]
   KO: 저기 잠깐
-  FR: Non, c'est une fleur.
-  EN: No, it's a flower.
+  FR: ...
+  EN: Hey, wait a moment.
 
 [01:48]
   KO: 왜요?
-  FR: Ah, Seonbaenim !
-  EN: Ah, Seonbaenim!
+  FR: Pourquoi?
+  EN: Why?
 
 [01:50]
   KO: 뭐예요?
-  FR: Connaissez-vous une rose appelée Mont Saint-Michel, par hasard ?
-  EN: Do you know a rose called Mont Saint-Michel, by any chance?
+  FR: ...
+  EN: What is it?
 
 [01:50]
   KO: 아니 이거 꽃인데
-  FR: Je ne sais pas.
-  EN: I don't know.
+  FR: ...
+  EN: Oh, it's a flower, but
 
 [01:52]
   KO: 아 선배님
-  FR: Vous ne savez pas ?
-  EN: You don't know?
+  FR: ...
+  EN: Ah, senior.
 
 [01:53]
   KO: 몽생미셸이란 장미 알아 혹시?
-  FR: Quel genre de fleur...
-  EN: What kind of flower...
+  FR: ...
+  EN: Do you happen to know a rose called Mont Saint-Michel?
 
 [01:55]
   KO: 몰라요
-  FR: Pour célébrer, c'est...
-  EN: To celebrate, this is...
+  FR: ...
+  EN: I don't know.
 
 [01:56]
   KO: 몰라?
-  FR: C'est si joli !
-  EN: It's so pretty!
+  FR: ...
+  EN: Don't you know?
 
 [01:56]
   KO: 무슨 꽃을
-  FR: C'est super joli.
-  EN: It's super pretty.
+  FR: ...
+  EN: What kind of flower
 
 [01:57]
   KO: 축하하다가 이게
