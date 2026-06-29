@@ -56,141 +56,141 @@ Uploaded: 2026-05-14
 
 [00:17]
   KO: 그때 화사씨 부상이 있었던 걸로 아는데
-  FR: mais malgré sa blessure,
-  EN: but despite her injury,
+  FR: ...
+  EN: At that time, I understand Hwasa had an injury.
 
 [00:19]
   KO: 진짜 부상의 부품
-  FR: elle a fait une performance incroyable sur scène.
-  EN: she performed so incredibly well on stage.
+  FR: ...
+  EN: Truly, the very essence of the injury...
 
 [00:21]
   KO: 너무 멋있게 무대를 해주고 가가지고
-  FR: C'était très émouvant.
-  EN: It was so touching.
+  FR: ...
+  EN: She performed so wonderfully on stage and then left.
 
 [00:25]
   KO: 감동이였어요
-  FR: Je ne pouvais pas dire son nom à ce moment-là.
-  EN: I couldn't say her name then.
+  FR: ...
+  EN: It was touching.
 
 [00:26]
   KO: 이름 말할 수 없었어요
-  FR: Mais j'ai dit que je lui offrirais quelque chose de délicieux.
-  EN: But I said I'd treat her to something delicious.
+  FR: ...
+  EN: I couldn't say her name.
 
 [00:27]
   KO: 근데 맛있는 거 한번 살게요
-  FR: « Retrouvons-nous absolument un jour. »
-  EN: "Let's definitely meet up sometime."
+  FR: ...
+  EN: But I'll buy you something delicious sometime.
 
 [00:28]
   KO: 언제 한번 꼭 봬요 이러고
-  FR: Un peu de temps s'est écoulé depuis,
-  EN: Some time has passed since then,
+  FR: ...
+  EN: I said, 'Let's definitely meet sometime.'
 
 [00:30]
   KO: 시간이 좀 흐르긴 흘렀는데
-  FR: mais nous nous rencontrons enfin aujourd'hui.
-  EN: but we're finally meeting today.
+  FR: ...
+  EN: Although quite some time has passed
 
 [00:31]
   KO: 오늘에서 이렇게 만나게 됐고요
-  FR: La nouvelle chanson de Hwasa est sortie récemment, n'est-ce pas ?
-  EN: Hwasa's new song just came out recently, didn't it?
+  FR: ...
+  EN: And so today, we were able to meet like this.
 
 [00:33]
   KO: 얼마 전에 화사씨 노래가 나왔잖아요
-  FR: Alors j'ai pensé que ce serait bien de manger et de parler de sa chanson.
-  EN: So I thought it would be nice to eat and talk about her song.
+  FR: ...
+  EN: Hwasa's song came out recently, you know.
 
 [00:35]
   KO: 그러면 밥도 먹고
-  FR: Je suis en route pour la chercher maintenant.
-  EN: I'm on my way to pick her up now.
+  FR: ...
+  EN: So then, we'll eat a meal, and
 
 [00:37]
   KO: 노래 얘기도 좀 하면 좋을 거 같아서
-  FR: De ma maison à celle de Hwasa,
-  EN: From my house to Hwasa's house,
+  FR: ...
+  EN: I thought it would be good to talk a bit about the song too, so...
 
 [00:39]
   KO: 지금 데리러 가고 있습니다
-  FR: c'est environ 10 minutes de route.
-  EN: it's about a 10-minute drive.
+  FR: ...
+  EN: I'm going to pick her up now.
 
 [00:40]
   KO: 저희 집에서 화사씨 집이
-  FR: Je me demandais quoi manger aujourd'hui,
-  EN: I was wondering what to eat today,
+  FR: ...
+  EN: From my house to Hwasa's house
 
 [00:42]
   KO: 한 10번? 거리더라고요
-  FR: et quand on pense aux mukbangs de Hwasa,
-  EN: and when you think of Hwasa's mukbangs,
+  FR: ...
+  EN: It's about 10 minutes away, I noticed.
 
 [00:44]
   KO: 아 오늘 뭘 먹을까 고민을 하다가
-  FR: son mukbang de gopchang est très célèbre, n'est-ce pas ?
-  EN: her gopchang mukbang is really famous, isn't it?
+  FR: ...
+  EN: Ah, while I was contemplating what to eat today
 
 [00:46]
   KO: 화사씨 먹방하면
-  FR: Alors j'ai pensé, à part le gopchang, quel autre « chang » y a-t-il ?
-  EN: So I thought, besides gopchang, what other "chang" is there?
+  FR: ...
+  EN: If it's Hwasa's mukbang
 
 [00:47]
   KO: 곱창 먹방이 굉장히 유명하잖아요
-  FR: Il y a le makchang, n'est-ce pas ?
-  EN: There's makchang, right?
+  FR: ...
+  EN: Ther gopchang mukbang is very famous, you know.
 
 [00:50]
   KO: 창 말고 다른 창이 없을까 생각하다가
-  FR: Alors je lui ai demandé ce qu'elle pensait du makchang,
-  EN: So I asked her what she thought of makchang,
+  FR: ...
+  EN: While I was thinking, 'Is there another 'chang' besides gopchang?'
 
 [00:54]
   KO: 막창이 있잖아요
-  FR: et elle a dit qu'elle connaissait un restaurant de makchang qu'elle aimait.
-  EN: and she said she knows a makchang restaurant she likes.
+  FR: ...
+  EN: There's makchang, you know.
 
 [00:55]
   KO: 그래서 막창 어떠냐고 물어봤더니
-  FR: Alors aujourd'hui, nous allons là-bas.
-  EN: So today, we're going there.
+  FR: ...
+  EN: So, when I asked her, 'How about makchang?'
 
 [00:58]
   KO: 좋아하는 막창집이 있다고 해서
-  FR: Et Hwasa m'a soudainement contactée hier.
-  EN: And Hwasa suddenly contacted me yesterday.
+  FR: ...
+  EN: She said she has a favorite makchang restaurant, so
 
 
 — [01:00] ────────────────────────────────────────
 
 [01:00]
   KO: 오늘 거기
-  FR: Elle a dit : « Seonbaenim, pour notre OOTD d'aujourd'hui,
-  EN: She said, "Seonbaenim, for our OOTD today,
+  FR: ...
+  EN: Today, there
 
 [01:00]
   KO: 갈렸고요
-  FR: et si on adoptait un style 'employé de bureau' ?
-  EN: how about we match a 'corporate worker' vibe?
+  FR: ...
+  EN: I was overworked, and
 
 [01:01]
   KO: 그리고 화사씨가 어제 갑자기 연락이 왔어요
-  FR: Comme un rendez-vous d'affaires. »
-  EN: Like a business schedule."
+  FR: ...
+  EN: And Hwasa-ssi suddenly contacted me yesterday.
 
 [01:05]
   KO: 선배님 오늘 우리 OOTD를
-  FR: Je ne sais pas pourquoi, mais de toute façon,
-  EN: I don't know why, but anyway,
+  FR: ...
+  EN: Seonbaenim, today our OOTD
 
 [01:07]
   KO: 직장인 느낌?
-  FR: je le porte.
-  EN: I'm wearing it.
+  FR: ...
+  EN: An office worker vibe?
 
 [01:08]
   KO: 비즈니스 스케쥴 이렇게 좀 맞춰보면 어떠냐고 그래서
