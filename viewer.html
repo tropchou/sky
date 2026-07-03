@@ -799,7 +799,7 @@ let audioReady = false;
     let currentSec   = 0;
 
     for (const line of lines) {
-      const m = line.match(/^— \[(\d{1,2}:\d{2}(?::\d{2})?)\] [—─-]+$/);
+      const m = line.match(/^[—–\-─]\s*\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*[—–\-─]+\s*$/);
       if (m) {
         if (currentLines.length > 0 || blocks.length === 0) {
           blocks.push({
@@ -937,7 +937,7 @@ let audioReady = false;
         while (j < lines.length) {
           const nextLine = lines[j];
           if (nextLine.match(/^\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*$/) ||
-              nextLine.match(/^— \[/)) {
+              nextLine.match(/^[—–\-─]\s*\[/) {
             break;
           }
           rawLines.push(nextLine);
