@@ -598,6 +598,28 @@
   cursor: pointer;
 }
 
+
+/* ── AI Summary (storybible) ─────────────── */
+.storybible { max-width: 100%; }
+.storybible .sb-para {
+  font-family: 'Source Serif 4', serif;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #1a1a1a;
+  margin-bottom: 16px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+.storybible .sb-heading {
+  font-family: 'Source Serif 4', serif;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin: 26px 0 10px;
+}
+.storybible .sb-h1 { font-size: 1.5rem; }
+.storybible .sb-h2 { font-size: 1.25rem; }
+.storybible .sb-h3 { font-size: 1.05rem; color: #555; }
+
     
   </style>
 </head>
@@ -662,6 +684,7 @@ let audioReady = false;
 
 (function checkAudio() {
   if (!file) return;
+  if (/-storybible\.txt$/i.test(file)) return;
   const candidate = R2_BASE + '/' + file
     .replace('transcripts/', 'audio/')
     .replace('.txt', '.mp3')
@@ -699,37 +722,43 @@ let audioReady = false;
 
   const segments    = file.split('/');
   const displayName = segments[segments.length - 1];
-  nameEl.textContent = displayName;
-  document.title     = `${displayName} — Hwasa Transcripts`;
+  const isStorybible = /-storybible\.txt$/i.test(file);
+  nameEl.textContent = isStorybible ? 'AI Summary' : displayName;
+  document.title    = (isStorybible ? 'AI Summary' : displayName) + ' — Hwasa Transcripts';
 
   /* ── Derive grammar file path from transcript path ── */
   const grammarFile = file.replace(/\.txt$/, '-grammar.txt');
 
   /* ── Fetch transcript, then optionally grammar ────── */
-  fetch(file)
-    .then(r => {
-      if (!r.ok) throw new Error('Not found');
-      return r.text();
-    })
-    .then(text => {
-      return fetch(grammarFile)
-        .then(r => r.ok ? r.text() : null)
-        .catch(() => null)
-        .then(grammarText => {
-          contentWrap.style.display = 'block';
+fetch(file)
+  .then(r => {
+    if (!r.ok) throw new Error('Not found');
+    return r.text();
+  })
+  .then(text => {
+    if (isStorybible) {
+      contentWrap.style.display = 'block';
+      renderStorybible(text);
+      return;
+    }
+    return fetch(grammarFile)
+      .then(r => r.ok ? r.text() : null)
+      .catch(() => null)
+      .then(grammarText => {
+        contentWrap.style.display = 'block';
+        const grammarMap = grammarText ? parseGrammarFile(grammarText) : new Map();
+        const blocks = parseBlocks(text);
+        renderBlocks(blocks, grammarMap);
+        initNavPill(blocks);
+        initAudioPlayer();
+      });
+  })
+  .catch(() => {
+    errorWrap.style.display = 'block';
+  });
 
-          const grammarMap = grammarText ? parseGrammarFile(grammarText) : new Map();
 
-          const blocks = parseBlocks(text);
-          renderBlocks(blocks, grammarMap);
-          initNavPill(blocks);
-          initAudioPlayer();
-        });
-    })
-    .catch(() => {
-      errorWrap.style.display = 'block';
-    });
-
+  
   /* ══════════════════════════════════════════════════════
      GRAMMAR FILE PARSER  (UPDATED for new format)
      ══════════════════════════════════════════════════════ */
@@ -1095,6 +1124,38 @@ let audioReady = false;
     div.textContent = str;
     return div.innerHTML;
   }
+
+  /* ── AI Summary (storybible) renderer ──── */
+function renderStorybible(text) {
+  const wrap = document.createElement('div');
+  wrap.className = 'storybible';
+  const lines = text.split('\n');
+  let para = [];
+  const flush = () => {
+    if (!para.length) return;
+    const p = document.createElement('p');
+    p.className = 'sb-para';
+    p.textContent = para.join('\n');
+    wrap.appendChild(p);
+    para = [];
+  };
+  for (const line of lines) {
+    const h = line.match(/^(#{1,3})\s+(.*)/);   // markdown-style headings
+    if (h) {
+      flush();
+      const el = document.createElement('div');
+      el.className = 'sb-heading sb-h' + h[1].length;
+      el.textContent = h[2].trim();
+      wrap.appendChild(el);
+    } else if (line.trim() === '') {
+      flush();
+    } else {
+      para.push(line);
+    }
+  }
+  flush();
+  container.appendChild(wrap);
+}
 
   /* ══════════════════════════════════════════════════════
      NAVIGATION PILL (unchanged logic)
