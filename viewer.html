@@ -620,6 +620,27 @@
 .storybible .sb-h2 { font-size: 1.25rem; }
 .storybible .sb-h3 { font-size: 1.05rem; color: #555; }
 
+/* ── Quiz ────────────────────────────────── */
+.quiz { max-width: 100%; }
+.quiz .quiz-line {
+  font-family: 'Source Serif 4', serif;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #1a1a1a;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+.quiz .quiz-question {
+  font-weight: 700;
+  margin-top: 8px;
+}
+.quiz .quiz-question:first-child {
+  margin-top: 0;
+}
+.quiz .quiz-spacer {
+  height: 12px;
+}
+
     
   </style>
 </head>
@@ -685,6 +706,7 @@ let audioReady = false;
 (function checkAudio() {
   if (!file) return;
   if (/-storybible\.txt$/i.test(file)) return;
+  if (/-quiz\d*\.txt$/i.test(file)) return;
   const candidate = R2_BASE + '/' + file
     .replace('transcripts/', 'audio/')
     .replace('.txt', '.mp3')
@@ -723,6 +745,7 @@ let audioReady = false;
   const segments    = file.split('/');
   const displayName = segments[segments.length - 1];
   const isStorybible = /-storybible\.txt$/i.test(file);
+  const isQuiz       = /-quiz\d*\.txt$/i.test(file);
   nameEl.textContent = isStorybible ? 'AI Summary' : displayName;
   document.title    = (isStorybible ? 'AI Summary' : displayName) + ' — Hwasa Transcripts';
 
@@ -739,6 +762,11 @@ fetch(file)
     if (isStorybible) {
       contentWrap.style.display = 'block';
       renderStorybible(text);
+      return;
+    }
+    if (isQuiz) {
+      contentWrap.style.display = 'block';
+      renderQuiz(text);
       return;
     }
     return fetch(grammarFile)
@@ -1154,6 +1182,27 @@ function renderStorybible(text) {
     }
   }
   flush();
+  container.appendChild(wrap);
+}
+
+  /* ── Quiz renderer ─────────────────────── */
+function renderQuiz(text) {
+  const wrap = document.createElement('div');
+  wrap.className = 'quiz';
+  const lines = text.split('\n');
+  for (const line of lines) {
+    const isQuestion = /^\s*Q\d+[.)]/.test(line);   // "Q1." or "Q1)"
+    if (line.trim() === '') {
+      const spacer = document.createElement('div');
+      spacer.className = 'quiz-spacer';
+      wrap.appendChild(spacer);
+      continue;
+    }
+    const p = document.createElement('div');
+    p.className = isQuestion ? 'quiz-line quiz-question' : 'quiz-line';
+    p.textContent = line;
+    wrap.appendChild(p);
+  }
   container.appendChild(wrap);
 }
 
