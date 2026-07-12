@@ -169,6 +169,7 @@
     .entry-card .card-links a.link-vocab      { border-color: #b0b0b0; }
     .entry-card .card-links a.link-quiz       { border-color: #b0b0b0; }
     .entry-card .card-links a.link-grammar    { border-color: #b0b0b0; }
+    .entry-card .card-links a.link-storybible { border-color: #b0b0b0; }
 
     /* ── Hidden entries ───────────────────────────── */
     .entry-card.hidden  { display: none; }
@@ -371,8 +372,10 @@
 
         const transcriptFile = `${BASE_TRANSCRIPT}/${era}/${s}.txt`;
         const grammarFile    = `${BASE_TRANSCRIPT}/${era}/${s}-grammar.txt`;
+        const storybibleFile = `${BASE_TRANSCRIPT}/${era}/${s}-storybible.txt`;
         const hasTranscript  = await fileExists(transcriptFile);
         const hasGrammar     = await fileExists(grammarFile);
+        const hasStorybible  = await fileExists(storybibleFile);
         const vocabs         = await discoverFiles(era, date, desc, 'vocab');
         const quizzes        = await discoverFiles(era, date, desc, 'quiz');
         const imgSrc         = await findImage(era, date, desc);
@@ -431,6 +434,13 @@
           a.href        = `viewer.html?file=${encodeURIComponent(transcriptFile)}&grammar=1`;
           a.textContent = 'Grammar';
           a.className   = 'link-grammar';
+          links.appendChild(a);
+        }
+        if (hasStorybible) {
+          const a = document.createElement('a');
+          a.href = `viewer.html?file=${encodeURIComponent(storybibleFile)}`;
+          a.textContent = 'AI Summary';
+          a.className = 'link-storybible';
           links.appendChild(a);
         }
         vocabs.forEach(v => {
