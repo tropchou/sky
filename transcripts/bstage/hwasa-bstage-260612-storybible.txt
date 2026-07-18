@@ -1,0 +1,103 @@
+HWASA BSTAGE 260612 - STORY BIBLE (AI SUMMARY)
+Source: https://www.youtube.com/watch?v=vaGX6yNznaY
+Video: [마마무 화사] 260612
+       [Mamamoo Hwasa] 260612
+Channel: @나의사계절마마무
+Uploaded: 2026-06-12
+Model: gemini-2.5-flash
+============================================================
+
+This document provides a translation reference for the Korean transcript, covering characters, setting, key events, terminology, and translation notes for English and French localization.
+
+---
+
+## 1. CHARACTERS / SPEAKERS
+
+**Main Speaker:**
+*   **Hwasa (화사) / Ahn Hyejin (안혜진)**
+    *   **Romanization:** Hwasa / Ahn Hyejin
+    *   **Inferred Gender, Age, Role, Relationships:** Female, likely in her late 20s to early 30s. A K-pop idol, member of the group MAMAMOO. She is the youngest of three sisters.
+    *   **Pronouns (EN/FR):** She/her (EN), Elle (FR).
+
+**Audience (Fans):**
+*   **멍청이들 (Meongcheong-i-deul) / Moomoos**
+    *   **Romanization:** Meongcheong-i-deul (lit. "idiots" or "fools")
+    *   **Inferred Gender, Age, Role, Relationships:** Fans of Hwasa/MAMAMOO. They interact via live chat, asking questions and making comments. Hwasa uses this term affectionately.
+    *   **Pronouns (EN/FR):** They/them (EN), Iels/Elles (FR) (plural).
+
+**Other Characters Mentioned:**
+*   **뱀뱀 (BamBam)**
+    *   **Romanization:** BamBam
+    *   **Inferred Gender, Age, Role, Relationships:** Male, K-pop idol (GOT7), friend of Hwasa.
+    *   **Pronouns (EN/FR):** He/him (EN), Il (FR).
+*   **보나 언니 (Bona Unnie)**
+    *   **Romanization:** Bona Unnie
+    *   **Inferred Gender, Age, Role, Relationships:** Female, Hwasa's stylist. "Unnie" is an honorific used by a female for an older female.
+    *   **Pronouns (EN/FR):** She/her (EN), Elle (FR).
+*   **용선 언니 (Yongsun Unnie)**
+    *   **Romanization:** Yongsun Unnie
+    *   **Inferred Gender, Age, Role, Relationships:** Female, Hwasa's fellow MAMAMOO member (Solar). "Unnie" is an honorific used by a female for an older female.
+    *   **Pronouns (EN/FR):** She/her (EN), Elle (FR).
+*   **Hwasa's Father (아빠 / Appa)**
+    *   **Romanization:** Appa
+    *   **Inferred Gender, Age, Role, Relationships:** Male, older.
+    *   **Pronouns (EN/FR):** He/him (EN), Il (FR).
+*   **Hwasa's Mother (엄마 / Eomma)**
+    *   **Romanization:** Eomma
+    *   **Inferred Gender, Age, Role, Relationships:** Female, older.
+    *   **Pronouns (EN/FR):** She/her (EN), Elle (FR).
+*   **Hwasa's Older Sisters (언니들 / Unnie-deul)**
+    *   **Romanization:** Unnie-deul
+    *   **Inferred Gender, Age, Role, Relationships:** Female, older than Hwasa. Two sisters are mentioned. Names mentioned in a childhood anecdote are 만수진 (Mansujin) and 안유진 (Ahn Yujin), likely their names or nicknames.
+    *   **Pronouns (EN/FR):** They/them (EN), Elles (FR).
+*   **Hwasa's Nieces/Nephews (조카 / Joka)**
+    *   **Romanization:** Joka
+    *   **Inferred Gender, Age, Role, Relationships:** Children of her sisters. Three in total (one from second sister, two from first sister). One niece named 시아 (Sia) is mentioned.
+    *   **Pronouns (EN/FR):** She/her or He/him (EN) if specific, They/them (EN) for plural; Elle/Il (FR) if specific, Iels/Elles (FR) for plural.
+*   **돌돌이 (Doldol-i)**
+    *   **Romanization:** Doldol-i
+    *   **Inferred Gender, Age, Role, Relationships:** A fan, given a nickname by Hwasa.
+    *   **Pronouns (EN/FR):** Refer to context for gender, otherwise They/them (EN), Iel (FR).
+*   **다쩡 (Dajeong)**
+    *   **Romanization:** Dajeong
+    *   **Inferred Gender, Age, Role, Relationships:** A fan, called out by Hwasa.
+    *   **Pronouns (EN/FR):** Refer to context for gender, otherwise They/them (EN), Iel (FR).
+*   **미스터 황 (Mr. Hwang)**
+    *   **Romanization:** Mr. Hwang
+    *   **Inferred Gender, Age, Role, Relationships:** Unclear, possibly a staff member or a playful reference to a fan. Hwasa calls him "cute" and mentions giving him a letter and album.
+    *   **Pronouns (EN/FR):** He/him (EN), Il (FR).
+
+---
+
+## 2. SETTING & CONTEXT
+
+*   **Where and When:** The speaker (Hwasa) is currently in **Thailand (태국)**, specifically **Bangkok (방콕)**, staying in a hotel. The live stream takes place at night, around **10:30 PM in Thailand** and **1:14 AM in Korea**. She discusses her recent activities in Thailand and her upcoming return to Korea.
+*   **Content Type:** This is a **live stream (라이브)** or **vlog-style interaction** with her fans. Hwasa is speaking directly to the camera, reading and responding to real-time comments and questions from a chat window (채팅창).
+*   **Topic and Overall Purpose:** The primary purpose is for Hwasa to connect casually with her fans. She shares personal updates, discusses her recent trip to Thailand (food, schedule), talks about her current short haircut and future hair plans, reminisces about childhood memories and favorite dramas, shares food preferences (Korean summer snacks, ramen), and engages in playful banter with the audience. The tone is informal, intimate, and humorous.
+
+---
+
+## 3. KEY EVENTS (with segment references)
+
+*   **seg 1-18:** Hwasa recounts her busy schedule in Bangkok, Thailand, preventing her from exploring. She mentions trying Thai food for the first time, enjoying some dishes but not remembering their names, and specifically mentioning "랭셉" (Leng Saap) and "파타이" (Pad Thai, which she didn't get to eat).
+*   **seg 24-44:** She continues discussing Thai cuisine, highlighting "게살 오믈렛" (crab omelet) as her favorite ("1픽"), along with "바나나 팬케이크" (banana pancake), "쏨땀" (Som Tum), and "망고밥" (mango sticky rice).
+*   **seg 50-70:** Hwasa shares personal health updates, mentioning her declining eyesight and tinnitus, and the need to prioritize self-care.
+*   **seg 74-115:** She expresses her dislike for contact lenses, preferring her natural eye color, and engages in lighthearted interaction with fans about her eyes.
+*   **seg 129-163:** A fan asks for hair management tips for a short cut. Hwasa admits her own struggles and reveals plans to grow her hair out for a new style.
+*   **seg 182-203:** Hwasa expresses surprise that many fans like her short haircut ("쇼컷"), as she expected it to be more polarizing.
+*   **seg 207-237:** She explains her preference for short hair during performances, citing comfort, a "tough" and "sharp" feeling, and the unique "boyish yet feminine" appeal.
+*   **seg 257-266:** A fan's "roommate friend" (룸메 친구) playfully intervenes, asking Hwasa not to grow her hair out and to keep the short cut.
+*   **seg 313-335:** Hwasa discusses "이삭토순이" (Isak Tosuni), an inside joke or fan-created term, and expresses her enjoyment of fans using "strong language" (욕) as an intense sign of affection.
+*   **seg 343-355:** Hwasa playfully warns fans not to wait for her too early at the airport, calling them "paparazzi."
+*   **seg 447-455:** She recommends various Korean summer snacks, including "팥빙수" (patbingsu), "돼지바" (Dwaejibar), "화채" (hwachae), and "콩국수" (kongguksu).
+*   **seg 459-466:** Hwasa identifies herself as part of the "설탕파" (sugar faction) for "콩국수" (kongguksu), describing her taste as "할미입맛" (grandma's taste).
+*   **seg 586-614:** Hwasa tries a mango chip from her hotel, leading to the spontaneous coining of a new fan term: **"망갈" (mang-gal)**.
+*   **seg 615-628:** She defines "망갈" as a playful, intense expression of positive emotion, akin to a "curse word" but used for excitement and affection, and encourages fans to adopt it.
+*   **seg 687-700:** Hwasa poses a hypothetical scenario: what would fans do if she turned into a zombie during a performance? Fans respond with emotional support, offering to quarantine her or become zombies with her.
+*   **seg 703-714:** A fan named "돌돌이" (Doldol-i) gives a "cool" and direct answer ("kill her"), leading Hwasa to playfully rename them "돌갈" (Dol-gal).
+*   **seg 715-725:** Fans suggest that dying while watching her performance would be a "good death." Hwasa imagines turning into a zombie while performing her song "굿굿바이" (Good Good Bye).
+*   **seg 741-753:** In the zombie scenario, Hwasa rejects "people" as food and requests "소고기" (beef), then playfully suggests becoming a "초식 좀비" (herbivore zombie) and asks for sweet potatoes, potatoes, taro chips, and ice cream.
+*   **seg 971-975:** Hwasa shares her dream wedding scenario: a ceremony by the sea or in the large yard of her future country home.
+*   **seg 986-1046:** The conversation devolves into a humorous, chaotic discussion about fans turning her wedding into a fan event, complete with photo ops, merchandise, Q&A, and even her singing her own wedding song. Hwasa calls the chat "개판이다" (a mess/chaos).
+*   **seg 1055-1066:** Hwasa describes the hypothetical wedding as "아비규환" (pandemonium) and expresses that if fans sang "굿굿바이" at her wedding, she would cry.
+*   **seg 1099-1143:** Hwasa shares her earliest memory: her father taking her to preschool
