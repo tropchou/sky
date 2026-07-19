@@ -109,1967 +109,1576 @@ Uploaded: 2026-05-25
   FR: L'idiot qui a acheté ça est un gagnant de première classe.
   EN: The idiot who bought this is a first-class winner.
 
-[02:21]
-  KO: 융
-  FR: Jung
-  EN: Jung
+— [02:17] ────────────────────────────────────────
 
+[02:17]
+  KO: 1급으로 청의가 되는 법은
+  FR: La façon de devenir une Cheong-i de première classe est...
+  EN: The way to become a first-class Cheong-i is...
 
-[02:35]
-  KO: converge
-  FR: converger
-  EN: converge
-
-[02:38]
-  KO: 빵이 쫀득쫀득해
-  FR: Le pain est moelleux
-  EN: The bread is chewy
-
-[02:40]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+[02:46]
+  KO: 나한테 맛있는 걸 주는 뇌물을
+  FR: de me donner de délicieuses choses en guise de pot-de-vin.
+  EN: to give me delicious bribes.
 
 [02:51]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+  KO: 맞아. 사내진미를 나에게 바쳐야 해.
+  FR: C'est ça. Vous devez m'offrir les plus fines des délices.
+  EN: Right. You have to offer me the finest delicacies.
 
 
-— [03:21] ————————————————————————————————————————
+— [03:24] ────────────────────────────────────────
 
 
-[03:21]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+[03:24]
+  KO: 이게 맛이 진짜 많거든?
+  FR: Il y a tellement de saveurs, vous savez ?
+  EN: This has so many flavors, you know?
 
 
-[03:51]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+[03:28]
+  KO: 하나하나 다 먹으려니 안 되니까
+  FR: Comme je ne peux pas toutes les manger une par une...
+  EN: Since I can't eat them all one by one...
+
+[03:33]
+  KO: 매니저님 몇 개만 주고 내가 다 가져가야겠다. 그치?
+  FR: Je devrais en donner quelques-unes à mon manager et prendre le reste. N'est-ce pas ?
+  EN: I should give a few to my manager and take the rest. Right?
+
+[03:47]
+  KO: 맛있다.
+  FR: C'est délicieux.
+  EN: It's delicious.
 
 
-— [04:21] ————————————————————————————————————————
+[03:55]
+  KO: 좋아.
+  FR: J'aime ça.
+  EN: I like it.
+
+[03:56]
+  KO: 아베베.
+  FR: Abebe.
+  EN: Abebe.
+
+[04:17]
+  KO: 아베베 베이커리.
+  FR: Abebe Bakery.
+  EN: Abebe Bakery.
 
 
-[04:21]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+— [04:46] ────────────────────────────────────────
 
 
-[04:51]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+[04:46]
+  KO: 맛있었지?
+  FR: C'était délicieux, n'est-ce pas ?
+  EN: It was delicious, wasn't it?
+
+[04:46]
+  KO: 원 없이 먹었어, 오늘도.
+  FR: J'ai mangé à ma faim aujourd'hui aussi.
+  EN: I ate to my heart's content today too.
 
 
-— [05:21] ————————————————————————————————————————
+— [06:34] ────────────────────────────────────────
 
 
-[05:21]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+[06:34]
+  KO: 간만에.
+  FR: Pour la première fois depuis longtemps.
+  EN: For the first time in a while.
 
 
-[05:51]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+— [07:56] ────────────────────────────────────────
 
 
-— [06:21] ————————————————————————————————————————
+[07:56]
+  KO: 한자의 여유야.
+  FR: C'est un moment de répit.
+  EN: It's a moment of leisure.
 
 
-[06:21]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+[08:16]
+  KO: 오늘도 하다 왔어? 잘했어.
+  FR: Tu l'as fait aujourd'hui aussi ? Bien joué.
+  EN: Did you do it today too? Good job.
 
 
-[06:51]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+[08:38]
+  KO: 예전처럼 기복이 있진 않은 것 같아.
+  FR: Il ne semble pas y avoir autant de hauts et de bas qu'avant.
+  EN: It doesn't seem like there are as many ups and downs as before.
+
+[08:46]
+  KO: 체력관리? 체력관리를 잘해야 되는 것 같아.
+  FR: Gestion de la condition physique ? Je pense que je dois bien gérer ma condition physique.
+  EN: Physical condition management? I think I need to manage my physical condition well.
+
+[08:56]
+  KO: 요새는 좀 버거웠는데
+  FR: Dernièrement, ça a été un peu difficile...
+  EN: Lately, it's been a bit tough...
 
 
-— [07:21] ————————————————————————————————————————
+— [08:57] ────────────────────────────────────────
+
+[08:57]
+  KO: 체력이 좀 버거웠어.
+  FR: Ma condition physique était un peu accablante.
+  EN: My physical strength was a bit overwhelming.
+
+[09:00]
+  KO: 잠을...
+  FR: Le sommeil...
+  EN: Sleep...
+
+[09:03]
+  KO: 운동보다 제일 중요한 거는 잠이야.
+  FR: Plus important que l'exercice, c'est le sommeil.
+  EN: More important than exercise is sleep.
+
+[09:07]
+  KO: 그러니까 멍청이들 모두 잠을 잘 자야 돼.
+  FR: Alors, toutes mes chères Cheong-is, vous devez bien dormir.
+  EN: So, all you silly Cheong-is, you have to sleep well.
 
 
-[07:21]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+[09:13]
+  KO: 알았죠?
+  FR: Compris ?
+  EN: Understood?
+
+[09:14]
+  KO: 그래, 맞아.
+  FR: Oui, c'est ça.
+  EN: Yes, that's right.
+
+[09:25]
+  KO: 그래. 요새는 한 이틀만 밤새도 몸살 오더라.
+  FR: C'est vrai. Dernièrement, si je passe juste deux nuits blanches, je me chope des courbatures.
+  EN: Right. Lately, if I stay up all night for just two days, I get body aches.
+
+[09:29]
+  KO: 우리가 예전 같지 않아.
+  FR: Nous ne sommes plus comme avant.
+  EN: We're not like we used to be.
+
+[09:32]
+  KO: 너희들도 다 젊을 거라고 생각하지만
+  FR: Vous pensez peut-être que vous êtes toutes jeunes, mais...
+  EN: You all might think you're still young, but...
+
+[09:35]
+  KO: 결국 우리 함께 간단다.
+  FR: Au final, nous vieillissons toutes ensemble.
+  EN: In the end, we're all going together.
+
+[09:38]
+  KO: 그러니까 너희들도 할머니야, 이제.
+  FR: Alors vous êtes aussi des grand-mères maintenant.
+  EN: So you're grandmas now too.
+
+[09:46]
+  KO: 알았어, 이모.
+  FR: Compris, tata.
+  EN: Understood, auntie.
 
 
-[07:51]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+— [09:58] ────────────────────────────────────────
 
+[09:58]
+  KO: 너희들 벌써 이모야.
+  FR: Vous êtes déjà des tatas.
+  EN: You're already aunties.
 
-— [08:21] ————————————————————————————————————————
+[10:00]
+  KO: 20대 때는 그런 생각이 안 들었거든.
+  FR: Quand j'avais la vingtaine, je ne pensais pas comme ça.
+  EN: In my 20s, I didn't think that way.
 
+[10:20]
+  KO: 빨리 나이 먹고 싶다라는
+  FR: Je ne pensais pas : « Je veux vieillir vite. »
+  EN: I didn't think, "I want to get older quickly."
 
-[08:21]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+[10:22]
+  KO: 정말 내 30대의 모습인 것 같아.
+  FR: C'est vraiment ça, ma trentaine.
+  EN: This really feels like my 30s.
 
+[10:33]
+  KO: 아쉬워, 하루하루가.
+  FR: Chaque jour me manque.
+  EN: Every day feels regrettable.
 
-[08:51]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
+[10:45]
+  KO: 30대 멍청이들.
+  FR: Les chères Cheong-is de 30 ans.
+  EN: Silly Cheong-is in their 30s.
 
+[10:46]
+  KO: 있나요?
+  FR: Y en a-t-il ?
+  EN: Are there any?
 
-— [09:21] ————————————————————————————————————————
+[10:47]
+  KO: 30대 손들어.
+  FR: Que celles de 30 ans lèvent la main.
+  EN: Raise your hand if you're in your 30s.
 
-
-[09:21]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
-
-
-[09:51]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
-
-
-— [10:21] ————————————————————————————————————————
-
-
-[10:21]
-  KO: 1급 청이가 되는 법은 나한테 맛있는 걸 주는 뇌물을
-  FR: La façon de devenir un Cheongi de première classe est de me soudoyer avec quelque chose de délicieux.
-  EN: The way to become a first-class Cheongi is to bribe me with something delicious.
-
+[10:49]
+  KO: 30대.
+  FR: La trentaine.
+  EN: 30s.
 
 [10:51]
-  KO: 30대 멍청이 손 들어
-  FR: Levez la main, idiot d'une trentaine d'années
-  EN: Raise your hands, idiot in his 30s
+  KO: 30대 멍청이 손들어.
+  FR: Que les chères Cheong-is de 30 ans lèvent la main.
+  EN: Raise your hand, silly Cheong-is in their 30s.
+
+[10:53]
+  KO: 이모들이 많네요.
+  FR: Il y a beaucoup de tatas.
+  EN: There are many aunties.
 
 
-[11:07]
-  KO: 네 여기 이모들이 많네요
-  FR: Oui, il y a beaucoup de tantes ici.
-  EN: Yes, there are a lot of aunts here.
+— [11:09] ────────────────────────────────────────
 
 [11:09]
-  KO: 이모들
-  FR: tantes
-  EN: aunts
+  KO: 이모들.
+  FR: Les tatas.
+  EN: Aunties.
 
+[11:10]
+  KO: 이모청이들.
+  FR: Les Cheong-is tatas.
+  EN: Auntie Cheong-is.
 
-[11:13]
-  KO: 이모청이들
-  FR: Lee Mo Cheong
-  EN: Lee Mo-cheong
+[11:20]
+  KO: 20대.
+  FR: La vingtaine.
+  EN: 20s.
 
-
-— [11:21] ————————————————————————————————————————
-
-
-[11:21]
-  KO: 네 좀 아름다운 30대를 보내보자고
-  FR: Oui, ayons de belles années 30.
-  EN: Yes, let’s have a beautiful 30s.
-
-[11:27]
-  KO: 그리고 20대 청이들
-  FR: Et ceux dans la vingtaine
-  EN: And those in their 20s
+[11:30]
+  KO: 20대 청이들.
+  FR: Les Cheong-is de 20 ans.
+  EN: Cheong-is in their 20s.
 
 [11:31]
-  KO: 20대 청이들 어디 있어
-  FR: Où sont les gens dans la vingtaine ?
-  EN: Where are the people in their 20s?
+  KO: 20대 청이들 어딨어?
+  FR: Où sont les Cheong-is de 20 ans ?
+  EN: Where are the Cheong-is in their 20s?
 
+[11:34]
+  KO: 40대.
+  FR: La quarantaine.
+  EN: 40s.
 
 [11:45]
-  KO: 40대 I am grandma?
-  FR: 40 ans, je suis grand-mère ?
-  EN: 40s I am grandma?
+  KO: I am grandma?
+  FR: Je suis grand-mère ?
+  EN: I am grandma?
 
 [11:47]
-  KO: No, my unnie
-  FR: Non, ma tante
-  EN: No, my unnie
+  KO: No.
+  FR: Non.
+  EN: No.
 
+[11:48]
+  KO: My 언니.
+  FR: Ma grande sœur.
+  EN: My older sister.
 
-[11:57]
-  KO: 오 20대 많은데?
-  FR: Oh, il y a beaucoup de gens dans la vingtaine ?
-  EN: Oh, there are a lot of people in their 20s?
+[11:56]
+  KO: 오, 20대 많은데?
+  FR: Oh, il y en a beaucoup dans la vingtaine ?
+  EN: Oh, there are many in their 20s?
 
+[11:58]
+  KO: 오, 20대 많다.
+  FR: Oh, il y en a beaucoup dans la vingtaine.
+  EN: Oh, there are many in their 20s.
 
-[12:03]
-  KO: 오 20대 많다
-  FR: Oh, il y a beaucoup de gens dans la vingtaine.
-  EN: Oh, there are a lot of people in their 20s.
-
-
-[12:07]
+[12:06]
   KO: 내가 이렇게 많은 소녀들을 거느리고 있었던 말이야?
-  FR: Ai-je eu autant de filles ?
-  EN: Did I have this many girls?
+  FR: J'avais donc tant de jeunes filles sous mon aile ?
+  EN: So I had so many young ladies under my wing?
 
 
-[12:17]
-  KO: 10대 핫한데
-  FR: Il fait chaud chez les ados
-  EN: It's hot in the teens
+— [12:11] ────────────────────────────────────────
 
-[12:19]
-  KO: 그러면 10대 있어?
-  FR: Alors, vous avez des adolescents ?
-  EN: Then do you have teenagers?
+[12:11]
+  KO: 그러면 10대.
+  FR: Alors, la dizaine.
+  EN: Alright, then, 10s.
 
+[12:20]
+  KO: 10대 있어, 10대?
+  FR: Y a-t-il des 10 ans, des 10 ans ?
+  EN: Are there any 10s, 10s?
 
-— [12:27] ————————————————————————————————————————
-
-
-[12:27]
-  KO: 20대는 소녀고 30대는 이모야?
-  FR: Êtes-vous une fille dans la vingtaine et une tante dans la trentaine ?
-  EN: Are you a girl in your 20s and an aunt in your 30s?
+[12:21]
+  KO: 10대는 소녀고 30대는 이모야?
+  FR: Donc les 10 ans sont des jeunes filles et les 30 ans des tatas ?
+  EN: So 10s are young ladies and 30s are aunties?
 
 [12:29]
-  KO: 그럼 너희들은 이모 우리 20대들은 소녀
-  FR: Alors vous êtes des tantes et nous, dans la vingtaine, sommes des filles
-  EN: Then you guys are aunts and we in our 20s are girls
+  KO: 그럼.
+  FR: Bien sûr.
+  EN: Of course.
 
+[12:30]
+  KO: 너희들은 이모.
+  FR: Vous êtes des tatas.
+  EN: You all are aunties.
+
+[12:32]
+  KO: 우리 20대들은 소녀.
+  FR: Nos 20 ans sont des jeunes filles.
+  EN: Our 20s are young ladies.
+
+[12:36]
+  KO: 자, 10대.
+  FR: Allez, les 10 ans.
+  EN: Alright, 10s.
 
 [12:37]
-  KO: 자 10대 어디 있어
-  FR: Maintenant, où sont les adolescents ?
-  EN: Now where are the teenagers?
+  KO: 10대 어딨어?
+  FR: Où sont les 10 ans ?
+  EN: Where are the 10s?
 
 [12:39]
-  KO: 오 10대도 꽤 있다
-  FR: Oh, il y a aussi pas mal d'adolescents.
-  EN: Oh, there are quite a few teenagers too.
+  KO: 10대도 꽤 있다.
+  FR: Il y a pas mal de 10 ans aussi.
+  EN: There are quite a few 10s too.
+
+[12:56]
+  KO: 10대 청이들은 내 배로 낳은 내 자식들.
+  FR: Les Cheong-is de 10 ans sont mes enfants nés de mon ventre.
+  EN: The Cheong-is in their 10s are my children born from my belly.
+
+[13:06]
+  KO: 자식 청이.
+  FR: Cheong-i enfant.
+  EN: Child Cheong-i.
 
 
-[12:49]
-  KO: 10대 청이들은 내 배로 낳은 내 자식들
-  FR: Les adolescents sont mes enfants nés de mon ventre.
-  EN: The teenagers are my children born from my womb.
+— [13:11] ────────────────────────────────────────
 
+[13:11]
+  KO: 자, 그러면 40대.
+  FR: Allez, alors, la quarantaine.
+  EN: Alright, then, 40s.
 
-[13:09]
-  KO: 자식청이
-  FR: Jajacheongi
-  EN: Jajacheongi
+[13:19]
+  KO: 40대 언니 청이들.
+  FR: Les Cheong-is grandes sœurs de 40 ans.
+  EN: Older sister Cheong-is in their 40s.
 
-
-[13:17]
-  KO: 자 그러면 40대 40대 언니 청이들
-  FR: Maintenant, Cheongi, qui a la quarantaine.
-  EN: Now then, Cheongi, who are in their 40s.
-
-
-[13:23]
+[13:21]
   KO: 40대 언니 청이들 있어요?
-  FR: Avez-vous des sœurs dans la quarantaine ?
-  EN: Do you have any sisters in their 40s?
+  FR: Y a-t-il des Cheong-is grandes sœurs de 40 ans ?
+  EN: Are there any older sister Cheong-is in their 40s?
 
 
-— [13:33] ————————————————————————————————————————
+[13:29]
+  KO: 오, 40대 언니 청이들.
+  FR: Oh, les Cheong-is grandes sœurs de 40 ans.
+  EN: Oh, older sister Cheong-is in their 40s.
 
+[13:36]
+  KO: 40대 언니 청이들은.
+  FR: Les Cheong-is grandes sœurs de 40 ans sont...
+  EN: The older sister Cheong-is in their 40s are...
 
-[13:33]
-  KO: 40대 언니 청이들
-  FR: Sœurs dans la quarantaine, Cheongi
-  EN: Sisters in their 40s, Cheongi
+[13:38]
+  KO: 40대 언니 청이들은.
+  FR: Les Cheong-is grandes sœurs de 40 ans sont...
+  EN: The older sister Cheong-is in their 40s are...
 
-[13:35]
-  KO: 40대 언니 청이들은
-  FR: Sœurs dans la quarantaine, Cheongi
-  EN: Sisters in their 40s, Cheongi
-
-
-[13:51]
-  KO: 오 진짜 많다 40대도
-  FR: Oh, il y en a tellement, même ceux dans la quarantaine.
-  EN: Oh, there are so many, even those in their 40s.
+[13:42]
+  KO: 오, 진짜 많다, 40대도.
+  FR: Oh, il y en a vraiment beaucoup dans la quarantaine aussi.
+  EN: Oh, there are really many in their 40s too.
 
 [13:53]
-  KO: 언니 청이들 너무 많네
-  FR: Il y a trop de sœurs
-  EN: There are too many sisters
+  KO: 언니 청이들 너무 많네.
+  FR: Il y a tellement de Cheong-is grandes sœurs.
+  EN: There are so many older sister Cheong-is.
 
-
-[13:57]
-  KO: 40대는 언니지
-  FR: Ma sœur a la quarantaine
-  EN: My sister is in her 40s
+[13:55]
+  KO: 40대는 언니지.
+  FR: Les 40 ans sont des grandes sœurs, n'est-ce pas ?
+  EN: 40s are older sisters, right?
 
 [13:59]
-  KO: 혹시 50대 청이 언니도 50대 청이 언니
-  FR: Cheong dans la cinquantaine est-elle aussi une unnie dans la cinquantaine ?
-  EN: Is Cheong in her 50s also an unnie in her 50s?
+  KO: 혹시 여기 50대, 50대 청이 언니도.
+  FR: Par hasard, y a-t-il des 50 ans ici, des Cheong-is grandes sœurs de 50 ans aussi ?
+  EN: By any chance, are there any 50s here, older sister Cheong-is in their 50s too?
 
+[14:07]
+  KO: 50대 청이 언니.
+  FR: Cheong-i grande sœur de 50 ans.
+  EN: Older sister Cheong-i in their 50s.
 
-[14:15]
+[14:10]
   KO: 50대 청이 언니 계신가요?
-  FR: Cheong a-t-elle une sœur dans la cinquantaine ?
-  EN: Does Cheong have a sister in her 50s?
+  FR: Y a-t-il des Cheong-is grandes sœurs de 50 ans présentes ?
+  EN: Are there any older sister Cheong-is in their 50s present?
+
+
+— [14:17] ────────────────────────────────────────
 
 [14:17]
   KO: 60대?
-  FR: Années 60 ?
+  FR: La soixantaine ?
   EN: 60s?
 
-
-[14:21]
-  KO: 아니 근데 이제 비슷해이지
-  FR: Non, mais c'est pareil maintenant.
-  EN: No, but it's similar now.
+[14:20]
+  KO: 아니, 근데 이제 B스테이지.
+  FR: Non, mais maintenant B-stage.
+  EN: No, but now B-stage.
 
 [14:23]
-  KO: 이 여기에서는
-  FR: Dans cet endroit
-  EN: In this place
+  KO: 이 여기에서는.
+  FR: Ici, dans ce (contexte).
+  EN: Here, in this (context).
 
-
-[14:29]
+[14:30]
   KO: 진짜? 진짜 계셔?
-  FR: vraiment ? Es-tu vraiment là ?
-  EN: really? Are you really there?
-
-
-— [14:39] ————————————————————————————————————————
-
-
-[14:39]
-  KO: 그러면
-  FR: alors
-  EN: then
-
+  FR: Vraiment ? Elles sont vraiment là ?
+  EN: Really? Are they really here?
 
 [14:45]
-  KO: 아 다 자고 계실 수도 있겠다
-  FR: Oh, vous dormez peut-être tous.
-  EN: Oh, you might all be sleeping.
+  KO: 자고 계셔.
+  FR: Elles dorment.
+  EN: They're sleeping.
+
+[14:46]
+  KO: 자고 계실 수도 있겠다.
+  FR: Elles pourraient être en train de dormir.
+  EN: They might be sleeping.
 
 [14:47]
-  KO: 50대 60대
-  FR: années 50 et 60
-  EN: 50s 60s
+  KO: 50대, 60대.
+  FR: La cinquantaine, la soixantaine.
+  EN: 50s, 60s.
 
 [14:49]
   KO: 혹시 60대 계신가요?
-  FR: Êtes-vous dans la soixantaine ?
-  EN: Are you in your 60s?
+  FR: Par hasard, y a-t-il des 60 ans présentes ?
+  EN: By any chance, are there any 60s present?
 
 [14:51]
-  KO: 60대 선생님
-  FR: Enseignant dans la soixantaine
-  EN: Teacher in his 60s
+  KO: 60대.
+  FR: La soixantaine.
+  EN: 60s.
 
+[14:52]
+  KO: 60대 선생님.
+  FR: Professeur de 60 ans.
+  EN: Respected elder in their 60s.
 
 [14:55]
   KO: 선생님 청이 계신가요?
-  FR: Maître, avez-vous une demande ?
-  EN: Teacher, do you have a request?
+  FR: Y a-t-il des Cheong-is professeurs présentes ?
+  EN: Are there any Teacher Cheong-is present?
 
 [14:57]
-  KO: 60대 선생님 청이
-  FR: Cheong, un professeur d'une soixantaine d'années
-  EN: Cheong, a teacher in his 60s
+  KO: 60대 선생님 청이.
+  FR: Les Cheong-is professeurs de 60 ans.
+  EN: Teacher Cheong-is in their 60s.
 
-
-[15:11]
-  KO: 아 다행히 안 계시네요
-  FR: Oh, heureusement, tu n'es pas là.
-  EN: Oh, fortunately, you’re not there.
+[15:06]
+  KO: 아, 다행히 안 계시네요.
+  FR: Ah, heureusement, elles ne sont pas là.
+  EN: Ah, fortunately, they're not here.
 
 [15:13]
-  KO: 자 그러면 설마 없겠지만
-  FR: Maintenant, cela n’arrivera probablement pas.
-  EN: Now then, it probably won't happen.
+  KO: 자, 그러면.
+  FR: Bon, alors.
+  EN: Alright, then.
 
+[15:15]
+  KO: 설마.
+  FR: Sûrement pas.
+  EN: Surely not.
+
+[15:16]
+  KO: 없겠지만.
+  FR: Je sais qu'elles ne seront pas là, mais...
+  EN: I know they won't be here, but...
+
+
+— [15:19] ────────────────────────────────────────
 
 [15:19]
-  KO: 70대 70대 여왕 청이 님 계신가요?
-  FR: 70 ans Y a-t-il une reine Cheong dans les 70 ans ?
-  EN: 70s Is there a Queen Cheong in her 70s?
+  KO: 70대.
+  FR: La soixante-dizaine.
+  EN: 70s.
 
-[15:25]
-  KO: 여왕 청이 님
-  FR: Reine Cheongi
-  EN: Queen Cheongi
+[15:22]
+  KO: 70대 여왕 청이 님 계신가요?
+  FR: Y a-t-il des Cheong-is Reines de 70 ans présentes ?
+  EN: Are there any Queen Cheong-is in their 70s present?
+
+[15:24]
+  KO: 여기.
+  FR: Ici.
+  EN: Here.
+
+[15:26]
+  KO: 여왕 청이 님.
+  FR: Cheong-i Reine.
+  EN: Queen Cheong-i.
 
 
 [15:33]
-  KO: 여왕 청이 님
-  FR: Reine Cheongi
-  EN: Queen Cheongi
+  KO: 여왕 청이 님.
+  FR: Cheong-i Reine.
+  EN: Queen Cheong-i.
 
-
-— [15:43] ————————————————————————————————————————
-
+[15:42]
+  KO: 그러니까.
+  FR: Donc.
+  EN: So.
 
 [15:43]
-  KO: 그러니까 일단 70대까지만 여쭤봐야겠어
-  FR: Je devrai donc demander uniquement aux septuagénaires.
-  EN: So, I'll have to ask only those in their 70s.
+  KO: 일단 70대까지만 여쭤봐야겠어.
+  FR: Pour l'instant, je ne devrais demander que jusqu'à la soixante-dizaine.
+  EN: For now, I should only ask up to the 70s.
 
-[15:45]
-  KO: 80대는 그냥 넘사잖아
-  FR: Les octogénaires sont tout simplement trop vieux.
-  EN: People in their 80s are just too old.
+[15:46]
+  KO: 80대는.
+  FR: Pour la quatre-vingtaine...
+  EN: For the 80s...
 
-[15:51]
-  KO: 80대 챙겨야 되나?
-  FR: Dois-je prendre soin de mes 80 ans ?
-  EN: Should I take care of my 80s?
+[15:48]
+  KO: 그냥.
+  FR: Juste.
+  EN: Just.
 
-[15:53]
-  KO: 그러면
-  FR: alors
-  EN: then
+[15:50]
+  KO: 넘사잖아.
+  FR: Elles sont incomparables.
+  EN: They're incomparable, aren't they?
 
+[15:54]
+  KO: 80대도 챙겨야 되나?
+  FR: Devrais-je aussi m'occuper des 80 ans ?
+  EN: Should I also take care of the 80s?
 
-[15:59]
-  KO: 80대
-  FR: années 80
-  EN: 80s
+[15:55]
+  KO: 그러면.
+  FR: Alors.
+  EN: Then.
+
+[15:56]
+  KO: 80.
+  FR: 80.
+  EN: 80s.
 
 [16:01]
-  KO: 80대
-  FR: années 80
-  EN: 80s
+  KO: 80대.
+  FR: La quatre-vingtaine.
+  EN: 80s.
 
 [16:03]
-  KO: 신청
-  FR: application
-  EN: application
+  KO: 80대.
+  FR: La quatre-vingtaine.
+  EN: 80s.
 
-[16:05]
-  KO: 신
-  FR: Dieu
-  EN: god
+[16:04]
+  KO: 신청.
+  FR: Dieu.
+  EN: God.
 
 [16:07]
-  KO: 갓
-  FR: flingue
-  EN: gat
+  KO: 신.
+  FR: Dieu.
+  EN: God.
+
+[16:08]
+  KO: 신.
+  FR: Dieu.
+  EN: God.
 
 [16:09]
-  KO: 갓청이 님
-  FR: Gatcheongi
-  EN: Gatcheongi
+  KO: 갓.
+  FR: God.
+  EN: God.
+
+[16:10]
+  KO: 갓 청이 님.
+  FR: Cheong-is Dieu.
+  EN: God Cheong-is.
 
 [16:11]
-  KO: 80대 갓청이 님 계신가요?
-  FR: Existe-t-il un Gatcheong octogénaire ?
-  EN: Is there a Gatcheong in his 80s?
+  KO: 80대 갓 청이 님 계신가요?
+  FR: Y a-t-il des Cheong-is Dieu de 80 ans présentes ?
+  EN: Are there any God Cheong-is in their 80s present?
+
+[16:12]
+  KO: 안 계시고.
+  FR: Elles ne sont pas là.
+  EN: They're not here.
 
 
-[16:21]
-  KO: 아 갓청이 님
-  FR: Oh Gatcheong
-  EN: Oh Gatcheong
-
-[16:23]
-  KO: 다행히 안 계시고
-  FR: Heureusement, vous n'êtes pas là.
-  EN: Fortunately, you are not there.
-
-[16:25]
-  KO: 그래 미래 갓청이들
-  FR: Oui, les futurs Gatcheong
-  EN: Yes, future Gatcheongs
-
-[16:27]
-  KO: 분발해
-  FR: Remonter le moral
-  EN: Cheer up
+— [16:29] ────────────────────────────────────────
 
 [16:29]
-  KO: 청이신
-  FR: Cheong-isin
-  EN: Cheong-isin
+  KO: 그래.
+  FR: D'accord.
+  EN: Right.
 
+[16:30]
+  KO: 미래의 갓 청이들.
+  FR: Futures Cheong-is Dieu.
+  EN: Future God Cheong-is.
 
-[16:33]
-  KO: 그래 와 이렇게 말하니까 진짜 갈 길이 멀다
-  FR: Wow, quand je dis ça, j'ai vraiment un long chemin à parcourir.
-  EN: Wow, when I say this, I really have a long way to go.
+[16:31]
+  KO: 분발해.
+  FR: Faites des efforts.
+  EN: Work hard!
+
+[16:32]
+  KO: 청이신.
+  FR: Cheong-is Dieu.
+  EN: Cheong-i God.
+
+[16:34]
+  KO: 그래.
+  FR: D'accord.
+  EN: Right.
 
 [16:35]
-  KO: 우리가 60년 더 사랑할게
-  FR: Nous t'aimerons encore 60 ans
-  EN: We'll love you for 60 more years
+  KO: 와.
+  FR: Wow.
+  EN: Wow.
 
+[16:37]
+  KO: 이렇게 말하니까 진짜 갈 길이 멀다.
+  FR: Quand j'y pense comme ça, il y a vraiment un long chemin à parcourir.
+  EN: When I say it like this, we really have a long way to go.
 
 [16:39]
-  KO: 갈 길이 멀어 우리
-  FR: Nous avons un long chemin à parcourir
-  EN: We have a long way to go
+  KO: 우리가 60년 더 사랑할게.
+  FR: Nous nous aimerons encore 60 ans.
+  EN: We'll love each other for 60 more years.
 
 [16:41]
-  KO: 갓청이 님 안 계시죠?
-  FR: Gatcheong n'est pas là, n'est-ce pas ?
-  EN: Gatcheong isn’t here, right?
+  KO: 와.
+  FR: Wow.
+  EN: Wow.
 
+[16:42]
+  KO: 갈 길이 멀어.
+  FR: Le chemin est long.
+  EN: It's a long way to go.
 
-— [16:45] ————————————————————————————————————————
-
+[16:44]
+  KO: 우리.
+  FR: Nous.
+  EN: Us.
 
 [16:45]
-  KO: 자 그래 그러면
-  FR: Ok alors
-  EN: Okay then
+  KO: 갓 청이 님 안 계시죠?
+  FR: Il n'y a pas de Cheong-is Dieu, n'est-ce pas ?
+  EN: There are no God Cheong-is present, right?
 
 [16:47]
-  KO: 그럼
-  FR: alors
-  EN: then
+  KO: 자, 그래.
+  FR: Bon, d'accord.
+  EN: Alright, then.
 
-[16:49]
-  KO: 자 그래 그러면
-  FR: Ok alors
-  EN: Okay then
+[16:48]
+  KO: 그러면.
+  FR: Alors.
+  EN: So.
 
-[16:51]
-  KO: 그 다음은 뭐라고 해야 돼?
-  FR: Que dois-je dire ensuite ?
+[16:50]
+  KO: 그다음은 뭐라고 해야 돼?
+  FR: Qu'est-ce que je dois dire ensuite ?
   EN: What should I say next?
 
+[16:52]
+  KO: 잠깐만.
+  FR: Attendez.
+  EN: Wait a minute.
+
 [16:53]
-  KO: 잠깐만
-  FR: attends une seconde
-  EN: wait for a sec
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
+[16:54]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
-[16:57]
-  KO: 90대
-  FR: années 90
-  EN: 90s
-
+[16:58]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
 [17:07]
-  KO: 90대
-  FR: années 90
-  EN: 90s
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
+[17:08]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
-[17:13]
-  KO: 90대
-  FR: années 90
-  EN: 90s
+[17:12]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
+[17:14]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
-[17:19]
-  KO: 조상청이 님 괜찮다
-  FR: Cho Sang-cheong va bien.
-  EN: Cho Sang-cheong is okay.
+[17:20]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
 [17:21]
-  KO: 90대
-  FR: années 90
-  EN: 90s
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
+
+[17:22]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
 [17:23]
-  KO: 조상청이 님 계신가요?
-  FR: Est-ce que Jo Sangcheong est là ?
-  EN: Is Jo Sangcheong here?
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
+
+[17:24]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
+
+[17:25]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
 
-[17:29]
-  KO: 조상청이 님
-  FR: Cho Sangcheong
-  EN: Cho Sangcheong
+— [17:31] ────────────────────────────────────────
 
 [17:31]
-  KO: 안 계시죠?
-  FR: Tu n'es pas là ?
-  EN: Are you not there?
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
+
+[17:32]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
 [17:33]
-  KO: 감사합니다
-  FR: merci
-  EN: thank you
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
+
+[17:34]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
 [17:35]
-  KO: 이 시간에는 절대
-  FR: Jamais à cette heure
-  EN: Never at this time
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
+[17:36]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
-[17:39]
-  KO: 자 그러면
-  FR: Maintenant alors
-  EN: Now then
+[17:46]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
+[17:47]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
-— [17:45] ————————————————————————————————————————
+[17:50]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
-
-[17:45]
-  KO: 100세
-  FR: 100 ans
-  EN: 100 years old
-
-
-[17:49]
-  KO: 아
-  FR: ah
-  EN: ah
-
+[17:51]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
 [17:53]
-  KO: 100세
-  FR: 100 ans
-  EN: 100 years old
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
+
+[17:54]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
+
+[18:03]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
+
+[18:04]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
+
+[18:06]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
+
+[18:08]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
+
+[18:14]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
+
+[18:30]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
+
+[18:31]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
 
-[18:01]
-  KO: 그래 백설기청이 님 계신가요?
-  FR: Alors, Baek Seol-gi Cheong est-il là ?
-  EN: So, is Baek Seol-gi Cheong here?
+— [18:32] ────────────────────────────────────────
 
-
-[18:13]
-  KO: 안 계셔서 다행입니다
-  FR: Je suis content que tu ne sois pas là.
-  EN: I'm glad you're not here.
-
-
-[18:19]
-  KO: 그러니까
-  FR: donc
-  EN: therefore
-
-
-[18:29]
-  KO: 100세 비스테이지 가입하실 수도 있지
-  FR: Vous pouvez rejoindre la B-Stage centenaire
-  EN: You can join the 100-year-old B-Stage
+[18:32]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
 [18:33]
-  KO: 요새는
-  FR: Ces jours
-  EN: These days
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
+[18:34]
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
 [18:37]
-  KO: 뭐냐 100세 시대잖아
-  FR: Qu'est-ce que c'est? C'est l'âge de 100 ans.
-  EN: What is it? It's the age of 100.
+  KO: 90대.
+  FR: La quatre-vingt-dizaine.
+  EN: 90s.
 
+[18:38]
+  KO: 근데 멍청이들도 100살이 돼도 비슷해 이제 할 거야?
+  FR: Mais même si les Cheong-is idiots ont 100 ans, elles feront toujours la même chose, n'est-ce pas ?
+  EN: But even if the silly Cheong-is turn 100, they'll still be similar, will they do it now?
 
-— [18:45] ————————————————————————————————————————
-
-
-[18:45]
-  KO: 근데 멍청이들도 100살이 돼도
-  FR: Mais même les idiots atteignent 100 ans
-  EN: But even idiots turn 100 years old
-
-[18:47]
-  KO: 비스테이지 할 거야?
-  FR: Allez-vous faire du hors-scène ?
-  EN: Are you going to do non-stage?
-
-
-[18:53]
+[18:48]
   KO: 할 거야 안 할 거야?
-  FR: Tu vas le faire ou pas ?
-  EN: Are you going to do it or not?
+  FR: Vous le ferez ou non ?
+  EN: Will you do it or not?
 
+[18:55]
+  KO: 저희들도 진짜 대단하다
+  FR: Nous sommes vraiment incroyables aussi.
+  EN: We're truly amazing too.
 
-[18:59]
-  KO: 너희들도 진짜 대단하다
-  FR: Vous aussi, vous êtes vraiment incroyables.
-  EN: You guys are really amazing too.
-
-
-[19:05]
+[19:00]
   KO: 진짜?
-  FR: vraiment ?
-  EN: really?
+  FR: Vraiment ?
+  EN: Really?
+
+[19:06]
+  KO: 글도 안 올라오는 거 아니야?
+  FR: Les messages ne vont même pas apparaître, n'est-ce pas ?
+  EN: The posts won't even show up, will they?
+
+[19:31]
+  KO: 올라오지도 않아
+  FR: Elles n'apparaissent même pas.
+  EN: They don't even appear.
 
 
-[19:17]
-  KO: 진짜?
-  FR: vraiment ?
-  EN: really?
+— [19:40] ────────────────────────────────────────
+
+[19:40]
+  KO: 안 보여줘도 알지 어떤 상태에 있지?
+  FR: Même sans vous montrer, vous savez dans quel état je suis, n'est-ce pas ?
+  EN: Even without showing you, you know what state I'm in, right?
 
 
-[19:23]
-  KO: 진짜?
-  FR: vraiment ?
-  EN: really?
+— [21:24] ────────────────────────────────────────
 
+[21:24]
+  KO: 얘는 안 보여줄게
+  FR: Je ne vous montrerai pas ça.
+  EN: I won't show you this.
 
-[19:27]
-  KO: 그러니까 채팅창 막 글도 안 올라오는 거 아니야?
-  FR: Alors, cela ne signifie-t-il pas que la fenêtre de discussion ne publiera même rien ?
-  EN: So, doesn’t that mean that the chat window won’t even post anything?
-
-
-[19:37]
-  KO: 채팅창 올라오지도 않아
-  FR: La fenêtre de discussion ne s'affiche même pas.
-  EN: The chat window doesn't even come up.
-
-
-[19:41]
-  KO: 그래 그땐 그냥 이모티콘으로 대화하자
-  FR: D'accord, alors communiquons simplement en utilisant des émoticônes.
-  EN: Okay, then let’s just communicate using emoticons.
-
-
-— [19:47] ————————————————————————————————————————
-
-
-[19:47]
-  KO: 그러니까
-  FR: donc
-  EN: therefore
-
-
-[20:01]
-  KO: 아유 이제 혈당 스파이크가 오고 있는 것 같아
-  FR: Oh, j'ai l'impression d'avoir un pic de glycémie maintenant.
-  EN: Oh, I feel like I'm getting a blood sugar spike now.
-
-
-[20:07]
-  KO: 오늘 진짜
-  FR: Vraiment aujourd'hui
-  EN: Really today
-
-
-[20:11]
-  KO: 공연 끝나고 엄청 먹었어
-  FR: J'ai beaucoup mangé après la représentation.
-  EN: I ate a lot after the performance.
-
-[20:13]
-  KO: 안심
-  FR: filet
-  EN: tenderloin
-
-[20:15]
-  KO: 안심이랑 안심 3인분에
-  FR: Filet et filet mignon pour 3 personnes
-  EN: Tenderloin and tenderloin for 3 people
-
-
-[20:19]
-  KO: 토시인분에
-  FR: Pour une portion
-  EN: For one serving
-
-[20:21]
-  KO: 육회, 고통
-  FR: six fois, douleur
-  EN: six times, pain
-
-[20:23]
-  KO: 어묵탕이랑
-  FR: Avec une soupe aux galettes de poisson
-  EN: With fish cake soup
-
-
-[20:27]
-  KO: 반건조 오징어
-  FR: Calmar mi-séché
-  EN: Semi-dried squid
-
-[20:29]
-  KO: 한 마리 또 사장님이 서비스로 구워주셨고
-  FR: Le propriétaire en a également grillé un pour nous.
-  EN: The owner also grilled one for us.
-
-
-[20:35]
-  KO: 거기에
-  FR: là
-  EN: there
-
-[20:37]
-  KO: 더블 미앙코 아이스크림 하나 먹고
-  FR: Mangez une glace double miangko
-  EN: Eat a double miangko ice cream
-
-
-[20:41]
-  KO: 그리고 빅 포도알
-  FR: Et de gros raisins
-  EN: And big grapes
-
-[20:43]
-  KO: 포도알이라는 또 아이스크림이 있더라고
-  FR: Il existe une autre glace appelée Grape Al.
-  EN: There is another ice cream called Grape Al.
-
-[20:45]
-  KO: 그래서 그거 좀 먹고
-  FR: Alors mange un peu de ça
-  EN: So eat some of that
-
-
-— [20:47] ————————————————————————————————————————
-
-[20:47]
-  KO: 마지막 마무리로
-  FR: Comme touche finale
-  EN: As a final finishing touch
-
-[20:49]
-  KO: 제주
-  FR: chef du deuil
-  EN: chief mourner
-
-[20:51]
-  KO: 쫀득 크림빵
-  FR: Pain à la crème moelleux
-  EN: Chewy cream bread
-
-
-[20:55]
-  KO: 아 진짜
-  FR: Oh vraiment
-  EN: Oh really
-
-
-[20:59]
-  KO: 어마어마하게 먹었지?
-  FR: Tu en as mangé une tonne, non ?
-  EN: You ate a ton, right?
-
-
-[21:13]
-  KO: 오늘의 배?
-  FR: Navire du jour ?
-  EN: Ship of the day?
-
-[21:15]
-  KO: 장난 아니야
-  FR: Ce n'est pas une blague
-  EN: It's no joke
-
-[21:17]
-  KO: 또 루머돌 수도 있어
-  FR: Il pourrait encore y avoir des rumeurs
-  EN: There could be rumors again
-
-[21:19]
-  KO: 그래서 이제 안 보여줄게
-  FR: Alors je ne te montrerai plus
-  EN: So I won't show you anymore
-
-[21:21]
-  KO: 안 보여줘도 알지 어떤 상태인지
-  FR: Même si tu ne me montres pas, je sais quel est ton état.
-  EN: Even if you don’t show me, I know what your condition is.
-
-
-[21:27]
-  KO: 그러니까 이제 배는 안 보여줄게
-  FR: Je ne vous montrerai donc plus mon ventre.
-  EN: So I won't show you my stomach anymore.
-
-
-[21:37]
-  KO: 오늘 되게 막 비 오고
-  FR: Il pleut vraiment aujourd'hui
-  EN: It's really raining today
-
-[21:39]
-  KO: 무대 젖어 있고
-  FR: La scène est mouillée
-  EN: The stage is wet
-
-[21:41]
-  KO: 하는데
-  FR: je le fais
-  EN: I'm doing it
+[21:29]
+  KO: 근데 오늘 되게 막 비 오고 무대 젖어있고
+  FR: Mais aujourd'hui, il pleuvait beaucoup et la scène était mouillée.
+  EN: But today, it was really raining, and the stage was wet.
 
 [21:43]
   KO: 너무 행복했어
-  FR: J'étais si heureux
-  EN: I was so happy
+  FR: J'étais si heureuse.
+  EN: I was so happy.
 
-
-— [21:47] ————————————————————————————————————————
-
-
-[21:47]
-  KO: 나는 그런 뭔가
-  FR: je suis quelque chose comme ça
-  EN: I am something like that
-
-[21:49]
+[21:44]
   KO: 예상치도 못한 상황들이 좋더라
-  FR: J'aime les situations inattendues
-  EN: I like unexpected situations
+  FR: J'aime les situations inattendues.
+  EN: I like unexpected situations.
 
-
-[21:53]
+[21:50]
   KO: 더 이렇게 뭐랄까
-  FR: Que devrais-je dire de plus comme ça ?
-  EN: What should I say more like this?
+  FR: C'est plus, comment dire...
+  EN: It's more, how should I put it...
 
-[21:55]
-  KO: 무대 하는 거에 있어서 긴장감이
-  FR: Je me sens nerveux à l’idée de jouer sur scène.
-  EN: I feel nervous about performing on stage.
+[21:54]
+  KO: 무대 하는 거에 있어서 긴장감이 더 이렇게 딱 생기고
+  FR: Ça crée plus de tension quand je suis sur scène.
+  EN: It creates more tension when I'm on stage.
 
-[21:57]
-  KO: 더 이렇게 딱 생기고
-  FR: Ça ressemble plus à ça
-  EN: It looks more like this
-
-[21:59]
+[21:58]
   KO: 새로워
-  FR: C'est nouveau
-  EN: It's new
+  FR: C'est nouveau.
+  EN: It's new.
 
+[22:01]
+  KO: 너무 재밌어
+  FR: C'est tellement amusant.
+  EN: It's so much fun.
 
 [22:03]
-  KO: 너무 재밌어 그래서 막 심장이
-  FR: C'est tellement amusant que mon cœur fond
-  EN: It's so fun that my heart just melts
+  KO: 그래서 막 심장이 뛰더라고
+  FR: Mon cœur battait la chamade.
+  EN: So my heart was pounding.
 
 [22:05]
-  KO: 뛰더라고 너무 즐거워서
-  FR: J'ai couru parce que c'était tellement amusant
-  EN: I ran because it was so fun
+  KO: 너무 즐거워서
+  FR: Parce que c'était tellement agréable.
+  EN: Because it was so enjoyable.
+
+[22:07]
+  KO: 행사 무대할 땐 어느 계절이 제일 좋냐고?
+  FR: On me demande quelle saison est la meilleure pour les scènes d'événements ?
+  EN: You're asking which season is the best for event stages?
+
+[22:16]
+  KO: 개인적으로 난 겨울을 추운 데서 무대하는 걸 별로 안 좋아해
+  FR: Personnellement, je n'aime pas beaucoup me produire sur scène dans le froid en hiver.
+  EN: Personally, I don't really like performing on stage in the cold during winter.
 
 
-[22:11]
-  KO: 행사 무대할 땐 어느 계절이
-  FR: À quelle saison se produit-on lors d’un événement ?
-  EN: What season is it when performing at an event?
+— [22:32] ────────────────────────────────────────
 
-[22:13]
-  KO: 제일 좋냐고?
-  FR: Est-ce mieux ?
-  EN: Is it best?
+[22:32]
+  KO: 그때는 이제 나는 동굴 속으로 들어가서 겨울잠을 자는 스타일이고
+  FR: À ce moment-là, je suis du genre à entrer dans une grotte pour hiberner.
+  EN: At that time, I'm the type to go into a cave and hibernate.
 
-
-[22:23]
-  KO: 아무래도
-  FR: Je suppose
-  EN: I guess
-
-
-[22:27]
-  KO: 개인적으로 난 겨울을
-  FR: Personnellement, j'apprécie l'hiver
-  EN: Personally, I enjoy winter
-
-[22:29]
-  KO: 추운데서 무대하는 걸 별로 안 좋아해
-  FR: Je n'aime pas vraiment jouer dans le froid.
-  EN: I don't really like performing in the cold.
-
-[22:31]
-  KO: 그때는 이제 나는
-  FR: À l'époque, maintenant je
-  EN: Back then, now I
-
-[22:33]
-  KO: 동굴 속으로 들어가서 겨울 잠을 자는
-  FR: Entrer dans une grotte et dormir en hiver
-  EN: Go into a cave and sleep in the winter
-
-[22:35]
-  KO: 스타일이고
-  FR: C'est du style
-  EN: It's style
-
-
-[22:41]
-  KO: 어
-  FR: euh
-  EN: uh
-
-
-[22:45]
-  KO: 딱 서늘한 거 같은데
-  FR: Je pense que c'est juste cool
-  EN: I think it's just cool
-
-
-— [22:47] ————————————————————————————————————————
-
-[22:47]
-  KO: 습하지 않은 여름과
-  FR: Un été sans humidité
-  EN: A summer without humidity
-
+[22:36]
+  KO: 습하지 않은 여름과 봄
+  FR: L'été et le printemps non humides.
+  EN: Non-humid summer and spring.
 
 [22:51]
-  KO: 봄 그리고 습하지 않은 여름
-  FR: Printemps et été pas si humides
-  EN: Spring and not-so-humid summer
+  KO: 그리고 습하지 않은 여름
+  FR: Et l'été non humide.
+  EN: And non-humid summer.
 
 [22:53]
   KO: 그리고 가을
-  FR: et tomber
-  EN: and fall
+  FR: Et l'automne.
+  EN: And autumn.
+
+[22:55]
+  KO: 여름도 습하지 않으면
+  FR: Si l'été n'est pas humide...
+  EN: If summer isn't humid...
 
 
-[22:59]
-  KO: 아 여름도
-  FR: Ah, l'été aussi
-  EN: Ah, summer too
-
-[23:01]
-  KO: 습하지 않으면
-  FR: Si ce n'est pas mouillé
-  EN: If it's not wet
-
-[23:03]
-  KO: 괜찮아
-  FR: êtes-vous d'accord
-  EN: are you okay
-
-[23:05]
-  KO: 습한 순간 나는 좀
-  FR: Quand il fait humide, je suis un peu
-  EN: When it's humid, I'm a little
+[23:06]
+  KO: 한순간 나는 좀
+  FR: Pendant un instant, je me sens un peu...
+  EN: For a moment, I feel a bit...
 
 [23:07]
-  KO: 아
-  FR: ah
-  EN: ah
-
-[23:09]
   KO: 뭐랄까
-  FR: Que puis-je dire
-  EN: What can I say
+  FR: Comment dire...
+  EN: How should I put it...
 
 [23:11]
-  KO: 비녀리돌더라고
-  FR: Ça tournait comme une épingle à cheveux
-  EN: It was spinning like a hairpin
+  KO: 빈혈이 돌더라고
+  FR: J'ai des vertiges.
+  EN: I get dizzy.
 
 [23:13]
   KO: 무대할 때 너무 힘들어
-  FR: C'est tellement dur quand je suis sur scène
-  EN: It's so hard when I'm on stage
+  FR: C'est trop difficile quand je suis sur scène.
+  EN: It's too hard when I'm on stage.
 
 [23:15]
-  KO: 습기가 너무 습도가
-  FR: trop humide
-  EN: too humid
+  KO: 습기가 너무 습도가 높은 날에는
+  FR: Les jours où l'humidité est trop élevée.
+  EN: On days when the humidity is too high.
 
 [23:17]
-  KO: 높은 날에는
-  FR: Les jours de grande affluence
-  EN: On high days
+  KO: 한 곡 하고 지칠 때도 너무 많았어
+  FR: Il y a eu tellement de fois où j'étais épuisée après une seule chanson.
+  EN: There were so many times I'd be exhausted after just one song.
 
-[23:19]
-  KO: 한 곡하고 지칠 때도 너무 많았어
-  FR: Il y a eu tellement de fois où j’étais fatigué après une seule chanson.
-  EN: There were so many times when I got tired after just one song.
-
-
-[23:23]
+[23:21]
   KO: 그래서 그럴 때는 이제 아예 힘 조절을
-  FR: Donc dans ce cas, je dois maintenant contrôler ma force.
-  EN: So in that case, now I have to control my strength at all.
+  FR: Alors dans ces cas-là, je dois complètement contrôler mon énergie.
+  EN: So in those cases, I completely control my energy.
 
 [23:25]
   KO: 완급 조절을 잘 해가지고
-  FR: Contrôlez bien votre rythme
-  EN: Control your pace well
+  FR: En gérant bien le rythme.
+  EN: By managing the pace well.
 
-[23:27]
+[23:28]
   KO: 무대를 하고
-  FR: se produire sur scène
-  EN: performing on stage
+  FR: Et je me produis.
+  EN: And perform.
 
-
-[23:37]
-  KO: 아
-  FR: ah
-  EN: ah
-
-
-[23:41]
-  KO: 안 습한 여름
-  FR: été pas humide
-  EN: not humid summer
-
-[23:43]
-  KO: 홍콩은 매일 습하다고?
+[23:29]
+  KO: 홍은 매일 습하다고?
   FR: Hong Kong est humide tous les jours ?
   EN: Hong Kong is humid every day?
 
-[23:45]
+
+— [23:46] ────────────────────────────────────────
+
+[23:46]
   KO: 아 아닌 거 같아
-  FR: Oh, je ne pense pas.
-  EN: Oh, I don’t think so.
-
-
-— [23:47] ————————————————————————————————————————
+  FR: Ah, je ne crois pas.
+  EN: Ah, I don't think so.
 
 [23:47]
   KO: 홍콩은 내가 그때
-  FR: Hong Kong, c'était moi à cette époque
-  EN: Hong Kong was me at that time
+  FR: Hong Kong, quand j'y suis allée...
+  EN: Hong Kong, when I went there...
 
-[23:49]
-  KO: 홍콩
-  FR: Hong Kong
-  EN: Hong Kong
+[23:50]
+  KO: 홍콩 3월에 갔을 때
+  FR: Quand je suis allée à Hong Kong en mars.
+  EN: When I went to Hong Kong in March.
 
-[23:51]
-  KO: 3월에 갔을 때
-  FR: Quand j'y suis allé en mars
-  EN: When I went in March
-
-[23:53]
+[23:52]
   KO: 마사회는 4월이고
-  FR: Le club hippique c'est en avril.
-  EN: The horse racing club is in April.
+  FR: Ma-sa-hoe était en avril.
+  EN: Ma-sa-hoe was in April.
 
-[23:55]
+[23:54]
   KO: 맞나?
-  FR: Est-ce vrai ?
-  EN: Is that right?
+  FR: N'est-ce pas ?
+  EN: Right?
 
-[23:57]
-  KO: 어
-  FR: euh
-  EN: uh
-
-[23:59]
-  KO: 잠깐만
-  FR: attends une seconde
-  EN: wait for a sec
+[23:58]
+  KO: 어?
+  FR: Hein ?
+  EN: Huh?
 
 [24:01]
-  KO: 마사회 전 그 전달에
-  FR: A la remise devant l'Association des Courses Hippiques
-  EN: At the delivery before the Horse Racing Association
+  KO: 마사회 전
+  FR: Avant Ma-sa-hoe,
+  EN: Before Ma-sa-hoe,
 
-[24:03]
-  KO: 간 홍콩
-  FR: je suis allé à Hong Kong
-  EN: went to hong kong
+[24:02]
+  KO: 그 전달에 간 홍콩
+  FR: Hong Kong, le mois d'avant.
+  EN: Hong Kong, the month before that.
 
-[24:05]
-  KO: 3월이 근데 그치?
-  FR: C'est mars, non ?
-  EN: It's March, right?
+[24:04]
+  KO: 3월이 근데?
+  FR: Mais c'était mars ?
+  EN: But that was March?
 
+[24:06]
+  KO: 그치?
+  FR: N'est-ce pas ?
+  EN: Isn't it?
 
 [24:11]
-  KO: 어 M 플러스
-  FR: Euh M Plus
-  EN: Uh M Plus
+  KO: 어 N플러스
+  FR: Oh, N Plus.
+  EN: Oh, N Plus.
+
+[24:12]
+  KO: 3월
+  FR: Mars.
+  EN: March.
 
 [24:13]
-  KO: 3월
-  FR: Mars
-  EN: March
+  KO: 홍콩은 3월이야
+  FR: Hong Kong, c'était en mars.
+  EN: Hong Kong was in March.
 
 [24:15]
-  KO: 홍콩은 3월이야
-  FR: C'est mars à Hong Kong
-  EN: It's March in Hong Kong
+  KO: 그때 모든 스태프들과
+  FR: À ce moment-là, avec tout le personnel,
+  EN: At that time, with all the staff,
 
+[24:24]
+  KO: 다 같이 막 홍콩 막 다니면서
+  FR: on se promenait tous à Hong Kong...
+  EN: we were all just going around Hong Kong...
 
-[24:19]
-  KO: 그때
-  FR: à ce moment-là
-  EN: at that time
-
-[24:21]
-  KO: 모든
-  FR: chaque
-  EN: every
-
-[24:23]
-  KO: 스태프들과
-  FR: Avec le personnel
-  EN: With the staff
-
-
-[24:27]
-  KO: 다 같이 막 홍콩
-  FR: Allons tous à Hong Kong
-  EN: Let's all go to Hong Kong
-
-[24:29]
-  KO: 다니면서
-  FR: Faire le tour
-  EN: Going around
-
-[24:31]
+[24:30]
   KO: 너무 행복해가지고
-  FR: Je suis tellement heureux
-  EN: I'm so happy
+  FR: J'étais tellement heureuse.
+  EN: I was so happy.
 
-[24:33]
-  KO: 맞아 그때
-  FR: À ce moment-là
-  EN: Right then
+[24:32]
+  KO: 나 진짜 그때
+  FR: Vraiment, à ce moment-là,
+  EN: Honestly, at that time,
 
-[24:35]
-  KO: 진짜 1년 치 행복을 느꼈다니까
-  FR: J'ai vraiment ressenti l'équivalent d'un an de bonheur
-  EN: I really felt a year's worth of happiness
+[24:34]
+  KO: 진짜 1년치 행복을 느꼈다니까
+  FR: j'ai ressenti le bonheur d'une année entière.
+  EN: I felt a year's worth of happiness.
 
-[24:37]
-  KO: 아 이 힘으로면
-  FR: Ah, avec ce pouvoir
-  EN: Ah, with this power
+[24:36]
+  KO: 아 이 힘으로면은
+  FR: Ah, avec cette énergie,
+  EN: Ah, with this energy,
 
-[24:39]
-  KO: 한 1년 견딜 수 있겠다
-  FR: Je peux le supporter pendant un an
-  EN: I can endure it for a year
+[24:38]
+  KO: 한 1년 견딜 수 있겠다 싶을 정도의
+  FR: c'était un bonheur tel que je pensais pouvoir tenir un an.
+  EN: it was the kind of happiness where I thought I could last a year.
 
-[24:41]
-  KO: 싶을 정도의 행복이었어
-  FR: C'était un tel bonheur que j'avais l'impression
-  EN: It was such happiness that I felt like
+[24:40]
+  KO: 행복이었어
+  FR: C'était un bonheur.
+  EN: It was happiness.
 
 [24:43]
-  KO: 그냥 어디 가다가
-  FR: J'allais juste quelque part
-  EN: I was just going somewhere
+  KO: 그냥 어디 가다가 이렇게
+  FR: Juste en allant quelque part, comme ça,
+  EN: Just going somewhere, like this,
 
 [24:45]
-  KO: 길거리에 카페
-  FR: café dans la rue
-  EN: cafe on the street
+  KO: 길거리에 카페 막
+  FR: un café dans la rue...
+  EN: a cafe on the street...
 
 
-— [24:47] ————————————————————————————————————————
+— [24:46] ────────────────────────────────────────
 
-[24:47]
+[24:46]
   KO: 노천 카페 같은데 앉아가지고
-  FR: C'est comme un café en plein air, mais on peut s'asseoir.
-  EN: It's like an open-air cafe, but you can sit down.
+  FR: Même en s'asseyant à un café en terrasse et en buvant du café, j'étais si heureuse.
+  EN: Even sitting at an outdoor cafe and drinking coffee made me so happy.
 
 [24:49]
-  KO: 커피 마시고
-  FR: boire du café
-  EN: drink coffee
+  KO: 커피 마시고 하는데도 너무 행복하고
+  FR: Même en s'asseyant à un café en terrasse et en buvant du café, j'étais si heureuse.
+  EN: Even sitting at an outdoor cafe and drinking coffee made me so happy.
 
-[24:51]
-  KO: 하는데도 너무 행복하고
-  FR: Je suis si heureux cependant
-  EN: I'm so happy though
-
-
-[24:57]
-  KO: 너무 좋았지
-  FR: C'était tellement bon
-  EN: It was so good
-
-[24:59]
-  KO: 어
-  FR: euh
-  EN: uh
-
-[25:01]
-  KO: 2월도 좋다고 그랬었던 것 같은데
-  FR: Je pense avoir dit que février était bien aussi.
-  EN: I think I said February was good too.
+[24:53]
+  KO: 2월도 좋다고 그랬었던 거 같은데
+  FR: Je crois qu'on disait que février était bien aussi.
+  EN: I think I heard February was good too.
 
 [25:03]
-  KO: 2, 3월에 홍콩이 날씨가
-  FR: Quel temps fait-il à Hong Kong en février et mars ?
-  EN: What is the weather like in Hong Kong in February and March?
+  KO: 2, 3월에 홍콩이 날씨가 진짜 좋대
+  FR: On dit que le temps à Hong Kong est vraiment bon en février et mars.
+  EN: They say Hong Kong's weather is really good in February and March.
 
-[25:05]
-  KO: 진짜 좋대
-  FR: Ils disent que c'est vraiment bien
-  EN: They say it's really good
+[25:06]
+  KO: 안 습하고
+  FR: Pas humide.
+  EN: Not humid.
 
 [25:07]
-  KO: 안 습하고 근데 햇빛은 따뜻하고
-  FR: Il ne fait pas humide, mais le soleil est chaud
-  EN: It's not humid, but the sun is warm
+  KO: 근데 햇빛은 따뜻하고
+  FR: Et le soleil est chaud.
+  EN: And the sunlight is warm.
 
-
-[25:17]
-  KO: 근데
-  FR: cependant
-  EN: however
-
-[25:19]
-  KO: 불과 딱 한 달 뒤에 마사회 때
-  FR: Un mois plus tard, lors des courses hippiques
-  EN: Just one month later, at the horse racing event
+[25:18]
+  KO: 근데 불과 딱 한 달 뒤에 마사회 때
+  FR: Mais à peine un mois plus tard, pour Ma-sa-hoe,
+  EN: But just a month later, for Ma-sa-hoe,
 
 [25:21]
   KO: 이제 또 홍콩을 갔잖아
-  FR: Maintenant tu es retourné à Hong Kong
-  EN: Now you went to Hong Kong again
+  FR: je suis retournée à Hong Kong, n'est-ce pas ?
+  EN: I went to Hong Kong again, right?
 
 [25:23]
   KO: 근데 그때는 또 엄청 습하더라
-  FR: Mais il faisait très humide à cette époque-là.
-  EN: But it was very humid back then.
+  FR: Mais cette fois-là, c'était incroyablement humide.
+  EN: But then it was incredibly humid.
 
 [25:25]
   KO: 깜짝 놀랐어
-  FR: j'ai été surpris
-  EN: I was surprised
+  FR: J'ai été surprise.
+  EN: I was surprised.
 
-
-[25:29]
+[25:26]
   KO: 진짜 습하긴 하더라
-  FR: C'était vraiment humide
-  EN: It was really humid
+  FR: C'était vraiment humide.
+  EN: It really was humid.
 
-[25:31]
-  KO: 아
-  FR: ah
-  EN: ah
-
-
-— [25:57] ————————————————————————————————————————
-
-
-[25:57]
-  KO: 아 내일은
-  FR: Ah, demain
-  EN: Ah, tomorrow
-
-
-[26:01]
-  KO: 요 근래에도
-  FR: Même ces derniers temps
-  EN: Even in recent times
-
-
-[26:05]
-  KO: 이사를 했어
-  FR: j'ai déménagé
-  EN: I moved
-
-[26:07]
-  KO: 이사를 해서
-  FR: Parce que j'ai déménagé
-  EN: Because I moved
-
-
-[26:11]
-  KO: 정말
-  FR: vraiment
-  EN: really
-
-[26:13]
-  KO: 너무 할 일이
-  FR: trop de choses à faire
-  EN: too much to do
-
-[26:15]
-  KO: 너무 많아
-  FR: trop
-  EN: too many
-
-
-[26:25]
+[25:30]
   KO: 왜 그렇게 놀라는 거야
-  FR: Pourquoi es-tu si surpris ?
-  EN: Why are you so surprised?
-
-[26:27]
-  KO: 아
-  FR: ah
-  EN: ah
-
-[26:29]
-  KO: 왜 그렇게 놀라는 거야
-  FR: Pourquoi es-tu si surpris ?
+  FR: Pourquoi êtes-vous si surpris ?
   EN: Why are you so surprised?
 
 
-[26:37]
-  KO: 계약이 끝나서
-  FR: Parce que le contrat est terminé
-  EN: Because the contract is over
+— [26:31] ────────────────────────────────────────
 
+[26:31]
+  KO: 이사 진짜 힘든 거 같아
+  FR: Déménager, c'est vraiment difficile, je crois.
+  EN: Moving really seems hard.
 
-[26:41]
-  KO: 와 이사 진짜 힘든 것 같아
-  FR: Wow, déménager semble vraiment difficile.
-  EN: Wow, moving seems really difficult.
-
-[26:43]
-  KO: 이사는
-  FR: Mobile
-  EN: Moving
-
-
-[26:49]
-  KO: 아직 적응 중이야
-  FR: je suis encore en train de m'adapter
-  EN: I'm still adjusting
+[26:42]
+  KO: 이사는 아직 적응 중이야
+  FR: Je suis encore en train de m'adapter au déménagement.
+  EN: I'm still adapting to the move.
 
 [26:51]
-  KO: 근데
-  FR: cependant
-  EN: however
+  KO: 근데 있을 때 포근하게 일어나는 느낌
+  FR: Mais quand j'y suis, j'ai l'impression de me réveiller confortablement.
+  EN: But when I'm there, I feel like I wake up cozily.
 
-
-[26:55]
-  KO: 좋아 뭐랄까
-  FR: D'accord, que puis-je dire ?
-  EN: Okay, what can I say?
-
-
-— [26:57] ————————————————————————————————————————
-
-[26:57]
-  KO: 자고 일어났을 때
-  FR: Quand je me suis réveillé
-  EN: When I woke up
-
-
-[27:01]
-  KO: 되게 항상 좀 포근하게 일어나는 느낌?
-  FR: Avez-vous toujours l'impression de vous réveiller avec un peu de chaleur ?
-  EN: Do you always feel like you wake up feeling a bit warm?
-
-
-[27:05]
-  KO: 좀 상쾌하게 일어나죠
-  FR: Je me réveille rafraîchi.
+[27:03]
+  KO: 통쾌하게 일어나죠
+  FR: Je me réveille en pleine forme.
   EN: I wake up feeling refreshed.
 
 [27:07]
   KO: 전 집은
-  FR: Ma maison précédente
-  EN: My previous house
+  FR: Mon ancienne maison...
+  EN: My former house...
 
 [27:09]
   KO: 난 전 집이 되게 따뜻해서
-  FR: Parce que ma maison est très chaleureuse
-  EN: Because my house is very warm
+  FR: J'aimais beaucoup mon ancienne maison parce qu'elle était très chaleureuse.
+  EN: I really liked my former house because it was very warm.
 
 [27:11]
   KO: 채광 자체가 되게
-  FR: Devenez le minier lui-même
-  EN: Become mining itself
+  FR: La lumière naturelle elle-même était très...
+  EN: The natural lighting itself was very...
 
 [27:13]
-  KO: 포근하고 따뜻하고
-  FR: confortable et chaleureux
-  EN: cozy and warm
-
-[27:15]
-  KO: 그렇거든
-  FR: C'est exact
-  EN: That's right
+  KO: 포근하고 따뜻하고 그렇거든
+  FR: douce et chaude, et tout.
+  EN: cozy and warm, and all that.
 
 [27:17]
-  KO: 집 전체적으로
-  FR: toute la maison
-  EN: the whole house
-
-[27:19]
-  KO: 채광이 너무 잘 들어서
-  FR: C'est si bien éclairé
-  EN: It's so well lit
+  KO: 집 전체적으로 채광이 너무 잘 들어서
+  FR: Toute la maison recevait tellement de lumière naturelle.
+  EN: The whole house got so much natural light.
 
 [27:21]
   KO: 뭐랄까
-  FR: Que puis-je dire
-  EN: What can I say
+  FR: Comment dire...
+  EN: How should I put it...
 
 [27:23]
-  KO: 또 그 나름대로
-  FR: Et à sa manière
-  EN: And in its own way
+  KO: 또 그 나름대로 좋은 점들이 너무 많아
+  FR: Elle avait tellement de bons côtés à sa manière.
+  EN: It had so many good points in its own way.
 
-[27:25]
-  KO: 그 나름대로 좋은 점들이 너무 많아
-  FR: Il a tellement de bons points à sa manière
-  EN: It has so many good points in its own way
-
-
-[27:29]
-  KO: 그래서 너무 아쉽게
-  FR: Alors malheureusement
-  EN: So unfortunately
-
-[27:31]
-  KO: 이별을 하는 기분이었어
-  FR: J'avais l'impression de rompre
-  EN: I felt like I was breaking up
+[27:27]
+  KO: 그래서 너무 아쉽게 이별을 하는 기분이었어
+  FR: Alors j'avais l'impression de dire au revoir avec tant de regret.
+  EN: So I felt like I was saying goodbye with such regret.
 
 
-[27:35]
-  KO: 근데
-  FR: cependant
-  EN: however
+— [27:33] ────────────────────────────────────────
 
-[27:37]
-  KO: 전 집에서는 자고 일어나면
-  FR: À la maison, quand je me réveille
-  EN: At home, when I wake up
+[27:33]
+  KO: 근데 전 집에서는 자고 일어나면은
+  FR: Mais dans mon ancienne maison, quand je me réveillais,
+  EN: But in my former house, whenever I woke up,
 
 [27:39]
   KO: 항상 좀 두통이 있고
-  FR: J'ai toujours un peu mal à la tête
-  EN: I always have a bit of a headache
+  FR: j'avais toujours un peu mal à la tête.
+  EN: I always had a bit of a headache.
 
 [27:41]
-  KO: 그리고 좀
-  FR: et un peu
-  EN: and kinda
+  KO: 그리고 좀 찌뿌둥하고 항상
+  FR: Et je me sentais toujours un peu engourdie.
+  EN: And I always felt a bit sluggish.
 
-[27:43]
-  KO: 찌푸등하고 항상
-  FR: Froncer les sourcils tout le temps
-  EN: Frowning all the time
+[27:44]
+  KO: 좀 그런 건 있었거든
+  FR: Il y avait toujours ça.
+  EN: There was always that.
 
-[27:45]
-  KO: 그런 건 있었거든
-  FR: Il y avait quelque chose comme ça
-  EN: There was something like that
+[27:46]
+  KO: 그리고 자려고 누우면 이제 두통이랑
+  FR: Et quand je m'allongeais pour dormir, j'avais des maux de tête et
+  EN: And when I lay down to sleep, I'd get headaches and
 
-[27:47]
-  KO: 그리고 자려고 누우면
-  FR: Et quand je m'allonge pour dormir
-  EN: And when I lie down to sleep
-
-[27:49]
-  KO: 이제 두통이랑
-  FR: Maintenant j'ai mal à la tête
-  EN: Now I have a headache
-
-[27:51]
+[27:50]
   KO: 몸에 열이 너무 나서
-  FR: Mon corps a trop de chaleur
-  EN: My body has too much heat
+  FR: mon corps devenait trop chaud.
+  EN: my body would get too hot.
 
-[27:53]
+[27:52]
   KO: 항상 좀 잠을 뒤척였거든
-  FR: Je me tournais et me retournais toujours un peu pendant mon sommeil.
-  EN: I always tossed and turned a bit in my sleep.
+  FR: Alors je me tournais et me retournais toujours.
+  EN: So I always tossed and turned.
 
-
-— [27:59] ————————————————————————————————————————
-
-
-[27:59]
-  KO: 근데 이번 집은
-  FR: Mais cette maison
-  EN: But this house
-
-
-[28:03]
-  KO: 잠을 별로
-  FR: je ne dors pas beaucoup
-  EN: I don't sleep much
+[27:54]
+  KO: 이번 집은 잠을 별로 못 잤는데
+  FR: Dans cette nouvelle maison, je n'ai pas beaucoup dormi,
+  EN: In this new house, I haven't slept much,
 
 [28:05]
-  KO: 못 자고 일어났는데도
-  FR: Même si je n'ai pas pu dormir et que je me suis réveillé
-  EN: Even though I couldn’t sleep and woke up
+  KO: 보통 못 자고 일어났는데도 상쾌해
+  FR: mais d'habitude, même quand je ne dors pas assez, je me réveille rafraîchie.
+  EN: but usually even when I don't get enough sleep, I wake up feeling refreshed.
 
-[28:07]
-  KO: 상쾌해
-  FR: Rafraîchissant
-  EN: Refreshing
-
-[28:09]
+[28:08]
   KO: 뭔가 좀 뽀송하게 일어나는 느낌?
-  FR: Avez-vous l'impression que quelque chose est un peu moelleux ?
-  EN: Does it feel like something is a bit fluffy?
+  FR: Comme si je me réveillais toute légère et sèche ? Pas de maux de tête non plus.
+  EN: Like I wake up feeling 'fluffy' and dry? No headaches either.
 
 [28:11]
   KO: 두통도 없고
-  FR: Pas de mal de tête
-  EN: No headache
+  FR: Pas de maux de tête non plus.
+  EN: No headaches either.
 
-
-[28:17]
+[28:13]
   KO: 풍수지리를 믿냐고?
-  FR: Croyez-vous au Feng Shui ?
-  EN: Do you believe in Feng Shui?
+  FR: Vous demandez si je crois au feng shui ?
+  EN: You're asking if I believe in feng shui?
 
-[28:19]
-  KO: 나는 그래도 믿는 편인 것 같아
-  FR: Je pense que j'y crois toujours
-  EN: I think I still believe it
+[28:18]
+  KO: 나는 그래도 믿는 편인 거 같아
+  FR: Je crois que j'y crois.
+  EN: I think I do believe in it.
 
 [28:21]
-  KO: 나한테는 남양이 잘 맞다고 그랬었거든
-  FR: J'ai dit que Namyang me convenait bien.
-  EN: I said Namyang was a good fit for me.
+  KO: 나한텐 남양이 잘 맞다고 그랬었거든
+  FR: On m'avait dit qu'une orientation sud me convenait bien.
+  EN: They told me that a south-facing orientation suits me well.
 
+[28:24]
+  KO: 근데 진짜 남양이 잘 맞아 실제로도
+  FR: Et en réalité, le sud me convient vraiment bien.
+  EN: And it really does suit me well in reality.
 
-[28:25]
-  KO: 근데 진짜 남양이 잘 맞아
-  FR: Mais Namyang me convient vraiment bien.
-  EN: But Namyang really suits me well.
-
-[28:27]
-  KO: 실제로도
-  FR: En réalité aussi
-  EN: In reality too
-
-[28:29]
-  KO: 내가 좀 편안함을 느끼는 것 같아
-  FR: J'ai l'impression de me sentir un peu plus à l'aise
-  EN: I feel like I'm feeling a little more comfortable
+[28:28]
+  KO: 내가 좀 편안함을 느끼는 거 같아 남양 쪽은
+  FR: J'ai l'impression de ressentir un certain confort avec les orientations sud.
+  EN: I feel a sense of comfort with south-facing areas.
 
 [28:31]
-  KO: 남양 쪽을
-  FR: vers Namyang
-  EN: towards Namyang
+  KO: 라방 제목이 항상 직관적이야 그치?
+  FR: Le titre du live est toujours direct, n'est-ce pas ?
+  EN: The livestream title is always straightforward, right?
 
 
-[28:39]
-  KO: 라방 제목이 항상 직관적이야
-  FR: Le titre de Labang est toujours intuitif
-  EN: Labang’s title is always intuitive
-
-[28:41]
-  KO: 그치?
-  FR: droite?
-  EN: right?
+— [28:43] ────────────────────────────────────────
 
 [28:43]
   KO: 도넛 먹는다고
-  FR: je mange des beignets
-  EN: I'm eating donuts
+  FR: J'ai mis 'Donuts'
+  EN: I put 'Donuts'
 
 [28:45]
   KO: 도넛으로 해놓은 거야
-  FR: Je l'ai fait avec des beignets.
-  EN: I made it with donuts.
+  FR: parce que je mange des donuts.
+  EN: because I'm eating donuts.
 
-
-[28:51]
-  KO: 지금 집은
-  FR: La maison maintenant
-  EN: The house now
-
-[28:53]
-  KO: 전 집은
-  FR: Ma maison précédente
-  EN: My previous house
+[28:52]
+  KO: 지금 집은 전 집에
+  FR: Ma maison actuelle...
+  EN: My current house...
 
 [28:55]
-  KO: 집 전체적으로 채광이 들어왔다면
-  FR: Si la lumière pénètre dans toute la maison
-  EN: If light enters the entire house
+  KO: 전 집은 집 전체적으로 채광이 들어왔다면
+  FR: Si mon ancienne maison avait de la lumière naturelle partout,
+  EN: If my former house had natural light coming in throughout the whole house,
 
-[28:57]
-  KO: 지금 집은
-  FR: La maison maintenant
-  EN: The house now
+[28:58]
+  KO: 지금 집은 앞부분만 탁 이렇게 걸쳐서 이렇게 들어오거든?
+  FR: cette maison actuelle n'en reçoit que sur la partie avant. Vous voyez ?
+  EN: this current house only gets it across the front part. You see?
 
-
-— [29:01] ————————————————————————————————————————
-
-
-[29:01]
-  KO: 앞부분만 딱 이렇게 걸쳐서
-  FR: Juste la partie avant comme ça
-  EN: Just the front part like this
-
-[29:03]
-  KO: 들어오거든?
-  FR: Vous entrez ?
-  EN: Are you coming in?
-
-
-[29:07]
+[29:06]
   KO: 그래서 처음에는 그게 좀 아쉬웠는데
-  FR: J'ai donc été un peu déçu au début.
-  EN: So I was a little disappointed at first.
+  FR: Alors au début, j'étais un peu déçue par ça,
+  EN: So at first, I was a bit disappointed by that,
 
-[29:09]
+[29:10]
   KO: 오히려 그게 더 좋은 거야
-  FR: En fait, c'est mieux
-  EN: Actually, that's better
+  FR: mais en fait, c'est encore mieux.
+  EN: but actually, it's even better.
 
+[29:12]
+  KO: 그래서 어? 생각보다 좋네 하면서
+  FR: Alors je me suis dit : 'Tiens ? C'est mieux que je ne le pensais,'
+  EN: So I was like, 'Huh? It's better than I thought,' and
 
-[29:15]
-  KO: 그래서 생각보다 좋네? 하면서
-  FR: Alors c'est mieux que tu ne le penses ? et
-  EN: So it's better than you think? and
+[29:18]
+  KO: 되게 빠르게 잘 적응을 하고 있어서 좀
+  FR: et je m'adapte très vite, donc je me suis même surprise moi-même.
+  EN: I'm adapting really quickly, so I even surprised myself.
 
-[29:17]
-  KO: 되게 빠르게
-  FR: très vite
-  EN: very quickly
+[29:24]
+  KO: 내가 자신한테도 놀랬어
+  FR: et je m'adapte très vite, donc je me suis même surprise moi-même.
+  EN: I'm adapting really quickly, so I even surprised myself.
 
-
-[29:21]
-  KO: 잘 적응을 하고 있어서
-  FR: je m'adapte bien
-  EN: I'm adapting well
-
-[29:23]
-  KO: 나 자신한테도 놀랐어
-  FR: J'ai été surpris moi-même
-  EN: I was surprised even myself
-
-
-[29:27]
-  KO: 그 전 집 다 짐 싸고
-  FR: Avant cela, j'avais emballé toute la maison.
-  EN: Before that, I packed up the whole house.
-
+[29:26]
+  KO: 되게 집 이제 그 전 집 다 짐 싸고 이렇게
+  FR: J'ai vraiment... après avoir tout emballé dans mon ancienne maison,
+  EN: I really... after packing everything in my former house,
 
 [29:31]
-  KO: 텅 빈 집에서
-  FR: dans une maison vide
-  EN: in an empty house
+  KO: 텅 빈 집에서 이렇게 조용히 이제 기도 드리듯이
+  FR: dans cette maison vide, j'ai tranquillement dit au revoir, presque comme une prière,
+  EN: in that empty house, I quietly said goodbye, almost like a prayer,
 
-[29:33]
-  KO: 조용히
-  FR: tranquillement
-  EN: quietly
+[29:36]
+  KO: 이렇게 인사를 이렇게 하고 왔거든 그 전 집과
+  FR: à mon ancienne maison. Mais les larmes coulaient sans cesse.
+  EN: to my former house. But tears just kept falling.
 
-[29:35]
-  KO: 기도드리듯이 인사를
-  FR: Salutations comme pour prier
-  EN: Greetings as if praying
-
-[29:37]
-  KO: 하고 왔거든
-  FR: je suis venu ici
-  EN: I came here
+[29:39]
+  KO: 근데 막 눈물이 막 뚝뚝뚝 떨어지더라고
+  FR: à mon ancienne maison. Mais les larmes coulaient sans cesse.
+  EN: to my former house. But tears just kept falling.
 
 
-[29:41]
-  KO: 눈물이 막 뚝뚝 떨어지더라고
-  FR: Les larmes sont tombées
-  EN: Tears just fell down
+— [29:46] ────────────────────────────────────────
 
-[29:43]
-  KO: 집에서의 감사했던 추억들과
-  FR: Souvenirs reconnaissants de la maison
-  EN: Grateful memories from home
+[29:46]
+  KO: 그 집에서의 또 참 감사했던 추억들과
+  FR: Tous les souvenirs vraiment précieux de cette maison,
+  EN: All the truly grateful memories from that house,
 
-
-[29:49]
+[29:50]
   KO: 이런 것들이 막 스쳐 지나가면서
-  FR: Ces choses ne font que passer
-  EN: These things are just passing by
-
+  FR: tout ça me revenait à l'esprit.
+  EN: all those things flashed through my mind.
 
 [29:53]
-  KO: 하여튼 내 의지로
-  FR: Quoi qu'il en soit, par ma volonté
-  EN: Anyway, by my will
-
-[29:55]
-  KO: 그냥 이렇게
-  FR: Juste comme ça
-  EN: Just like this
+  KO: 막 하여튼 내 의지로 막
+  FR: De toute façon, ce n'était pas comme si j'avais juste...
+  EN: Anyway, it wasn't like I just...
 
 [29:57]
-  KO: 나갈래! 하고 내가 나간 건 아니니까
-  FR: Je veux sortir ! Parce que je ne suis pas parti
-  EN: I want to go out! Because I didn't leave
+  KO: 그냥 이렇게 아 나갈래 하고 내가 나간 건 아니니까
+  FR: décidé 'Oh, je m'en vais' et que j'étais partie de ma propre volonté.
+  EN: decided 'Oh, I'm leaving' and left of my own will.
 
+[30:03]
+  KO: 그래서 아 너무 아쉽다 그래서
+  FR: Alors je me sentais si triste.
+  EN: So I felt so sad.
 
-— [30:01] ————————————————————————————————————————
+[30:06]
+  KO: 되게 기도 드리듯이 인사를 하고 왔어
+  FR: Alors j'ai dit au revoir presque comme une prière.
+  EN: So I said goodbye almost like a prayer.
 
+[30:10]
+  KO: 그랬는데 그 다음 집에 적응을 너무 빨리 잘하고 있는 기분이야 지금
+  FR: Mais maintenant, j'ai l'impression de m'adapter si vite à la maison suivante.
+  EN: But now I feel like I'm adapting to the next house so quickly.
 
-[30:01]
-  KO: 그래서 너무 아쉽다
-  FR: Donc c'est tellement décevant
-  EN: So it's so disappointing
+[30:19]
+  KO: 그래서 좀 전 집한테 좀 미안할 정도로
+  FR: À tel point que je me sens presque désolée pour mon ancienne maison.
+  EN: So much so that I almost feel sorry for my former house.
 
-
-[30:05]
-  KO: 기도드리듯이 인사를 하고 왔어
-  FR: J'ai dit bonjour comme si je priais
-  EN: I said hello as if I was praying
-
-[30:07]
-  KO: 그래서
-  FR: donc
-  EN: so
-
-[30:09]
-  KO: 그랬는데
-  FR: j'ai fait ça
-  EN: I did that
-
-[30:11]
-  KO: 그 다음 집에 적응을
-  FR: Alors habitue-toi à la maison
-  EN: Then get used to the house
-
-[30:13]
-  KO: 너무 빨리 잘하고 있는 기분이야
-  FR: J'ai l'impression d'aller si bien, si vite
-  EN: I feel like I'm doing so well so fast
-
-[30:15]
-  KO: 그래서 좀 전 집한테 미안할 정도로
-  FR: Alors, je me suis senti désolé pour ma famille.
-  EN: So, I felt sorry for my family.
-
-
-[30:21]
-  KO: 하이라이터 뭐 쓰냐고?
-  FR: Quel surligneur utilisez-vous ?
-  EN: What highlighter do you use?
-
-[30:23]
-  KO: 몰라
-  FR: Je ne sais pas
-  EN: I don't know
-
-[30:25]
-  KO: 이건 뭐랄까
-  FR: Que puis-je dire à ce sujet ?
-  EN: What can I say about this?
-
-[30:27]
-  KO: 하이라이터만의 문제는 아닌 것 같은데
-  FR: Je ne pense pas que ce soit uniquement le problème du surligneur.
-  EN: I don't think it's just the highlighter's problem.
-
+[30:22]
+  KO: 하이라이터 뭐 쓰냐고? 몰라
+  FR: Vous demandez quel highlighter j'utilise ? Je ne sais pas.
+  EN: You're asking what highlighter I use? I don't know.
 
 [30:31]
-  KO: 하이라이터는
-  FR: Le surligneur est
-  EN: The highlighter is
-
-[30:33]
-  KO: 하이라이터가
-  FR: Le surligneur
-  EN: The highlighter
-
-[30:35]
-  KO: 문제는 아닌 것 같은데
-  FR: je ne pense pas que ce soit un problème
-  EN: I don't think it's a problem
+  KO: 이건 뭐랄까 하이라이터만의 문제는 아닌 거 같은데
+  FR: Je suppose que ce n'est pas seulement une question d'highlighter.
+  EN: I guess it's not just about the highlighter itself.
 
 
-[30:45]
+[30:43]
   KO: 왜 웃어?
-  FR: Pourquoi tu souris ?
-  EN: Why are you smiling?
-
-[30:47]
-  KO: 기분 나쁠려고 그래?
-  FR: Essayez-vous de me faire me sentir mal ?
-  EN: Are you trying to make me feel bad?
+  FR: Pourquoi riez-vous ?
+  EN: Why are you laughing?
 
 
-[30:55]
-  KO: 자, 이제 여러분
-  FR: Ok maintenant les gars
-  EN: Okay now guys
+— [30:46] ────────────────────────────────────────
 
-[30:57]
-  KO: 일단 다음에 또 만나
-  FR: Pour l'instant, retrouvons-nous la prochaine fois
-  EN: For now, let’s meet again next time
+[30:46]
+  KO: 기분 나쁠래 그래?
+  FR: Vous voulez me vexer ?
+  EN: Do you want to make me upset?
+
+[30:49]
+  KO: 어 아 자 이제 여러분 이제 일단 다음에 또 만나
+  FR: Oh, d'accord, tout le monde, je vous dis à la prochaine.
+  EN: Oh, alright, everyone, I'll see you next time.
 
 [30:59]
-  KO: 안녕
-  FR: Salut
-  EN: hi
+  KO: 안녕 하여튼 정리 나는 이제 또 내 나름의 이제 정리 잘하고
+  FR: Au revoir. En tout cas, je vais bien m'organiser de mon côté.
+  EN: Bye. Anyway, I'll sort things out on my end.
 
-
-— [31:01] ————————————————————————————————————————
-
-[31:01]
-  KO: 하여튼
-  FR: de toute façon
-  EN: anyhow
-
-
-[31:05]
-  KO: 정리... 나는 이제 또 내 나름의
-  FR: Résumé... J'ai maintenant le mien
-  EN: Summary... I now have my own
-
-[31:07]
-  KO: 이제 정리 잘하고
-  FR: Maintenant, range bien
-  EN: Now tidy up well
-
-[31:09]
-  KO: 요새 너무
-  FR: Ces jours-ci, tellement
-  EN: These days so much
-
-[31:11]
-  KO: 이사 때문에 정신이 없었어가지고
-  FR: J'étais distrait à cause du déménagement.
-  EN: I was distracted because of the move.
+[31:10]
+  KO: 요새 너무 이렇게 이사 때문에 정신이 없었어 가지고
+  FR: J'ai été tellement occupée ces derniers temps avec le déménagement.
+  EN: I've been so busy lately with the move.
 
 [31:13]
-  KO: 연습도 그렇고
-  FR: Pareil avec la pratique
-  EN: Same with practice
+  KO: 연습도 그렇고 많은 일이 이번에 너무 겹쳐서 정신이 없었는데
+  FR: Les répétitions aussi, et tant de choses se sont superposées que j'étais débordée.
+  EN: And practice too, and so many things overlapping, it's been hectic.
 
-[31:15]
-  KO: 많은 일이 이번에
-  FR: Il s'est passé beaucoup de choses cette fois
-  EN: A lot happened this time
+[31:20]
+  KO: 조만간 또 빨리 놀러 올게 알았지?
+  FR: Mais je reviendrai bientôt, d'accord ?
+  EN: But I'll come visit again soon, okay?
 
-[31:17]
-  KO: 너무 겹쳐서 정신이 없었는데
-  FR: Il y avait tellement de chevauchements que j’étais devenu fou.
-  EN: There was so much overlap that I was out of my mind.
+[31:24]
+  KO: 도넛 잘 먹을게 고마워
+  FR: Je vais bien manger les donuts, merci.
+  EN: I'll enjoy the donuts, thank you.
 
+[31:28]
+  KO: 그리고 건강 행복 안녕
+  FR: Et soyez en bonne santé, soyez heureux. Au revoir.
+  EN: And stay healthy, be happy. Bye.
 
-[31:21]
-  KO: 조만간 또 빨리 놀러 올게
-  FR: Je reviendrai bientôt jouer
-  EN: I'll come back to play again soon
-
-[31:23]
-  KO: 알았지?
-  FR: D'accord?
-  EN: Okay?
-
-[31:25]
-  KO: 도넛 잘 먹을게
-  FR: je vais profiter des beignets
-  EN: I'll enjoy the donuts
-
-[31:27]
-  KO: 고마워
-  FR: merci
-  EN: thank you
-
-[31:29]
-  KO: 그리고 건강
-  FR: et la santé
-  EN: and health
-
-[31:31]
-  KO: 행복
-  FR: bonheur
-  EN: happiness
-
-[31:33]
-  KO: 안녕
-  FR: Salut
-  EN: hi
-
-[31:35]
-  KO: 안녕
-  FR: Salut
-  EN: hi
 
