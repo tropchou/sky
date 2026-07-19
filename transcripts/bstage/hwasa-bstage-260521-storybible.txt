@@ -1,0 +1,112 @@
+HWASA BSTAGE 260521 - AI SUMMARY
+Source: https://www.youtube.com/watch?v=l5pmhKmJzEM
+Video: 260521 Hwasa b.stage Live
+       260521 Hwasa b.stage Live
+Channel: @mamamoovlivesarchive
+Uploaded: 2026-05-25
+Model: gemini-2.5-flash
+============================================================
+
+This document provides a translation reference for the Korean transcript, covering characters, setting, key events, terminology, and translation notes for English and French localization.
+
+---
+
+# Translation Reference Document
+
+## 1. CHARACTERS / SPEAKERS
+
+### Main Speaker
+*   **Name:** Not explicitly mentioned.
+*   **Inferred Gender:** Female. Kpop idol Hwasa. Hwasa uses female-centric terms like "언니" (eonni, older sister) for older female fans, "소녀" (sonyeo, girl) for younger female fans, and "이모" (imo, maternal aunt) for middle-aged female fans. She also refers to 10-year-old fans as "내 배로 낳은 내 자식들" (nae baero naeun nae jasikdeul, my children born from my belly), implying a maternal, albeit metaphorical, role.
+*   **Inferred Age:** In her 30s (seg 32, 34).
+*   **Role:** Performer/Influencer/Streamer. Engages in live broadcasts ("라방"), performs on "무대" (stage) and "행사 무대" (event stage), and interacts directly with a dedicated fanbase.
+*   **Relationships:** Has a playful, affectionate, and somewhat familial relationship with her audience (fans). She also mentions a "매니저님" (manager) and "스태프들" (staff).
+*   **Pronouns (EN/FR):** She/her (elle).
+
+### Audience (Fans)
+*   **Name:** Collectively referred to as "청이" (Cheong-i). Hwasa also affectionately calls them "멍청이들" (Meongcheong-ideul, literally "Twits," but used endearingly).
+*   **Inferred Gender:** Predominantly female, given the Hwasa's use of female-specific familial terms (이모, 언니, 소녀). However, the audience is likely mixed gender in reality.
+*   **Inferred Age:** Ranges from 10s to 90s+, as categorized by the speaker during an interactive segment.
+*   **Role:** Viewers/Listeners of the live broadcast, fans of the speaker.
+*   **Relationships:** Engaged and interactive with Hwasa, forming a close-knit Twits fan community.
+*   **Pronouns (EN/FR):** They/them (iels/elles). Use "they/them" for general reference. If specific age groups are addressed with gendered terms (e.g., "girls" for 20s), use appropriate gendered pronouns for those specific instances.
+
+### Other Mentioned
+*   **매니저님 (Maenijeonim):** Manager (seg 6). Gender not specified.
+    *   **Pronouns (EN/FR):** They/them (iel/elle/il).
+*   **스태프들 (Seutaepedeul):** Staff (seg 1456). Plural.
+    *   **Pronouns (EN/FR):** They/them (iels/elles/ils).
+
+## 2. SETTING & CONTEXT
+
+*   **Where and When:** The broadcast takes place in Hwasa's "지금 집" (current house) (seg 267), following a recent move from her "전 집" (former house) (seg 240). She recounts past travel experiences in "홍콩" (Hong Kong) (seg 1427) and discusses her stage performances. The timing is contemporary, likely a recent live broadcast.
+*   **Content Type:** This is a "라방" (rabang, live broadcast/livestream) (seg 1711). It functions as a casual fan interaction session, combining elements of a vlog (personal updates, daily life) and an interview (answering implied questions from the audience).
+*   **Topic and Overall Purpose:**
+    *   **Initial:** Casual chat about food (donuts) and playful banter.
+    *   **Mid-segment:** Discussion on health management (sleep, exercise, aging) and an extended, humorous interaction categorizing the audience by age group with various affectionate titles.
+    *   **Later segment:** Sharing experiences related to performing (weather preferences, stage conditions), travel anecdotes (Hong Kong), and personal updates about her recent house move (emotional attachment, adaptation, feng shui).
+    *   **Overall Purpose:** To connect with her fanbase, share personal stories and thoughts, entertain, and foster a sense of community and intimacy.
+
+## 3. KEY EVENTS (with segment references)
+
+*   **seg 1-6:** Speaker discusses delicious donuts and playfully demands "bribes" of good food.
+*   **seg 9-10:** Speaker identifies the donuts as being from "Abebe Bakery."
+*   **seg 15-29:** Speaker talks about managing her health, emphasizing sleep, and playfully acknowledges her own and the audience's aging.
+*   **seg 30-166:** Speaker initiates a long, interactive segment, asking fans to identify their age group (10s to 90s) and assigning them affectionate, age-based titles (e.g., "이모" for 30s, "언니" for 40s/50s, "선생님" for 60s, "여왕" for 70s, "갓" for 80s, and a humorous struggle with 90s).
+*   **seg 167-173:** Speaker playfully challenges the audience about their continued loyalty and participation even at 100 years old.
+*   **seg 175-200:** Speaker expresses enjoyment for unexpected stage situations and discusses her preferences for performance weather, disliking cold and high humidity.
+*   **seg 201-234:** Speaker recounts a positive, non-humid trip to Hong Kong in March and contrasts it with a surprisingly humid experience during the "Ma-sa-hoe" event in April.
+*   **seg 236-286:** Speaker shares details about her recent house move, expressing emotional attachment to her old house (saying goodbye with tears) and her surprisingly quick and positive adaptation to her new house, attributing some of it to "풍수지리" (feng shui).
+*   **seg 291-297:** Speaker concludes the live broadcast, thanking fans for the donuts and promising to return soon.
+
+## 4. TERMINOLOGY & PROPER NOUNS
+
+*   **Korean-specific terms to keep untranslated (with explanation):**
+    *   **청이 (Cheong-i):** Hwasa's unique, affectionate term for her fans/audience. Should be kept as "Cheong-i" (plural "Cheong-is") and explained as the fan club name or a pet name for fans.
+    *   **멍청이 (Meongcheong-i):** Literally "idiot" or "fool," but used here affectionately and playfully. Translate as "silly Cheong-is," "my silly fans," or similar, depending on context to convey endearment, not insult.
+    *   **넘사 (Neomsa):** Short for "넘사벽 (neomsabyeok)," meaning "an insurmountable wall" or "beyond comparison." Used in seg 102 to describe 80-year-olds as being in a league of their own. Can be translated as "incomparable" or "on another level."
+    *   **갓 (Gat):** "God." Used as a prefix in slang to mean "god-tier" or "superb." Used for 80-year-old fans ("갓 청이 님").
+    *   **라방 (Rabang):** Short for "라이브 방송 (raibeu bangsong)," meaning "live broadcast" or "livestream."
+    *   **풍수지리 (Pungsujiri):** Feng shui.
+    *   **채광 (Chaegwang):** Natural lighting, sunlight.
+
+*   **Names of places, brands, dishes, etc.:**
+    *   **아베베 베이커리 (Abebe Bakery):** A specific bakery. Keep as "Abebe Bakery."
+    *   **사내진미 (Sanaejinmi):** Traditional term for "delicacies from mountains and seas," referring to the finest foods. Translate as "the finest delicacies" or "rare delicacies."
+    *   **홍콩 (Hong Kong):** City. Keep as "Hong Kong."
+    *   **마사회 (Ma-sa-hoe):** Likely refers to a specific event or venue, possibly related to the Korea Racing Authority, where Hwasa performed in Hong Kong. Keep as "Ma-sa-hoe" with a note if further context is needed, or translate as "Horse Racing Association event" if the context is clear.
+    *   **N플러스 (N Plus):** Possibly an event or brand name mentioned in passing. Keep as "N Plus."
+
+*   **Honorifics handling notes:**
+    *   Hwasa uses a complex, playful system of honorifics and familial terms for her audience based on age.
+    *   **님 (nim):** General honorific, similar to "Mr./Ms./Mx." or "Sir/Ma'am." Translate as "Ms./Mr." or "esteemed" when used with names/titles (e.g., "여왕 청이 님" -> "Queen Cheong-i").
+    *   **이모 (Imo):** "Maternal aunt." Used for 30s audience members. Translate as "auntie" or "aunt."
+    *   **언니 (Eonni):** "Older sister" (used by a female speaker). Used for 40s and 50s audience members. Translate as "older sister" or "sis."
+    *   **선생님 (Seonsaengnim):** "Teacher" or a respectful term for an elder. Used for 60s audience members. Translate as "teacher" or "respected elder."
+    *   **여왕 (Yeowang):** "Queen." Used for 70s audience members. Translate as "Queen."
+    *   **갓 (Gat):** "God." Used for 80s audience members. Translate as "God."
+    *   **소녀 (Sonyeo):** "Girl" or "maiden." Used for 20s audience members. Translate as "girls" or "young ladies."
+    *   **자식 (Jasik):** "Child/offspring." Used for 10s audience members. Translate as "children" or "my kids."
+    *   **General approach:** Translate the familial/honorific terms to convey the affectionate and age-based relationship, retaining "Cheong-i" as the fan name suffix.
+
+## 5. TRANSLATION NOTES
+
+*   **Tone/Register:**
+    *   Hwasa's tone is generally casual, friendly, playful, and affectionate. She uses a mix of informal (반말, banmal) and slightly more formal/respectful (존댓말, jondaetmal, especially with honorifics for older fans) speech.
+    *   **Handling:** Maintain this playful and affectionate tone. The use of "멍청이들" (meongcheong-ideul) must be translated to convey endearment rather than genuine insult. When honorifics are used, ensure the English/French translation reflects the intended respect while keeping the overall friendly context.
+
+*   **Recurring Expressions and Handling:**
+    *   **맛있다 (masitta):** "It's delicious." (seg 7, 11) - Straightforward.
+    *   **그치? (geuchi?):** "Right?" or "Isn't it?" (seg 6, 210, 1711) - Translate to similar conversational tags.
+    *   **알았죠? (aratjyo?):** "Understood?" or "Okay?" (seg 23) - Translate to check for audience comprehension/agreement.
+    *   **그래 (geurae):** "Yes," "Okay," "Right." (seg 24, 25, 115, 119, 127) - Translate as appropriate conversational filler or affirmation.
+    *   **~ 청이 (Cheong-i):** The fan name suffix. Always retain "Cheong-i" and translate the preceding age/role descriptor (e.g., "30대 이모 청이들" -> "Auntie Cheong-is in their 30s").
+    *   **~ 계신가요? (gyesingayo?):** "Are you here?" or "Is [X] present?" (seg 76, 84, 87, 94, 113) - Used repeatedly for audience interaction.
+    *   **90대 (gusipdae):** "90s" or "people in their 90s." Hwasa repeats this many times (seg 131-166) as she humorously struggles to come up with an appropriate honorific. This repetition should be conveyed in translation to reflect the comedic effect.
+
+*   **Ambiguities to Watch For:**
+    *   **"청이" (Cheong-i):** Ensure consistent handling as a proper noun/fan name. Do not translate literally.
+    *   **"멍청이들" (Meongcheong-ideul):** The affectionate nature of this term is crucial. Avoid translations that sound genuinely derogatory.
+    *   **Age categories and honorifics:** The specific age ranges assigned to "이모," "언니," etc., are defined by Hwasa within this context. Ensure these specific associations are maintained.
+    *   **"마사회" (Ma-sa-hoe):** If the exact nature of this event/location is unclear, it's best to transliterate and add a brief note if necessary.
+    *   **Repetition of "90대":** This is a deliberate comedic device. The translation should reflect Hwasa's prolonged, slightly exasperated repetition rather than condensing it.
