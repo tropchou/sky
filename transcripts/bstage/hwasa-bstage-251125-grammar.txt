@@ -1,12 +1,3 @@
-HWASA BSTAGE 251125 - GRAMMAR
-Source: https://www.youtube.com/watch?v=o0rCTLj5xng
-Video: 251125 Hwasa b.stage Live
-       251125 Hwasa b.stage Live
-Channel: @mamamoovlivesarchive
-Uploaded: 2025-12-08
-Model: gemini-3.5-flash-lite
-============================================================
-
 === [00:10] 안녕 안녕 멍청이들아 안녕 ===
 meaning: Hello, hello, my Twits, hello!
 tone: Casual, affectionate greeting.
