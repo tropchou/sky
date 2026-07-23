@@ -1897,70 +1897,6 @@ meaning: To think that something might happen / to wonder if
 example: 비가 올까 싶어 우산을 챙겼다. (I packed an umbrella thinking it might rain.)
 level: Intermediate
 
-=== [07:36] 그래서 내가 사진 셀렉 하는 대로 공지가 가지 않을까 싶어 ===
-meaning: So, I think the notice will go out as soon as I finish selecting the photos.
-tone: Casual, repetitive self-correction or emphasis.
---- word ---
-term: 그래서
-type: conjunction
-breakdown: 그렇다 + -어서
-meaning: so / therefore
-notes: Used to connect thoughts or introduce a consequence. Very common in spoken Korean.
---- word ---
-term: 내가
-type: pronoun + particle
-breakdown: 나 + 가
-meaning: I
-notes: Informal first-person pronoun 나 combined with the subject marker 가.
---- word ---
-term: 사진
-type: noun
-breakdown: 
-meaning: photo
-notes: Refers to the photoshoot proofs mentioned in the story bible.
---- word ---
-term: 셀렉
-type: noun
-breakdown: 
-meaning: selection
-notes: Industry slang for choosing pictures.
---- word ---
-term: 하는
-type: verb ending / modifier
-breakdown: 하다 + -는
-meaning: doing
-notes: Present adjectival suffix.
---- word ---
-term: 대로
-type: grammar particle
-breakdown: 
-meaning: as soon as / according to
-notes: indicates following a condition.
---- word ---
-term: 공지가
-type: noun + particle
-breakdown: 공지 + 가
-meaning: notice
-notes: Subject of the upcoming verb.
---- word ---
-term: 가지
-type: verb
-breakdown: 가다 + -지
-meaning: to go
-notes: Used here for notices going out to fans.
---- word ---
-term: 않을까
-type: verb ending
-breakdown: 않다 + -ㄹ까
-meaning: might not / I wonder if
-notes: Conjectural ending.
---- word ---
-term: 싶어
-type: verb
-breakdown: 싶다 + -어
-meaning: to think / suspect
-notes: Expresses the speaker's personal guess.
-
 === [07:37] 그래서 내가 사진 셀렉 하는 대로 공지가 가지 않을까 싶어 ===
 meaning: So, I think the notice will go out as soon as I finish selecting the photos.
 tone: Casual, trailing off slightly as she gathers her thoughts.
@@ -2100,7 +2036,40 @@ meaning: Must / have to do something
 example: 숙제를 해야 해요. (I have to do my homework.)
 level: Beginner
 
-=== [07:44] 회사에서 제발 셀렉 좀 빨리 해달래 ===
+=== [07:40] 사진 셀렉을 해야 돼 ===
+meaning: I have to select the photos today.
+tone: Casual, confessional, self-reproaching.
+--- word ---
+term: 사진
+type: noun
+breakdown: 
+meaning: photo
+notes: Refers to the work backlog.
+--- word ---
+term: 셀렉을
+type: noun + particle
+breakdown: 셀렉 + 을
+meaning: selection
+notes: Object marker -을 attached to the Konglish word 'select'.
+--- word ---
+term: 해야
+type: verb
+breakdown: 하다 + -어야
+meaning: must do
+notes: Repeated for emphasis on obligation.
+--- word ---
+term: 돼
+type: verb
+breakdown: 되다 + -어
+meaning: it must be / have to
+notes: Forms the standard Korean necessity ending -어야 돼 (have to do).
+--- grammar ---
+pattern: -어야 하다 / 되다
+meaning: Must / have to do something
+example: 숙제를 해야 해요. (I have to do my homework.)
+level: Beginner
+
+=== [07:43] 회사에서 제발 셀렉 좀 빨리 해달래 ===
 meaning: The company is telling me to please hurry up and do the selection.
 tone: Casual, complaining playfully, informal speech (banmal).
 --- word ---
@@ -2145,7 +2114,7 @@ meaning: They say that / telling someone to...
 example: 친구들이 빨리 오래요. (My friends are telling me to come quickly.)
 level: Intermediate
 
-=== [07:54] 어떻게 같이 해 이거 꺼지는데 ===
+=== [07:53] 어떻게 같이 해 이거 꺼지는데 ===
 meaning: How do I do this together? This thing is turning off.
 tone: Flustered, confused, addressing technical trouble live.
 --- word ---
@@ -2251,7 +2220,7 @@ breakdown: 있다 + -어
 meaning: it is there / I have it
 notes: Indicates existence or possession.
 
-=== [08:10] 꺼야 되나? ===
+=== [08:09] 꺼야 되나? ===
 meaning: Should I turn it off?
 tone: Casual, internal monologue, wondering aloud.
 --- word ---
@@ -2272,7 +2241,7 @@ meaning: Expresses pondering a future action or whether something is appropriate
 example: 갈까?
 level: Beginner
 
-=== [08:13] 화면 공유 기능이 아이폰엔 있어? ===
+=== [08:20] 화면 공유 기능이 아이폰엔 있어? ===
 meaning: Does the iPhone have a screen-sharing feature?
 tone: Curious, casual, direct question to fans.
 --- word ---
