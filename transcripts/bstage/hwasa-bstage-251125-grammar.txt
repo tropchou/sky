@@ -2567,8 +2567,8 @@ breakdown: 오다 + ㄹ까
 meaning: should I come? / should I order?
 notes: 오다 (oda, to come) with the interrogative ending -ㄹ까 (-lgga), which asks for a suggestion or contemplates a future action. In food/delivery contexts, it can colloquially hint at ordering food.
 
-=== [09:42] 맨날 영톤 끼면 ===
-meaning: Whenever I wear Yeongton...
+=== [09:42] 맨날 영톤 끼면 냉장고 뒤져 ===
+meaning: Every time I do a video call, I rummage through the fridge.
 tone: Casual, complaining playfully.
 --- word ---
 term: 맨날
@@ -2588,15 +2588,6 @@ type: verb
 breakdown: 끼다 + 면
 meaning: if I put on / wear (glasses, lenses, etc.)
 notes: Derived from 끼다 (kkida, to wear something tight, glasses, or contact lenses). The conditional ending -면 (-myeon) means 'if' or 'when'.
---- grammar ---
-pattern: -면
-meaning: Conditional suffix meaning 'if' or 'when'.
-example: 시간이 있으면 영화 보자.
-level: Beginner
-
-=== [09:44] 냉장고 뒤져 ===
-meaning: Rummaging through the fridge.
-tone: Casual, reflective, internal monologue style.
 --- word ---
 term: 냉장고
 type: noun
@@ -2609,6 +2600,11 @@ type: verb
 breakdown: 뒤지다 + 어
 meaning: rummage through, search
 notes: Informal casual (banmal) imperative or descriptive ending. In conversational Korean, dropping the final 요 or ending in a plain stem creates a casual, stream-of-consciousness diary tone.
+--- grammar ---
+pattern: -면
+meaning: Conditional suffix meaning 'if' or 'when'.
+example: 시간이 있으면 영화 보자.
+level: Beginner
 --- grammar ---
 pattern: Noun + 을/를 뒤지다
 meaning: To rummage through or search a place/thing thoroughly.
@@ -2642,7 +2638,7 @@ meaning: Expresses sudden realization or exclamation about a state or fact (casu
 example: 벌써 시간이 이렇게 됐네. (Time has already gotten this late, wow.)
 level: Beginner
 
-=== [09:53] 그니까 그 ===
+=== [09:48] 그니까 그 ===
 meaning: I mean, that...
 tone: Hesitant, conversational filler.
 --- word ---
@@ -2674,7 +2670,7 @@ breakdown: 멍청이 + 들
 meaning: idiots, fools, my Twits
 notes: Story Bible context: Hwasa affectionately calls her fanbase '멍청이들' (my Twits). While 멍청이 literally means a fool or dummy, using it for fans is an endearing, playful inside joke showing extreme closeness.
 
-=== [10:20] 와 진짜 뭐지? ===
+=== [9:57] 와 진짜 뭐지? ===
 meaning: Whoa, seriously, what is this?
 tone: Surprised, bewildered, casual.
 --- word ---
