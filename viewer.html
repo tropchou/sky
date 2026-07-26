@@ -801,7 +801,7 @@ fetch(file)
 
       const ts  = headerMatch[1].trim();
       const ko  = headerMatch[2].trim();
-      const key = ts + '\t' + ko;
+      const key = normTs(ts) + '\t' + normKo(ko);
 
       const entry = { meaning: '', tone: '', words: [], grammar: [] };
 
@@ -931,8 +931,9 @@ fetch(file)
 
         // Check if this group has grammar data
         if (group.ts && group.ko && grammarMap.size > 0) {
-          const key   = group.ts + '\t' + group.ko;
-          const entry = grammarMap.get(key);
+            const key = normTs(group.ts) + '\t' + normKo(group.ko);
+            const entry = grammarMap.get(key);
+
 
           if (entry) {
             const toggleBtn       = document.createElement('button');
@@ -1670,6 +1671,24 @@ function initAudioPlayer() {
     return sep;
   }
 
+    function normTs(ts) {
+      // Collapse to h:mm:ss or m:ss with non-padded leading unit
+      const p = String(ts).trim().split(':').map(n => parseInt(n, 10));
+      let h = 0, m = 0, s = 0;
+      if (p.length === 3) { [h, m, s] = p; }
+      else if (p.length === 2) { [m, s] = p; }
+      else { s = p[0]; }
+      m += Math.floor(s / 60); s %= 60;
+      h += Math.floor(m / 60); m %= 60;
+      return h > 0
+        ? `${h}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`
+        : `${m}:${String(s).padStart(2,'0')}`;
+    }
+    function normKo(ko) {
+      return String(ko).normalize('NFC').replace(/\s+/g, ' ').trim();
+    }
+
+  
   function tsToSeconds(ts) {
     const parts = ts.split(':').map(Number);
     if (parts.length === 3) return parts[0] * 3600 + parts[1] * 60 + parts[2];
