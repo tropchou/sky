@@ -1,0 +1,124 @@
+HWASA BSTAGE 260723 - AI SUMMARY
+Source:  https://www.youtube.com/watch?v=tOSGMtl3LjQ
+Video:   [마마무 화사] 260723
+Channel: @나의사계절마마무
+Uploaded:260726
+Model: gemini-2.5-flash
+============================================================
+
+This document provides a translation reference for the Korean transcript, covering characters, setting, key events, terminology, and translation notes for English and French localization.
+
+---
+
+## TRANSLATION REFERENCE DOCUMENT
+
+### 1. CHARACTERS / SPEAKERS
+
+*   **Main Speaker: 혜진 (Hyejin)**
+    *   **Inferred Gender, Age, Role, Relationships:** Female, likely in her 20s or 30s. Appears to be a celebrity or idol, given references to "birthday cover," "fans," "Instagram," "solo stage," and "airport." She interacts casually and affectionately with her audience, who refer to her as "언니" (unnie, older sister for females) and "누나" (nuna, older sister for males). She is the central figure of the live stream.
+    *   **Pronouns (EN/FR):** She/her (EN), Elle (FR).
+
+*   **Audience / Fans: (Unspecified names, referred to collectively)**
+    *   **Inferred Gender, Age, Role, Relationships:** Viewers of the live stream, likely a mix of genders and ages, but primarily fans of Hyejin. They interact via comments, asking questions, making suggestions, and offering birthday wishes.
+    *   **Pronouns (EN/FR):** They/them (EN), Iels/Elles (FR).
+
+*   **Friends (of Hyejin):**
+    *   **Inferred Gender, Age, Role, Relationships:** Mentioned as "친구" (friend/s). One friend brought other "friends" (Lumi, Gyudong, Rody, Morora) to Hyejin's birthday.
+    *   **Pronouns (EN/FR):** They/them (EN), Iels/Elles (FR).
+
+*   **Lumi (루미), Gyudong (규동) / Gyodong (교동), Rody (로디), Morora (모로라):**
+    *   **Inferred Gender, Age, Role, Relationships:** These are the "friends" brought by Hyejin's friend. The context (Hyejin questioning their names, asking "Is Gyudong a food?", and a comment about them being "tall") strongly suggests they are not human friends but rather pets (e.g., dogs) or large plush toys. Hyejin interacts with them as if they are present.
+    *   **Pronouns (EN/FR):** They/them (EN), Iels/Elles (FR) if treated as a group of distinct personalities; It/its (EN), Il/Elle (FR) if treated as inanimate objects. Given the playful interaction, "they/them" is likely more appropriate.
+
+*   **Wheein (휘인):**
+    *   **Inferred Gender, Age, Role, Relationships:** Mentioned in the context of a "solo stage." Likely a fellow female idol or celebrity, possibly a colleague or friend of Hyejin.
+    *   **Pronouns (EN/FR):** She/her (EN), Elle (FR).
+
+*   **Yujin (유진):**
+    *   **Inferred Gender, Age, Role, Relationships:** A hypothetical name used by Hyejin in a proposal scenario (seg 1042). Could be a generic placeholder or a fan's name. Assume female for consistency in hypothetical romantic context.
+    *   **Pronouns (EN/FR):** She/her (EN), Elle (FR).
+
+*   **Cheonghui (청희):**
+    *   **Inferred Gender, Age, Role, Relationships:** Appears to be a collective term for a group of fans, possibly a fan club name, as in "If Cheonghui(s) propose to unnie?"
+    *   **Pronouns (EN/FR):** They/them (EN), Iels/Elles (FR).
+
+### 2. SETTING & CONTEXT
+
+*   **Where and When:** The stream takes place indoors, likely at Hyejin's home or a personal studio. It is "lunchtime" (seg 2) and Hyejin has "just woken up" (seg 4) on the day after her birthday. She mentions having another "schedule" later (seg 333).
+*   **Content Type:** This is a live stream or vlog, characterized by direct interaction with an audience via comments. Hyejin frequently reads and responds to viewer input.
+*   **Topic and Overall Purpose:** The primary topics are Hyejin's recent birthday celebrations, her "birthday cover" song (which was challenging to produce), and a lengthy, humorous discussion about proposal ideas, prompted by a fan's question. She also shares personal anecdotes and engages in playful banter with her fans, including learning a new "야호" (yaho) trend. The overall purpose is casual, personal interaction with her fanbase, sharing updates, and fostering a sense of community.
+
+### 3. KEY EVENTS (with segment references)
+
+*   **seg 1:** Hyejin mentions her birthday party was held yesterday.
+*   **seg 10-20:** Hyejin recounts how her friend brought other "friends" (Lumi, Gyudong, Rody, Morora) to her birthday, despite her desire for a quiet night.
+*   **seg 27-41:** Hyejin playfully interacts with and attempts to name the "friends" (Lumi, Gyudong/Gyodong, Rody, Morora), implying they are pets or plushies.
+*   **seg 43-46:** Hyejin discusses her "birthday cover" song, stating it was "the hardest ever."
+*   **seg 69-78:** Hyejin reveals she chose Rosalia's "La Feline" for her cover, acknowledging its difficulty but her strong desire to perform it.
+*   **seg 123-130:** Hyejin expresses frustration that comments on her Instagram video (likely the birthday cover) are not loading.
+*   **seg 140-169:** Hyejin responds to a fan's question about proposal ideas, offering humorous and unconventional suggestions.
+*   **seg 201-219:** Hyejin shares her personal preference for a subtle, everyday proposal, humorously suggesting scenarios like during a gukbap meal.
+*   **seg 225-247:** Hyejin reacts with exaggerated amusement to suggestions of finding a ring in gukbap or being proposed to after using the restroom.
+*   **seg 309-313:** Hyejin discusses her "free pass for meeting parents-in-law" quality, noting that older people tend to like her.
+*   **seg 331-334:** Hyejin announces she needs to leave soon for another schedule.
+*   **seg 364-405:** Hyejin learns and practices a new "야호" (yaho) trend from her fans, where a location or name is added before "yaho."
+*   **seg 445-454:** Hyejin agrees to allow fans to use her "yaho" sound for a phone charger connection sound, but not for other notifications, under the condition that they don't reveal the source.
+*   **seg 456-467:** Hyejin realizes she drank coffee on an empty stomach, breaking a personal rule.
+*   **seg 500-506:** Hyejin mentions fan-organized "birthday cafes" and considers visiting one after her schedule.
+*   **seg 516-534:** Hyejin bids farewell to her viewers, thanking them for their birthday wishes and interaction.
+
+### 4. TERMINOLOGY & PROPER NOUNS
+
+*   **Names:**
+    *   **루미 (Lumi), 규동 (Gyudong) / 교동 (Gyodong), 로디 (Rody), 모로라 (Morora):** Likely names for pets or plush toys. Keep romanized.
+    *   **휘인 (Wheein):** A female idol/celebrity. Keep romanized.
+    *   **유진 (Yujin):** A hypothetical name. Keep romanized.
+    *   **혜진 (Hyejin):** The speaker's name. Keep romanized.
+    *   **청희 (Cheonghui):** A fan group name or collective term for fans. Keep romanized.
+    *   **라펠라 (La Feline):** Song title. Keep as "La Feline."
+    *   **루살리아 (Rosalia):** Artist name. Keep as "Rosalia."
+
+*   **Korean-Specific Terms (Keep untranslated or explain as noted):**
+    *   **생파 (saengpa):** Short for 생일 파티 (saengil pati). Translate as "birthday party" or "b-day party."
+    *   **몇 차 (myeot cha):** Refers to "how many rounds" or "how many venues" for a social gathering. Translate as "how many rounds" or "how many places."
+    *   **생일커버 (saengil keobeo):** A song cover released for one's birthday. Keep as "birthday cover."
+    *   **시골 강아지 (sigol gangaji):** "Countryside puppy" or "rustic dog." Keep as "countryside puppy."
+    *   **꼬질 말티즈 (kkojil maltijeu):** "Scruffy Maltese." Keep as "scruffy Maltese."
+    *   **언니 (unnie):** Honorific used by a female to an older female. Keep as "unnie" or "older sister" (depending on target audience familiarity).
+    *   **누나 (nuna):** Honorific used by a male to an older female. Keep as "nuna" or "older sister."
+    *   **아재 개그 (ajae gaegeu):** "Dad joke" or "old man joke." Keep as "dad joke."
+    *   **딩가딩가 (ding-ga ding-ga):** Onomatopoeia for strumming a guitar or a carefree, playful sound. Can be kept as "ding-ga ding-ga" or translated contextually (e.g., "strumming playfully").
+    *   **국밥 (gukbap):** A Korean dish of soup with rice. Keep as "gukbap."
+    *   **추어탕 (chueotang):** Korean loach soup. Keep as "chueotang."
+    *   **미꾸라지 튀김 (mikkuraji twigim):** Fried loach. Keep as "fried loach."
+    *   **곱창 (gopchang):** Grilled beef or pork intestines. Keep as "gopchang."
+    *   **대창 (daechang):** Grilled large beef intestines. Keep as "daechang."
+    *   **호로록 호로록 (hororok hororok):** Onomatopoeia for slurping. Translate as "slurp slurp."
+    *   **얼탱이가 없어 (eoltaengiga eopseo):** Idiomatic expression meaning "dumbfounded," "absurd," or "speechless."
+    *   **성견례 프리패스상 (seonggyeollye peurippaeseusang):** A person who is likely to be approved by prospective parents-in-law (literally "free pass for meeting parents-in-law"). Explain this concept.
+    *   **어머님분들 (eomeonim-bundeul):** Respectful plural for mothers or older women. Translate as "older women" or "mothers."
+    *   **한방통닭 (hanbang tongdak):** Whole chicken roasted with medicinal herbs. Keep as "hanbang tongdak."
+    *   **생일카페 (saengil kaepe):** A fan-organized event (often a cafe decorated for an idol's birthday). Keep as "birthday cafe."
+    *   **야호 (yaho):** An exclamation of joy, similar to "hooray" or a yodel. Keep as "yaho."
+    *   **지점토 (jijeomto):** Clay.
+    *   **잣돌이요 (jatdori-yo):** (seg 347) Unclear meaning, possibly a playful mispronunciation or inside joke. Flag for clarification if possible.
+
+*   **Honorifics Handling:**
+    *   The speaker uses casual speech (반말, banmal) with her audience, which is common in idol-fan interactions.
+    *   Fans use "언니" (unnie) and "누나" (nuna) for Hyejin, indicating affection and respect. These can be kept as romanized terms or translated as "older sister" depending on the target audience's familiarity with K-pop culture.
+    *   "어머님 아버님" (eomeonim abeonim) and "어르신분들" (eoreusin-bundeul) are respectful terms for parents-in-law and elders, respectively. Translate respectfully.
+
+### 5. TRANSLATION NOTES
+
+*   **Tone/Register:** The overall tone is casual, friendly, and playful. Hyejin uses informal language (반말, banmal) throughout, indicative of a close relationship with her fans. There's a lot of humor, including self-deprecating jokes (e.g., "countryside puppy," "scruffy Maltese"), exaggerated reactions, and playful "scolding" of her fans. Maintain this lighthearted and intimate tone in translation.
+*   **Recurring Expressions:**
+    *   **"뭔지 알지?" (meonji alji?):** "You know what I mean?" or "You get it, right?" Translate consistently.
+    *   **"그치?" (geuchi?):** "Right?" or "Isn't it?" Translate consistently.
+    *   **"야호" (yaho):** This is a key, evolving expression. Initially a simple exclamation, it becomes an interactive game with fans. Ensure its playful and interactive nature is conveyed. The speaker's attempts to mimic the "new" "yaho" trend should be translated to reflect her learning and playful struggle.
+    *   **"으뜸이야" (eutteumiya):** "You're the best," "Excellent," or "Top-notch." Used affectionately.
+    *   **"멍청이" (meongcheongi):** Literally "idiot" or "dummy," but used here affectionately and playfully towards fans. Translate as "silly goose," "you guys," or similar affectionate teasing.
+*   **Ambiguities to Watch For:**
+    *   **Lumi, Gyudong, Rody, Morora:** The exact nature of these "friends" (pets vs. plushies) is not explicitly stated but implied. Translate their interactions to reflect a playful, almost personified treatment.
+    *   **"잣돌이요" (jatdori-yo) (seg 347):** This term is unclear in context. It might be a typo, an inside joke, or a specific fan term. If possible, consult with the client for clarification. If not, a literal translation might be confusing, so consider a placeholder or a note.
+    *   **Cultural Nuances:** The humor around proposal scenarios (e.g., gukbap, bathroom) and the "free pass for meeting parents-in-law" concept are culturally specific. Ensure these are explained or adapted to be understandable to the target audience without losing the humor.
+    *   **Onomatopoeia:** Korean uses a lot of onomatopoeia (e.g., 호로록 호로록 for slurping). Translate these with appropriate English/French equivalents or descriptive phrases.
