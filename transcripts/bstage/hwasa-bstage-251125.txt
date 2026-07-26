@@ -7,554 +7,561 @@ Uploaded: 2025-12-08
 ============================================================
 
 
-— [00:00] ————————————————————————————————————————
+— [0:10] ────────────────────────────────────────
 
-[00:10]
+[0:10]
   KO: 안녕 안녕 멍청이들아 안녕
-  FR: Bonjour, bonjour, mes petits fous, bonjour.
+  FR: Salut, salut, mes petits nigauds, salut.
   EN: Hello, hello, my Twits, hello.
 
-[00:40]
+[0:40]
   KO: 야 멍청이들 난 이제 자야지
-  FR: Hé, mes petits fous, je devrais dormir maintenant.
-  EN: Hey, my Twits, I should be sleeping now.
+  FR: Hé, mes petits nigauds, je devrais aller dormir maintenant.
+  EN: Hey, my Twits, I should go to sleep now.
 
-[00:53]
+[0:53]
   KO: 뭘 왜야
   FR: Pourquoi 'pourquoi' ?
   EN: Why 'why'?
 
-[00:56]
+[0:56]
   KO: 왜 다 왜 왔냐는 반응이야
-  FR: Pourquoi tout le monde réagit comme si je n'aurais pas dû venir ?
-  EN: Why is everyone reacting like, 'Why did you come?'
+  FR: Pourquoi tout le monde réagit comme 'pourquoi es-tu venue' ?
+  EN: Why is everyone reacting like 'why did you come'?
 
-[01:03]
+[1:03]
   KO: 무슨 반응인 거야 이거는
   FR: Quel genre de réaction est-ce ?
   EN: What kind of reaction is this?
 
-[01:06]
+[1:06]
   KO: 갑작스럽긴 하지
-  FR: C'est vrai que c'est soudain.
-  EN: It is sudden, I guess.
+  FR: C'est soudain, n'est-ce pas ?
+  EN: It is sudden, isn't it?
 
-[01:09]
+[1:09]
   KO: 나 원래 갑작스럽게 오잖아
-  FR: Je débarque toujours à l'improviste, non ?
-  EN: I usually show up suddenly, don't I?
+  FR: Je viens toujours à l'improviste, non ?
+  EN: I usually come on suddenly, don't I?
 
 
-— [01:16] ────────────────────────────────────────
+— [1:16] ────────────────────────────────────────
 
-[01:16]
+[1:16]
   KO: 더 늦은 시간에도 오잖아
   FR: Je viens même à des heures plus tardives.
-  EN: I even come at later hours.
+  EN: I even come on at later hours.
 
-[01:22]
+[1:22]
   KO: 고마워
   FR: Merci.
   EN: Thank you.
 
-[01:27]
+[1:27]
   KO: 왜 이렇게 다 놀래
   FR: Pourquoi tout le monde est si surpris ?
   EN: Why is everyone so surprised?
 
-[01:30]
+[1:30]
   KO: 너무 갑작이라니
-  FR: Trop soudain, dites-vous ?
-  EN: Too sudden, you say?
+  FR: Si soudain, dites-vous ?
+  EN: So sudden, you say?
 
-[01:43]
+[1:43]
   KO: 고마워
   FR: Merci.
   EN: Thank you.
 
-[01:51]
+[1:51]
   KO: 뭘 또 오늘 올 것 같앴어야
-  FR: Pourquoi auriez-vous pensé que je viendrais aujourd'hui ?
-  EN: Why would you have thought I'd come today?
+  FR: Quoi, vous pensiez que je viendrais aujourd'hui ?
+  EN: What, did you think I'd come on today?
 
-[01:56]
+[1:56]
   KO: 이거 화면이 뿌연 거 같지?
-  FR: L'écran a l'air flou, non ?
+  FR: L'écran a l'air flou, n'est-ce pas ?
   EN: The screen looks blurry, doesn't it?
 
-[02:00]
+[2:00]
   KO: 그치? 어때?
   FR: N'est-ce pas ? Comment est-ce ?
   EN: Right? How is it?
 
-[02:03]
+[2:03]
   KO: 화면 뿌예보여? 눈부셔보여?
-  FR: L'écran a l'air flou ? Ou éblouissant ?
-  EN: Does the screen look blurry? Or too bright?
+  FR: L'écran a l'air flou ? Il a l'air éblouissant ?
+  EN: Does the screen look blurry? Does it look dazzling?
 
 
-— [02:31] ────────────────────────────────────────
+— [2:31] ────────────────────────────────────────
 
-[02:31]
+[2:31]
   KO: 오늘 또 마무리하면서 해야 할 일이 있는데
-  FR: J'ai encore quelque chose à finir aujourd'hui.
-  EN: I have something I need to finish today.
+  FR: J'ai encore quelque chose à faire aujourd'hui pour terminer.
+  EN: I have something else to do today to wrap things up.
 
-[02:35]
+[2:35]
   KO: 또 그거에다가
   FR: Et en plus de ça...
   EN: And on top of that...
 
-[02:36]
+[2:36]
   KO: 나는 또 이거 못 켤 것 같아서
-  FR: Je pensais que je ne pourrais pas allumer ça plus tard.
-  EN: I thought I wouldn't be able to turn this on later.
+  FR: Je pensais que je ne pourrais plus allumer ça.
+  EN: I thought I wouldn't be able to turn this on again.
 
-[02:39]
+[2:39]
   KO: 이걸 그래도 간만에 좀 사람 얼굴 몰고를 한 김에
-  FR: Puisque je me suis enfin arrangée pour avoir l'air présentable après un certain temps...
-  EN: Since I finally made myself look presentable after a while...
+  FR: Puisque j'ai enfin fait un effort pour avoir une tête présentable après si longtemps...
+  EN: Since I finally made myself presentable after a long time...
 
-[02:55]
+[2:55]
   KO: 보고 싶더라고
-  FR: J'avais envie de vous voir.
+  FR: Je voulais vous voir.
   EN: I wanted to see you all.
 
-[03:03]
+[3:03]
   KO: 아니야 내 기준이 있어
   FR: Non, j'ai mes propres critères.
   EN: No, I have my own standards.
 
-[03:04]
+[3:04]
   KO: 사람 아닌 얼굴
-  FR: Mon visage 'pas humain'.
-  EN: My 'not-human' face.
+  FR: Un visage non-humain.
+  EN: A non-human face.
 
-[03:05]
+[3:05]
   KO: 나의 그 얼굴이 있어
-  FR: J'ai ce visage-là.
+  FR: J'ai ce visage à moi.
   EN: I have that face of mine.
 
-[03:10]
+[3:10]
   KO: 예의는 갖추고 오고 싶어
-  FR: Je voulais venir en étant présentable.
-  EN: I wanted to come with proper etiquette (looking presentable).
+  FR: Je voulais venir avec les bonnes manières.
+  EN: I wanted to come on with proper etiquette.
 
-[03:29]
+[3:29]
   KO: 나도 보고 싶었어
   FR: Vous m'avez manqué aussi.
   EN: I missed you too.
 
 
-— [03:36] ────────────────────────────────────────
+— [3:36] ────────────────────────────────────────
 
-[03:36]
+[3:36]
   KO: 여행을 갔다 왔어
   FR: Je suis partie en voyage.
   EN: I went on a trip.
 
-[03:43]
+[3:43]
   KO: 여행 가서 언니들이랑 친언니들이랑
-  FR: Je suis partie en voyage avec mes sœurs, mes sœurs biologiques.
-  EN: I went on a trip with my sisters, my biological sisters.
+  FR: Je suis partie en voyage avec mes grandes sœurs, mes sœurs biologiques.
+  EN: I went on a trip with my older sisters, my biological older sisters.
 
-[03:49]
+[3:49]
   KO: 여행 가서 언니들이랑 친언니들이랑
-  FR: Je suis partie en voyage avec mes sœurs, mes sœurs biologiques.
-  EN: I went on a trip with my sisters, my biological sisters.
+  FR: Je suis partie en voyage avec mes grandes sœurs, mes sœurs biologiques.
+  EN: I went on a trip with my older sisters, my biological older sisters.
 
-[03:49]
+[3:49]
   KO: 여행 가서 언니들이랑 친언니들이랑
-  FR: Je suis partie en voyage avec mes sœurs, mes sœurs biologiques.
-  EN: I went on a trip with my sisters, my biological sisters.
+  FR: Je suis partie en voyage avec mes grandes sœurs, mes sœurs biologiques.
+  EN: I went on a trip with my older sisters, my biological older sisters.
 
-[03:50]
+[3:50]
   KO: 처음으로 여행을 갔다 왔어
-  FR: C'était notre premier voyage ensemble.
-  EN: It was our first trip together.
+  FR: Je suis partie en voyage avec elles pour la première fois.
+  EN: I went on a trip for the first time with them.
 
-[03:54]
+[3:54]
   KO: 거기서 좋은 소식을 이렇게 들어가지고
-  FR: Et là-bas, j'ai reçu de bonnes nouvelles.
-  EN: And there, I received some good news.
+  FR: Et là-bas, j'ai appris de bonnes nouvelles.
+  EN: And there, I heard some good news.
 
-[04:03]
+[4:03]
   KO: 청년 끝나자마자 바로 떠났거든
   FR: Je suis partie juste après la fin de mes activités.
   EN: I left right after my activities ended.
 
-[04:17]
+[4:17]
   KO: 후쿠오카 갔다 왔어 후쿠오카
   FR: Je suis allée à Fukuoka, Fukuoka.
   EN: I went to Fukuoka, Fukuoka.
 
-[04:20]
+[4:20]
   KO: 응 온천 갔어
-  FR: Oui, je suis allée aux sources chaudes.
-  EN: Yes, I went to a hot spring.
+  FR: Oui, je suis allée à un onsen.
+  EN: Yes, I went to an onsen.
 
-[04:31]
+[4:31]
   KO: 오히려 언니들이랑 여행을 가니까
-  FR: En fait, quand je voyage avec mes sœurs...
-  EN: Actually, when I travel with my sisters...
+  FR: Plutôt, parce que je suis partie en voyage avec mes sœurs...
+  EN: Rather, because I went on a trip with my sisters...
 
 
-— [04:51] ────────────────────────────────────────
+— [4:51] ────────────────────────────────────────
 
-[04:51]
+[4:51]
   KO: 뭐랄까
   FR: Comment dire ?
   EN: How should I put it?
 
-[04:54]
+[4:54]
   KO: 집에 있는 기분이었어
   FR: J'avais l'impression d'être à la maison.
-  EN: It felt like being at home.
+  EN: It felt like I was at home.
 
-[04:57]
+[4:57]
   KO: 너무 편해서
-  FR: Parce que c'était tellement confortable.
+  FR: Parce que c'était si confortable.
   EN: Because it was so comfortable.
 
-[05:06]
+[5:06]
   KO: 허허
-  FR: Hehe.
-  EN: Hehe.
+  FR: Hé hé.
+  EN: Heh heh.
 
-[05:07]
+[5:07]
   KO: 그래가지고 멍청이들은 어때?
-  FR: Alors, comment vont mes petits fous ?
+  FR: Alors, comment vont mes petits nigauds ?
   EN: So, how are my Twits doing?
 
-[05:12]
+[5:12]
   KO: 멍청이들은 어때?
-  FR: Comment vont mes petits fous ?
+  FR: Comment vont mes petits nigauds ?
   EN: How are my Twits doing?
 
-[05:12]
+[5:12]
   KO: 멍청이들은 어때?
-  FR: Comment vont mes petits fous ?
+  FR: Comment vont mes petits nigauds ?
   EN: How are my Twits doing?
 
-[05:14]
+[5:14]
   KO: 멍청이들은 어때?
-  FR: Comment vont mes petits fous ?
+  FR: Comment vont mes petits nigauds ?
   EN: How are my Twits doing?
 
-[05:15]
+[5:15]
   KO: 어머니가 노래를 너무 좋아해 주셔?
-  FR: Ma mère aime beaucoup ma chanson ?
-  EN: My mother likes my song very much?
+  FR: Vos mères aiment-elles vraiment ma chanson ?
+  EN: Do your mothers really like my song?
 
-[05:20]
+[5:20]
   KO: 어머니가 노래를 너무 좋아해 주셔?
-  FR: Ma mère aime beaucoup ma chanson ?
-  EN: My mother likes my song very much?
+  FR: Vos mères aiment-elles vraiment ma chanson ?
+  EN: Do your mothers really like my song?
 
-[05:26]
+[5:26]
   KO: 너무 행복해
   FR: Je suis si heureuse.
   EN: I'm so happy.
 
-[05:33]
+[5:33]
   KO: 그래
   FR: Oui.
-  EN: Yes.
+  EN: Right.
 
-[05:39]
+[5:39]
   KO: 흐흐흐흐흐
-  FR: Hahahahaha.
-  EN: Hehehehehe.
+  FR: Héhéhéhé.
+  EN: Hehehehe.
 
-[05:42]
+[5:42]
   KO: 진짜?
   FR: Vraiment ?
   EN: Really?
 
 
-— [05:53] ────────────────────────────────────────
+— [5:53] ────────────────────────────────────────
 
-[05:53]
+[5:53]
   KO: 흐흐흐흐흐
-  FR: Hahahahaha.
-  EN: Hehehehehe.
+  FR: Héhéhéhé.
+  EN: Hehehehe.
 
-[05:55]
+[5:55]
   KO: 오케이
   FR: D'accord.
   EN: Okay.
 
-[06:08]
+[6:08]
   KO: 그래
   FR: Oui.
-  EN: Yes.
+  EN: Right.
 
-[06:10]
+[6:10]
   KO: 역시 멍청이들은 좋아해 줄 줄 알았어
-  FR: Comme prévu, je savais que mes petits fous aimeraient ça.
+  FR: Comme prévu, je savais que mes petits nigauds aimeraient ça.
   EN: As expected, I knew my Twits would like it.
 
-[06:28]
+[6:28]
   KO: sg
   FR: SG.
   EN: SG.
 
-[06:28]
+[6:28]
   KO: sg 촬영이 뭐지?
   FR: Qu'est-ce que le tournage SG ?
   EN: What is SG filming?
 
-[06:31]
+[6:31]
   KO: sg 촬영?
   FR: Tournage SG ?
   EN: SG filming?
 
-[06:35]
+[6:35]
   KO: 아 슬리브리트?
-  FR: Ah, 'Sleeve Greetings' ?
-  EN: Ah, 'Sleeve Greetings'?
+  FR: Ah, l'art de la pochette ?
+  EN: Ah, Sleeve Art?
 
-[06:40]
+[6:40]
   KO: 당연하지
   FR: Bien sûr.
   EN: Of course.
 
-[06:42]
+[6:42]
   KO: 이미
   FR: Déjà.
   EN: Already.
 
-[06:44]
+[6:44]
   KO: 이미 진작에 했어
   FR: Je l'ai déjà fait il y a longtemps.
   EN: I already did it a long time ago.
 
-[06:45]
+[6:45]
   KO: 그래 이건 뭐 컴백도 아닌데 숨길 필요가 뭐 있어 그치?
-  FR: C'est vrai, ce n'est même pas un comeback, alors pourquoi devrais-je le cacher, n'est-ce pas ?
+  FR: Oui, ce n'est même pas un comeback, alors pourquoi devrais-je le cacher, n'est-ce pas ?
   EN: Right, this isn't even a comeback, so why do I need to hide it, right?
 
-[06:53]
+[6:53]
   KO: 왜 이렇게 난 이제 숨기는 게 버릇이 된 거야
   FR: Pourquoi cacher les choses est-il devenu une habitude pour moi maintenant ?
-  EN: Why has hiding things become a habit for me now?
+  EN: Why has hiding become a habit for me now?
 
 
-— [06:55] ────────────────────────────────────────
+— [6:55] ────────────────────────────────────────
 
-[06:55]
+[6:55]
   KO: 흐흐흐흐흐
-  FR: Hahahahaha.
-  EN: Hehehehehe.
-
-[06:57]
-  KO: 너무 웃기네
-  FR: C'est tellement drôle.
-  EN: That's so funny.
-
-[06:59]
-  KO: 자꾸 숨겨
-  FR: Je continue de cacher des choses.
-  EN: I keep hiding things.
-
-[07:00]
-  KO: 흐흐흐흐
-  FR: Hahahaha.
+  FR: Héhéhéhé.
   EN: Hehehehe.
 
-[07:03]
+[6:57]
+  KO: 너무 웃기네
+  FR: Tellement drôle.
+  EN: So funny.
+
+[6:59]
+  KO: 자꾸 숨겨
+  FR: Je continue de le cacher.
+  EN: I keep hiding it.
+
+[7:00]
+  KO: 흐흐흐흐
+  FR: Héhéhéhé.
+  EN: Hehehehe.
+
+[7:03]
   KO: 아니 컴백도 아닌데
   FR: Non, ce n'est même pas un comeback.
   EN: No, it's not even a comeback.
 
-[07:04]
+[7:04]
   KO: 난 왜 이렇게 막 꽁꽁 숨겨
-  FR: Pourquoi est-ce que je le garde si bien caché ?
-  EN: Why do I keep it so tightly hidden?
+  FR: Pourquoi est-ce que je le cache si bien ?
+  EN: Why do I keep hiding it so tightly?
 
-[07:14]
+[7:14]
   KO: 스포?
-  FR: Spoiler ?
-  EN: Spoiler?
+  FR: Spoilers ?
+  EN: Spoilers?
 
-[07:16]
+[7:16]
   KO: 스포는 안 돼
   FR: Pas de spoilers.
   EN: No spoilers.
 
-[07:23]
+[7:23]
   KO: 왜 공지를 안 주냐고?
   FR: Pourquoi ne faites-vous pas d'annonce ?
   EN: Why aren't you giving us an announcement?
 
-[07:25]
+[7:25]
   KO: 아 내가 사진 셀렉을 하면 돼
-  FR: Ah, il faut juste que je sélectionne les photos.
-  EN: Ah, I just need to select the photos.
+  FR: Ah, je dois juste faire la sélection de photos.
+  EN: Ah, I just need to do the photo selection.
 
-[07:33]
+[7:33]
   KO: 사진 셀렉 하는 대로 공지가 가지 않을까 싶어
-  FR: Je pense que l'annonce sera faite dès que j'aurai sélectionné les photos.
-  EN: I think the announcement will go out as soon as I select the photos.
+  FR: Je pense que l'annonce sera faite dès que j'aurai fait la sélection de photos.
+  EN: I think the announcement will go out as soon as I do the photo selection.
 
-[07:36]
+[7:36]
   KO: 그래서 내가 사진 셀렉 하는 대로 공지가 가지 않을까 싶어
-  FR: Je pense que l'annonce sera faite dès que j'aurai sélectionné les photos.
-  EN: I think the announcement will go out as soon as I select the photos.
+  FR: Je pense que l'annonce sera faite dès que j'aurai fait la sélection de photos.
+  EN: I think the announcement will go out as soon as I do the photo selection.
 
-[07:37]
+[7:37]
   KO: 그래서 내가 사진 셀렉 하는 대로 공지가 가지 않을까 싶어
-  FR: Je pense que l'annonce sera faite dès que j'aurai sélectionné les photos.
-  EN: I think the announcement will go out as soon as I select the photos.
+  FR: Je pense que l'annonce sera faite dès que j'aurai fait la sélection de photos.
+  EN: I think the announcement will go out as soon as I do the photo selection.
 
-[07:38]
-  KO: 그래서 내가 사실 해야 하는 일이 오늘
-  FR: Donc, ce que je dois vraiment faire aujourd'hui, c'est...
-  EN: So, the thing I actually need to do today is...
+[7:37]
+  KO: 그래서 내가 사실 해야 하는 일이 오늘 사진 셀렉을 해야 돼
+  FR: Donc, la chose que je dois faire aujourd'hui, c'est la sélection de photos.
+  EN: So, the thing I actually have to do today is the photo selection.
 
-[07:40]
-  KO: 사진 셀렉을 해야 돼
-  FR: Je dois sélectionner des photos.
-  EN: I need to select photos.
-
-[07:43]
+[7:43]
   KO: 회사에서 제발 셀렉 좀 빨리 해달래
-  FR: L'agence me supplie de les sélectionner rapidement.
-  EN: The company is begging me to select them quickly.
+  FR: La compagnie me demande de faire la sélection rapidement, s'il vous plaît.
+  EN: The company is asking me to please do the selection quickly.
 
-[07:53]
+[7:46]
   KO: 어떻게 같이 해 이거 꺼지는데
-  FR: Comment on peut faire ça ensemble ? Ça (le live) va s'éteindre.
-  EN: How can we do it together? This (live stream) will turn off.
+  FR: Comment puis-je le faire en même temps ? Ça va s'éteindre.
+  EN: How can I do it together? This will turn off.
 
 
-— [07:58] ────────────────────────────────────────
+— [7:58] ────────────────────────────────────────
 
-[07:58]
-  KO: 이거 지금 꺼라는 얘긴가?
+[7:58]
+  KO: 이거 지금 끄라는 얘긴가?
   FR: Est-ce que ça veut dire que je devrais l'éteindre maintenant ?
   EN: Does this mean I should turn it off now?
 
-[08:05]
+[8:05]
   KO: 아이패드에 없어 이 휴대폰에 있어
-  FR: Ce n'est pas sur mon iPad, c'est sur ce téléphone.
-  EN: It's not on my iPad, it's on this phone.
+  FR: Ce n'est pas sur l'iPad, c'est sur ce téléphone.
+  EN: It's not on the iPad, it's on this phone.
 
-[08:09]
-  KO: 꺼야되나?
+[8:09]
+  KO: 꺼야 되나?
   FR: Devrais-je l'éteindre ?
   EN: Should I turn it off?
 
-[08:11]
-  KO: 영통을
-  FR: L'appel vidéo/le live...
-  EN: The video call/stream...
-
-[08:20]
+[8:13]
   KO: 화면 공유 기능이 아이폰엔 있어?
   FR: Est-ce que l'iPhone a une fonction de partage d'écran ?
-  EN: Does iPhone have a screen sharing feature?
+  EN: Does the iPhone have a screen sharing feature?
 
-[08:37]
-  KO: 아 배고프다
-  FR: Ah, j'ai faim.
-  EN: Ah, I'm hungry.
+[8:37]
+  KO: 아 근데 배고프다
+  FR: Ah, mais j'ai faim.
+  EN: Ah, but I'm hungry.
 
-[08:41]
-  KO: 너무 배고픈 거야
-  FR: J'ai tellement faim.
-  EN: I'm so hungry.
+[8:41]
+  KO: 너무 배고픈 거야 또
+  FR: J'ai encore si faim.
+  EN: I'm so hungry again.
 
-[08:43]
-  KO: 또
-  FR: Encore.
-  EN: Again.
+[8:44]
+  KO: 아 살짝 좀 멍청이들이랑 얘기하다 보니까
+  FR: Ah, après avoir un peu parlé avec mes petits nigauds...
+  EN: Ah, after talking a bit with my Twits...
 
-[08:44]
-  KO: 아 살짝 좀 멍청이들
-  FR: Ah, un petit peu, mes petits fous...
-  EN: Ah, a little bit, my Twits...
+[8:47]
+  KO: 아 살짝 좀 멍청이들이랑 얘기하다 보니까
+  FR: Ah, après avoir un peu parlé avec mes petits nigauds...
+  EN: Ah, after talking a bit with my Twits...
 
-[08:47]
-  KO: 우리랑 얘기하다 보면 배고파지는 거 같아.
-  FR: On dirait que j'ai faim quand je vous parle.
-  EN: It seems like I get hungry when I talk to you all.
+[8:47]
+  KO: 아 살짝 좀 멍청이들이랑 얘기하다 보니까
+  FR: Ah, après avoir un peu parlé avec mes petits nigauds...
+  EN: Ah, after talking a bit with my Twits...
 
-[08:50]
+[8:47]
+  KO: 아 살짝 좀 멍청이들이랑 얘기하다 보니까
+  FR: Ah, après avoir un peu parlé avec mes petits nigauds...
+  EN: Ah, after talking a bit with my Twits...
+
+[8:48]
+  KO: 그러다 보면 배고파지는 거 같아
+  FR: Il semble que j'aie faim quand je fais ça.
+  EN: It seems I get hungry when I do that.
+
+
+[8:54]
   KO: 그러는 거야?
-  FR: C'est comme ça ?
-  EN: Is that how it is?
+  FR: C'est ce que vous faites ?
+  EN: Is that what you're doing?
 
-[08:55]
+[8:58]
   KO: 밥을!
   FR: À manger !
   EN: Food!
 
 
-— [09:04] ────────────────────────────────────────
+— [9:04] ────────────────────────────────────────
 
-[09:04]
+[9:04]
   KO: 나 오늘 밥 먹었나?
-  FR: Est-ce que j'ai mangé aujourd'hui ?
+  FR: Ai-je mangé aujourd'hui ?
   EN: Did I eat today?
 
-[09:06]
-  KO: 오늘은 호바미가 없어.
+[9:06]
+  KO: 오늘은 호바미가 없어
   FR: Hobami n'est pas là aujourd'hui.
   EN: Hobami isn't here today.
 
-[09:18]
-  KO: 무슨 소리야?
+[9:18]
+  KO: 무슨 소리야
   FR: De quoi parlez-vous ?
   EN: What are you talking about?
 
-[09:35]
+[9:35]
   KO: 간단하게 먹을 거?
   FR: Quelque chose de simple à manger ?
   EN: Something simple to eat?
 
-[09:37]
+[9:38]
   KO: 없어!
-  FR: Je n'en ai pas !
-  EN: I don't have any!
+  FR: Il n'y en a pas !
+  EN: There isn't any!
 
-[09:39]
-  KO: 아, 올까?
-  FR: Ah, devrais-je aller en chercher ?
-  EN: Ah, should I go get some?
+[9:40]
+  KO: 아 올까?
+  FR: Ah, devrais-je venir ?
+  EN: Ah, should I come?
 
-[09:42]
-  KO: 맨날 영통 끼면 냉장고 뒤져.
-  FR: Chaque fois que je fais un appel vidéo, je fouille dans le frigo.
-  EN: Every time I do a video call, I rummage through the fridge.
+[9:42]
+  KO: 맨날 영톤 끼면
+  FR: Si je suis en direct tous les jours...
+  EN: If I'm on camera every day...
 
-[09:46]
-  KO: 너무 웃기는 루틴이네?
-  FR: Quelle drôle de routine, n'est-ce pas ?
-  EN: What a funny routine, isn't it?
+[9:44]
+  KO: 냉장고 뒤져
+  FR: Je fouille dans le frigo.
+  EN: I rummage through the fridge.
 
-[09:48]
-  KO: 그니까, 그...
-  FR: Donc, euh...
-  EN: So, uh...
-
-[09:54]
-  KO: 어? 멍청이들...
-  FR: Oh ? Mes petits fous...
-  EN: Oh? My Twits...
-
-[09:57]
-  KO: 진짜 뭐지?
-  FR: Qu'est-ce que c'est, vraiment ?
-  EN: What is this, really?
+[9:46]
+  KO: 너무 웃기는 루틴이네
+  FR: Quelle routine amusante.
+  EN: What a funny routine.
 
 
-— [10:22] ────────────────────────────────────────
+[9:53]
+  KO: 그니까 그
+  FR: Donc, ça...
+  EN: So, that...
+
+[9:54]
+  KO: 어? 멍청이들
+  FR: Hein ? Mes petits nigauds.
+  EN: Huh? My Twits.
+
+
+— [10:20] ────────────────────────────────────────
+
+[10:20]
+  KO: 와 진짜 뭐지?
+  FR: Wow, qu'est-ce que c'est, vraiment ?
+  EN: Wow, what is this, really?
 
 [10:22]
-  KO: 신기하다, 나 진짜 아까까지만 해도 배가 안 고팠어.
-  FR: C'est bizarre, je n'avais vraiment pas faim il y a un instant.
-  EN: It's strange, I really wasn't hungry just a moment ago.
+  KO: 신기하다 나 진짜 아까까지만 해도 배가 안 고팠어
+  FR: C'est incroyable. Je n'avais vraiment pas faim jusqu'à tout à l'heure.
+  EN: It's amazing. I really wasn't hungry until just now.
 
 [10:27]
   KO: 안 고팠는데
@@ -562,454 +569,487 @@ Uploaded: 2025-12-08
   EN: I wasn't hungry, but...
 
 [10:29]
-  KO: 이거 라이브 켜자마자 배가 고파.
-  FR: Dès que j'ai allumé ce live, j'ai eu faim.
-  EN: As soon as I turned on this live stream, I got hungry.
+  KO: 이거 라이브 키자마자 배가 고파
+  FR: Dès que j'ai lancé ce live, j'ai eu faim.
+  EN: As soon as I started this live stream, I got hungry.
 
 [10:33]
   KO: 뭐지?
   FR: Qu'est-ce que c'est ?
-  EN: What is it?
+  EN: What is this?
 
 [10:34]
-  KO: 아, 이거...
+  KO: 아 이거
   FR: Ah, ça...
   EN: Ah, this...
 
-[10:36]
-  KO: 혹여나 다이어트하게 될 때는 켜면 안 되겠다.
-  FR: Si jamais je dois faire un régime, je ne devrai pas l'allumer.
-  EN: If I ever go on a diet, I shouldn't turn this on.
+[10:35]
+  KO: 나 혹여나 다이어트하게 될 때는
+  FR: Si jamais je me mets au régime...
+  EN: If I ever go on a diet...
+
+[10:38]
+  KO: 키면 안 되겠다
+  FR: Je ne devrais pas l'allumer.
+  EN: I shouldn't turn it on.
 
 [10:40]
   KO: 근데 집에 먹을 건 되게 많거든?
   FR: Mais j'ai beaucoup de choses à manger à la maison, vous savez ?
-  EN: But I actually have a lot of food at home, you know?
+  EN: But I have a lot of food at home, you know?
 
 [10:55]
-  KO: 근데?
-  FR: Mais ?
-  EN: But?
+  KO: 근데 없어
+  FR: Mais il n'y a rien.
+  EN: But there's nothing.
 
-[10:56]
-  KO: 없어.
-  FR: Je n'en ai pas.
-  EN: I don't have any.
-
-[11:00]
-  KO: 진짜 먹을 건 진짜 많아.
-  FR: J'ai vraiment beaucoup de choses à manger.
-  EN: I really do have a lot of food.
+[11:01]
+  KO: 진짜 먹을 건 진짜 많아
+  FR: Il y a vraiment beaucoup de choses à manger, vraiment.
+  EN: There's really a lot to eat, really.
 
 [11:03]
-  KO: 봐봐.
+  KO: 봐봐
   FR: Regardez.
   EN: Look.
 
 [11:04]
-  KO: 여기 내가 사랑하는 잡채볶음밥.
-  FR: Ici, il y a mon Japchae Bokkeumbap préféré.
-  EN: Here's my beloved Japchae Bokkeumbap.
+  KO: 여기
+  FR: Ici.
+  EN: Here.
+
+[11:09]
+  KO: 내가 사랑하는 잡채볶음밥
+  FR: Mon Japchae-bokkeumbap adoré.
+  EN: My beloved Japchae-bokkeumbap.
 
 [11:11]
-  KO: 이게 있고요.
+  KO: 이게 있고요
   FR: J'ai ça.
   EN: I have this.
 
-[11:15]
-  KO: 유통기한이 얼마 안 남았어.
+[11:16]
+  KO: 유통기한이 얼마 안 남았어
   FR: La date de péremption approche.
   EN: The expiration date is coming up soon.
 
 [11:17]
-  KO: 1월 19일까지야!
-  FR: C'est jusqu'au 19 janvier !
-  EN: It's until January 19th!
+  KO: 1월 19일까지야
+  FR: C'est jusqu'au 19 janvier.
+  EN: It's until January 19th.
 
-[11:19]
-  KO: 얼른 먹어야겠어.
-  FR: Je devrais le manger vite.
+[11:18]
+  KO: 얼른 먹어야겠어
+  FR: Je devrais le manger rapidement.
   EN: I should eat it quickly.
 
-[11:20]
-  KO: 곤약기밥.
+
+— [11:21] ────────────────────────────────────────
+
+[11:21]
+  KO: 곤약 김밥
   FR: Konyak Gimbap.
   EN: Konyak Gimbap.
 
-
-— [11:33] ────────────────────────────────────────
-
 [11:33]
-  KO: 호박 식혜, 내가 사랑하는 호박 식혜.
-  FR: Hobak Sikhye, mon Hobak Sikhye préféré.
-  EN: Hobak Sikhye, my beloved Hobak Sikhye.
+  KO: 호박 식혜
+  FR: Sikhye à la citrouille.
+  EN: Pumpkin sikhye.
 
-[11:38]
-  KO: 다진 마늘.
+[11:34]
+  KO: 내가 사랑하는 호박 식혜
+  FR: Mon sikhye à la citrouille adoré.
+  EN: My beloved Pumpkin sikhye.
+
+[11:36]
+  KO: 다진 마늘
   FR: Ail haché.
   EN: Minced garlic.
 
-[11:40]
-  KO: 떡볶이.
+[11:41]
+  KO: 떡볶이
   FR: Tteokbokki.
   EN: Tteokbokki.
 
-[11:42]
-  KO: 이거는 나 눈 부었을 때 하는 거.
-  FR: Ça, c'est ce que je fais quand mes yeux sont gonflés.
-  EN: This is what I do when my eyes are swollen.
+[11:43]
+  KO: 이거는
+  FR: C'est...
+  EN: This is...
+
+[11:44]
+  KO: 나 눈 부었을 때 하는 거
+  FR: Ce que je fais quand mes yeux sont gonflés.
+  EN: Something I do when my eyes are swollen.
 
 [11:47]
-  KO: 부카몰리.
-  FR: Bukamolli.
-  EN: Bukamolli.
+  KO: 카카오 멀리
+  FR: Cacao Moli.
+  EN: Cacao Moli.
 
-[11:56]
-  KO: 자, 이렇게.
-  FR: Voilà, comme ça.
-  EN: So, like this.
+[11:50]
+  KO: 자 이렇게 쌓여있어요
+  FR: Alors, c'est empilé comme ça.
+  EN: So, it's piled up like this.
 
-[11:57]
-  KO: 이렇게 쌓여있어요.
-  FR: C'est empilé comme ça.
-  EN: It's piled up like this.
+[11:58]
+  KO: 아
+  FR: Ah.
+  EN: Ah.
 
-[12:07]
-  KO: 여기가 있고요.
-  FR: Il y a ça ici.
-  EN: This is here.
+[12:02]
+  KO: 여깃이 있고요
+  FR: Et il y a ça.
+  EN: And there's this.
+
 
 [12:10]
-  KO: 닭가슴살.
+  KO: 닭가슴살
   FR: Poitrine de poulet.
   EN: Chicken breast.
 
+[12:11]
+  KO: 어 이거는
+  FR: Oh, ça c'est...
+  EN: Oh, this is...
+
 [12:15]
-  KO: 어, 이건 뭐 꺼내지도 못하겠다.
-  FR: Oh, je ne peux même pas sortir ça.
-  EN: Oh, I can't even take this out.
+  KO: 저는 뭐 꺼내지도 못하겠다
+  FR: Je ne peux même pas le sortir.
+  EN: I can't even take this out.
+
+
+— [12:21] ────────────────────────────────────────
 
 [12:21]
-  KO: 어, 이거 맛있겠다.
-  FR: Oh, ça a l'air bon.
+  KO: 어 이거 맛있겠다
+  FR: Oh, ça a l'air délicieux.
   EN: Oh, this looks delicious.
 
 [12:24]
-  KO: 이거 맛있겠다.
-  FR: Ça a l'air bon.
+  KO: 이거 맛있겠다
+  FR: Ça a l'air délicieux.
   EN: This looks delicious.
 
 [12:26]
-  KO: 그치?
+  KO: 그치
   FR: N'est-ce pas ?
   EN: Right?
 
 [12:30]
-  KO: 아, 근데 이것도 구워야 돼.
-  FR: Ah, mais il faut aussi faire cuire ça.
-  EN: Ah, but I have to cook this too.
+  KO: 아 근데 이것도 구워야 돼
+  FR: Ah, mais il faut aussi faire griller ça.
+  EN: Ah, but I have to grill this too.
 
 [12:32]
-  KO: 8분 30초에서 9분을 조리하래.
-  FR: Il faut le cuire pendant 8 minutes 30 à 9 minutes.
+  KO: 8분 30초에서 9분을 조리하래
+  FR: Il faut le cuire de 8 minutes 30 secondes à 9 minutes.
   EN: It says to cook it for 8 minutes 30 seconds to 9 minutes.
 
-
-— [12:35] ────────────────────────────────────────
-
 [12:35]
-  KO: 으흠.
-  FR: Hmm.
-  EN: Hmm.
+  KO: 음흠
+  FR: Mmm-hmm.
+  EN: Mmm-hmm.
 
 [12:37]
-  KO: 곤란하구먼.
+  KO: 곤란하구먼
   FR: C'est embêtant.
   EN: That's troublesome.
 
 [12:39]
   KO: 이거 짱 맛있다고?
-  FR: Vous dites que c'est super bon ?
+  FR: Vous dites que c'est super délicieux ?
   EN: You're saying this is super delicious?
 
 [12:44]
   KO: 그래?
-  FR: Ah oui ?
+  FR: Vraiment ?
   EN: Really?
 
 [12:47]
-  KO: 그럼 먹어보긴 해야 될 것 같긴 한데.
-  FR: Alors, je devrais peut-être en goûter.
+  KO: 그럼 먹어보긴 해야 될 것 같긴 한데
+  FR: Alors je suppose que je devrais l'essayer.
   EN: Then I guess I should try it.
 
 [12:49]
   KO: 진짜 맛있어?
-  FR: C'est vraiment bon ?
+  FR: C'est vraiment délicieux ?
   EN: Is it really delicious?
 
 [12:53]
   KO: 그래?
-  FR: Ah oui ?
+  FR: Vraiment ?
   EN: Really?
 
-[12:54]
-  KO: 근데...
-  FR: Mais...
-  EN: But...
-
-[13:03]
-  KO: 에어프라이어에...
-  FR: Dans la friteuse à air...
-  EN: In the air fryer...
+[13:01]
+  KO: 근데 이건 에어프라이어에
+  FR: Mais c'est pour la friteuse à air.
+  EN: But this is for the air fryer.
 
 [13:04]
   KO: 에어프라이어는 없는데?
-  FR: Mais je n'ai pas de friteuse à air, si ?
-  EN: But I don't have an air fryer, do I?
+  FR: Mais je n'ai pas de friteuse à air ?
+  EN: But I don't have an air fryer?
 
 [13:15]
-  KO: 아, 그럼 이거를 에어프라이어에 돌릴까?
-  FR: Ah, alors je devrais mettre ça dans la friteuse à air ?
+  KO: 아 그럼 이거를 에어프라이어에 돌릴까?
+  FR: Ah, alors devrais-je mettre ça dans la friteuse à air ?
   EN: Ah, then should I put this in the air fryer?
 
-[13:20]
+[13:17]
+  KO: 아 그럼 이거를 에어프라이어에 돌릴까?
+  FR: Ah, alors devrais-je mettre ça dans la friteuse à air ?
+  EN: Ah, then should I put this in the air fryer?
+
+[13:17]
+  KO: 아 그럼 이거를 에어프라이어에 돌릴까?
+  FR: Ah, alors devrais-je mettre ça dans la friteuse à air ?
+  EN: Ah, then should I put this in the air fryer?
+
+[13:18]
+  KO: 아 그럼 이거를 에어프라이어에 돌릴까?
+  FR: Ah, alors devrais-je mettre ça dans la friteuse à air ?
+  EN: Ah, then should I put this in the air fryer?
+
+[13:19]
   KO: 어때?
   FR: Qu'en pensez-vous ?
-  EN: What do you think?
+  EN: How about it?
+
+
+— [13:22] ────────────────────────────────────────
 
 [13:22]
   KO: F?
-  FR: F ?
-  EN: F?
+  FR: F.A. ?
+  EN: A.F.?
 
 [13:22]
   KO: F에다가 이걸 돌릴까?
-  FR: Devrais-je le faire cuire au four ?
-  EN: Should I put this in the oven?
+  FR: Devrais-je mettre ça dans la F.A. ?
+  EN: Should I put this in the A.F.?
 
-[13:26]
-  KO: 그러면...
+[13:25]
+  KO: 그러면
   FR: Alors...
   EN: Then...
 
 [13:29]
-  KO: 이것도 있어.
-  FR: J'ai ça aussi.
-  EN: I have this too.
+  KO: 이것도 있어
+  FR: J'ai aussi ça.
+  EN: I also have this.
 
 [13:30]
-  KO: 슈퍼크런치 치킨텐더.
-  FR: Super Crunch Chicken Tender.
-  EN: Super Crunch Chicken Tender.
+  KO: 슈퍼크런치 치킨텐더
+  FR: Poulet Tenders Super Croustillant.
+  EN: Super Crunch Chicken Tenders.
 
 [13:34]
-  KO: 이게 뭔가...
-  FR: C'est quelque chose...
-  EN: This is something...
-
-
-— [13:36] ────────────────────────────────────────
+  KO: 이게 뭔가
+  FR: Qu'est-ce que c'est...
+  EN: What is this...
 
 [13:36]
   KO: 뭐가 더 맛있을까?
-  FR: Qu'est-ce qui serait le plus délicieux ?
-  EN: What would be more delicious?
+  FR: Lequel serait le plus délicieux ?
+  EN: Which one would be more delicious?
 
 [13:38]
-  KO: 만두도 먹고 싶긴 한데 말이야.
-  FR: J'ai aussi envie de manger des mandu, vous savez.
-  EN: I do want to eat dumplings too, you know.
+  KO: 만두도 먹고 싶긴 한데 말이야
+  FR: J'ai bien envie de manger des mandu, quand même.
+  EN: I do want to eat dumplings, though.
 
 [13:57]
-  KO: 여긴 이제 해산물 창고인데요.
-  FR: Ici, c'est l'entrepôt de fruits de mer.
+  KO: 여긴 이제 해산물 창고인데요
+  FR: C'est maintenant le garde-manger de fruits de mer.
   EN: This is now the seafood storage.
 
 [14:00]
-  KO: 내가 제일 좋아하는 거.
-  FR: Ce que je préfère.
+  KO: 내가 제일 좋아하는 거
+  FR: Ma chose préférée.
   EN: My favorite thing.
 
 [14:02]
-  KO: 바로.
-  FR: C'est...
-  EN: It's...
+  KO: 바로 가자미살
+  FR: Filet de plie.
+  EN: Flounder fillet.
 
-[14:02]
-  KO: 가자미살 앤 순살 갈치.
-  FR: Filet de plie et Galchi désossé.
-  EN: Flounder fillet and boneless hairtail fish.
+[14:04]
+  KO: 앤
+  FR: Et...
+  EN: And...
 
-[14:08]
-  KO: 네, 이것도 순살 갈치고요.
-  FR: Oui, c'est aussi du Galchi désossé.
-  EN: Yes, this is also boneless hairtail fish.
+[14:05]
+  KO: 순살 갈치
+  FR: Sabre désossé.
+  EN: Boneless hairtail.
 
-[14:11]
-  KO: 어, 이거 진짜 맛있습니다.
-  FR: Oh, c'est vraiment délicieux.
-  EN: Oh, this is really delicious.
+[14:06]
+  KO: 네 이것도 순살 갈치고요
+  FR: Oui, c'est aussi du sabre désossé.
+  EN: Yes, this is also boneless hairtail.
+
+[14:10]
+  KO: 아 이거 진짜 맛있습니다
+  FR: Ah, c'est vraiment délicieux.
+  EN: Ah, this is really delicious.
 
 [14:13]
-  KO: 에어프라이어용 생선가스.
+  KO: 에어프라이어용 생선가스
   FR: Poisson pané pour friteuse à air.
-  EN: Fish cutlet for air fryer.
+  EN: Fish cutlets for the air fryer.
 
 [14:16]
-  KO: 되게 맛있어요.
-  FR: C'est très bon.
+  KO: 되게 맛있어요
+  FR: C'est très délicieux.
   EN: It's very delicious.
 
 [14:19]
-  KO: 새우도 있고요.
+  KO: 새우도 있고요
   FR: Il y a aussi des crevettes.
   EN: There are also shrimp.
 
-[14:22]
-  KO: 해물...
-  FR: Fruits de mer...
-  EN: Seafood...
+
+— [14:22] ────────────────────────────────────────
 
 [14:22]
-  KO: 도톰해물원자.
-  FR: Dotom Haemul Wonja.
-  EN: Dotom Haemul Wonja.
+  KO: 해물 도톰해물원자
+  FR: Galettes de fruits de mer épaisses.
+  EN: Thick seafood patties.
 
 [14:24]
-  KO: 이거 굉장히 밥상에 키...
-  FR: C'est un élément clé sur la table...
-  EN: This is a very key item on the dining table...
+  KO: 이거 굉장히 밥상에 키기인 거 아시죠?
+  FR: Vous savez que c'est un vrai atout sur la table, n'est-ce pas ?
+  EN: You know this is a real highlight on the dining table, right?
 
-[14:26]
-  KO: 키기인 거 아시죠?
-  FR: Vous savez, c'est un incontournable, n'est-ce pas ?
-  EN: You know it's a must-have, right?
-
-[14:29]
-  KO: 여기 연어도 있고요.
-  FR: Il y a aussi du saumon ici.
-  EN: There's also salmon here.
+[14:28]
+  KO: 연어도 있고요
+  FR: Il y a aussi du saumon.
+  EN: There's also salmon.
 
 [14:32]
-  KO: 만두가 있고요.
+  KO: 만두가 있고요
   FR: Il y a des mandu.
   EN: There are dumplings.
 
-
-— [14:40] ────────────────────────────────────────
-
 [14:40]
-  KO: 아이스크림.
-  FR: De la glace.
+  KO: 아이스크림
+  FR: Glace.
   EN: Ice cream.
 
 [14:41]
-  KO: 멜론.
+  KO: 멜론
   FR: Melon.
   EN: Melon.
 
-[14:42]
-  KO: 아, 이거...
-  FR: Ah, ça...
-  EN: Ah, this...
-
-[14:45]
-  KO: 이것도 있었네.
-  FR: Ça aussi, c'était là.
-  EN: This was here too.
+[14:44]
+  KO: 아 이것도 있었네
+  FR: Oh, j'avais ça aussi.
+  EN: Oh, I had this too.
 
 [14:46]
-  KO: 이것도 맛있습니다.
+  KO: 이것도 맛있습니다
   FR: C'est aussi délicieux.
   EN: This is also delicious.
 
 [14:47]
-  KO: 사우르요.
-  FR: Saureuyo.
-  EN: Saureuyo.
+  KO: 사우루
+  FR: Saururu.
+  EN: Saururu.
 
 [14:48]
-  KO: 딸기밥.
+  KO: 딸기밥
   FR: Riz aux fraises.
   EN: Strawberry rice.
 
-[14:49]
-  KO: 너무 많아서...
-  FR: Il y en a tellement...
-  EN: There's so much...
 
-[15:06]
-  KO: 너무 많아요.
-  FR: Il y en a trop.
-  EN: There's too much.
+[15:02]
+  KO: 너무 많아서
+  FR: Parce qu'il y en a tellement.
+  EN: Because there's so much.
+
+[15:03]
+  KO: 너무 많아요
+  FR: Il y en a tellement.
+  EN: There's so much.
 
 [15:07]
-  KO: 그리고 이거는 정화 선배님 해주신 아이스크림.
-  FR: Et ça, c'est la glace que Jeonghwa Seonbaenim m'a donnée.
-  EN: And this is the ice cream Jeonghwa Seonbaenim gave me.
+  KO: 그리고 이거는 정화 선배님 해주신 아이스크림
+  FR: Et ça, c'est la glace que Senior Jeonghwa m'a donnée.
+  EN: And this is the ice cream Senior Jeonghwa gave me.
 
 [15:11]
-  KO: 일단 여기까지만 할게요.
-  FR: Pour l'instant, je vais m'arrêter là.
+  KO: 일단 여기까지만 할게요
+  FR: Pour l'instant, je m'arrêterai là.
   EN: For now, I'll stop here.
 
 [15:20]
-  KO: 여기까지입니다.
+  KO: 여기까지입니다
   FR: C'est tout pour l'instant.
   EN: That's all for now.
 
-[15:21]
-  KO: 아니, 근데 내가 그걸 봤어.
+
+— [15:23] ────────────────────────────────────────
+
+
+[15:23]
+  KO: 아니 근데 내가 그걸 봤어
   FR: Non, mais j'ai vu ça.
   EN: No, but I saw that.
 
 [15:25]
-  KO: 만두가 벌컵에 그렇게 좋다고.
-  FR: Que les mandu étaient si bons pour le bulk up.
-  EN: That dumplings were so good for bulking up.
+  KO: 만두가 벌크업에 그렇게 좋다고
+  FR: Que les mandu sont si bons pour la prise de masse.
+  EN: That dumplings are so good for bulking up.
 
 [15:28]
-  KO: 아, 만두?
-  FR: Ah, les mandu ?
-  EN: Oh, dumplings?
+  KO: 아 만두?
+  FR: Ah, des mandu ?
+  EN: Ah, dumplings?
 
 [15:30]
-  KO: 와...
-  FR: Wow...
-  EN: Wow...
+  KO: 와
+  FR: Wow.
+  EN: Wow.
 
 [15:31]
   KO: 만두를 먹을까?
   FR: Devrais-je manger des mandu ?
   EN: Should I eat dumplings?
 
-[15:37]
-  KO: 아니, 그게 아니라...
-  FR: Non, ce n'est pas ça...
-  EN: No, it's not that...
+[15:33]
+  KO: 아니 그게 아니라
+  FR: Non, ce n'est pas ça.
+  EN: No, it's not that.
 
 [15:39]
-  KO: 만두가 살찌기용에 되게 좋다는 거야.
-  FR: C'est que les mandu sont très bons pour prendre du poids.
+  KO: 만두가 살찌기용에 되게 좋다는 거야
+  FR: C'est que les mandu sont vraiment bons pour prendre du poids.
   EN: It's that dumplings are really good for gaining weight.
 
-
-— [15:42] ────────────────────────────────────────
-
 [15:42]
-  KO: 그래서...
+  KO: 그래서
   FR: Alors...
   EN: So...
 
 [15:43]
-  KO: 나는 나름 이거는 그래도 괜찮겠지? 하면서 막 잔뜩 사놨어, 이거를.
-  FR: Je me suis dit : « Ça, ça devrait aller, non ? » et j'en ai acheté plein, de ça.
-  EN: I thought to myself, 'This should be fine, right?' and I bought a ton of them.
+  KO: 나는 나름
+  FR: Moi, à ma manière...
+  EN: I, in my own way...
 
-[15:53]
-  KO: 글을 읽고는...
-  FR: Après avoir lu l'article...
-  EN: After reading the post...
+[15:45]
+  KO: 이거는 그래도 괜찮겠지? 하면서 막
+  FR: En me disant, 'Ça devrait être bon, non ?' et puis...
+  EN: Thinking, 'This should be okay, right?' and just...
+
+[15:48]
+  KO: 잔뜩 사놨어 이거를
+  FR: J'en ai acheté une tonne.
+  EN: I bought a ton of these.
+
+[15:50]
+  KO: 그 글을 읽고는
+  FR: Après avoir lu cet article.
+  EN: After reading that post.
 
 [15:58]
   KO: 그지?
@@ -1017,266 +1057,324 @@ Uploaded: 2025-12-08
   EN: Right?
 
 [15:59]
-  KO: 그건 맞긴 하지.
+  KO: 그건 맞긴 하지
   FR: C'est vrai, ça.
   EN: That's true, though.
 
 [16:02]
-  KO: 내일 또 운동은 가는데 쪄서 가면 선생님한테 혼나니까.
-  FR: Mais demain, je vais encore m'entraîner, et si j'y vais en ayant pris du poids, le 선생님 va me gronder.
-  EN: But tomorrow I'm going to work out again, and if I go having gained weight, my trainer will scold me.
+  KO: 내일 또 운동은 가는데
+  FR: Mais demain, je vais encore m'entraîner.
+  EN: But tomorrow, I'm going to work out again.
+
+[16:11]
+  KO: 쪄서 가면 선생님한테 혼나니까
+  FR: Si j'y vais en ayant pris du poids, mon entraîneur va me gronder.
+  EN: If I go having gained weight, my trainer will scold me.
 
 [16:14]
   KO: 뭔 말인지 알지?
-  FR: Vous voyez ce que je veux dire, n'est-ce pas ?
+  FR: Tu vois ce que je veux dire ?
   EN: You know what I mean, right?
 
 [16:16]
-  KO: 못 먹을게.
-  FR: Je ne peux pas manger.
-  EN: I can't eat.
+  KO: 못 먹을게
+  FR: Je ne pourrai pas en manger.
+  EN: I won't be able to eat them.
+
+
+— [16:26] ────────────────────────────────────────
 
 [16:26]
-  KO: 딱히는 없는 거 같은데 말이야.
-  FR: Il n'y a rien de spécial, on dirait.
-  EN: There doesn't seem to be anything specific, you know.
-
-
-— [16:51] ────────────────────────────────────────
+  KO: 딱히는 없는 거 같은데 말이야
+  FR: Mais il n'y a rien d'autre de spécial, on dirait.
+  EN: But there doesn't seem to be anything specific (else to eat), you know.
 
 [16:51]
-  KO: 너무 배고프네.
+  KO: 너무 배고프네
   FR: J'ai tellement faim.
   EN: I'm so hungry.
 
 [16:52]
-  KO: 아, 근데 또 지금 시키면?
+  KO: 아 근데 또 지금 시키면?
   FR: Ah, mais si je commande maintenant ?
   EN: Ah, but if I order now?
 
 [16:54]
-  KO: 아...
-  FR: Ah...
-  EN: Ah...
-
-[16:56]
-  KO: 배달 음식을 차라리 시키고 싶은데 말이야.
-  FR: J'aimerais plutôt commander de la nourriture à livrer, vous savez.
-  EN: I'd rather just order delivery food, you know.
-
-[16:58]
-  KO: 쓰읍...
-  FR: Hmm...
-  EN: Hmm...
+  KO: 아 배달음식을 차라리 시키고 싶은데 말이야
+  FR: Ah, j'aimerais plutôt commander de la nourriture à livrer, tu sais.
+  EN: Ah, I'd rather order delivery food, you know.
 
 [16:59]
-  KO: 1시 48분이란 말이지?
-  FR: Il est 1h48 du matin, n'est-ce pas ?
-  EN: It's 1:48 AM, isn't it?
+  KO: 1시 48분이란 말이지
+  FR: Il est 1h48 du matin, tu vois.
+  EN: It's 1:48 AM, you know.
 
-[17:07]
-  KO: 새우만두가 굉장히 핫하네?
-  FR: Les 새우만두 (saeu mandu) sont très populaires, on dirait ?
-  EN: Shrimp dumplings seem to be very popular, huh?
+[17:01]
+  KO: 새우만두가 굉장히 핫하네
+  FR: Les mandu aux crevettes sont très populaires, on dirait.
+  EN: Shrimp dumplings seem to be very popular.
 
 [17:09]
   KO: 새우만두를 먹어볼까?
-  FR: Et si je mangeais des 새우만두 (saeu mandu) ?
-  EN: Should I try eating shrimp dumplings?
+  FR: Devrais-je essayer les mandu aux crevettes ?
+  EN: Should I try the shrimp dumplings?
 
-[17:12]
-  KO: 그래, 새우만두를 먹어보자.
-  FR: Oui, mangeons des 새우만두 (saeu mandu).
-  EN: Okay, let's eat shrimp dumplings.
+[17:11]
+  KO: 그래 새우만두를 먹어보자
+  FR: Oui, mangeons des mandu aux crevettes.
+  EN: Yes, let's eat shrimp dumplings.
 
 [17:18]
-  KO: 먹어볼게요.
+  KO: 먹어볼게요
   FR: Je vais en manger.
   EN: I'll eat some.
 
+
+— [17:32] ────────────────────────────────────────
+
 [17:32]
-  KO: 고민 중이야.
+  KO: 고민 중이야
   FR: Je suis en pleine réflexion.
-  EN: I'm still thinking.
+  EN: I'm contemplating.
 
 [17:34]
-  KO: 치킨너겟도 먹을까 말까.
-  FR: Je me demande si je devrais aussi manger des nuggets de poulet.
-  EN: I'm wondering whether to eat chicken nuggets too.
+  KO: 치킨너겟도 먹을까 말까
+  FR: Si je devrais manger des nuggets de poulet aussi.
+  EN: Whether I should eat chicken nuggets too.
 
 [17:43]
   KO: 새우만두 먹을까?
-  FR: Je mange des 새우만두 (saeu mandu) ?
+  FR: Devrais-je manger des mandu aux crevettes ?
   EN: Should I eat shrimp dumplings?
 
-
-— [17:59] ────────────────────────────────────────
-
 [17:59]
-  KO: 아, 근데 구기가 왜 이렇게 귀찮냐?
-  FR: Ah, mais pourquoi est-ce si ennuyeux de les faire cuire ?
-  EN: Ah, but why is cooking them so annoying?
+  KO: 아 근데 굽기가 왜 이렇게 귀찮냐?
+  FR: Ah, mais pourquoi la cuisson est si ennuyeuse ?
+  EN: Ah, but why is cooking them so bothersome?
 
 [18:11]
-  KO: 안 되겠다.
+  KO: 안되겠다
   FR: Ça ne va pas le faire.
-  EN: This won't do.
+  EN: That won't do.
 
 [18:15]
-  KO: 이걸로 먹을게.
+  KO: 이걸로 먹을게
   FR: Je vais manger ça.
-  EN: I'll eat this.
+  EN: I'll eat this instead.
 
 [18:18]
-  KO: 오케이.
-  FR: Okay.
+  KO: 오케이
+  FR: OK.
   EN: Okay.
 
 [18:24]
-  KO: 지금 살짝 어지러워.
+  KO: 지금 살짝 어지러워
   FR: Je suis un peu étourdie en ce moment.
   EN: I'm a little dizzy right now.
 
 [18:26]
-  KO: 배가 고파서.
+  KO: 배가 고파서
   FR: Parce que j'ai faim.
   EN: Because I'm hungry.
 
 [18:28]
-  KO: 먹어야겠어.
+  KO: 먹어야겠어
   FR: Je dois manger.
   EN: I have to eat.
 
-[18:29]
-  KO: 산들돌이.
-  FR: Sandeuldori.
-  EN: Sandeuldori.
 
+— [18:45] ────────────────────────────────────────
 
-— [19:25] ────────────────────────────────────────
-
+[18:45]
+  KO: 새우만두를
+  FR: Les mandu aux crevettes...
+  EN: The shrimp dumplings...
 
 [19:25]
-  KO: 추웠어.
-  FR: J'avais froid.
-  EN: I was cold.
+  KO: 치웠어
+  FR: Je les ai rangés.
+  EN: I put them away.
 
 
-[19:29]
-  KO: 풀 치워달래.
-  FR: On m'a demandé de l'enlever.
-  EN: They asked me to clear it.
+[19:30]
+  KO: 풀 치워달래
+  FR: Ils me demandent d'enlever l'herbe.
+  EN: They're asking me to clear away the grass.
 
-[19:41]
-  KO: 배고파.
+[19:31]
+  KO: 배고파
   FR: J'ai faim.
   EN: I'm hungry.
 
+
+— [19:50] ────────────────────────────────────────
+
 [19:50]
-  KO: 그것이 알고 싶다. 취재구조야.
-  FR: C'est « Je veux savoir ça ». C'est une structure d'enquête.
-  EN: It's "I Want to Know That." It's an investigative report structure.
+  KO: 그것이 알고싶다 치즈구이
+  FR: « Je veux savoir : fromage grillé. »
+  EN: “I Want to Know That: Grilled Cheese.”
+
+[19:51]
+  KO: 이거 줘야?
+  FR: Devrais-je donner ça ?
+  EN: Should I give this?
 
 [19:59]
-  KO: 오늘, 오늘은 8시...
-  FR: Aujourd'hui, aujourd'hui à 8h...
-  EN: Today, today at 8...
+  KO: 오늘 오늘은 8시
+  FR: Aujourd'hui, aujourd'hui, 8 heures.
+  EN: Today, today, 8 o'clock.
 
 [20:02]
-  KO: 8시에 일어났어.
-  FR: Je me suis levée à 8h.
+  KO: 8시에 일어났어
+  FR: Je me suis levée à 8 heures.
   EN: I woke up at 8 AM.
 
 [20:15]
-  KO: 후쿠오카 가서 문자야키랑
-  FR: À Fukuoka, j'ai mangé du Monjayaki et...
-  EN: In Fukuoka, I had Monjayaki and...
+  KO: 후쿠오카 가서
+  FR: Je suis allée à Fukuoka et...
+  EN: I went to Fukuoka and...
+
+[20:16]
+  KO: 문자야키랑
+  FR: du Monjayaki et...
+  EN: Monjayaki and...
 
 [20:21]
-  KO: 또 뭐냐?
+  KO: 또 뭐냐
   FR: Qu'est-ce que c'était d'autre ?
   EN: What else was it?
 
-
-— [20:26] ────────────────────────────────────────
-
 [20:26]
   KO: 뭐지?
-  FR: C'était quoi ?
-  EN: What was it?
+  FR: Qu'est-ce que c'est ?
+  EN: What is it?
 
 [20:27]
-  KO: 그...
-  FR: Ce...
-  EN: That...
+  KO: 그 모츠나베랑
+  FR: du Motsunabe et...
+  EN: Motsunabe and...
 
-[20:29]
-  KO: 모츠나베랑 이자카야 가서 여러 개 시키고
-  FR: Du Motsunabe, et j'ai commandé plusieurs choses dans un Izakaya.
-  EN: Motsunabe, and ordered several things at an Izakaya.
+[20:34]
+  KO: 이자카야 가서
+  FR: Je suis allée à l'Izakaya et...
+  EN: I went to an Izakaya and...
+
+[20:36]
+  KO: 막 여러 개 시키고
+  FR: J'ai commandé plein de choses.
+  EN: I ordered a bunch of different things.
 
 [20:40]
-  KO: 되게 이자카야 갔는데 심지어
-  FR: Je suis allée dans un Izakaya, et même...
-  EN: I went to an Izakaya, and even...
+  KO: 되게 이자카야 갔는데
+  FR: Je suis allée dans un très bon Izakaya, et...
+  EN: I went to a really nice Izakaya, and...
 
-[20:43]
-  KO: 나를 뭐 알아보신 것도 아니고, 날...
-  FR: Ce n'est pas comme s'iels m'avaient reconnue, iels...
-  EN: It's not like they recognized me, they...
+[20:42]
+  KO: 심지어 나를 뭐 알아보신 것도 아니고
+  FR: En plus, ils ne m'ont même pas reconnue ou quoi que ce soit.
+  EN: What's more, they didn't even recognize me or anything.
 
 [20:45]
-  KO: 그니까 몰라. 모르는데 음식을 보내주신 거야.
-  FR: Donc, iels ne savaient pas. Iels ne me connaissaient pas, mais iels m'ont envoyé de la nourriture.
-  EN: So, they didn't know. They didn't know me, but they sent me food.
+  KO: 날 몰라 모르는데
+  FR: Ils ne me connaissent pas, ils ne me connaissent pas, mais...
+  EN: They don't know me, they don't know me, but...
+
+
+— [20:51] ────────────────────────────────────────
+
+[20:51]
+  KO: 음식을 보내주신 거야
+  FR: Ils m'ont envoyé de la nourriture.
+  EN: They sent me food.
 
 [20:53]
-  KO: 다른 테이블 분께서 한국 너무 좋아한다고.
-  FR: Une personne à une autre table a dit qu'elle aimait beaucoup la Corée.
-  EN: Someone at another table said they really liked Korea.
+  KO: 다른 테이블 분께서
+  FR: Une personne d'une autre table.
+  EN: Someone from another table.
 
-[21:00]
-  KO: 너무 참 기분이 좋았어.
-  FR: Je me suis sentie vraiment bien.
-  EN: I felt really good.
+[20:58]
+  KO: 한국 너무 좋아한다고
+  FR: En disant qu'ils aimaient tellement la Corée.
+  EN: Saying they love Korea so much.
+
+[21:05]
+  KO: 너무 참 기분이 좋았어
+  FR: Je me suis sentie vraiment, vraiment bien.
+  EN: I felt really, truly good.
 
 [21:13]
-  KO: 아니, 작업이 아니라 한국을 너무 좋아한대.
-  FR: Non, ce n'était pas une tentative de drague, iels aimaient juste beaucoup la Corée.
-  EN: No, it wasn't a pick-up attempt, they just really liked Korea.
+  KO: 아니
+  FR: Non.
+  EN: No.
+
+[21:14]
+  KO: 작업이 아니라
+  FR: Ce n'était pas pour draguer.
+  EN: It wasn't a pickup line.
+
+[21:16]
+  KO: 한국을 너무 좋아한대
+  FR: Ils ont dit qu'ils aimaient tellement la Corée.
+  EN: They said they love Korea so much.
 
 [21:20]
-  KO: 그래서 음식을 이렇게 주신 거야.
-  FR: Alors iels m'ont donné de la nourriture comme ça.
-  EN: So they gave me food like that.
+  KO: 그래서 음식을 이렇게 주신 거야
+  FR: C'est pourquoi ils m'ont donné de la nourriture comme ça.
+  EN: That's why they gave me food like that.
 
 [21:24]
-  KO: 그리고 사장님, 이자카야 사장님도 한국말을 막 하시는 거야.
-  FR: Et le patron, le patron de l'Izakaya, parlait coréen.
-  EN: And the owner, the Izakaya owner, was speaking Korean.
+  KO: 그리고 사장님
+  FR: Et le propriétaire.
+  EN: And the owner.
 
+[21:26]
+  KO: 이자카야 사장님도
+  FR: Le propriétaire de l'Izakaya aussi.
+  EN: The Izakaya owner too.
 
-— [21:29] ────────────────────────────────────────
+[21:28]
+  KO: 한국말을 막 하시는 거야
+  FR: Il parlait coréen.
+  EN: He was just speaking Korean.
 
-[21:29]
-  KO: 그니까, 그니까 좀 간단한 것들이.
-  FR: Donc, donc, des choses simples.
-  EN: So, so, simple things.
+[21:30]
+  KO: 그러니까 좀 간단한 것들 있잖아
+  FR: Tu sais, des choses simples.
+  EN: You know, simple things.
 
-[21:31]
-  KO: 있잖아. 한국 너무 좋아한다고.
-  FR: Vous savez. Iels disaient qu'iels aimaient beaucoup la Corée.
-  EN: You know. Saying they really liked Korea.
+[21:35]
+  KO: 한국 너무 좋아한다고
+  FR: En disant qu'ils aimaient tellement la Corée.
+  EN: Saying they love Korea so much.
 
 [21:39]
-  KO: 그래서 되게 기분이 너무 좋았어.
-  FR: Alors je me suis sentie vraiment, vraiment bien.
-  EN: So I felt really, really good.
+  KO: 그래서 되게
+  FR: Alors, c'était vraiment...
+  EN: So it was really...
 
-[21:51]
-  KO: 아니야, 진짜. 진짜 날 모르셔. 모르시고.
-  FR: Non, vraiment. Iels ne me connaissaient vraiment pas. Iels ne savaient pas.
-  EN: No, really. They really didn't know me. They didn't know.
+[21:41]
+  KO: 기분이 너무 좋았어
+  FR: Je me suis sentie tellement bien.
+  EN: I felt so good.
+
+
+[21:50]
+  KO: 아니야 진짜
+  FR: Non, vraiment.
+  EN: No, really.
+
+
+— [21:52] ────────────────────────────────────────
+
+[21:52]
+  KO: 진짜 날 모르셔
+  FR: Ils ne me connaissent vraiment pas.
+  EN: They really don't know me.
+
+[21:53]
+  KO: 모르시고
+  FR: Ils ne me connaissent pas, et...
+  EN: They don't know me, and...
 
 [21:55]
   KO: 그냥 진짜 순수한 마음으로
@@ -1284,1198 +1382,1373 @@ Uploaded: 2025-12-08
   EN: Just with a truly pure heart.
 
 [21:58]
-  KO: 한국 너무 좋아한다고 이러면서
-  FR: En disant qu'iels aimaient beaucoup la Corée, comme ça.
-  EN: Saying they really liked Korea, like that.
+  KO: 한국 너무 좋아한다고
+  FR: En disant qu'ils aimaient tellement la Corée.
+  EN: Saying they love Korea so much.
+
+[22:00]
+  KO: 이러면서
+  FR: En disant ça.
+  EN: While saying this.
 
 [22:03]
-  KO: 처음에는 우리가 시킨 음식이 아닌데
-  FR: Au début, ce n'était pas de la nourriture que nous avions commandée.
-  EN: At first, it wasn't food we ordered.
+  KO: 처음에는
+  FR: Au début.
+  EN: At first.
+
+[22:03]
+  KO: 우리가 시킨 음식이 아닌데
+  FR: Ce n'était pas la nourriture que nous avions commandée.
+  EN: It wasn't the food we ordered.
 
 [22:06]
-  KO: 직원분께서 갖다 주시는 거야.
-  FR: Un membre du personnel nous l'a apportée.
-  EN: A staff member brought it to us.
+  KO: 직원분께서
+  FR: Le membre du personnel.
+  EN: The staff member.
+
+[22:07]
+  KO: 갖다 주시는 거야
+  FR: Nous l'a apporté.
+  EN: Brought it to us.
 
 [22:08]
-  KO: 그래서 응?
-  FR: Alors, « Hein ? »
-  EN: So, "Huh?"
+  KO: 그래서
+  FR: Alors...
+  EN: So...
 
-[22:11]
-  KO: 이렇게 우리가 시킨 거 아니라고 이랬는데
-  FR: On a dit : « Ce n'est pas ce que nous avons commandé, » mais...
-  EN: We said, "This isn't what we ordered," but...
+[22:09]
+  KO: 응?
+  FR: Hein ?
+  EN: Huh?
+
+[22:09]
+  KO: 우리가 시킨 거 아니라고
+  FR: En disant que ce n'était pas ce que nous avions commandé.
+  EN: Saying it wasn't what we ordered.
+
+[22:14]
+  KO: 이랬는데
+  FR: Nous avons dit ça, mais...
+  EN: We said that, but...
 
 [22:16]
-  KO: 아니야, 티를 안 내시는 게 아니라
-  FR: Non, ce n'est pas qu'iels ne le montraient pas.
-  EN: No, it's not that they weren't showing it.
+  KO: 아니야
+  FR: Non.
+  EN: No.
 
-[22:18]
-  KO: 진짜로 몰라.
-  FR: Iels ne savaient vraiment pas.
-  EN: They really didn't know.
+[22:17]
+  KO: 티를 안 내시는 게 아니라
+  FR: Ce n'est pas qu'ils ne le montraient pas.
+  EN: It's not that they weren't showing it.
 
-[22:20]
-  KO: 모르시고.
-  FR: Iels ne savaient pas.
-  EN: They didn't know.
+[22:19]
+  KO: 진짜로 몰라
+  FR: Ils ne me connaissent vraiment pas.
+  EN: They really don't know me.
 
-[22:23]
-  KO: 그래, 맞아.
+[22:22]
+  KO: 모르시고
+  FR: Ils ne me connaissent pas, et...
+  EN: They don't know me, and...
+
+[22:25]
+  KO: 그래 맞아
   FR: Oui, c'est ça.
   EN: Yes, that's right.
 
+[22:26]
+  KO: 아니
+  FR: Non.
+  EN: No.
 
-— [22:36] ────────────────────────────────────────
-
-[22:36]
-  KO: 아니, 미치겠다.
-  FR: Non, c'est fou.
-  EN: Oh, this is crazy.
+[22:39]
+  KO: 미치겠다
+  FR: C'est fou.
+  EN: This is crazy.
 
 [22:40]
-  KO: 오, 맛있겠는데?
-  FR: Oh, ça a l'air délicieux ?
-  EN: Oh, it looks delicious?
+  KO: 오 맛있겠는데
+  FR: Oh, ça a l'air délicieux.
+  EN: Oh, that looks delicious.
 
-[22:44]
-  KO: 만두 타임.
+[22:45]
+  KO: 만두 타임
   FR: L'heure des mandu.
   EN: Dumpling time.
 
 [22:48]
-  KO: 만두 타임.
+  KO: 만두 타임
   FR: L'heure des mandu.
   EN: Dumpling time.
 
+
+— [23:26] ────────────────────────────────────────
+
 [23:26]
-  KO: 내가 만두를 먹을 때 울 것 같다고?
-  FR: Vous pensez que je vais pleurer en mangeant des mandu ?
-  EN: You think I'll cry when I eat dumplings?
+  KO: 내가 만두를 먹을 때
+  FR: Quand je mange des mandu.
+  EN: When I eat dumplings.
+
+[23:27]
+  KO: 울 것 같다고?
+  FR: Tu penses que je vais pleurer ?
+  EN: You think I'll cry?
 
 [23:28]
-  KO: 왜?
+  KO: 왜
   FR: Pourquoi ?
   EN: Why?
 
 [23:32]
-  KO: 왜 울어?
-  FR: Pourquoi pleurerais-je ?
+  KO: 왜 울어
+  FR: Pourquoi pleurer ?
   EN: Why would I cry?
 
-
-— [23:37] ────────────────────────────────────────
-
 [23:37]
-  KO: 아니, 그니까 원래 만두는 간장을 찍어 먹어야 되는데
-  FR: Non, je veux dire, normalement on est censé tremper les mandu dans de la sauce soja.
-  EN: No, I mean, normally you're supposed to dip dumplings in soy sauce.
+  KO: 아니 그러니까 원래 만두는
+  FR: Non, je veux dire, normalement les mandu...
+  EN: No, I mean, usually dumplings...
+
+[23:38]
+  KO: 간장을 찍어 먹어야 되는데
+  FR: Il faut les tremper dans de la sauce soja.
+  EN: You have to dip them in soy sauce.
 
 [23:39]
-  KO: 그 식초 같은 그거.
+  KO: 그 식초 같은 그거
   FR: Ce truc comme du vinaigre.
   EN: That vinegar-like thing.
 
-[23:41]
-  KO: 근데 지금 아무것도 하기가 싫어.
+[23:43]
+  KO: 근데 지금 아무것도 하기가 싫어
   FR: Mais là, je n'ai envie de rien faire.
   EN: But right now, I don't want to do anything.
 
 [23:47]
-  KO: 귀찮아.
-  FR: C'est ennuyeux.
-  EN: It's annoying.
+  KO: 귀찮아
+  FR: C'est trop de travail.
+  EN: It's too bothersome.
 
+[23:49]
+  KO: 시원한가 봐
+  FR: Ça a l'air rafraîchissant.
+  EN: It seems refreshing.
 
-[23:50]
-  KO: 시원한가 봐.
-  FR: Ça a l'air frais.
-  EN: It seems cool.
-
-[23:56]
-  KO: 만두 타임.
+[23:51]
+  KO: 만두 타임
   FR: L'heure des mandu.
   EN: Dumpling time.
 
 [24:05]
-  KO: 새우만두는 꺾기가 너무 귀찮아.
-  FR: C'est trop ennuyeux de casser les 새우만두 (saeu mandu).
-  EN: It's too annoying to break the shrimp dumplings.
+  KO: 새우 만두는
+  FR: Les mandu aux crevettes...
+  EN: Shrimp dumplings...
+
+[24:06]
+  KO: 굽기가 너무 귀찮아
+  FR: La cuisson est trop ennuyeuse.
+  EN: Frying them is too bothersome.
+
+
+[24:19]
+  KO: 응
+  FR: Oui.
+  EN: Yeah.
 
 [24:20]
-  KO: 음.
-  FR: Mmm.
-  EN: Mmm.
-
-[24:21]
-  KO: 맛있어.
-  FR: C'est délicieux.
+  KO: 맛있어
+  FR: C'est bon.
   EN: It's delicious.
 
+
+— [24:28] ────────────────────────────────────────
+
 [24:28]
-  KO: 근데 너무 웃기네.
+  KO: 근데 너무 웃기네
   FR: Mais c'est tellement drôle.
   EN: But it's so funny.
 
 [24:32]
-  KO: 새우만두가 그렇게 맛있어?
-  FR: Les 새우만두 (saeu mandu) sont si délicieux que ça ?
+  KO: 새우 만두가 그렇게 맛있어?
+  FR: Les mandu aux crevettes sont si délicieux que ça ?
   EN: Are shrimp dumplings that delicious?
 
-
-— [24:38] ────────────────────────────────────────
-
-[24:38]
-  KO: 진짜 다음에 꼭 먹어볼게.
+[24:37]
+  KO: 진짜 다음에 꼭 먹어볼게
   FR: Je les essaierai vraiment la prochaine fois.
-  EN: I'll really try them next time.
+  EN: I'll definitely try them next time, really.
 
 [24:40]
-  KO: 진짜로.
+  KO: 진짜로
   FR: Vraiment.
   EN: Really.
 
 [24:42]
-  KO: 꼭.
+  KO: 꼭
   FR: Absolument.
   EN: Definitely.
 
 [24:44]
-  KO: 꼭.
+  KO: 꼭
   FR: Absolument.
   EN: Definitely.
 
-[24:45]
-  KO: 근데 이거 맛있는 거 같아.
-  FR: Mais je pense que c'est délicieux.
+[25:00]
+  KO: 근데 이거 맛있는 거 같아
+  FR: Mais je crois que c'est bon.
   EN: But I think this is delicious.
 
-[25:07]
-  KO: 청양고추 맛이야.
+[25:08]
+  KO: 청양고추 맛이야
   FR: Ça a le goût de piment Cheongyang.
-  EN: It tastes like Cheongyang chili pepper.
+  EN: It tastes like Cheongyang pepper.
+
+
+— [25:33] ────────────────────────────────────────
 
 [25:33]
-  KO: 맛있어.
-  FR: C'est délicieux.
+  KO: 맛있어
+  FR: C'est bon.
   EN: It's delicious.
 
-
-— [25:43] ────────────────────────────────────────
-
-[25:43]
-  KO: 연락이 진짜 많이 왔지.
-  FR: J'ai vraiment reçu beaucoup de messages.
+[25:44]
+  KO: 연락이 진짜 많이 왔지
+  FR: J'ai reçu tellement de messages.
   EN: I really got a lot of messages.
 
 [25:50]
-  KO: 축하한다고.
+  KO: 축하한다고
   FR: Pour me féliciter.
-  EN: Saying congratulations.
+  EN: Congratulating me.
 
-[25:51]
-  KO: 아, 뭐 자꾸?
-  FR: Ah, qu'est-ce qui se passe encore ?
-  EN: Ah, what's with that?
+[26:08]
+  KO: 아 뭐 자꾸
+  FR: Ah, pourquoi vous continuez à...
+  EN: Ah, why do you keep...
 
 [26:12]
-  KO: 목욕탕?
-  FR: Bain public ?
-  EN: Bathhouse?
+  KO: 뭐 먹다?
+  FR: Manger quoi ?
+  EN: Eat what?
 
-[26:13]
-  KO: 무슨 소리야.
+[26:14]
+  KO: 무슨 소리야
   FR: Qu'est-ce que vous racontez ?
   EN: What are you talking about?
 
-[26:16]
-  KO: 이상한 소리를 하고 있어.
+[26:18]
+  KO: 이상한 소리를 하고 있어
   FR: Vous dites des choses étranges.
   EN: You're saying strange things.
 
-[26:19]
-  KO: 굿바이 할 수 있을 때 딱 굿바이 할 줄 알았는데.
-  FR: Je pensais que je pourrais dire « Good Bye » quand le moment serait venu.
-  EN: I thought I'd be able to say "Good Bye" when the time was right.
 
+— [26:40] ────────────────────────────────────────
 
-— [26:51] ────────────────────────────────────────
+[26:40]
+  KO: 굿바이 할 수 있을 때 딱
+  FR: Quand j'ai pu dire au revoir, juste...
+  EN: When I could say goodbye, just...
+
+[26:41]
+  KO: 굿, 굿바이 할 줄 알았는데
+  FR: Je pensais que je dirais au revoir.
+  EN: I thought I'd say goodbye.
 
 [26:51]
-  KO: 미치겠다.
+  KO: 미치겠다
   FR: C'est fou.
-  EN: I'm going crazy.
+  EN: This is crazy.
 
 [27:13]
-  KO: 음.
-  FR: Mmm.
-  EN: Mmm.
+  KO: 음
+  FR: Hmm.
+  EN: Hmm.
 
 [27:24]
-  KO: 너무 맛있어요.
-  FR: C'est tellement délicieux.
-  EN: It's so delicious.
+  KO: 정신 차려
+  FR: Reprends-toi.
+  EN: Get a grip.
 
 [27:38]
-  KO: 무슨 소리야.
+  KO: 무슨 소리야
   FR: Qu'est-ce que vous racontez ?
   EN: What are you talking about?
 
-[27:44]
-  KO: 드럼 잘 치겠대.
-  FR: Iels disent que je serais douée à la batterie.
-  EN: They say I'd be good at playing drums.
 
-[27:49]
+— [27:48] ────────────────────────────────────────
+
+[27:48]
+  KO: 드럼 잘 치겠대
+  FR: Ils disent que je jouerais bien de la batterie.
+  EN: They say I'd be good at drums.
+
+[28:06]
   KO: 다음 노래에 맞는 썸 찾았어요?
-  FR: Avez-vous trouvé un « some » qui correspond à votre prochaine chanson ?
-  EN: Have you found a "some" that fits your next song?
+  FR: Avez-vous trouvé le concept qui correspond à votre prochaine chanson ?
+  EN: Did you find the concept that fits your next song?
 
-
-— [28:08] ────────────────────────────────────────
-
-[28:08]
-  KO: 찾았어.
-  FR: J'ai trouvé.
+[28:09]
+  KO: 찾았어
+  FR: Je l'ai trouvé.
   EN: I found it.
 
-[28:14]
-  KO: 새우만두.
-  FR: Les 새우만두 (saeu mandu).
+
+[28:29]
+  KO: 새우 만두
+  FR: Les mandu aux crevettes.
   EN: Shrimp dumplings.
 
-[28:31]
-  KO: 그래, 맞아.
+[28:30]
+  KO: 그래 맞아
   FR: Oui, c'est ça.
   EN: Yes, that's right.
 
 [28:32]
-  KO: 내 다음 썸 상대는 새우만두다.
-  FR: Mon prochain partenaire de « some », ce sont les 새우만두 (saeu mandu).
-  EN: My next "some" partner is shrimp dumplings.
+  KO: 내 다음 썸 상대는
+  FR: Mon prochain partenaire "concept" est...
+  EN: My next "concept" partner is...
 
-[28:35]
-  KO: 우리 이렇게 낮은 높은 왔다 갔다 하던데 기준이 있어?
-  FR: Je passe comme ça du grave à l'aigu, est-ce qu'il y a un critère ?
-  EN: I go back and forth between low and high tones like this, is there a standard?
+[28:34]
+  KO: 새우 만두다
+  FR: ...les mandu aux crevettes.
+  EN: ...shrimp dumplings.
+
+
+— [28:49] ────────────────────────────────────────
+
+[28:49]
+  KO: 우리 이렇게 낮은 높은
+  FR: Nous, comme ça, bas, haut...
+  EN: We go low, high like this...
+
+[28:53]
+  KO: 왔다 갔다 하던데 기준이 있어?
+  FR: On fait des allers-retours, y a-t-il un critère ?
+  EN: We go back and forth, is there a standard?
 
 [28:56]
   KO: 미리 정하고 올라가?
-  FR: Est-ce que je le décide à l'avance et je monte ?
-  EN: Do I decide it beforehand and go up?
+  FR: On le décide à l'avance avant de monter ?
+  EN: Do we decide it beforehand before going up?
 
-[29:07]
-  KO: 그냥 하는 건데?
-  FR: Je le fais juste ?
-  EN: I just do it?
-
-[29:08]
-  KO: 그냥 하는 거야.
-  FR: Je le fais juste.
-  EN: I just do it.
-
-
-— [29:12] ────────────────────────────────────────
+[28:58]
+  KO: 그냥 하는 건데
+  FR: On le fait juste.
+  EN: We just do it.
 
 [29:12]
-  KO: 근데 이제 그래가지고 요새 뭐 재밌는 건 없고?
-  FR: Mais du coup, ces temps-ci, il n'y a rien d'intéressant ?
-  EN: But so, these days, is there anything interesting?
+  KO: 그냥 하는 거야
+  FR: On le fait juste.
+  EN: We just do it.
 
-[29:31]
-  KO: 재밌는 게임 같은 거?
-  FR: Comme un jeu intéressant ?
-  EN: Like an interesting game?
+[29:17]
+  KO: 근데 이제
+  FR: Mais maintenant...
+  EN: But now...
+
+[29:28]
+  KO: 그래가지고 요새 뭐
+  FR: Donc ces jours-ci, euh...
+  EN: So these days, well...
+
+[29:30]
+  KO: 재밌는 건 없고
+  FR: Il n'y a rien d'amusant.
+  EN: There's nothing fun.
+
+[29:33]
+  KO: 재밌는 게임 같은 거
+  FR: Des jeux amusants ou quelque chose.
+  EN: Like fun games or something.
 
 
-— [30:19] ────────────────────────────────────────
+— [30:25] ────────────────────────────────────────
 
-[30:19]
-  KO: 아웅.
-  FR: Aïe.
-  EN: Aww.
 
-[30:20]
-  KO: 소감?
-  FR: Mes impressions ?
-  EN: My thoughts?
+[30:25]
+  KO: 소감
+  FR: Impressions.
+  EN: Thoughts.
 
 [30:30]
-  KO: 너무 감사하지.
+  KO: 너무 감사하지
   FR: Je suis tellement reconnaissante.
   EN: I'm so grateful.
 
 [30:36]
-  KO: 내 혼자 힘으로 이러는 게 아니잖아.
-  FR: Ce n'est pas comme si je faisais ça toute seule.
-  EN: It's not like I'm doing this all by myself.
+  KO: 내
+  FR: Mon...
+  EN: My...
 
-[30:38]
-  KO: 그래서 많은 사람들이 생각이 나.
-  FR: C'est pourquoi beaucoup de gens me viennent à l'esprit.
-  EN: That's why many people come to mind.
+[30:37]
+  KO: 혼자 힘으로 이러는 게 아니잖아
+  FR: Ce n'est pas quelque chose que je fais seule.
+  EN: It's not something I do alone.
+
+[30:41]
+  KO: 그래서
+  FR: Alors...
+  EN: So...
 
 [30:44]
-  KO: 근데 또 난 좀 감성적이잖아.
-  FR: Mais en plus, je suis un peu sensible, vous savez.
-  EN: But then again, I'm a bit sentimental, you know.
+  KO: 많은 사람들이 생각이 나
+  FR: Je pense à beaucoup de gens.
+  EN: Many people come to mind.
 
 [30:48]
-  KO: 그래서 참 정말 깊이 깊이 많은 사람들이 생각이 나.
-  FR: Alors vraiment, beaucoup de gens me viennent profondément à l'esprit.
-  EN: So, truly, many people come deeply to mind.
+  KO: 근데 또 난 좀 감성적이잖아?
+  FR: Mais je suis aussi un peu émotive, non ?
+  EN: But I'm also a bit emotional, aren't I?
+
+[30:53]
+  KO: 그래서 참
+  FR: Alors vraiment...
+  EN: So, truly...
+
+[30:53]
+  KO: 정말 깊이 깊이
+  FR: Vraiment, profondément, profondément...
+  EN: Truly, deeply, deeply...
 
 [30:57]
-  KO: 너무 행복하고.
-  FR: Je suis tellement heureuse.
+  KO: 많은 사람들이 생각이 나
+  FR: Je pense à beaucoup de gens.
+  EN: Many people come to mind.
+
+[31:02]
+  KO: 너무 행복하고
+  FR: Je suis si heureuse.
   EN: I'm so happy.
 
-[30:59]
-  KO: 근데 나는 이런 순간이 오면 이렇게 뭔가 마냥 좋지는 않...
-  FR: Mais quand un moment comme celui-ci arrive, ce n'est pas juste...
-  EN: But when a moment like this comes, it's not just pure happiness...
+[31:04]
+  KO: 근데 나는 이런 순간이 오면
+  FR: Mais quand un moment comme celui-ci arrive...
+  EN: But when a moment like this comes...
 
 [31:06]
-  KO: 그러니까 묘해.
-  FR: C'est étrange, en fait.
-  EN: It's peculiar, you know.
+  KO: 이렇게 뭔가
+  FR: C'est comme si quelque chose...
+  EN: It's like something...
 
 [31:09]
-  KO: 너무 감사하지.
+  KO: 마냥 좋지는 않..
+  FR: Ce n'est pas juste bon...
+  EN: It's not just good...
+
+[31:10]
+  KO: 그니까
+  FR: C'est ça.
+  EN: Exactly.
+
+[31:14]
+  KO: 묘해
+  FR: C'est particulier.
+  EN: It's peculiar.
+
+[31:17]
+  KO: 너무 감사하지
   FR: Je suis tellement reconnaissante.
   EN: I'm so grateful.
 
-[31:14]
-  KO: 진짜 너무 감사해서 벅차.
-  FR: Je suis vraiment submergée de gratitude.
-  EN: I'm truly overwhelmed with gratitude.
+[31:18]
+  KO: 진짜 너무 감사해서
+  FR: Je suis vraiment tellement reconnaissante que...
+  EN: I'm truly so grateful that...
+
+[31:22]
+  KO: 벅차
+  FR: C'est accablant.
+  EN: It's overwhelming.
 
 
-— [31:19] ────────────────────────────────────────
+— [31:29] ────────────────────────────────────────
 
-[31:19]
-  KO: 근데 그 소식을 딱 받았을 때
-  FR: Mais quand j'ai reçu cette nouvelle,
-  EN: But when I received that news,
 
 [31:29]
-  KO: 언니들이랑 이제 있었잖아.
-  FR: J'étais avec mes sœurs, vous savez.
-  EN: I was with my sisters, you know.
-
-[31:31]
-  KO: 산골에.
-  FR: À la campagne.
-  EN: In the countryside.
+  KO: 근데 그 소식을 딱 받았을 때
+  FR: Mais quand j'ai reçu cette nouvelle...
+  EN: But when I received that news...
 
 [31:33]
-  KO: 그래서 너무 다행이었어.
-  FR: C'était un tel soulagement.
-  EN: So it was such a relief.
+  KO: 언니들이랑 이제 있었잖아
+  FR: J'étais avec mes sœurs, vous savez.
+  EN: I was with my older sisters, you know.
 
 [31:35]
-  KO: 맞아.
-  FR: C'est ça.
-  EN: That's right.
+  KO: 산골에
+  FR: À la montagne.
+  EN: In the mountains.
 
 [31:37]
-  KO: 먹먹하고.
-  FR: J'étais émue.
-  EN: I felt choked up.
+  KO: 그래서 너무 다행이었어
+  FR: Alors c'était un tel soulagement.
+  EN: So it was such a relief.
 
-[31:38]
-  KO: 어떻게 보면은 팬들이 느끼는 감정이랑 뭔가 비슷할 수도 있고.
-  FR: D'une certaine manière, cela pourrait être similaire aux sentiments que mes fans ressentent.
-  EN: In a way, it might be similar to the feelings my fans experience.
+[31:43]
+  KO: 맞아 먹먹하고
+  FR: Oui, c'est bouleversant et...
+  EN: Yes, it's overwhelming and...
 
-[31:50]
-  KO: 그런데 이제 언니들한테 언니들이랑 이제 산골에 있었단 말이야.
-  FR: Mais j'étais avec mes sœurs, à la campagne, vous voyez.
-  EN: But I was with my sisters, in the countryside, you see.
+[31:45]
+  KO: 어떻게 보면은
+  FR: D'une certaine manière...
+  EN: In a way...
 
-[31:57]
-  KO: 산골에 있었는데 이제 내가 그 좋은 소식을 딱 듣고 했는데 이제 언니들은 내내 상대를 사랑하고 있었어.
-  FR: J'étais à la campagne, et quand j'ai appris la bonne nouvelle, mes sœurs, elles, étaient occupées à aimer leur propre truc tout le temps.
-  EN: I was in the countryside, and when I heard the good news, my sisters, they were just loving their own thing the whole time.
+[31:49]
+  KO: 팬들이 느끼는 감정이랑
+  FR: Avec les sentiments que ressentent les fans...
+  EN: With the feelings that fans experience...
+
+[31:52]
+  KO: 뭔가 비슷할 수도 있고
+  FR: Ça pourrait être similaire.
+  EN: It might be similar.
+
+[31:54]
+  KO: 그런데
+  FR: Mais...
+  EN: But...
+
+[31:56]
+  KO: 이제 언니들한테
+  FR: Maintenant, à mes sœurs...
+  EN: So, to my older sisters...
+
+[32:02]
+  KO: 언니들이랑 이제 산골에 있었단 말이야
+  FR: J'étais avec mes sœurs à la montagne, vous voyez.
+  EN: I was with my older sisters in the mountains, you see.
+
+[32:06]
+  KO: 산골에 있었는데
+  FR: J'étais à la montagne, mais...
+  EN: I was in the mountains, but...
+
+[32:08]
+  KO: 이제 내가 그 좋은 소식을 딱 듣고
+  FR: Quand j'ai entendu cette bonne nouvelle...
+  EN: When I heard that good news...
 
 [32:11]
-  KO: 그래.
-  FR: Oui.
-  EN: Yeah.
+  KO: 했는데 이제 언니들은
+  FR: J'ai fait ça, mais mes sœurs...
+  EN: I did, but my older sisters...
 
-[32:12]
-  KO: 그냥 내내 모르는 것 같더라고.
-  FR: Il semblait qu'elles ne savaient rien du tout.
-  EN: It seemed like they didn't know anything the whole time.
+[32:13]
+  KO: 내내 모르는 거 같더라고
+  FR: Elles n'avaient pas l'air de le savoir du tout.
+  EN: They didn't seem to know at all.
 
-[32:15]
-  KO: 그래서 그냥 계속 피곤하다 그냥 이런 얘기만 하다가
-  FR: Alors elles n'arrêtaient pas de dire qu'elles étaient fatiguées, et ce genre de choses,
-  EN: So they just kept saying they were tired and things like that,
+[32:16]
+  KO: 그래서 계속
+  FR: Alors elles continuaient à dire...
+  EN: So they kept saying...
+
+[32:18]
+  KO: 아 피곤하다
+  FR: « Ah, je suis fatiguée. »
+  EN: "Ah, I'm tired."
+
+[32:19]
+  KO: 그냥 이런 얘기만 하다가
+  FR: Elles ne faisaient que parler de ça.
+  EN: They just kept talking like that.
+
+[32:25]
+  KO: 그냥 내가 말하기 전까진 모르더라고 언니들이
+  FR: Mes sœurs ne l'ont pas su avant que je le dise.
+  EN: My older sisters didn't know until I told them.
 
 
-— [32:26] ────────────────────────────────────────
+— [32:29] ────────────────────────────────────────
 
-[32:26]
-  KO: 그냥 내가 말하기 전까진 모르더라고 언니들이.
-  FR: Mes sœurs ne l'ont pas su avant que je ne le dise.
-  EN: My sisters didn't know until I told them.
-
-[32:31]
-  KO: 너무 좋았어.
+[32:29]
+  KO: 너무 좋았어
   FR: C'était tellement bien.
   EN: It was so good.
 
-[32:36]
-  KO: 되게 조용하니.
+[32:33]
+  KO: 되게 조용하니
   FR: C'était très calme.
   EN: It was very quiet.
 
 [32:38]
   KO: 좋다가 언니들이 진짜 끝까지 모르길래
-  FR: C'était bien, mais comme mes sœurs ne savaient vraiment rien jusqu'au bout,
-  EN: It was good, but since my sisters really didn't know until the very end,
+  FR: C'était bien, puis comme mes sœurs ne le savaient vraiment pas jusqu'au bout...
+  EN: It was good, and since my older sisters really didn't know until the very end...
 
 [32:41]
-  KO: 언니 너 1위 했대.
-  FR: « Unnie, on dit que tu as eu la première place. »
-  EN: “Unnie, they said you got 1st place.”
+  KO: 언니 너 1위 했대
+  FR: « Unnie, tu as eu la première place ! »
+  EN: "Unnie, they said you got first place!"
 
-[32:45]
-  KO: 굿굿바이가.
-  FR: « Good Good Bye. »
-  EN: “Good Good Bye.”
+[32:44]
+  KO: 굿굿바이가
+  FR: « Good Goodbye »
+  EN: "Good Goodbye"
 
 [32:46]
   KO: 이랬는데
-  FR: J'ai dit ça, et elles ont fait :
-  EN: I said this, and they were like,
+  FR: J'ai dit ça, mais...
+  EN: I said this, but...
 
 [32:47]
-  KO: 진짜?
-  FR: « Vraiment ? »
-  EN: “Really?”
-
+  KO: 어 진짜
+  FR: « Oh, vraiment ? »
+  EN: "Oh, really?"
 
 [32:50]
-  KO: 다시.
-  FR: Encore.
-  EN: Again.
+  KO: 다 같이
+  FR: Tous ensemble.
+  EN: All together.
 
-[32:52]
-  KO: 오 축하해.
-  FR: « Oh, félicitations. »
-  EN: “Oh, congratulations.”
+[32:53]
+  KO: 오 축하해
+  FR: « Oh, félicitations ! »
+  EN: "Oh, congratulations!"
 
 [32:58]
-  KO: 여기까지야.
+  KO: 여기까지야
   FR: C'est tout.
-  EN: That was it.
+  EN: That's it.
 
-[33:00]
-  KO: 그러고서 이제 저녁에 셋이서 바다거북수프 게임을 했어.
-  FR: Et puis, le soir, nous avons joué toutes les trois au jeu de la Soupe de Tortue de Mer.
-  EN: And then, in the evening, the three of us played the Sea Turtle Soup Game.
+[33:02]
+  KO: 그러고서
+  FR: Et puis...
+  EN: And then...
+
+[33:03]
+  KO: 이제 저녁에
+  FR: Maintenant, le soir...
+  EN: Now, in the evening...
+
+[33:06]
+  KO: 셋이서 바다거북수프 게임을 했어
+  FR: Nous avons joué au jeu de la Soupe de Tortue de Mer toutes les trois.
+  EN: The three of us played the Sea Turtle Soup game.
 
 [33:08]
-  KO: 여행 내내 바다거북수프만 했어.
+  KO: 여행 내내 바다거북수프만 했어
   FR: Pendant tout le voyage, nous n'avons fait que jouer à la Soupe de Tortue de Mer.
-  EN: Throughout the entire trip, we only played Sea Turtle Soup.
+  EN: Throughout the trip, we only played Sea Turtle Soup.
 
-[33:15]
-  KO: 진짜.
+[33:14]
+  KO: 진짜
   FR: Vraiment.
-  EN: Seriously.
+  EN: Really.
 
 [33:20]
-  KO: 그래서 너무 좋았어.
-  FR: C'était tellement bien.
-  EN: So it was really good.
+  KO: 그래서 너무 좋았어
+  FR: Alors c'était tellement bien.
+  EN: So it was so good.
 
 [33:22]
-  KO: 거의 이제 싸이 오빠도 어떻게 너보다 내가 더 좋아하는 것 같아.
-  FR: Même Psy Oppa, on dirait qu'il est plus heureux que moi.
-  EN: Even Psy Oppa, it seems like he's happier than me.
+  KO: 거의 이제
+  FR: Presque maintenant...
+  EN: Almost now...
 
 
-— [33:42] ────────────────────────────────────────
+— [33:31] ────────────────────────────────────────
 
-[33:42]
-  KO: 그러시더라고.
+[33:31]
+  KO: 싸이 오빠도
+  FR: Psy oppa aussi...
+  EN: Psy oppa also...
+
+[33:34]
+  KO: 어떻게
+  FR: Comment...
+  EN: How...
+
+[33:36]
+  KO: 너보다 내가 더 좋아하는 거 같아
+  FR: Il a dit : « J'ai l'impression que j'aime ça plus que toi. »
+  EN: He said, "I think I like it more than you do."
+
+[33:41]
+  KO: 그러시더라고
   FR: C'est ce qu'il a dit.
   EN: That's what he said.
 
-[33:43]
-  KO: 아니 물론 나도 마음속에.
-  FR: Non, bien sûr, moi aussi, au fond de mon cœur.
-  EN: No, of course, I also, in my heart.
+[33:44]
+  KO: 아니 물론 나도 마음속으로 너무 감사하고
+  FR: Non, bien sûr, j'étais aussi très reconnaissante et...
+  EN: No, of course, I was also very grateful and...
 
-[33:45]
-  KO: 마음속으로 너무 감사하고 좋아하고 있었지.
-  FR: J'étais tellement reconnaissante et heureuse au fond de mon cœur.
-  EN: I was so grateful and happy in my heart.
+[33:46]
+  KO: 좋아하고 있었지
+  FR: ...j'aimais ça dans mon cœur.
+  EN: ...I liked it in my heart.
 
 [33:48]
-  KO: 근데 뭔가 주변에서 이렇게 더 행복해하시고 좋아해주는 모습을 보는 게 나는 더 행복하고 그래.
-  FR: Mais voir les gens autour de moi être encore plus heureux et apprécier, ça me rend encore plus heureuse.
-  EN: But seeing the people around me being even happier and enjoying it more, that makes me even happier.
+  KO: 근데 뭔가 주변에서 이렇게
+  FR: Mais quand je vois les gens autour de moi...
+  EN: But when I see people around me...
 
-[34:02]
-  KO: 그렇더라.
+[33:53]
+  KO: 더 행복해하시고
+  FR: ...être plus heureux...
+  EN: ...being happier...
+
+[33:55]
+  KO: 좋아해주는 모습을 보는 게
+  FR: ...et aimer ça, voir ça...
+  EN: ...and liking it, seeing that...
+
+[33:58]
+  KO: 나는 더 행복하고
+  FR: ...me rend plus heureuse.
+  EN: ...makes me even happier.
+
+[34:00]
+  KO: 그래
+  FR: Oui.
+  EN: Yes.
+
+[34:01]
+  KO: 그렇더라
   FR: C'est comme ça.
   EN: That's how it is.
 
-[34:10]
-  KO: 몰라.
+[34:03]
+  KO: 몰라
   FR: Je ne sais pas.
   EN: I don't know.
 
 [34:11]
-  KO: 주변에서 행복해해주는 게 난 더 행복한 것 같아.
-  FR: Je crois que le bonheur des gens autour de moi me rend encore plus heureuse.
-  EN: I think I'm happier when the people around me are happy.
+  KO: 주변에서 행복해해주는 게
+  FR: Le fait que les gens autour de moi soient heureux...
+  EN: The fact that people around me are happy...
+
+[34:16]
+  KO: 난 더 행복한 거 같아
+  FR: ...me rend plus heureuse.
+  EN: ...makes me even happier.
 
 [34:25]
-  KO: 먹어.
-  FR: Mangez.
-  EN: Eat up.
+  KO: 먹어
+  FR: Mange.
+  EN: Eat.
 
-[34:37]
-  KO: 맛있지?
-  FR: C'est délicieux, n'est-ce pas ?
-  EN: It's delicious, right?
+[34:27]
+  KO: 맛있어
+  FR: C'est délicieux.
+  EN: It's delicious.
+
+
+— [34:38] ────────────────────────────────────────
 
 [34:38]
-  KO: 맥주 너무 맛있겠다.
-  FR: La bière doit être tellement délicieuse.
-  EN: Beer would be so delicious.
+  KO: 맥주 너무 맛있겠다
+  FR: La bière doit être tellement bonne.
+  EN: Beer must be so delicious.
 
 [34:41]
-  KO: 맥주 마시고 싶다.
-  FR: J'ai envie de boire de la bière.
-  EN: I want to drink beer.
+  KO: 아 맥주 마시고 싶다
+  FR: Ah, j'ai envie de boire de la bière.
+  EN: Ah, I want to drink beer.
 
-
-— [34:44] ────────────────────────────────────────
+[34:43]
+  KO: 맥주 없는데
+  FR: Mais je n'ai pas de bière.
+  EN: But I don't have any beer.
 
 [34:44]
-  KO: 맥주 없는데.
-  FR: Mais il n'y a pas de bière.
-  EN: But there's no beer.
+  KO: 맥주도 한 캔 있는 거
+  FR: La seule canette de bière que j'avais...
+  EN: The one can of beer I had...
 
-[34:45]
-  KO: 맥주도 한 캔 있는 거 언니들이 다 마시고 갔거든.
-  FR: La seule canette de bière que j'avais, mes sœurs l'ont bue et sont parties.
-  EN: The one can of beer I had, my sisters drank it all and left.
+[34:48]
+  KO: 언니들이 다 마시고 갔거든
+  FR: ...mes sœurs l'ont toutes bue avant de partir.
+  EN: ...my older sisters drank it all before they left.
 
 [34:50]
-  KO: 오늘은 와인 필은 아니야.
-  FR: Aujourd'hui, ce n'est pas une ambiance vin.
-  EN: Today, it's not a wine kind of mood.
+  KO: 오늘은 와인 필은 아니야
+  FR: Aujourd'hui, je n'ai pas envie de vin.
+  EN: Today, I'm not in the mood for wine.
 
-[34:58]
-  KO: 맥주 필인 것 같아.
-  FR: On dirait plutôt une ambiance bière.
-  EN: It feels like a beer kind of mood.
+[34:57]
+  KO: 맥주 필인 거 같아
+  FR: J'ai l'impression d'avoir envie de bière.
+  EN: I think I'm in the mood for beer.
 
-[35:06]
+[35:02]
   KO: 맥주?
   FR: De la bière ?
   EN: Beer?
 
 [35:07]
-  KO: 나는 내가 마시는 게 있었는데.
-  FR: J'avais quelque chose que je buvais.
-  EN: There was something I used to drink.
+  KO: 아니
+  FR: Non.
+  EN: No.
+
+[35:09]
+  KO: 내가 마시는 게 있었는데?
+  FR: J'en avais une que je buvais, non ?
+  EN: I had one I was drinking, didn't I?
 
 [35:23]
-  KO: 그거 기린 제로 맛있더라고.
-  FR: Ce Kirin Zero était délicieux, vous savez.
-  EN: That Kirin Zero was delicious, you know.
+  KO: 그거 기린 제로
+  FR: C'était la Kirin Zero.
+  EN: It was Kirin Zero.
+
+[35:27]
+  KO: 맛있더라고
+  FR: C'était bon.
+  EN: It was delicious.
 
 [35:28]
-  KO: 기린 제로랑 에딩거도 좋아하고.
-  FR: J'aime aussi le Kirin Zero et l'Erdinger.
-  EN: I also like Kirin Zero and Erdinger.
+  KO: 기린 제로랑
+  FR: Kirin Zero et...
+  EN: Kirin Zero and...
+
+
+[35:36]
+  KO: 에딩거도 좋아하고
+  FR: J'aime aussi l'Erdinger.
+  EN: I also like Erdinger.
+
+
+— [35:38] ────────────────────────────────────────
 
 [35:38]
-  KO: 내가 말했었나?
-  FR: L'avais-je déjà dit ?
-  EN: Did I say that already?
+  KO: 내가 말했었나? 에딩거 좋아하는 거?
+  FR: Est-ce que j'ai déjà dit que j'aimais l'Erdinger ?
+  EN: Did I mention that I like Erdinger?
 
-
-— [35:47] ────────────────────────────────────────
-
-[35:47]
-  KO: 에딩거 좋아하는 거?
-  FR: Que j'aime l'Erdinger ?
-  EN: That I like Erdinger?
-
-[35:55]
+[35:49]
   KO: 500번 얘기했어?
   FR: Je l'ai dit 500 fois ?
-  EN: I said it 500 times?
+  EN: I've said it 500 times?
 
 [35:58]
-  KO: 그렇군.
-  FR: Je vois.
+  KO: 그렇군
+  FR: Ah, d'accord.
   EN: I see.
 
-[36:04]
-  KO: 에딩거, 기린 제로, 그리고 곰표.
-  FR: Erdinger, Kirin Zero, et Gompyo.
-  EN: Erdinger, Kirin Zero, and Gompyo.
+[35:59]
+  KO: 에딩거
+  FR: Erdinger.
+  EN: Erdinger.
+
+[36:06]
+  KO: 기린 제로
+  FR: Kirin Zero.
+  EN: Kirin Zero.
+
+[36:08]
+  KO: 그리고 곰표
+  FR: Et Gompyo.
+  EN: And Gompyo.
 
 [36:13]
-  KO: 곰표랑.
+  KO: 곰표랑
   FR: Gompyo et...
   EN: Gompyo and...
 
-[36:15]
-  KO: 그리고 내가 좋아하는 거 있었는데.
-  FR: Et il y avait autre chose que j'aimais.
-  EN: And there was something else I liked.
+[36:14]
+  KO: 그리고 내가 좋아하는 거 있었는데
+  FR: Et il y en avait une autre que j'aimais.
+  EN: And there was another one I liked.
 
 [36:17]
-  KO: 분명히 있었는데.
-  FR: Il y en avait clairement un.
+  KO: 분명히 있었는데
+  FR: Il y en avait une, c'est sûr.
   EN: There definitely was.
 
 [36:19]
-  KO: 난 곰표가 그렇게 맛있어.
-  FR: Le Gompyo est tellement délicieux pour moi.
-  EN: Gompyo is so delicious to me.
+  KO: 난 곰표가 그렇게 맛있어
+  FR: Je trouve la Gompyo tellement délicieuse.
+  EN: I find Gompyo so delicious.
 
 [36:28]
-  KO: 이유는 모르겠어.
+  KO: 이유는 모르겠어
   FR: Je ne sais pas pourquoi.
   EN: I don't know why.
 
 [36:32]
-  KO: 맛있어.
-  FR: C'est délicieux.
-  EN: It's delicious.
+  KO: 맛있어
+  FR: C'est bon.
+  EN: It's good.
 
 [36:35]
-  KO: 블랑은 안 먹어봤어.
-  FR: Je n'ai pas essayé la Blanc.
+  KO: 블랑은 안 먹어봤어
+  FR: Je n'ai pas goûté la Blanc.
   EN: I haven't tried Blanc.
 
+
+— [36:41] ────────────────────────────────────────
+
 [36:41]
-  KO: 곰표랑 블랑이 비슷해?
-  FR: Le Gompyo et la Blanc sont-ils similaires ?
-  EN: Are Gompyo and Blanc similar?
-
-
-— [37:01] ────────────────────────────────────────
+  KO: 곰표와는 블랑이 비슷해?
+  FR: La Blanc est-elle similaire à la Gompyo ?
+  EN: Is Blanc similar to Gompyo?
 
 [37:01]
-  KO: 블랑도 밀맥주야.
+  KO: 블랑도 밀맥주야
   FR: La Blanc est aussi une bière de blé.
   EN: Blanc is also a wheat beer.
 
-[37:15]
-  KO: 맥주 마시고 싶다.
-  FR: J'ai envie de boire de la bière.
-  EN: I want to drink beer.
+[37:14]
+  KO: 아 맥주 마시고 싶다
+  FR: Ah, j'ai envie de boire de la bière.
+  EN: Ah, I want to drink beer.
 
 [37:16]
-  KO: 어떡해.
-  FR: Oh non.
-  EN: Oh no.
+  KO: 어떡해
+  FR: Qu'est-ce que je vais faire ?
+  EN: What do I do?
 
 [37:17]
   KO: 진짜 집에 맥주 하나도 없나?
-  FR: Il n'y a vraiment aucune bière à la maison ?
-  EN: Is there really no beer at home at all?
+  FR: Est-ce qu'il n'y a vraiment plus aucune bière à la maison ?
+  EN: Is there really no beer left at home?
 
-[37:20]
-  KO: 큰일이다.
-  FR: C'est grave.
-  EN: This is a big problem.
+[37:19]
+  KO: 큰일이다
+  FR: C'est la catastrophe.
+  EN: This is a disaster.
 
 [37:22]
-  KO: 한 캔만 마시고 싶다.
-  FR: J'aimerais juste boire une canette.
+  KO: 한 캔만 마시고 싶다
+  FR: J'aimerais juste en boire une canette.
   EN: I just want to drink one can.
 
-[37:25]
-  KO: 일본에서 맥주를 너무 많이 마시고 왔더니.
-  FR: Parce que j'ai bu trop de bière au Japon.
-  EN: Because I drank too much beer in Japan.
+[37:24]
+  KO: 일본에서 맥주를 너무 많이 마시고 왔더니
+  FR: J'ai tellement bu de bière au Japon que...
+  EN: I drank so much beer in Japan that...
 
-[37:29]
-  KO: 있어.
-  FR: Il y en a.
-  EN: There is.
+[37:27]
+  KO: 있어
+  FR: Il y en a !
+  EN: There is!
 
 [37:30]
-  KO: 너무 소름 돋아.
-  FR: J'en ai des frissons.
-  EN: I'm getting goosebumps.
+  KO: 너무 소름 돋아
+  FR: C'est tellement incroyable.
+  EN: That's so amazing.
 
-[37:34]
-  KO: 세상에.
+[37:31]
+  KO: 세상에
   FR: Oh mon Dieu.
   EN: Oh my goodness.
 
 [37:35]
-  KO: 심지어 기린.
+  KO: 심지어 기린
   FR: Et en plus, c'est une Kirin.
   EN: And it's even a Kirin.
 
-[37:39]
-  KO: 어머 세상에.
+[37:37]
+  KO: 어머 세상에
   FR: Oh mon Dieu.
   EN: Oh my goodness.
 
-[37:40]
-  KO: 이거 마셔야겠다.
-  FR: Je dois boire ça.
+[37:38]
+  KO: 이거 마셔야겠다
+  FR: Je dois la boire.
   EN: I have to drink this.
 
-[37:41]
+[37:40]
   KO: 이런 거네?
-  FR: C'est comme ça, n'est-ce pas ?
+  FR: C'est ça, hein ?
   EN: So it's like this, huh?
 
+
+— [37:47] ────────────────────────────────────────
+
 [37:47]
-  KO: 우와.
-  FR: Waouh.
-  EN: Wow.
+  KO: 우와 대박
+  FR: Wow, incroyable !
+  EN: Wow, amazing!
 
-[37:48]
-  KO: 대박.
-  FR: Génial.
-  EN: Awesome.
 
-[37:50]
-  KO: 너무 행복해 지금.
+[37:58]
+  KO: 너무 행복해 지금
   FR: Je suis tellement heureuse en ce moment.
   EN: I'm so happy right now.
 
 [37:59]
-  KO: 이게 있다니.
-  FR: Dire qu'il y en avait une.
-  EN: To think this was here.
-
-
-— [38:22] ────────────────────────────────────────
+  KO: 이게 있다니
+  FR: Le fait que ça existe !
+  EN: To think this exists!
 
 [38:22]
-  KO: 음.
-  FR: Mmm.
-  EN: Mmm.
+  KO: 음
+  FR: Hmm.
+  EN: Hmm.
 
 [38:23]
-  KO: 이거야.
+  KO: 이거야
   FR: C'est ça.
   EN: This is it.
 
 [38:28]
-  KO: 너무 좋다.
+  KO: 너무 좋다
   FR: C'est tellement bon.
   EN: It's so good.
 
-[38:35]
-  KO: 목소리가 하나도 못 올라가면.
-  FR: Si ma voix ne peut pas monter du tout.
-  EN: If my voice can't go up at all.
+[38:36]
+  KO: 목소리가 하나도 못 올라가면
+  FR: Si ma voix ne peut pas monter du tout...
+  EN: If my voice can't go up at all...
 
-[38:38]
-  KO: 그니까.
+[38:39]
+  KO: 그니까
   FR: Exactement.
   EN: Exactly.
 
-[38:39]
-  KO: 너무 맛있어.
+[38:42]
+  KO: 너무 맛있어
   FR: C'est tellement délicieux.
   EN: It's so delicious.
 
 [38:43]
-  KO: 이게 있었다니.
-  FR: Dire qu'il y en avait une.
-  EN: To think this was here.
+  KO: 이게 있었다니
+  FR: Le fait que ça existe !
+  EN: To think this existed!
 
 [38:45]
-  KO: 너무 소름 돋네.
-  FR: J'en ai des frissons.
-  EN: I'm getting goosebumps.
+  KO: 너무 소름 돋네
+  FR: C'est tellement incroyable.
+  EN: That's so amazing.
 
 [38:46]
-  KO: 역시.
-  FR: Vraiment.
+  KO: 역시
+  FR: Comme prévu.
   EN: As expected.
 
 [38:47]
-  KO: 쟁여둬야 돼.
-  FR: Je dois en stocker.
+  KO: 쟁여둬야 돼
+  FR: Il faut en stocker.
   EN: I need to stock up.
 
+
+— [38:48] ────────────────────────────────────────
+
 [38:48]
-  KO: 쟁여둬야 돼.
-  FR: Je dois en stocker.
+  KO: 쟁여둬야 돼
+  FR: Il faut en stocker.
   EN: I need to stock up.
 
 [39:00]
-  KO: 그니까.
+  KO: 그니까
   FR: Exactement.
   EN: Exactly.
 
-[39:02]
-  KO: 재난 시에.
-  FR: En cas de catastrophe.
-  EN: In case of disaster.
+[39:01]
+  KO: 재난 시에
+  FR: En cas de catastrophe...
+  EN: In case of disaster...
 
 [39:03]
-  KO: 우리 집으로 모여라.
-  FR: Venez tous chez moi.
-  EN: Everyone, come to my house.
+  KO: 우리 집으로 모여라
+  FR: ...rassemblez-vous chez moi.
+  EN: ...gather at my house.
 
 
 [39:09]
-  KO: 진짜 모든 게 쌓여있어.
+  KO: 진짜 모든 게 쌓여있어
   FR: Vraiment, tout est empilé.
   EN: Seriously, everything is piled up.
 
-[39:12]
+[39:11]
   KO: 냉장고 봤지?
   FR: Vous avez vu le frigo, non ?
   EN: You saw the fridge, right?
 
-[39:17]
+[39:16]
   KO: 장난 아니지?
-  FR: C'est pas rien, hein ?
+  FR: C'est pas une blague, hein ?
   EN: It's no joke, right?
 
-[39:18]
-  KO: 그래. 여긴 벙커야.
-  FR: Oui. C'est un bunker ici.
-  EN: Yeah. This is a bunker.
+[39:17]
+  KO: 그래 여긴 벙커야
+  FR: Oui, c'est un bunker ici.
+  EN: Yes, this is a bunker.
 
-
-— [39:26] ────────────────────────────────────────
-
-[39:26]
-  KO: 벙커로 모여.
+[39:25]
+  KO: 벙커로 모여
   FR: Rassemblez-vous au bunker.
   EN: Gather at the bunker.
 
-[39:28]
+[39:27]
   KO: 전기 끊기면 다 못 태우는 거 아니야?
-  FR: Si l'électricité est coupée, vous ne pourrez pas tout faire cuire, n'est-ce pas ?
-  EN: If the power goes out, won't you not be able to cook everything?
+  FR: Si l'électricité est coupée, on ne pourra pas tout faire cuire, non ?
+  EN: If the power goes out, won't we be unable to cook everything?
 
 [39:35]
-  KO: 불을 때우면 되지.
-  FR: On n'a qu'à faire du feu.
+  KO: 불을 때우면 되지
+  FR: On fera du feu.
   EN: We can just make a fire.
 
 [39:36]
-  KO: 알았어.
-  FR: D'accord.
-  EN: Got it.
+  KO: 알았어 뭔가 이렇게 재난이 오면
+  FR: D'accord, si une catastrophe comme ça arrive...
+  EN: Alright, if a disaster like this comes...
 
-[39:44]
-  KO: 잠깐 이렇게 재난이 오면 주소를 뿌릴게.
-  FR: Attendez, si une catastrophe arrive, je vous enverrai mon adresse.
-  EN: Okay, if a disaster like that comes, I'll share my address.
-
-[39:52]
-  KO: 음.
-  FR: Mmm.
-  EN: Mmm.
-
-[39:58]
-  KO: 음.
-  FR: Mmm.
-  EN: Mmm.
-
-[40:00]
-  KO: 음.
-  FR: Mmm.
-  EN: Mmm.
+[39:45]
+  KO: 주소를 뿌릴게
+  FR: ...je vous donnerai l'adresse.
+  EN: ...I'll share the address.
 
 
 — [40:38] ────────────────────────────────────────
 
+
 [40:38]
-  KO: 이제 배불러.
-  FR: Je suis rassasiée maintenant.
+  KO: 이제 배불러
+  FR: Maintenant, je suis rassasiée.
   EN: I'm full now.
 
 [40:39]
-  KO: 그니까.
-  FR: Exactement.
-  EN: Exactly.
+  KO: 그니까 배부르다고
+  FR: Je suis rassasiée, je vous dis.
+  EN: I'm full, I tell you.
 
-[41:06]
-  KO: 배부르다고.
-  FR: Je suis rassasiée.
-  EN: I'm full.
 
+[41:11]
+  KO: 맞아
+  FR: C'est vrai.
+  EN: That's right.
 
 [41:12]
-  KO: 맞아.
+  KO: 소파 배경이면 토크 타임이다
+  FR: Si le fond est le canapé, c'est l'heure de parler.
+  EN: If the background is the sofa, it's talk time.
+
+[41:14]
+  KO: 맞아
   FR: C'est vrai.
   EN: That's right.
 
-[41:13]
-  KO: 소파 배경이면 토크 타임이다.
-  FR: Si c'est le canapé en arrière-plan, c'est l'heure de la discussion.
-  EN: If the sofa's in the background, it's talk time.
-
-[41:15]
-  KO: 맞아.
-  FR: C'est vrai.
-  EN: That's right.
-
-
-[41:18]
-  KO: 부엌 배경이면 식사 타임이다.
-  FR: Si c'est la cuisine en arrière-plan, c'est l'heure du repas.
-  EN: If the kitchen's in the background, it's mealtime.
+[41:16]
+  KO: 부엌 배경이면 식사 타임이다
+  FR: Si le fond est la cuisine, c'est l'heure de manger.
+  EN: If the background is the kitchen, it's mealtime.
 
 [41:21]
-  KO: 맥주는 여기 있어.
-  FR: La bière est là.
+  KO: 맥주는 여기 있어
+  FR: La bière est ici.
   EN: The beer is here.
 
 [41:27]
-  KO: 맛있다.
+  KO: 맛있다
   FR: C'est délicieux.
   EN: It's delicious.
 
 [41:34]
-  KO: 과자는 이거.
-  FR: Le snack, c'est ça.
-  EN: The snack is this.
+  KO: 과자는 이거
+  FR: Les gâteaux, c'est ça.
+  EN: The snacks are these.
 
 
-— [41:53] ────────────────────────────────────────
+— [41:52] ────────────────────────────────────────
+
+[41:52]
+  KO: 내가 좋아하는 과자야
+  FR: Ce sont mes gâteaux préférés.
+  EN: These are my favorite snacks.
 
 [41:53]
-  KO: 내가 좋아하는 과자야.
-  FR: C'est le snack que j'aime.
-  EN: It's my favorite snack.
+  KO: 고구마 과자
+  FR: Des gâteaux à la patate douce.
+  EN: Sweet potato snacks.
 
-[41:55]
-  KO: 고구마 과자.
-  FR: Des chips de patate douce.
-  EN: Sweet potato chips.
-
-[41:56]
-  KO: 팬이 선물해준 고구마 과자 중에.
-  FR: Parmi les chips de patate douce que les fans m'ont offertes.
-  EN: Among the sweet potato chips a fan gave me.
+[41:54]
+  KO: 팬이 선물해준 고구마 과자 중에
+  FR: Parmi les gâteaux à la patate douce qu'un fan m'a offerts...
+  EN: Among the sweet potato snacks a fan gave me...
 
 [42:04]
   KO: 진짜 맛있는 고구마 과자가 있거든?
-  FR: Il y en a des vraiment délicieuses, vous savez ?
-  EN: There are some really delicious sweet potato chips, you know?
+  FR: ...il y en a un qui est vraiment délicieux, vous savez ?
+  EN: ...there's one that's really delicious, you know?
 
 [42:08]
-  KO: 내가 그거를 먹고 너무 맛있어가지고.
-  FR: J'en ai mangé et c'était tellement bon.
-  EN: I ate them and they were so delicious.
+  KO: 내가 그거를 먹고 너무 맛있어가지고
+  FR: Je l'ai mangé et c'était tellement bon que...
+  EN: I ate it and it was so delicious that...
 
-[42:12]
-  KO: 일본에서 사오려고 그렇게 막 찾았는데.
-  FR: J'ai tellement cherché pour en acheter au Japon.
-  EN: I searched so hard to buy them in Japan.
+[42:11]
+  KO: 일본에서 사오려고 그렇게 막 찾았는데
+  FR: ...j'ai cherché partout au Japon pour en acheter, mais...
+  EN: ...I searched so hard to buy it in Japan, but...
 
 [42:15]
-  KO: 주어도 없더라.
-  FR: Mais je n'en ai trouvé nulle part.
-  EN: But I couldn't find them anywhere.
+  KO: 주워도 없더라?
+  FR: ...je n'en ai trouvé nulle part.
+  EN: ...I couldn't find it anywhere.
 
 [42:17]
   KO: 어디서 산 거야?
-  FR: Où les avez-vous achetées ?
-  EN: Where did you buy them?
+  FR: Où l'avez-vous acheté ?
+  EN: Where did you buy it?
 
 [42:20]
-  KO: 있어.
+  KO: 있어
   FR: Il y en a.
-  EN: They exist.
+  EN: There is.
 
-[42:32]
-  KO: 내가 그.
+[42:21]
+  KO: 내가 그
   FR: Moi, ce...
   EN: I, that...
 
 [42:34]
-  KO: 일본 가는 사람마다.
-  FR: À chaque personne qui va au Japon.
-  EN: To everyone who goes to Japan.
+  KO: 일본 가는 생각에
+  FR: En pensant à aller au Japon...
+  EN: Thinking about going to Japan...
 
-[42:36]
-  KO: 이 과자 있으면 좀 사다 주라.
-  FR: Je leur dis de m'en rapporter s'il y a ces chips.
-  EN: I ask them to buy me some of these chips if they see them.
+[42:35]
+  KO: 일본 가는 사람마다
+  FR: À chaque personne qui va au Japon...
+  EN: To everyone who goes to Japan...
 
-[42:38]
-  KO: 하면서 맨날 그래서.
-  FR: Je fais ça tout le temps.
-  EN: I always do that.
+[42:37]
+  KO: 이 과자 있으면 좀 사다 주라
+  FR: ...je dis : « Si vous trouvez ces gâteaux, achetez-m'en s'il vous plaît. »
+  EN: ...I say, "If you find these snacks, please buy some for me."
 
-[42:40]
+[42:39]
+  KO: 하면서 맨날 그래서
+  FR: ...et je fais ça tout le temps.
+  EN: ...and I do that all the time.
+
+[42:42]
   KO: 드래곤볼처럼 모아놓고 있거든?
   FR: Je les collectionne comme les Dragon Balls, vous savez ?
   EN: I'm collecting them like Dragon Balls, you know?
 
-[42:44]
-  KO: 근데 또 한 봉지밖에 안 남았어.
-  FR: Mais il ne me reste plus qu'un seul paquet.
-  EN: But I only have one bag left.
+[42:45]
+  KO: 근데 또 한 봉지밖에 안 남았어 지금
+  FR: Mais il ne me reste plus qu'un seul paquet maintenant.
+  EN: But now I only have one bag left.
 
 [42:47]
-  KO: 지금.
-  FR: Maintenant.
-  EN: Now.
-
-[42:48]
-  KO: 이거야.
+  KO: 이거야
   FR: C'est ça.
   EN: This is it.
 
-[42:49]
-  KO: 이거 한 봉지밖에 없어서.
-  FR: Comme il n'y a qu'un seul paquet.
-  EN: Since there's only one bag.
+[42:52]
+  KO: 이거 한 봉지밖에 없어서
+  FR: Comme il n'y a qu'un seul paquet...
+  EN: Since there's only one bag...
+
+
+— [42:53] ────────────────────────────────────────
 
 [42:53]
-  KO: 이건 아껴두고 있는 거야.
+  KO: 이건 아껴두고 있는 거야
   FR: Je le garde précieusement.
   EN: I'm saving this one.
 
-
-— [42:56] ────────────────────────────────────────
-
-[42:56]
-  KO: 어디서 파는지 좀 알려줘.
-  FR: Dites-moi où ils les vendent, s'il vous plaît.
+[42:55]
+  KO: 어디서 파는지 좀 알려줘
+  FR: Dites-moi où ils les vendent.
   EN: Please tell me where they sell them.
 
-[43:03]
-  KO: 맞아.
+[43:04]
+  KO: 맞아
   FR: C'est vrai.
   EN: That's right.
-
-[43:04]
-  KO: 그래.
-  FR: Oui.
-  EN: Yeah.
 
 [43:05]
-  KO: 맞아.
-  FR: C'est vrai.
-  EN: That's right.
-
+  KO: 그래 맞아
+  FR: Oui, c'est ça.
+  EN: Yes, that's right.
 
 [43:10]
   KO: 세븐일레븐?
-  FR: Seven Eleven ?
-  EN: Seven Eleven?
+  FR: Seven-Eleven ?
+  EN: Seven-Eleven?
 
-[43:17]
-  KO: 내가 세븐일레븐만 빼놓고 다른 편의점을 다 갔어.
-  FR: J'ai visité tous les autres supérettes sauf Seven Eleven.
-  EN: I went to all the other convenience stores except Seven Eleven.
+[43:25]
+  KO: 내가 세븐일레븐만 빼놓고
+  FR: J'ai laissé de côté tous les Seven-Eleven...
+  EN: I left out Seven-Eleven...
 
-[43:29]
-  KO: 패밀리 마트랑 로손만 갔다 와.
-  FR: Je ne suis allée qu'à Family Mart et Lawson.
-  EN: I only went to Family Mart and Lawson.
+[43:28]
+  KO: 다른 편의점을 다 갔어
+  FR: ...et j'ai visité toutes les autres supérettes.
+  EN: ...I went to all the other convenience stores.
 
-[43:34]
-  KO: 진짜 저런이다.
-  FR: C'est vraiment dommage.
-  EN: Oh, how unfortunate.
+[43:30]
+  KO: 세븐일레븐이랑 로손만 갔다 와
+  FR: Allez juste au Seven-Eleven et au Lawson.
+  EN: Just go to Seven-Eleven and Lawson.
 
 [43:39]
-  KO: 저런.
-  FR: Oh là là.
-  EN: Oh dear.
+  KO: 진짜 저런이다 저런
+  FR: C'est vraiment ça, c'est ça.
+  EN: That's really it, that's it.
 
-[43:40]
-  KO: 내가 어떻게든 좋은 맛있는 과자를 찾았대.
-  FR: On dit que j'ai réussi à trouver de bonnes et délicieuses chips.
-  EN: They say I managed to find good, delicious chips somehow.
-
-[43:53]
-  KO: 칭찬해.
-  FR: Je me félicite.
-  EN: I praise myself.
+[43:51]
+  KO: 근데 어떻게 저런 맛있는 과자를 찾았대?
+  FR: Mais comment a-t-il trouvé des gâteaux aussi délicieux ?
+  EN: But how did they find such delicious snacks?
 
 
-— [44:06] ────────────────────────────────────────
+— [44:05] ────────────────────────────────────────
 
-[44:06]
-  KO: 맛있어.
+[44:05]
+  KO: 칭찬해
+  FR: Je les félicite.
+  EN: I commend them.
+
+[44:12]
+  KO: 맛있어
   FR: C'est délicieux.
   EN: It's delicious.
 
 [44:13]
-  KO: 다들 한 번씩 먹어봐.
-  FR: Tout le monde devrait essayer une fois.
+  KO: 다들 한 번씩 먹어봐
+  FR: Tout le monde devrait en goûter au moins une fois.
   EN: Everyone should try it at least once.
 
 [44:15]
-  KO: 맛있더라고.
-  FR: C'était délicieux, en effet.
+  KO: 맛있더라고
+  FR: C'était délicieux, vous savez.
   EN: It was delicious, you know.
 
 [44:26]
-  KO: 오.
-  FR: Oh.
-  EN: Oh.
+  KO: 오
+  FR: Oh !
+  EN: Oh!
 
 [44:29]
-  KO: 나 오뎅 먹었는데.
-  FR: J'ai mangé de l'oden.
-  EN: I ate oden.
+  KO: 나 오뎅 먹었는데 편의점에서
+  FR: J'ai mangé de l'oden dans une supérette.
+  EN: I ate oden at a convenience store.
 
-[44:30]
-  KO: 편의점에서.
-  FR: Au dépanneur.
-  EN: At the convenience store.
-
-[44:39]
-  KO: 세븐일레븐이었나?
-  FR: C'était Seven Eleven, peut-être ?
-  EN: Was it Seven Eleven, I wonder?
-
-[44:42]
-  KO: 내가 간 데가?
-  FR: L'endroit où je suis allée ?
-  EN: The place I went to?
+[44:38]
+  KO: 세븐일레븐이었나? 내가 간 데가
+  FR: C'était un Seven-Eleven, l'endroit où je suis allée ?
+  EN: Was the place I went to a Seven-Eleven?
 
 [44:46]
-  KO: 무.
-  FR: Du radis.
+  KO: 무
+  FR: Radis.
   EN: Radish.
 
 [44:47]
-  KO: 난 무를 제일 먼저 추가해.
+  KO: 난 무를 제일 먼저 추가해
   FR: J'ajoute toujours le radis en premier.
   EN: I always add the radish first.
 
 [44:49]
-  KO: 그냥 안 먹어.
+  KO: 그냥 안 먹어
   FR: Je ne le mange pas comme ça.
   EN: I don't just eat it plain.
 
 [44:58]
-  KO: 대만에도 고구마칩이 있어?
-  FR: Il y a aussi des chips de patate douce à Taïwan ?
-  EN: Are there sweet potato chips in Taiwan too?
+  KO: 대만에도 고구마 집이 있어?
+  FR: Il y a aussi des magasins de patates douces à Taïwan ?
+  EN: Are there sweet potato shops in Taiwan too?
 
 [45:00]
-  KO: 무랑.
+  KO: 무랑
   FR: Du radis et...
   EN: Radish and...
 
@@ -2483,317 +2756,187 @@ Uploaded: 2025-12-08
 — [45:11] ────────────────────────────────────────
 
 [45:11]
-  KO: 무를 제일 먼저 추가하고.
+  KO: 무를 제일 먼저 추가하고
   FR: J'ajoute le radis en premier.
   EN: I add the radish first.
 
 [45:13]
-  KO: 스지.
-  FR: Du tendon de bœuf.
-  EN: Beef tendon.
+  KO: 스지
+  FR: Du tendon de bœuf (seuji).
+  EN: Beef tendon (seuji).
 
-[45:15]
-  KO: 스지 너무 맛있어.
-  FR: Le tendon de bœuf est tellement bon.
+[45:16]
+  KO: 스지 너무 맛있어
+  FR: Le tendon de bœuf est tellement délicieux.
   EN: Beef tendon is so delicious.
 
-[45:17]
-  KO: 스지랑.
+[45:20]
+  KO: 스지랑
   FR: Du tendon de bœuf et...
   EN: Beef tendon and...
 
 [45:25]
-  KO: 나는 떡은 안 먹어.
-  FR: Je ne mange pas de tteok (gâteaux de riz).
-  EN: I don't eat tteok (rice cakes).
+  KO: 나는 떡은 안 먹어
+  FR: Moi, je ne mange pas de tteok.
+  EN: I don't eat rice cakes.
 
-[45:28]
-  KO: 두부같이 생긴 오뎅 하나랑.
-  FR: Un oden qui ressemble à du tofu.
-  EN: One oden that looks like tofu.
+[45:27]
+  KO: 두부같이 생긴 오뎅 하나랑
+  FR: Un oden qui ressemble à du tofu...
+  EN: One oden that looks like tofu...
 
-[45:30]
-  KO: 그리고.
-  FR: Et.
-  EN: And.
+[45:31]
+  KO: 그리고
+  FR: Et...
+  EN: And...
 
-[45:33]
-  KO: 계란.
+[45:34]
+  KO: 계란
   FR: Un œuf.
   EN: An egg.
 
-[45:34]
-  KO: 오믈렛같이 이렇게.
+[45:37]
+  KO: 오믈렛같이 이렇게
   FR: Comme une omelette, comme ça.
   EN: Like an omelet, like this.
 
-[45:35]
-  KO: 라방 처음인데 먹방 보는 거 같아.
-  FR: C'est ma première fois sur un live, mais on dirait que je regarde un mukbang.
-  EN: It's my first time watching a live stream, but it feels like I'm watching a mukbang.
-
-[45:37]
-  KO: 배고파져.
-  FR: Ça me donne faim.
-  EN: It's making me hungry.
-
-[45:38]
-  KO: 미안.
-  FR: Désolée.
-  EN: Sorry.
-
 [45:55]
-  KO: 나는 라이브를 켜면 먹기만 해.
-  FR: Quand je lance un live, je ne fais que manger.
-  EN: When I turn on a live stream, I just eat.
-
-[45:56]
-  KO: 미리 사과할게.
-  FR: Je m'excuse d'avance.
-  EN: I apologize in advance.
-
-[45:57]
-  KO: 라방 일찍 켜면 야식 안 먹겠다고?
-  FR: Si vous lancez le live tôt, vous ne mangerez pas de collation de nuit ?
-  EN: If you start the live stream early, you won't eat a late-night snack?
+  KO: 라방 처음인데 먹방 보는 거 같아 배고파져
+  FR: C'est ma première fois sur un live stream, mais j'ai l'impression de regarder un mukbang, ça me donne faim.
+  EN: It's my first time watching a live stream, but it feels like I'm watching a mukbang, I'm getting hungry.
 
 [45:58]
-  KO: 그치.
-  FR: C'est ça.
-  EN: Right.
-
-[45:59]
-  KO: 저녁을 먹겠지.
-  FR: Je mangerais le dîner, alors.
-  EN: I'd eat dinner then.
-
-[46:00]
-  KO: 그러네.
-  FR: C'est vrai.
-  EN: That's true.
-
-[46:01]
-  KO: 저번에 또 샐러드를 먹었네.
-  FR: La dernière fois, j'ai encore mangé de la salade.
-  EN: Last time, I ate salad again.
+  KO: 미안 나는 라이브를 켜면 먹기만 해
+  FR: Désolée, quand je lance un live, je ne fais que manger.
+  EN: Sorry, when I turn on a live stream, I just eat.
 
 [46:02]
-  KO: 닭발도 먹었고.
-  FR: Et j'ai mangé des pieds de poulet.
-  EN: And I ate chicken feet.
+  KO: 미리 사과할게
+  FR: Je m'excuse d'avance.
+  EN: I'll apologize in advance.
 
 [46:10]
-  KO: 진짜 별의별 질을 다한다.
-  FR: Je mange vraiment de tout.
-  EN: I really eat all sorts of things.
-
-[46:11]
-  KO: 샐러드를 또 삼만 원 치를 먹었어?
-  FR: Vous avez encore mangé pour 30 000 wons de salade ?
-  EN: You ate 30,000 won worth of salad again?
+  KO: 라방 일찍 켜면 야식 안 먹겠다고?
+  FR: Si tu lances le live stream plus tôt, tu ne mangeras pas de collation de nuit ?
+  EN: If you start the live stream earlier, you won't eat a late-night snack?
 
 
-— [46:31] ────────────────────────────────────────
-
-[46:31]
-  KO: 어.
-  FR: Oui.
-  EN: Uh-huh.
-
-[46:32]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
+— [46:33] ────────────────────────────────────────
 
 [46:33]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
-
-[46:34]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
-
-[46:35]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
-
-[46:43]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
+  KO: 응 그치 저녁을 먹겠지
+  FR: Oui, c'est ça, je mangerais le dîner.
+  EN: Yeah, right, I'd eat dinner then.
 
 [46:50]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
-
-[46:51]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
+  KO: 그러네 저번에 또 샐러드를 먹었네
+  FR: C'est vrai, la dernière fois j'ai encore mangé de la salade.
+  EN: Oh, that's right, last time I ate salad again.
 
 [46:52]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
-
-[46:53]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
+  KO: 닭발도 먹었고
+  FR: Et j'ai aussi mangé des pattes de poulet.
+  EN: And I also ate chicken feet.
 
 [46:54]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
-
-[46:55]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
-
-[46:56]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
+  KO: 진짜 별의별 질을 다한다
+  FR: Je fais vraiment toutes sortes de choses.
+  EN: I really do all sorts of things.
 
 [46:57]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
-
-[46:58]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
+  KO: 샐러드를 또 삼만 원 치를 먹었어?
+  FR: Tu as encore mangé pour 30 000 wons de salade ?
+  EN: You ate 30,000 won worth of salad again?
 
 [46:59]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
-
-[47:00]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
+  KO: 아이고
+  FR: Oh là là.
+  EN: Oh dear.
 
 [47:02]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
+  KO: 철딱서 언니가 못 말려
+  FR: On ne peut pas arrêter cette unnie immature.
+  EN: You can't stop this immature unnie.
 
-
-[47:17]
-  KO: 화.
-  FR: Hwa.
-  EN: Hwa.
-
-[47:19]
-  KO: 못 말려.
-  FR: Elle est incontrôlable.
-  EN: She's unstoppable.
+[47:18]
+  KO: 못 말리는 아가씨야
+  FR: C'est une jeune femme qu'on ne peut pas arrêter.
+  EN: She's a young lady you can't stop.
 
 [47:20]
-  KO: 못 말리는 아가씨야.
-  FR: C'est une jeune femme incontrôlable.
-  EN: She's an unstoppable young lady.
+  KO: 멍청이들이랑 얘기하다 보면 식욕이 돋아
+  FR: Quand je parle avec mes Twits, mon appétit s'ouvre.
+  EN: When I talk with my Twits, my appetite increases.
 
-[47:21]
-  KO: 멍청이들이랑 얘기하다보면 식욕이 도다.
-  FR: Quand je parle à mes petits fous, mon appétit revient.
-  EN: When I talk to my Twits, my appetite comes back.
-
-[47:26]
-  KO: 왜 그럴까.
-  FR: Pourquoi ça ?
+[47:28]
+  KO: 왜 그럴까?
+  FR: Pourquoi est-ce comme ça ?
   EN: Why is that?
 
-[47:27]
-  KO: 왜 그러는지도 모르겠네.
-  FR: Je ne sais même pas pourquoi.
-  EN: I don't even know why.
 
-[47:29]
-  KO: 핑계가 아니야.
+— [47:34] ────────────────────────────────────────
+
+[47:34]
+  KO: 왜 그런지를 모르겠네
+  FR: Je ne sais pas pourquoi c'est comme ça.
+  EN: I don't know why that is.
+
+[47:40]
+  KO: 핑계가 아니야
   FR: Ce n'est pas une excuse.
   EN: It's not an excuse.
 
-
-— [47:36] ────────────────────────────────────────
-
-[47:36]
-  KO: 정말이야.
-  FR: C'est vrai.
+[47:41]
+  KO: 정말이야
+  FR: C'est la vérité.
   EN: It's true.
 
-[47:40]
-  KO: 음..
-  FR: Hmm...
-  EN: Hmm...
-
-[47:41]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
-
-[47:42]
-  KO: 아.
-  FR: Ah.
-  EN: Ah.
 
 [47:49]
-  KO: 그래.
-  FR: Oui.
-  EN: Right.
+  KO: 아 그래?
+  FR: Ah, vraiment ?
+  EN: Oh, really?
 
 [47:59]
-  KO: 말을하면 칼로리가니까 뭐냐.
-  FR: Quand on parle, on brûle des calories, alors qu'est-ce que c'est ?
-  EN: When you talk, you burn calories, so what is it?
-
-[48:01]
-  KO: 신기하다.
-  FR: C'est incroyable.
-  EN: It's amazing.
+  KO: 말을 하면 칼로리가 더 뭐지?
+  FR: Si on parle, les calories... quoi d'autre ?
+  EN: If you talk, calories... what else?
 
 [48:02]
-  KO: 어떻게 그렇네.
-  FR: Comment est-ce possible ?
-  EN: How can that be?
+  KO: 신기하다
+  FR: C'est fascinant.
+  EN: That's amazing.
 
 [48:03]
-  KO: 어떻게 그러냐.
+  KO: 어떻게 그런
+  FR: Comment une telle chose...
+  EN: How could such a thing...
+
+[48:05]
+  KO: 어떻게 그러냐?
   FR: Comment est-ce possible ?
-  EN: How can it be?
+  EN: How is that possible?
 
-[48:06]
-  KO: 그럴 일은 없어.
-  FR: Ça n'arrivera pas.
-  EN: That won't happen.
-
-[48:08]
-  KO: 스키.
-  FR: Ski.
-  EN: Ski.
+[48:07]
+  KO: 그럴 리가 없어
+  FR: C'est impossible.
+  EN: That can't be.
 
 [48:34]
-  KO: hi.
-  FR: Salut.
-  EN: Hi.
+  KO: 스키?
+  FR: Suki ?
+  EN: Suki?
 
 
 — [48:37] ────────────────────────────────────────
 
 [48:37]
-  KO: 다윗.
-  FR: David.
-  EN: David.
+  KO: 하이
+  FR: Hai.
+  EN: Hai.
 
 [48:38]
-  KO: 다이쓰키
+  KO: 다이스키
   FR: Daisuki.
   EN: Daisuki.
 
@@ -2806,129 +2949,156 @@ Uploaded: 2025-12-08
 [48:57]
   KO: 먼저 친 사람이 임자야
   FR: Celui qui frappe le premier est le propriétaire.
-  EN: The one who hits first owns it.
+  EN: The one who strikes first owns it.
 
-[49:00]
+[48:59]
   KO: 정신 똑바로 차려
   FR: Reprenez-vous.
   EN: Get a grip.
 
+[49:10]
+  KO: 어우 이거 좋다
+  FR: Oh, c'est bien ça.
+  EN: Oh, this is good.
 
 [49:14]
   KO: 우리 무슨 사이?
   FR: Quelle est notre relation ?
-  EN: What's our relationship?
+  EN: What kind of relationship do we have?
 
 [49:15]
-  KO: 고맨 나사이
-  FR: Gomen nasai (Désolée).
-  EN: Gomen nasai (I'm sorry).
+  KO: 고멘다사이
+  FR: Gomen nasai.
+  EN: Gomen nasai.
 
 
-[49:20]
-  KO: 재밌었어
-  FR: C'était amusant.
-  EN: It was fun.
+[49:19]
+  KO: 오 재밌었어
+  FR: Oh, c'était amusant.
+  EN: Oh, that was fun.
+
+[49:21]
+  KO: 역시
+  FR: Comme prévu.
+  EN: As expected.
 
 
 [49:28]
-  KO: 나 왜이렇게 이런 개그를 해
-  FR: Pourquoi est-ce que je fais autant de blagues comme ça ?
-  EN: Why do I make these kinds of jokes so much?
+  KO: 어우 나 왜이렇게 이런 개그를 해
+  FR: Oh, pourquoi je fais des blagues comme ça ?
+  EN: Oh, why do I make these kinds of jokes?
 
 [49:30]
-  KO: 좋을까?
+  KO: 좋을까
   FR: Est-ce que c'est bien ?
   EN: Is it good?
 
 [49:31]
   KO: 둘 사이
   FR: Entre nous deux.
-  EN: Between us two.
+  EN: Between the two of us.
 
 
 — [49:38] ────────────────────────────────────────
 
 [49:38]
-  KO: 고맨 나사이
+  KO: 고멘다사이
   FR: Gomen nasai.
   EN: Gomen nasai.
 
+[49:40]
+  KO: 오우
+  FR: Oh !
+  EN: Oh!
 
-[49:43]
-  KO: 찰떡이야
+[49:42]
+  KO: 철떡이야
   FR: C'est parfait.
-  EN: It's a perfect match.
+  EN: It's a perfect fit.
+
+[49:44]
+  KO: 하하하
+  FR: Hahaha.
+  EN: Hahaha.
 
 [49:45]
-  KO: 둘 사이
+  KO: 우리 둘 사이
   FR: Entre nous deux.
-  EN: Between us two.
+  EN: Between the two of us.
 
-[49:50]
-  KO: 고맨 나사이
+[49:51]
+  KO: 고멘다사이
   FR: Gomen nasai.
   EN: Gomen nasai.
 
 
 [49:59]
-  KO: 잠이 들고
-  FR: Je m'endors.
-  EN: Falling asleep.
-
-[50:00]
-  KO: 둘 사이
-  FR: Entre nous deux.
-  EN: Between us two.
+  KO: 잠이 들고 웃어
+  FR: S'endort et rit.
+  EN: Falls asleep and laughs.
 
 [50:02]
-  KO: 고맨 나사이
+  KO: 사이
+  FR: Sai.
+  EN: Sai.
+
+[50:03]
+  KO: 고멘다사이
   FR: Gomen nasai.
   EN: Gomen nasai.
 
 [50:05]
-  KO: 컴온 헤이 마미
-  FR: Come on, hey mommy.
-  EN: Come on, hey mommy.
+  KO: 컴온
+  FR: Come on.
+  EN: Come on.
+
+[50:06]
+  KO: 헤이 마미
+  FR: Hey mommy.
+  EN: Hey mommy.
 
 [50:07]
-  KO: 어 노인신분들 너무 오랜만이네
-  FR: Oh, ça fait si longtemps que je n'ai pas vu les personnes âgées.
-  EN: Oh, it's been a long time since I've seen the elderly.
+  KO: 어?
+  FR: Hein ?
+  EN: Huh?
 
+[50:09]
+  KO: 너희 친구들 너무 오랜만이네
+  FR: Tes amis, ça fait si longtemps.
+  EN: Your friends, it's been so long.
 
 [50:19]
-  KO: 어떤 멍청이
-  FR: Quel petit fou...
-  EN: Which silly one...
+  KO: 어떤 멍청이?
+  FR: Quel Twit ?
+  EN: Which Twit?
 
-[50:24]
-  KO: 외국 멍청이 인가봐
-  FR: Ce doit être un petit fou étranger.
-  EN: Must be a foreign silly one.
+[50:23]
+  KO: 외국 멍청이인가 봐
+  FR: On dirait un Twit étranger.
+  EN: Looks like a foreign Twit.
 
-[50:26]
+[50:27]
   KO: drunk?
   FR: Drunk ?
   EN: Drunk?
 
 [50:28]
-  KO: 물음표가
-  FR: Un point d'interrogation.
-  EN: A question mark.
+  KO: 물음표 물음표
+  FR: Point d'interrogation, point d'interrogation.
+  EN: Question mark, question mark.
 
 [50:30]
   KO: 미치겠다
-  FR: Je deviens folle.
+  FR: Je vais devenir folle.
   EN: I'm going crazy.
 
 [50:36]
   KO: 예쓰
-  FR: Oui.
+  FR: Yes.
   EN: Yes.
 
 [50:37]
-  KO: cheers
+  KO: 치얼스
   FR: Cheers.
   EN: Cheers.
 
@@ -2936,54 +3106,54 @@ Uploaded: 2025-12-08
 — [50:41] ────────────────────────────────────────
 
 [50:41]
-  KO: 아 근데 왜 오늘 좀 빨리 취한다
-  FR: Ah, mais pourquoi est-ce que je me saoule si vite aujourd'hui ?
-  EN: Ah, but why am I getting drunk so fast today?
+  KO: 아 근데 오늘 좀 빨리 취한다
+  FR: Ah, mais aujourd'hui, je me saoule un peu vite.
+  EN: Ah, but today I'm getting drunk a bit quickly.
 
 [50:49]
-  KO: 조금
-  FR: Un peu.
-  EN: A little.
-
-[50:54]
-  KO: 그래
-  FR: Oui.
-  EN: Right.
+  KO: 조금 그래
+  FR: C'est un peu ça.
+  EN: It's a bit like that.
 
 [50:56]
   KO: 일찍 일어나서 그런가 봐
-  FR: Je suppose que c'est parce que je me suis levée tôt.
+  FR: C'est peut-être parce que je me suis levée tôt.
   EN: I guess it's because I woke up early.
 
 [51:01]
   KO: 그거 알아?
-  FR: Vous savez ça ?
-  EN: Do you know that?
+  FR: Vous savez quoi ?
+  EN: Do you know what?
 
 [51:02]
   KO: 일찍 일어난 날을 술 마시면 빨리 취하는 거?
-  FR: Que si vous buvez un jour où vous vous êtes levée tôt, vous vous saoulez plus vite ?
-  EN: That if you drink on a day you woke up early, you get drunk faster?
+  FR: Que si on boit de l'alcool le jour où on s'est levé tôt, on se saoule vite ?
+  EN: That if you drink alcohol on a day you woke up early, you get drunk quickly?
 
-[51:06]
-  KO: 그렇지 일찍 일어난 새가 취한다
-  FR: C'est ça, l'oiseau matinal est ivre.
-  EN: Right, the early bird gets drunk.
+[51:05]
+  KO: 그렇지
+  FR: C'est ça.
+  EN: That's right.
+
+[51:18]
+  KO: 일찍 일어난 새가 취한다
+  FR: L'oiseau matinal se saoule.
+  EN: The early bird gets drunk.
 
 [51:20]
   KO: 일찍 일어난 새가 빨리 취한다
-  FR: L'oiseau matinal est ivre plus vite.
-  EN: The early bird gets drunk faster.
+  FR: L'oiseau matinal se saoule vite.
+  EN: The early bird gets drunk quickly.
 
 [51:36]
   KO: 예쓰
-  FR: Oui.
+  FR: Yes.
   EN: Yes.
 
 [51:37]
   KO: 늦게 자는 새가 화사 라방을 본다
-  FR: L'oiseau qui se couche tard regarde le live de Hwasa.
-  EN: The late-sleeping bird watches Hwasa's live stream.
+  FR: L'oiseau qui se couche tard regarde le live stream de Hwasa.
+  EN: The late bird watches Hwasa's live stream.
 
 
 — [51:41] ────────────────────────────────────────
@@ -2995,272 +3165,194 @@ Uploaded: 2025-12-08
 
 [51:43]
   KO: 오늘 명언이 두 개가 나왔다
-  FR: Deux dictons sont apparus aujourd'hui.
-  EN: Two famous sayings came out today.
+  FR: Aujourd'hui, deux maximes sont apparues.
+  EN: Today, two proverbs came out.
 
 [51:50]
   KO: 늦게 자는 새가 화사 라방을 본다
-  FR: L'oiseau qui se couche tard regarde le live de Hwasa.
-  EN: The late-sleeping bird watches Hwasa's live stream.
+  FR: L'oiseau qui se couche tard regarde le live stream de Hwasa.
+  EN: The late bird watches Hwasa's live stream.
 
-[51:52]
+[51:53]
   KO: 일찍 일어난 새가 빨리 취한다
-  FR: L'oiseau matinal est ivre plus vite.
-  EN: The early bird gets drunk faster.
+  FR: L'oiseau matinal se saoule vite.
+  EN: The early bird gets drunk quickly.
 
-[51:54]
-  KO: 일찍 일어난 새가 배고프다는 설
-  FR: La théorie selon laquelle l'oiseau matinal a faim.
-  EN: The theory that the early bird is hungry.
+[51:57]
+  KO: 일찍 일어난 새가 배고프다는 소리
+  FR: L'oiseau matinal, ça veut dire qu'il a faim.
+  EN: The early bird means it's hungry.
 
-[51:55]
+[52:06]
   KO: 배고프다
   FR: J'ai faim.
   EN: I'm hungry.
 
-[51:56]
+[52:08]
   KO: 맞아 그것도 맞아
   FR: Oui, c'est vrai aussi.
-  EN: Right, that's also right.
+  EN: Yeah, that's true too.
 
-[51:57]
+[52:09]
   KO: 일찍 일어나면 배고파
   FR: Si on se lève tôt, on a faim.
   EN: If you wake up early, you get hungry.
 
-[52:05]
-  KO: 그래서 쓰잘데기 없이 하루에 뭐 세 끼를 넘게 먹게 돼
-  FR: Alors, inutilement, je finis par manger plus de trois repas par jour.
-  EN: So, uselessly, I end up eating more than three meals a day.
+[52:11]
+  KO: 그래서 쓸데없이 하루에 세 끼를 넘게 먹게 돼
+  FR: Alors, on finit par manger plus de trois repas par jour, inutilement.
+  EN: So, you end up eating more than three meals a day, unnecessarily.
 
-[52:06]
+[52:19]
   KO: 일찍 일어나면
   FR: Si on se lève tôt.
   EN: If you wake up early.
 
-[52:07]
-  KO: 그렇지 늦게 자도 배고파
-  FR: C'est ça, même si on se couche tard, on a faim.
-  EN: Right, even if you sleep late, you get hungry.
-
-[52:08]
-  KO: 어쩌라는 거야 그치
-  FR: Qu'est-ce que je suis censée faire, n'est-ce pas ?
-  EN: What am I supposed to do, right?
-
-[52:09]
-  KO: 그럴 거면 아침에 배고픈 게 나은 거 같아
-  FR: Si c'est le cas, je pense qu'il vaut mieux avoir faim le matin.
-  EN: If that's the case, I think it's better to be hungry in the morning.
-
-[52:10]
-  KO: drunk
-  FR: Drunk.
-  EN: Drunk.
-
-[52:11]
-  KO: drunk 때문에 울었어?
-  FR: Tu as pleuré à cause de 'drunk' ?
-  EN: Did you cry because of 'drunk'?
-
-[52:17]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
-
-[52:18]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
-
-[52:19]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
-
-[52:20]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
-
 [52:21]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
+  KO: 그렇지
+  FR: C'est ça.
+  EN: Right.
 
 [52:27]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
-
-[52:28]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
+  KO: 늦게 자도 배고파
+  FR: Même si on se couche tard, on a faim.
+  EN: Even if you sleep late, you get hungry.
 
 [52:32]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
-
-[52:33]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
+  KO: 어쩌라는 거야 그치?
+  FR: Qu'est-ce que je suis censée faire, hein ?
+  EN: What am I supposed to do, right?
 
 [52:37]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
-
-[52:38]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
-
-[52:40]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
-
-[52:41]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
+  KO: 그럴 거면 아침에 배고픈 게 나은 거 같기도 하고
+  FR: Si c'est comme ça, je suppose que c'est mieux d'avoir faim le matin.
+  EN: If that's the case, I guess it's better to be hungry in the morning.
 
 
 — [53:01] ────────────────────────────────────────
 
 [53:01]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
+  KO: 드렁크 때문에 울었어?
+  FR: Tu as pleuré à cause de l'ivresse ?
+  EN: Did you cry because you were drunk?
 
-[53:02]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
-
-[53:03]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
-
-[53:04]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
-
-[53:06]
-  KO: 응
-  FR: Oui.
-  EN: Uh-huh.
 
 [53:08]
-  KO: 네
-  FR: Oui.
-  EN: Yes.
+  KO: 그니까
+  FR: Exactement.
+  EN: Exactly.
 
 [53:09]
-  KO: 그러니까 내가 계속 이상한 말을 하니까 해외 멍청이가 drunk
-  FR: Donc, comme je continue de dire des choses étranges, un petit fou étranger a commenté 'drunk'.
-  EN: So, because I keep saying strange things, a foreign silly one commented 'drunk'.
+  KO: 내가 계속 이상한 말 하니까
+  FR: Parce que je n'arrête pas de dire des choses étranges.
+  EN: Because I keep saying strange things.
 
-[53:15]
-  KO: Centre of Court of Courage
-  FR: Centre of Court of Courage
-  EN: Centre of Court of Courage
+[53:12]
+  KO: 해외 멍청이가 드렁크?
+  FR: Un Twit étranger a dit « drunk ? »
+  EN: A foreign Twit said 'drunk?'
 
+
+[53:18]
+  KO: 재밌겠다
+  FR: Ça doit être amusant.
+  EN: That sounds fun.
+
+
+[53:33]
+  KO: 요즘도 실을 읽냐고?
+  FR: Tu lis encore des poèmes ces jours-ci ?
+  EN: Are you still reading poems these days?
 
 [53:35]
-  KO: 이제는 시는 아직 못 읽었고 전주 가서 언니랑 카페를 갔다가
-  FR: Maintenant, je n'ai pas encore pu lire le poème, et après être allée à Jeonju avec mes sœurs, nous sommes allées dans un café...
-  EN: Now, I haven't been able to read the poem yet, and after going to Jeonju with my sisters, we went to a cafe...
+  KO: 아 요새는
+  FR: Ah, ces derniers temps...
+  EN: Ah, these days...
 
-[53:55]
-  KO: 거기서 책들을 이렇게 파는 거야
-  FR: Là-bas, ils vendaient des livres comme ça.
-  EN: There, they were selling books like this.
+[53:38]
+  KO: 음
+  FR: Hmm.
+  EN: Hmm.
+
+[53:42]
+  KO: 시는 아직 못 읽었고
+  FR: Je n'ai pas encore pu lire de poèmes.
+  EN: I haven't been able to read poems yet.
+
+[53:48]
+  KO: 전주 가서 언니랑 카페를 갔다가
+  FR: Je suis allée à Jeonju et après être allée dans un café avec ma sœur,
+  EN: I went to Jeonju and after going to a cafe with my older sister,
+
+[53:54]
+  KO: 거기서 이렇게 책들을 이렇게 파는 거야
+  FR: ils vendaient des livres comme ça là-bas.
+  EN: they were selling books like that there.
 
 [53:56]
-  KO: 거기서 첫째 언니가 책을 선물 드렸더라고요
-  FR: C'est là que ma sœur aînée m'a offert un livre.
-  EN: That's where my eldest sister gave me a book as a gift.
+  KO: 그래서 거기서 첫째 언니가 책을 선물해줬어
+  FR: Alors, ma sœur aînée m'a offert un livre là-bas.
+  EN: So, my eldest sister gave me a book as a gift there.
 
-[53:57]
-  KO: 어
-  FR: Oh.
-  EN: Oh.
-
-[53:58]
-  KO: 선물해줬어. 고요한 포옹이라고
-  FR: Elle me l'a offert. Il s'appelle 'Une étreinte tranquille'.
-  EN: She gave it to me. It's called 'A Quiet Embrace'.
+[53:59]
+  KO: 고요한 포옹이라고
+  FR: Intitulé « Un Étreinte Silencieuse ».
+  EN: Titled 'A Quiet Embrace'.
 
 
 — [54:02] ────────────────────────────────────────
 
 [54:02]
-  KO: 제목이 너무 맘에 드는 거야. 그 고요한 포옹이라는 게
-  FR: J'ai tellement aimé le titre. Cette 'Étreinte tranquille'.
-  EN: I really liked the title. That 'A Quiet Embrace'.
+  KO: 제목이 너무 맘에 드는 거야
+  FR: J'ai tellement aimé le titre.
+  EN: I really liked the title.
+
+[54:04]
+  KO: 그 고요한 포옹이라는 게
+  FR: Ce « Un Étreinte Silencieuse ».
+  EN: That 'A Quiet Embrace'.
 
 [54:08]
-  KO: 그거 조금 읽다가
-  FR: Après avoir lu un peu de ça...
-  EN: After reading a little of it...
+  KO: 그래서 그거 조금 읽다가
+  FR: Alors, j'en ai lu un peu.
+  EN: So, I read a bit of it.
 
 [54:10]
-  KO: 좀 읽다가
-  FR: Après avoir lu un peu.
-  EN: After reading a bit.
+  KO: 좀 읽다가 그치 낭만적이지
+  FR: Après en avoir lu un peu, n'est-ce pas ? C'est romantique.
+  EN: After reading a bit, right? It's romantic, isn't it?
 
-[54:16]
-  KO: 그치 낭만적이지
-  FR: N'est-ce pas ? C'est romantique.
-  EN: Right? It's romantic.
-
-[54:18]
-  KO: 아니야 근데 나는 아직
-  FR: Non, mais moi, je n'ai pas encore...
-  EN: No, but I still...
-
-[54:24]
-  KO: 책 읽는 데는 너무 오래 걸리고
-  FR: Il me faut trop de temps pour lire des livres.
-  EN: It takes me too long to read books.
+[54:23]
+  KO: 아니야 근데 나는 아직 책 읽는 데는 너무 오래 걸리고
+  FR: Non, mais moi, ça me prend encore trop de temps pour lire un livre.
+  EN: No, but for me, it still takes too long to read a book.
 
 [54:29]
   KO: 그런 거 같아
-  FR: Je crois que c'est ça.
+  FR: Je crois que c'est comme ça.
   EN: I think that's how it is.
 
-[54:34]
+[54:30]
   KO: 책 생기면 바로 읽는 편이야?
   FR: Quand tu as un livre, tu le lis tout de suite ?
   EN: When you get a book, do you read it right away?
 
-[54:36]
-  KO: 아님 쌓아두고 읽는 적독가?
-  FR: Ou es-tu une lectrice qui les empile avant de les lire ?
-  EN: Or are you a 'pile-up reader' who stacks them up before reading?
+[54:35]
+  KO: 아니면 쌓아두고 읽는 적독가?
+  FR: Ou es-tu une « lectrice accumulatrice » qui les empile et les lit ?
+  EN: Or are you a 'collector who reads' who piles them up and reads them?
 
-[54:39]
+[54:38]
   KO: 읽는 적독가가 뭐야?
-  FR: C'est quoi, une 'lectrice qui empile' ?
-  EN: What's a 'pile-up reader'?
+  FR: C'est quoi une « lectrice accumulatrice » ?
+  EN: What's a 'collector who reads'?
 
-[54:41]
-  KO: 슬그만 게 버르장머리 없게 제멋대로 해
-  FR: Fais ce que tu veux, sans manières, discrètement.
-  EN: Do as you please, impolitely, stealthily.
+[54:40]
+  KO: 새콤한 게 버르장머리 없게 제멋대로 해 말은 징그럽게 안 들어?
+  FR: Quelque chose d'aigre, qui fait ce qu'il veut sans manières, et n'écoute pas les mots de façon dégoûtante ?
+  EN: Something tart, that acts rudely and as it pleases, and disgustingly doesn't listen to words?
 
-[54:59]
-  KO: 말은 징그럽게 안 들어?
-  FR: Tu n'écoutes rien de ce qu'on te dit, de façon agaçante ?
-  EN: You don't listen to a word, in such an annoying way?
-
-[55:02]
+[55:00]
   KO: 갑자기?
   FR: Soudainement ?
   EN: Suddenly?
@@ -3274,269 +3366,212 @@ Uploaded: 2025-12-08
   EN: Why?
 
 [55:10]
-  KO: 가장 최근에 읽은 책
-  FR: Le livre le plus récemment lu.
-  EN: The most recently read book.
+  KO: 가장 최근에 읽은 책이
+  FR: Le livre que j'ai lu le plus récemment...
+  EN: The book I read most recently...
 
-[55:13]
-  KO: 헉!
-  FR: Oh !
-  EN: Gasp!
 
 [55:16]
   KO: 내 맘이야 가사네 맞네
-  FR: Ce sont les paroles de 'Nae Mamiya', c'est ça.
-  EN: Those are the lyrics from 'Nae Mamiya', you're right.
+  FR: Ce sont les paroles de « My Mind », c'est ça.
+  EN: It's 'My Mind' lyrics, that's right.
 
-[55:20]
+[55:18]
   KO: 너무 소름 돋았다
   FR: J'en ai eu la chair de poule.
   EN: I got goosebumps.
 
-[55:22]
+[55:21]
   KO: 맞네
   FR: C'est ça.
   EN: That's right.
 
-[55:25]
-  KO: 나는 갑자기
-  FR: Moi, soudainement...
-  EN: I suddenly...
+[55:23]
+  KO: 나는 갑자기 멍청이 왜 이렇게 화가 났어 나는
+  FR: Moi, soudainement, Twit, pourquoi es-tu si en colère ? Moi...
+  EN: I suddenly, Twit, why are you so angry? I...
 
-[55:26]
-  KO: 멍청이 왜 이렇게 화가 났어 나는
-  FR: Mes petits fous, pourquoi étiez-vous si en colère ? Moi...
-  EN: My Twits, why were you so angry? I...
+[55:28]
+  KO: 너무 소름 돋았어 어쩐지
+  FR: J'en ai eu la chair de poule, je me disais bien.
+  EN: I got goosebumps, no wonder.
 
-
-[55:35]
-  KO: 너무 소름 돋았어
-  FR: J'en ai eu la chair de poule.
-  EN: I got goosebumps.
-
-[55:36]
+[55:37]
   KO: 어쩐지
-  FR: C'est pour ça.
+  FR: Je me disais bien.
   EN: No wonder.
 
-[55:38]
-  KO: 어쩐지
-  FR: C'est pour ça.
-  EN: No wonder.
-
-[55:40]
+[55:39]
   KO: 뭔가 익숙하더라 읽는데
   FR: Ça me semblait familier en le lisant.
   EN: It felt familiar while reading it.
 
 [55:42]
-  KO: 뭔가 익숙한 거 같은데 뭐지 이
-  FR: Ça me semble familier, mais qu'est-ce que c'est, ce...
-  EN: It feels familiar, but what is this...
+  KO: 뭔가 익숙한 거 같은데 뭐지 이 글은?
+  FR: Ça me semble familier, mais qu'est-ce que c'est que ce texte ?
+  EN: It feels familiar, but what is this text?
 
 [55:46]
-  KO: 이 글은?
-  FR: Ce texte ?
-  EN: This text?
-
-[55:49]
   KO: 깜짝이야
-  FR: Oh mon dieu !
+  FR: Quelle surprise !
   EN: Oh my goodness!
 
-[55:50]
+[55:58]
   KO: 진짜 너무 잘 까먹는 거 같아
   FR: J'ai vraiment l'impression d'oublier les choses trop facilement.
   EN: I really seem to forget things too easily.
 
 [56:00]
   KO: 그러네
-  FR: C'est vrai.
+  FR: En effet.
   EN: Indeed.
 
 
-— [56:16] ────────────────────────────────────────
+— [56:17] ────────────────────────────────────────
 
-[56:16]
+[56:17]
   KO: 도끼가 가득했네
-  FR: C'était plein de haches, n'est-ce pas.
-  EN: It was full of axes, wasn't it.
+  FR: C'était plein de haches.
+  EN: It was full of axes.
 
 [56:19]
   KO: 완전 애기야
   FR: C'était une vraie enfant.
   EN: She was a complete baby.
 
-[56:21]
-  KO: 하하하하하
-  FR: Hahahahaha
-  EN: Hahahahaha
 
 [56:28]
   KO: 그니까 산도끼였네 산도끼
-  FR: Donc, c'était une hache sauvage, une hache sauvage.
-  EN: So, it was a wild axe, a wild axe.
+  FR: Donc c'était une hache de montagne, une hache de montagne.
+  EN: So it was a mountain axe, a mountain axe.
 
-[56:31]
+[56:30]
   KO: 귀엽게 산토끼라고 해주자
-  FR: Appelons-la gentiment 'lapin sauvage'.
-  EN: Let's cutely call it a 'wild rabbit'.
+  FR: Disons gentiment que c'était un lapin de montagne.
+  EN: Let's just cutely call it a mountain rabbit.
 
 [56:42]
   KO: 맞아
-  FR: C'est vrai.
+  FR: C'est ça.
   EN: That's right.
 
 [56:43]
   KO: 나도 핑크팬티랑 내 맘이야는
-  FR: Moi aussi, 'Pink Panties' et 'Nae Mamiya'...
-  EN: Me too, 'Pink Panties' and 'Nae Mamiya'...
+  FR: Même moi, pour « Pink Panty » et « My Mind »,
+  EN: Even I, for 'Pink Panty' and 'My Mind',
 
-[56:48]
-  KO: 아...
-  FR: Ah...
-  EN: Ah...
 
 [56:51]
-  KO: 좀 항마력이 딸리긴 하거든?
-  FR: J'ai un peu de mal à les assumer, vous savez ?
-  EN: My tolerance for them is a bit low, you know?
+  KO: 좀 항마력이 딸리긴 하거든
+  FR: ma tolérance au cringe est un peu faible.
+  EN: my cringe tolerance is a bit low.
 
 [56:54]
-  KO: 근데 그때 나인 거잖아
-  FR: Mais c'était moi à l'époque, n'est-ce pas ?
-  EN: But that was me back then, wasn't it?
+  KO: 근데 그때의 나인 거잖아
+  FR: Mais c'était moi à cette époque, n'est-ce pas ?
+  EN: But that was me at that time, wasn't it?
 
-[56:57]
+[56:56]
   KO: 완전 무지한 상태이기도 하고
-  FR: Et j'étais aussi dans un état d'ignorance totale.
+  FR: Et j'étais aussi dans un état de complète ignorance.
   EN: And I was also in a completely ignorant state.
 
-[57:01]
-  KO: 그니까!
-  FR: Exactement !
-  EN: Exactly!
-
-[57:03]
-  KO: 그렇더라고
-  FR: C'est ce que j'ai réalisé.
-  EN: That's how it was.
+[57:00]
+  KO: 그니까 그렇더라고
+  FR: Donc, c'est comme ça que c'était.
+  EN: So, that's how it was.
 
 [57:12]
   KO: 진짜 거침없었다
   FR: J'étais vraiment sans retenue.
-  EN: I was really unrestrained.
+  EN: I was really unreserved.
 
 [57:14]
-  KO: 난 핑크팬티 가사가 진짜 충격적이야
-  FR: Les paroles de 'Pink Panties' sont vraiment choquantes pour moi.
-  EN: The lyrics of 'Pink Panties' are truly shocking to me.
+  KO: 난 핑크팬티 가사 진짜 충격적이야
+  FR: Pour moi, les paroles de « Pink Panty » sont vraiment choquantes.
+  EN: For me, the 'Pink Panty' lyrics are really shocking.
 
 
-— [57:18] ────────────────────────────────────────
+— [57:20] ────────────────────────────────────────
 
-[57:18]
+[57:20]
   KO: 뭐랄까
   FR: Comment dire...
-  EN: How should I put it...
+  EN: How should I put it?
 
-[57:26]
+[57:22]
   KO: 맞아 당돌하고 당차
-  FR: Oui, audacieuses et déterminées.
-  EN: Yes, bold and daring.
+  FR: Oui, c'est audacieux et énergique.
+  EN: Yes, it's bold and spirited.
 
-[57:28]
+[57:30]
   KO: 와 진짜
   FR: Wow, vraiment.
   EN: Wow, really.
 
 [57:34]
   KO: 딴 사람 같아
-  FR: C'est comme une autre personne.
+  FR: On dirait une autre personne.
   EN: It's like a different person.
 
-[57:36]
-  KO: 막 깜짝 깜짝 놀래 보고
-  FR: Je suis constamment surprise en les revoyant.
-  EN: I keep getting surprised when I see them.
+[57:37]
+  KO: 막 깜짝깜짝 놀래 보고
+  FR: Je suis constamment surprise en les regardant.
+  EN: I keep getting surprised looking at them.
 
 [57:40]
-  KO: 헉!
-  FR: Oh !
-  EN: Gasp!
-
-[57:41]
   KO: 그때 내가 이랬구나
-  FR: C'est comme ça que j'étais à l'époque.
+  FR: Alors c'est comme ça que j'étais à l'époque.
   EN: So that's how I was back then.
 
-[57:43]
+[57:47]
   KO: 너 정말 야생적이었지
   FR: Tu étais vraiment sauvage, n'est-ce pas ?
   EN: You were really wild, weren't you?
 
 [57:50]
-  KO: 하하하하
-  FR: Hahahaha
-  EN: Hahahaha
-
-[57:52]
-  KO: 그니까
-  FR: Exactement.
-  EN: Exactly.
-
-[57:53]
-  KO: 야생적이었어
-  FR: J'étais sauvage.
-  EN: I was wild.
+  KO: 그니까 야생적이었어
+  FR: Oui, j'étais sauvage.
+  EN: Yes, I was wild.
 
 [57:54]
   KO: 나 굉장히 야생적이야
   FR: Je suis très sauvage.
   EN: I'm very wild.
 
-[57:56]
+[57:59]
   KO: 완전 무지하고 거침없고
   FR: Complètement ignorante et sans retenue.
-  EN: Completely ignorant and unrestrained.
+  EN: Completely ignorant and unreserved.
 
-[58:06]
+[58:03]
   KO: 초안의 야생마처럼
-  FR: Comme un cheval sauvage dans les plaines.
-  EN: Like a wild horse in the plains.
+  FR: Comme un cheval sauvage à l'état brut.
+  EN: Like a wild horse in its raw state.
 
-[58:08]
-  KO: 그니까
-  FR: Exactement.
-  EN: Exactly.
+[58:07]
+  KO: 그니까 야생의 산도키
+  FR: Donc, une hache de montagne sauvage.
+  EN: So, a wild mountain axe.
 
-[58:10]
-  KO: 야생의 산도키
-  FR: Le sandokki sauvage.
-  EN: The wild sandokki.
-
-[58:13]
+[58:12]
   KO: 그니까이
-  FR: Donc, je...
-  EN: So, I mean...
+  FR: Donc...
+  EN: So...
 
 [58:15]
   KO: 지금은 어떠냐고?
-  FR: Vous demandez comment je suis maintenant ?
+  FR: Tu demandes comment je vais maintenant ?
   EN: You're asking how I am now?
 
-[58:17]
+[58:16]
   KO: 지금은 취했어
   FR: Maintenant, je suis ivre.
   EN: Now I'm drunk.
 
 
-— [58:19] ────────────────────────────────────────
+— [58:22] ────────────────────────────────────────
 
-[58:19]
-  KO: 하하하하하
-  FR: Hahahahaha
-  EN: Hahahahaha
 
 [58:22]
   KO: drunk
@@ -3544,1152 +3579,1153 @@ Uploaded: 2025-12-08
   EN: Drunk.
 
 [58:23]
-  KO: 애정준이야?
-  FR: C'est Aejungjun ?
-  EN: Is it Aejungjun?
+  KO: 애정준이야
+  FR: Je suis ivre d'affection.
+  EN: I'm drunk on affection.
 
-[58:29]
-  KO: 오 진짜 취했어
-  FR: Oh, je suis vraiment ivre.
-  EN: Oh, I'm really drunk.
 
-[58:34]
-  KO: 뭐지?
-  FR: Qu'est-ce que c'est ?
-  EN: What is it?
+[58:32]
+  KO: 진짜 취했어
+  FR: Je suis vraiment ivre.
+  EN: I'm really drunk.
 
-[58:34]
-  KO: 어떡하냐 나 사진 셀렉해야 되는데
-  FR: Qu'est-ce que je vais faire ? Je dois sélectionner des photos.
-  EN: What should I do? I have to select photos.
+[58:33]
+  KO: 뭐지 어떡하냐 나 사진 셀렉해야 되는데
+  FR: Qu'est-ce que c'est ? Qu'est-ce que je vais faire ? Je dois sélectionner des photos.
+  EN: What is it? What am I going to do? I have to select photos.
 
 [58:37]
-  KO: 크흠
-  FR: Hmm.
-  EN: Ahem.
+  KO: 어떡해
+  FR: Oh non !
+  EN: Oh no!
 
 [58:38]
-  KO: 어떡해?
-  FR: Qu'est-ce que je fais ?
-  EN: What should I do?
-
-[58:39]
-  KO: 내일 해야겠다
-  FR: Je suppose que je devrai le faire demain.
-  EN: I guess I'll have to do it tomorrow.
+  KO: 내일 해야겠다 큰일났다
+  FR: Je devrai le faire demain. C'est la catastrophe.
+  EN: I'll have to do it tomorrow. This is a big problem.
 
 [58:40]
-  KO: 큰일 났다
-  FR: C'est la catastrophe.
-  EN: This is a disaster.
+  KO: 오늘 진짜 왜 이렇게 빨리 취해
+  FR: Vraiment, pourquoi est-ce que je me saoule si vite aujourd'hui ?
+  EN: Really, why am I getting drunk so quickly today?
 
-[58:52]
-  KO: 오늘 진짜 왜 왜 이렇게 빨리 취해
-  FR: Pourquoi est-ce que je me saoule si vite aujourd'hui ?
-  EN: Why am I getting drunk so quickly today?
+[58:54]
+  KO: 나 어제 마지막 밤에 마셨을 때도
+  FR: Même hier soir, quand j'ai bu la dernière nuit,
+  EN: Even yesterday, when I drank on the last night,
 
-[58:55]
-  KO: 나 어제 마지막 밤에 마셨을 때도 많이 마셨는데
-  FR: Pourtant, j'ai beaucoup bu hier soir aussi.
-  EN: Even though I drank a lot last night on my last night.
+[58:57]
+  KO: 많이 마셨는데
+  FR: j'ai beaucoup bu.
+  EN: I drank a lot.
 
 [58:59]
-  KO: 와 난 막 눈이 감겨
-  FR: Wow, mes yeux se ferment tout seuls.
-  EN: Wow, my eyes are just closing.
+  KO: 눈이 감겨
+  FR: Mes yeux se ferment.
+  EN: My eyes are closing.
 
-[59:10]
+[59:07]
   KO: 편하지 청희들
-  FR: C'est confortable, n'est-ce pas, mes petits fous ?
-  EN: It's comfortable, isn't it, my Twits?
+  FR: C'est confortable, n'est-ce pas, mes chers Twits ?
+  EN: It's comfortable, isn't it, my dear Twits?
 
-[59:13]
-  KO: 너무 편해서 큰일일 정도야
-  FR: C'est tellement confortable que c'en est presque un problème.
-  EN: It's so comfortable it's almost a problem.
+[59:12]
+  KO: 너무 편해서 큰일을 떠올랐어
+  FR: C'est tellement confortable que j'ai repensé à une tâche importante.
+  EN: It's so comfortable that a big task came to mind.
 
-[59:16]
-  KO: 화약 강퇴
-  FR: Expulsion de poudre à canon.
-  EN: Gunpowder expulsion.
+[59:15]
+  KO: 진짜
+  FR: Vraiment.
+  EN: Really.
+
+[59:21]
+  KO: 화약 강퇴해
+  FR: Expulsez Hwayak.
+  EN: Kick out Hwayak.
 
 
 — [59:24] ────────────────────────────────────────
 
 [59:24]
   KO: 화약 강퇴
-  FR: Expulsion de poudre à canon.
-  EN: Gunpowder expulsion.
+  FR: Expulsion de Hwayak.
+  EN: Kick out Hwayak.
 
-[59:32]
+[59:25]
   KO: 이제부터 헛소리 하는 사람들은 모두 강퇴다
-  FR: À partir de maintenant, tous ceux qui disent des bêtises seront expulsés.
-  EN: From now on, everyone who talks nonsense will be expelled.
+  FR: Désormais, tous ceux qui disent des bêtises seront expulsés.
+  EN: From now on, everyone who talks nonsense will be kicked out.
 
 [59:36]
-  KO: 다 써달라고 하라고?
-  FR: Vous me dites de tout écrire ?
-  EN: You're telling me to write everything?
+  KO: 다 써달라고 하라고
+  FR: Dites-leur d'utiliser toutes les photos.
+  EN: Tell them to use all of them.
 
 [59:49]
   KO: 다 쓸 건데
-  FR: Je vais tout écrire.
-  EN: I'm going to write everything.
+  FR: Je vais tout utiliser de toute façon.
+  EN: I'm going to use all of them anyway.
 
 [59:52]
-  KO: 크흠
-  FR: Hmm.
-  EN: Ahem.
+  KO: 그거 있잖아
+  FR: Tu sais quoi ?
+  EN: You know that thing.
 
 [59:53]
-  KO: 그거 있잖아 1월, 2월, 3월, 4월, 5월, 6월, 7월, 8월, 9월, 10월, 11월
-  FR: Vous savez, janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre.
-  EN: You know, January, February, March, April, May, June, July, August, September, October, November.
+  KO: 1월 2월 3월 4월 5월 6월 7월 8월 9월 10월 11월
+  FR: Janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre.
+  EN: January, February, March, April, May, June, July, August, September, October, November.
 
-[01:00:09]
-  KO: 단발 시그? 단발 시그
-  FR: SG avec les cheveux courts ? SG avec les cheveux courts.
-  EN: Short hair SG? Short hair SG.
+[59:58]
+  KO: 단발 시그?
+  FR: Un Season's Greetings avec les cheveux courts ?
+  EN: Short hair Season's Greetings?
 
-[01:00:12]
-  KO: 처음인 거 같은데? 그치?
-  FR: Je crois que c'est la première fois, non ?
-  EN: I think it's the first time, right?
+[1:00:09]
+  KO: 단발 시그 처음인 거 같은데?
+  FR: Je crois que c'est la première fois pour un Season's Greetings avec les cheveux courts ?
+  EN: I think it's the first time for a short hair Season's Greetings?
 
-[01:00:23]
-  KO: 힙 때
-  FR: Pendant 'HIP'.
-  EN: During 'HIP'.
+[1:00:13]
+  KO: 그치?
+  FR: N'est-ce pas ?
+  EN: Right?
+
+[1:00:14]
+  KO: 힙대
+  FR: Hipdae.
+  EN: Hipdae.
 
 
-— [01:00:25] ────────────────────────────────────────
+— [1:00:26] ────────────────────────────────────────
 
-[01:00:25]
-  KO: 크흠
-  FR: Hmm.
-  EN: Ahem.
 
-[01:00:27]
-  KO: 힙 때 단발 했잖아
-  FR: J'avais les cheveux courts pendant 'HIP', n'est-ce pas ?
-  EN: I had short hair during 'HIP', didn't I?
+[1:00:26]
+  KO: 힙대 단발 했잖아
+  FR: Elle avait les cheveux courts pendant l'ère « Hip », n'est-ce pas ?
+  EN: She had short hair during the “Hip” era, didn't she?
 
-[01:00:33]
+[1:00:28]
   KO: 20년 시그가 뭐였지?
-  FR: Quel était le SG de 2020 ?
-  EN: What was the 2020 SG?
+  FR: Quel était le Season's Greetings de 2020 ?
+  EN: What was the 2020 Season's Greetings?
 
-[01:00:35]
+[1:00:39]
   KO: 맞아 힙이랑 먼들
-  FR: C'est vrai, 'HIP' et 'Mundle'.
-  EN: That's right, 'HIP' and 'Mundle'.
+  FR: C'est vrai, « Hip » et « Meondeul ».
+  EN: That's right, “Hip” and “Meondeul”.
 
-[01:00:41]
-  KO: 헉 그러고 보니까
-  FR: Oh, maintenant que j'y pense...
-  EN: Oh, now that I think about it...
+[1:00:41]
+  KO: 그러고 보니까
+  FR: Maintenant que j'y pense...
+  EN: Now that I think about it...
 
-[01:00:43]
+[1:00:45]
   KO: 먼들 때도 그렇고 힙 때도 그렇고
-  FR: Que ce soit pendant 'Mundle' ou 'HIP'.
-  EN: Whether it was during 'Mundle' or 'HIP'.
+  FR: Que ce soit pendant « Meondeul » ou « Hip »,
+  EN: Whether it was during “Meondeul” or “Hip”,
 
-[01:00:48]
-  KO: 단발을 할 때 항상 뭔가 그 의미가 깊었네?
-  FR: Quand j'avais les cheveux courts, il y avait toujours une signification profonde, n'est-ce pas ?
-  EN: When I had short hair, it always had some deep meaning, didn't it?
+[1:00:49]
+  KO: 단발을 할 땐 항상 뭔가 그 의미가 깊었네
+  FR: quand j'avais les cheveux courts, il y avait toujours une signification profonde.
+  EN: when I had short hair, it always had a deep meaning.
 
-[01:00:54]
+[1:00:55]
   KO: 그치
   FR: N'est-ce pas ?
   EN: Right?
 
-[01:01:01]
-  KO: 아 마렐로 컨셉 맞아 맞아 맞아 기억났다
-  FR: Ah, le concept 'Maria', c'est ça, c'est ça, je me souviens !
-  EN: Ah, the 'Maria' concept, that's right, that's right, I remember!
+[1:01:01]
+  KO: 아 마렐루 컨셉 맞아 맞아 맞아
+  FR: Ah, le concept Marellu, c'est ça, c'est ça, c'est ça.
+  EN: Ah, the Marellu concept, that's right, that's right, that's right.
 
-[01:01:07]
+[1:01:04]
+  KO: 기억났다
+  FR: Je me suis souvenue.
+  EN: I remembered.
+
+[1:01:06]
   KO: 그러면 나 그 단발이면 아머빗 때 단발인가?
-  FR: Alors, si c'est cette coupe courte, c'est celle de l'époque 'I'm a B' ?
-  EN: Then, if it's that short hair, is it the short hair from the 'I'm a B' era?
+  FR: Alors, si j'avais les cheveux courts, c'était pendant l'ère Armabit ?
+  EN: So, if I had short hair, was it during the Armabit era?
 
-[01:01:19]
-  KO: 먼들 힙, 깁, 길풀, 꾹꾹바 중에서 화사픽 최고의 단발은?
-  FR: Parmi 'Mundle', 'HIP', 'Gilpul' et 'Good Good Bye', quelle est la meilleure coupe courte selon Hwasa ?
-  EN: Among 'Mundle', 'HIP', 'Gilpul', and 'Good Good Bye', which is Hwasa's pick for the best short hair?
+[1:01:19]
+  KO: 먼들 힙 힙 길풀 쿡쿡바 중에서
+  FR: Parmi « Meondeul », « Hip », « Gilpul », « Kukukba »,
+  EN: Among “Meondeul”, “Hip”, “Gilpul”, “Kukukba”,
+
+[1:01:22]
+  KO: 화사픽 최고의 단발은?
+  FR: quelle est la meilleure coupe courte selon Hwasa ?
+  EN: what's Hwasa's pick for the best short hair?
+
+[1:01:24]
+  KO: 나는 쿡쿡바지
+  FR: Pour moi, c'est « Kukukba ».
+  EN: For me, it's “Kukukba”.
 
 
-— [01:01:26] ────────────────────────────────────────
+— [1:01:28] ────────────────────────────────────────
 
-[01:01:26]
-  KO: 나는 꾹꾹바지
-  FR: Pour moi, c'est 'Good Good Bye'.
-  EN: For me, it's 'Good Good Bye'.
-
-[01:01:36]
+[1:01:28]
   KO: 어 투표 한 번 해볼까?
   FR: Oh, on ferait un sondage ?
   EN: Oh, should we do a poll?
 
-[01:01:37]
-  KO: 자 1번 먼들
-  FR: Alors, numéro 1, 'Mundle'.
-  EN: Alright, number 1, 'Mundle'.
+[1:01:37]
+  KO: 1번 먼들
+  FR: Numéro 1, « Meondeul ».
+  EN: Number 1, “Meondeul”.
 
-[01:01:40]
-  KO: 2번 힙
-  FR: Numéro 2, 'HIP'.
-  EN: Number 2, 'HIP'.
+[1:01:39]
+  KO: 2번 힙 3번 길풀
+  FR: Numéro 2, « Hip ». Numéro 3, « Gilpul ».
+  EN: Number 2, “Hip”. Number 3, “Gilpul”.
 
-[01:01:47]
-  KO: 3번 길풀
-  FR: Numéro 3, 'Gilpul'.
-  EN: Number 3, 'Gilpul'.
+[1:01:50]
+  KO: 4번 쿡쿡바
+  FR: Numéro 4, « Kukukba ».
+  EN: Number 4, “Kukukba”.
 
-[01:01:52]
-  KO: 4번?
-  FR: Numéro 4 ?
-  EN: Number 4?
+[1:02:00]
+  KO: 오 압도적인데
+  FR: Oh, c'est écrasant.
+  EN: Oh, that's overwhelming.
 
-[01:01:54]
-  KO: 꾹꾹바
-  FR: 'Good Good Bye'.
-  EN: 'Good Good Bye'.
+[1:02:09]
+  KO: 진짜 다 마음에 들었구나
+  FR: Vous avez vraiment tout aimé.
+  EN: You really liked all of them.
 
-[01:02:00]
-  KO: 오오오오
-  FR: Oh oh oh oh !
-  EN: Oh oh oh oh!
+[1:02:12]
+  KO: 이번 쿡쿡바의 단발이
+  FR: La coupe courte de « Kukukba » cette fois-ci...
+  EN: This “Kukukba” short hair...
 
-[01:02:01]
-  KO: 압도적인데?
-  FR: C'est écrasant, non ?
-  EN: It's overwhelming, isn't it?
-
-[01:02:09]
-  KO: 꾹꾹..어 진짜 다 맘에 들었구나
-  FR: 'Good Good'... Oh, vous avez vraiment tous aimé.
-  EN: 'Good Good'... Oh, you really all liked it.
-
-[01:02:12]
-  KO: 이번 꾹꾹바의 단발이
-  FR: La coupe courte de ce 'Good Good Bye'.
-  EN: The short hair from this 'Good Good Bye'.
-
-[01:02:26]
-  KO: 맞아 나도 단발한 것 중에 난
-  FR: Oui, moi aussi, parmi toutes mes coupes courtes, je...
-  EN: Yeah, me too, among all the times I had short hair, I...
+[1:02:14]
+  KO: 맞아 나도 단발 한 것 중에 난
+  FR: C'est vrai, moi aussi, parmi toutes mes coupes courtes, je...
+  EN: That's right, among all my short hairstyles, I...
 
 
-— [01:02:30] ────────────────────────────────────────
+— [1:02:30] ────────────────────────────────────────
 
-[01:02:30]
-  KO: 2번이 제일
-  FR: Le numéro 2 est le meilleur.
-  EN: Number 2 is the best.
+[1:02:30]
+  KO: 2번이 제일 제일 좋았어
+  FR: J'ai préféré la numéro 2, vraiment.
+  EN: I liked number 2 the most, really.
 
-[01:02:32]
-  KO: 제일 좋았어
-  FR: C'était le meilleur.
-  EN: It was the best.
-
-[01:02:37]
+[1:02:37]
   KO: 맞아 근데 길풀 때 단발
-  FR: C'est vrai, mais la coupe courte de 'Gilpul'.
-  EN: Right, but the short hair during 'Gilpul'.
+  FR: C'est vrai, mais la coupe courte de « Gilpul »...
+  EN: That's right, but the short hair during “Gilpul”...
 
-[01:02:39]
+[1:02:39]
   KO: 길풀 때 단발을 좋아해 주는 팬들이 진짜 은근 많다
-  FR: Il y a vraiment beaucoup de fans qui aiment ma coupe courte de l'époque 'Gilpul'.
-  EN: There are actually quite a lot of fans who like my short hair from the 'Gilpul' era.
+  FR: Il y a vraiment beaucoup de fans qui aiment la coupe courte de « Gilpul ».
+  EN: There are actually a lot of fans who really like the short hair from “Gilpul”.
 
-[01:02:43]
-  KO: 그 매니아..그 있어 그
-  FR: Ces passionnés... il y a ça, il y a...
-  EN: Those enthusiasts... there are those, there are...
+[1:02:43]
+  KO: 그 매니아 그 있어 그
+  FR: Il y a des maniaques, il y a ça, il y a...
+  EN: There are those enthusiasts, there's that, there's...
 
-[01:02:46]
+[1:02:46]
   KO: 매니아층이 있네
-  FR: Il y a une base de fans dévoués.
-  EN: There's a niche fanbase.
+  FR: Il y a une base de fans dévouée.
+  EN: There's a dedicated fanbase.
 
-[01:02:48]
+[1:02:48]
   KO: 길풀 단발
-  FR: La coupe courte 'Gilpul'.
-  EN: 'Gilpul' short hair.
+  FR: La coupe courte de « Gilpul ».
+  EN: The “Gilpul” short hair.
 
-[01:02:49]
-  KO: 칼단발의 매력
+[1:02:52]
+  KO: 칼 단발의 매력
   FR: Le charme de la coupe au carré nette.
-  EN: The charm of the blunt bob.
+  EN: The charm of the sharp bob.
 
-[01:02:54]
+[1:02:55]
   KO: 그래
   FR: Oui.
   EN: Yeah.
 
-[01:02:55]
-  KO: 아 근데 어떡하지 나 진짜 취한거 같애
-  FR: Ah, mais qu'est-ce que je vais faire ? Je crois que je suis vraiment saoule.
-  EN: Ah, but what should I do? I think I'm really drunk.
+[1:02:59]
+  KO: 어 근데 어떡하지 나 진짜 취한 것 같아
+  FR: Oh, mais qu'est-ce que je vais faire ? Je crois que je suis vraiment ivre.
+  EN: Oh, but what should I do? I think I'm really drunk.
 
-[01:03:20]
+[1:03:01]
   KO: 어 근데 되게 순순히 뭐랄까
-  FR: Oh, mais vous êtes très dociles, comment dire...
-  EN: Oh, but you're very compliant, how should I put it...
+  FR: Oh, mais vous êtes tellement dociles, comment dire...
+  EN: Oh, but you're so compliant, how should I put it...
 
-[01:03:24]
-  KO: 청이들이 막 나를 재울라 그런다 웬일이야?
-  FR: Mes petits fous essaient de me faire dormir, qu'est-ce qui se passe ?
-  EN: My Twits are trying to make me sleep, what's going on?
+[1:03:24]
+  KO: 총이들이 막 나를 재우려 그런다?
+  FR: Mes Twits essaient de me faire dormir ?
+  EN: My Twits are trying to put me to sleep?
 
-[01:03:28]
-  KO: 어쩐일로 이렇게 정신을 차렸어?
-  FR: Pourquoi avez-vous repris vos esprits comme ça ?
-  EN: Why have you suddenly come to your senses like this?
-
-
-— [01:03:32] ────────────────────────────────────────
-
-[01:03:32]
-  KO: 원래같으면 막 생때 쓰고 막 이러는데?
-  FR: Normalement, vous feriez des caprices et tout ça, non ?
-  EN: Normally, you'd be throwing tantrums and stuff, right?
-
-[01:03:35]
-  KO: 왜그래?
-  FR: Pourquoi ça ?
-  EN: Why are you like this?
-
-[01:03:37]
-  KO: 멍청이들답지 않게?
-  FR: Ce n'est pas digne de mes petits fous.
-  EN: Unlike my Twits?
-
-[01:03:39]
-  KO: 원래 또 질척이는 데는 또
-  FR: Normalement, quand il s'agit de s'accrocher, vous êtes...
-  EN: Normally, when it comes to being clingy, you're...
-
-[01:03:42]
-  KO: 질척이는 데는 또 이렇게 완전
-  FR: Quand il s'agit de s'accrocher, vous êtes complètement comme ça.
-  EN: When it comes to being clingy, you're completely like this.
-
-[01:04:02]
-  KO: 왜이래?
-  FR: Pourquoi êtes-vous comme ça ?
-  EN: Why are you like this?
-
-[01:04:03]
-  KO: 다들 왜 이렇게 날 순순히 재워주는거야?
-  FR: Pourquoi tout le monde me laisse-t-il aller dormir si docilement ?
-  EN: Why is everyone letting me go to sleep so obediently?
-
-[01:04:07]
-  KO: 웬일이야?
+[1:03:28]
+  KO: 무슨 일이야?
   FR: Qu'est-ce qui se passe ?
   EN: What's going on?
 
-[01:04:09]
-  KO: 진짜 1위하니까 막 팬들이
-  FR: Vraiment, parce que j'ai eu la 1ère place, les fans...
-  EN: Seriously, because I got 1st place, the fans...
+[1:03:29]
+  KO: 어쩐 일로 이렇게 정신을 차렸어?
+  FR: Comment se fait-il que vous ayez retrouvé vos esprits comme ça ?
+  EN: How come you've come to your senses like this?
 
-[01:04:12]
+
+— [1:03:31] ────────────────────────────────────────
+
+[1:03:31]
+  KO: 원래가 좀 막 생때 쓰고 막 이러는데
+  FR: D'habitude, vous faites des caprices et tout ça...
+  EN: Usually, you'd be throwing tantrums and stuff...
+
+[1:03:34]
+  KO: 왜 그래?
+  FR: Pourquoi agissez-vous comme ça ?
+  EN: Why are you like this?
+
+[1:03:36]
+  KO: 멍청이들답지 않게?
+  FR: Ce n'est pas digne de mes Twits.
+  EN: Unlike my Twits?
+
+[1:03:38]
+  KO: 원래 또 질척이는 데는 또
+  FR: D'habitude, quand il s'agit de s'accrocher, vous êtes...
+  EN: Usually, when it comes to being clingy, you're...
+
+[1:03:41]
+  KO: 질척이는 데는 또 이렇게 하
+  FR: quand il s'agit de s'accrocher, vous faites ça...
+  EN: when it comes to being clingy, you do this...
+
+[1:03:49]
+  KO: 완전 왜 이래?
+  FR: Pourquoi êtes-vous comme ça, complètement ?
+  EN: Why are you like this, completely?
+
+[1:04:02]
+  KO: 다들 왜 이렇게 날 순순히 재워주는 거야?
+  FR: Pourquoi tout le monde me laisse dormir si docilement ?
+  EN: Why is everyone letting me sleep so compliantly?
+
+[1:04:06]
+  KO: 무슨 일이야?
+  FR: Qu'est-ce qui se passe ?
+  EN: What's going on?
+
+[1:04:08]
+  KO: 우와 진짜 1위하니까 막 팬들이 어?
+  FR: Wow, vraiment, parce que j'ai eu la première place, les fans, hein ?
+  EN: Wow, really, because I got 1st place, the fans, huh?
+
+[1:04:12]
   KO: 어?
   FR: Hein ?
   EN: Huh?
 
-[01:04:13]
-  KO: 어?
-  FR: Hein ?
-  EN: Huh?
 
-
-[01:04:22]
+[1:04:17]
   KO: 맞잖아 어?
   FR: C'est vrai, non ? Hein ?
   EN: It's true, isn't it? Huh?
 
-[01:04:25]
+[1:04:25]
   KO: 팬들이 막
   FR: Les fans, ils...
-  EN: The fans, they're like...
+  EN: The fans, they...
 
-[01:04:28]
+[1:04:28]
   KO: 1위해서가 아니야?
-  FR: Ce n'est pas parce que j'ai eu la 1ère place ?
+  FR: Ce n'est pas parce que j'ai eu la première place ?
   EN: Isn't it because I got 1st place?
 
-[01:04:31]
+
+— [1:04:43] ────────────────────────────────────────
+
+[1:04:43]
   KO: 주취자
-  FR: Une personne ivre.
-  EN: An intoxicated person.
+  FR: Personne ivre.
+  EN: Drunk person.
 
-
-— [01:04:43] ────────────────────────────────────────
-
-[01:04:43]
+[1:04:44]
   KO: 주취자가 뭐야?
-  FR: Qu'est-ce qu'une personne ivre ?
-  EN: What's an intoxicated person?
+  FR: Qu'est-ce que c'est, une personne ivre ?
+  EN: What's a drunk person?
 
-[01:04:52]
+[1:04:45]
   KO: 취한 사람?
   FR: Une personne saoule ?
   EN: A drunk person?
 
-[01:04:53]
-  KO: 취한 사람?
-  FR: Une personne saoule ?
-  EN: A drunk person?
-
-[01:04:55]
-  KO: 취한 사람이 어딨는데?
+[1:04:53]
+  KO: 취한 사람이 어딨는데
   FR: Où est la personne saoule ?
-  EN: Where's the drunk person?
+  EN: Where is the drunk person?
 
-[01:05:00]
-  KO: 아 여기 취한 사람이 대체 어딨냐고?
-  FR: Ah, mais où est la personne saoule ici, je vous demande ?
-  EN: Ah, I'm asking, where on earth is the drunk person here?
+[1:04:57]
+  KO: 아 여기 취한 사람이 대체 어딨냐고
+  FR: Ah, mais où est la personne saoule ici, bon sang ?
+  EN: Ah, but where on earth is the drunk person here?
 
-[01:05:02]
-  KO: 진짜 취한걸 못봤구나 너희들
-  FR: Vous n'avez jamais vu quelqu'un de vraiment saoul, vous.
-  EN: You guys haven't seen someone truly drunk.
+[1:05:02]
+  KO: 진짜 취한 걸 못 봤구나 너희들
+  FR: Vous n'avez jamais vu quelqu'un de vraiment ivre, vous.
+  EN: You guys haven't really seen someone drunk.
 
-[01:05:11]
-  KO: 아 그러니까 화장지워야 되는데 어떡하냐
+[1:05:31]
+  KO: 아 그러니까 화장 지어야 되는데 어떡하냐
   FR: Ah, donc je dois me démaquiller, qu'est-ce que je vais faire ?
-  EN: Ah, so I have to remove my makeup, what should I do?
+  EN: Ah, so I have to remove my makeup, what do I do?
 
-[01:05:33]
-  KO: 갈길이 너무 멀어 안되겠다
-  FR: Le chemin est trop long, je ne peux pas faire ça.
-  EN: The road ahead is too long, I can't do it.
+[1:05:33]
+  KO: 갈 길이 너무 멀어
+  FR: Le chemin est encore long.
+  EN: There's still a long way to go.
 
-[01:05:37]
+[1:05:35]
+  KO: 안 되겠다
+  FR: Ça ne va pas le faire.
+  EN: This won't do.
+
+[1:05:38]
   KO: 피네이션 이제
-  FR: P NATION, maintenant...
-  EN: P NATION, now...
-
-[01:05:43]
-  KO: 단비님 죄송해요
-  FR: Danbi-nim, je suis désolée.
-  EN: Danbi-nim, I'm sorry.
+  FR: P Nation, maintenant...
+  EN: P Nation, now...
 
 
-— [01:05:48] ────────────────────────────────────────
+— [1:05:44] ────────────────────────────────────────
 
-[01:05:48]
+
+[1:05:44]
+  KO: 담비님 죄송해요
+  FR: Dambi-nim, je suis désolée.
+  EN: Dambi-nim, I'm sorry.
+
+[1:05:48]
   KO: 내일까지 꼭 보내드릴게요
   FR: Je vous l'enverrai absolument d'ici demain.
   EN: I'll definitely send it to you by tomorrow.
 
-[01:05:51]
+[1:05:52]
   KO: 이 영상을 보실진 모르겠지만
   FR: Je ne sais pas si vous verrez cette vidéo, mais...
   EN: I don't know if you'll see this video, but...
 
-[01:05:57]
+[1:05:55]
   KO: 이곳에 사과를 남깁니다
-  FR: Je laisse mes excuses ici.
-  EN: I leave my apology here.
+  FR: je laisse mes excuses ici.
+  EN: I'm leaving my apology here.
 
-[01:06:02]
-  KO: 미안해요 단비님
-  FR: Je suis désolée, Danbi-nim.
-  EN: I'm sorry, Danbi-nim.
+[1:05:59]
+  KO: 미안해요 담비님
+  FR: Je suis désolée, Dambi-nim.
+  EN: I'm sorry, Dambi-nim.
 
-[01:06:07]
+[1:06:04]
   KO: 오래 기다려주셨는데
-  FR: Vous avez attendu si longtemps.
-  EN: You've waited so long.
+  FR: Vous avez attendu si longtemps...
+  EN: You've waited for so long...
 
-[01:06:09]
-  KO: 나란 사람
-  FR: Une personne comme moi...
-  EN: A person like me...
-
-[01:06:12]
-  KO: 정말 구제불능이네요
+[1:06:10]
+  KO: 나란 사람 정말 구제불능이네요
   FR: Je suis vraiment irrécupérable.
-  EN: I'm truly incorrigible.
+  EN: I'm truly hopeless.
 
-[01:06:14]
+[1:06:14]
   KO: 미안합니다
   FR: Je suis désolée.
-  EN: I'm sorry.
+  EN: I apologize.
 
-[01:06:16]
+[1:06:17]
   KO: 내일까지 보내드릴게요
   FR: Je vous l'enverrai d'ici demain.
   EN: I'll send it to you by tomorrow.
 
-[01:06:19]
+[1:06:27]
   KO: 아 근데 진짜 팬들이 셀렉
   FR: Ah, mais je suis vraiment curieuse de voir les photos que les fans ont sélectionnées.
   EN: Ah, but I'm really curious about the photos the fans selected.
 
-[01:06:30]
-  KO: 해준 사진도 궁금하긴 하다
-  FR: Je suis curieuse de voir les photos que les fans ont sélectionnées.
-  EN: I'm curious about the photos the fans selected.
+[1:06:29]
+  KO: 해 준 사진도 궁금하긴 하다
+  FR: Je suis aussi curieuse des photos que les fans ont sélectionnées.
+  EN: I'm also curious about the photos the fans selected.
 
-[01:06:33]
-  KO: 나는 이렇게 셀렉같은 걸 미루는 이유가 그거거든
-  FR: La raison pour laquelle je repousse toujours la sélection, c'est ça.
-  EN: The reason I always postpone things like selection is this.
+[1:06:33]
+  KO: 나는 이렇게 셀렉 같은 걸 미루는 이유가 그거거든
+  FR: La raison pour laquelle je repousse toujours ce genre de sélection, c'est ça :
+  EN: The reason I keep postponing selections like this is because of this:
 
-[01:06:38]
-  KO: 예를 들어서 똑같은 구조에
-  FR: Par exemple, avec la même structure...
-  EN: For example, with the same composition...
+[1:06:38]
+  KO: 예를 들어서 똑같은 구도에
+  FR: par exemple, avec la même composition,
+  EN: for example, with the same composition,
 
-[01:06:40]
-  KO: 구도에
-  FR: La même composition...
-  EN: The same framing...
-
-[01:06:41]
-  KO: 똑같은 자세와
-  FR: La même posture...
-  EN: The same pose...
-
-[01:06:43]
-  KO: 똑같은 포즈야
-  FR: La même pose.
-  EN: The same posture.
-
-[01:06:45]
-  KO: 근데 눈을 여길 보고 있는거나
-  FR: Mais si je regarde par ici...
-  EN: But whether I'm looking here...
-
-[01:06:47]
-  KO: 아니면 살짝 여길 보고 있는거나
-  FR: Ou si je regarde légèrement par là...
-  EN: Or slightly looking over there...
+[1:06:41]
+  KO: 똑같은 자세와 똑같은 포즈야
+  FR: la même posture et la même pose.
+  EN: the same posture and the same pose.
 
 
-— [01:06:50] ────────────────────────────────────────
+— [1:06:45] ────────────────────────────────────────
 
-[01:06:50]
+[1:06:45]
+  KO: 근데 눈을 여길 보고 있는 거나
+  FR: Mais si je regarde ici,
+  EN: But if I'm looking here,
+
+[1:06:47]
+  KO: 아니면 살짝 여길 보고 있는 거나
+  FR: ou si je regarde légèrement là,
+  EN: or slightly looking there,
+
+[1:06:50]
   KO: 이 두 장을 계속 번갈아가면서
-  FR: Si je continue à alterner entre ces deux photos...
-  EN: If I keep switching between these two photos...
+  FR: en alternant constamment entre ces deux photos,
+  EN: constantly alternating between these two photos,
 
-[01:06:52]
-  KO: 계속 보다보면
-  FR: Si je continue à les regarder...
-  EN: If I keep looking at them...
+[1:06:52]
+  KO: 계속 보다 보면 토할 것 같은 느낌이 있거든
+  FR: à force de les regarder, j'ai l'impression de vomir.
+  EN: if I keep looking at them, I feel like I'm going to throw up.
 
-[01:06:53]
-  KO: 막 토할 것 같은 느낌이 있거든
-  FR: J'ai l'impression que je vais vomir.
-  EN: I get a feeling like I'm going to throw up.
-
-[01:06:55]
+[1:06:54]
   KO: 너무 물려가지고
-  FR: Parce que c'est trop répétitif.
-  EN: Because I get so sick of it.
+  FR: C'est tellement lassant.
+  EN: I get so sick of it.
 
-[01:06:57]
-  KO: 그 뭐라 그래야지
-  FR: Comment dire...
-  EN: How should I put it...
+[1:06:57]
+  KO: 뭐라 그래야지 너무
+  FR: Comment dire, c'est trop...
+  EN: How should I put it, it's too...
 
-[01:06:58]
-  KO: 너무
-  FR: Trop...
-  EN: Too...
-
-[01:06:59]
+[1:06:59]
   KO: 이렇게
-  FR: Comme ça...
-  EN: Like this...
+  FR: comme ça.
+  EN: like this.
 
-[01:07:01]
+[1:07:01]
   KO: 막 이런 느낌이야
-  FR: C'est ce genre de sensation.
-  EN: It's that kind of feeling.
+  FR: C'est un peu ce genre de sensation.
+  EN: It's kind of that feeling.
 
-[01:07:04]
+[1:07:03]
   KO: 그래서 스트레스 받아
-  FR: Donc ça me stresse.
-  EN: So it stresses me out.
+  FR: Alors je suis stressée.
+  EN: So I get stressed.
 
-[01:07:15]
+[1:07:06]
   KO: 맞아 멀미나
-  FR: Oui, j'ai le mal de mer.
-  EN: Yeah, I get motion sickness.
+  FR: C'est vrai, j'ai le mal de mer.
+  EN: That's right, I get motion sickness.
 
-[01:07:17]
+[1:07:16]
   KO: 뭔가 똑같은 사진인데
   FR: C'est comme la même photo, mais...
   EN: It's like the same photo, but...
 
-[01:07:18]
+[1:07:18]
   KO: 살짝 다른 거긴 한데
-  FR: C'est légèrement différent.
-  EN: It's slightly different.
+  FR: c'est légèrement différent.
+  EN: it's slightly different.
 
-[01:07:19]
+[1:07:19]
   KO: 바이브가 살짝 다른 거야
-  FR: L'ambiance est juste un peu différente.
-  EN: The vibe is just a little different.
+  FR: L'ambiance est légèrement différente.
+  EN: The vibe is slightly different.
 
-[01:07:21]
-  KO: 그럼 그거를 계속 보다보면은 막
-  FR: Alors si je continue à regarder ça, je...
-  EN: So if I keep looking at that, I just...
+[1:07:21]
+  KO: 그럼 그거를 계속 보다 보면은 막
+  FR: Alors, si je continue à les regarder, c'est...
+  EN: So, if I keep looking at them, it's like...
 
-
-[01:07:25]
+[1:07:25]
   KO: 그래
   FR: Oui.
   EN: Yeah.
 
-[01:07:26]
+[1:07:40]
   KO: 아 분활로
   FR: Ah, en divisant.
-  EN: Ah, by splitting it.
+  EN: Ah, by splitting.
 
-[01:07:41]
+[1:07:41]
   KO: Go to bed
-  FR: Go to bed.
+  FR: Allez au lit.
   EN: Go to bed.
 
 
-— [01:07:57] ────────────────────────────────────────
+— [1:07:49] ────────────────────────────────────────
 
-
-[01:07:57]
+[1:07:49]
   KO: 진짜
   FR: Vraiment.
-  EN: Seriously.
+  EN: Really.
 
-[01:07:58]
-  KO: 내일은 꼭 셀렉해야지
+[1:07:57]
+  KO: 내일은 꼭 셀렉 해야지
   FR: Demain, je dois absolument faire la sélection.
   EN: Tomorrow, I really have to do the selection.
 
-[01:08:00]
+[1:07:59]
   KO: 오늘은 안 되겠다
-  FR: Aujourd'hui, ça ne va pas être possible.
-  EN: Today, it's not going to happen.
+  FR: Aujourd'hui, ça ne va pas le faire.
+  EN: I can't do it today.
 
-[01:08:02]
+[1:08:01]
   KO: 취해가지고
-  FR: Parce que je suis saoule.
+  FR: Parce que je suis ivre.
   EN: Because I'm drunk.
 
-[01:08:03]
+[1:08:04]
   KO: 아 맥주 안 마시려 그랬는데
   FR: Ah, je ne voulais pas boire de bière.
-  EN: Ah, I wasn't going to drink beer.
+  EN: Ah, I didn't mean to drink beer.
 
-[01:08:05]
-  KO: 멍청이들이 자꾸 마시려 그래가지고 말이야
-  FR: Mais mes petits fous n'arrêtaient pas de vouloir que j'en boive.
-  EN: But my Twits kept wanting me to drink, you know.
+[1:08:06]
+  KO: 멍청이들이 자꾸 마시려 그래가지고
+  FR: Mais mes Twits n'arrêtaient pas d'essayer de me faire boire.
+  EN: But my Twits kept trying to make me drink.
 
-[01:08:08]
+[1:08:08]
+  KO: 말이야
+  FR: Vraiment.
+  EN: Seriously.
+
+[1:08:10]
   KO: 선생님한테 다 말해야지
-  FR: Je vais tout dire à mon entraîneur.
-  EN: I'll tell my trainer everything.
+  FR: Je vais tout raconter à mon entraîneur.
+  EN: I'm going to tell my trainer everything.
 
-[01:08:12]
+[1:08:11]
   KO: 팬들이 자꾸 나한테 술 먹인다고
-  FR: Que les fans me font boire tout le temps.
+  FR: Que les fans n'arrêtent pas de me faire boire.
   EN: That the fans keep making me drink.
 
-[01:08:14]
+[1:08:13]
   KO: 아 진짜
   FR: Ah, vraiment.
   EN: Ah, seriously.
 
-[01:08:26]
-  KO: 내가 어쩔 수 없이 이번엔 좀 넘어갔다면
-  FR: Si cette fois j'ai laissé passer ça, malgré moi...
-  EN: If I let it slide this time, against my will...
+[1:08:25]
+  KO: 내가 어쩔 수 없이 이번엔 좀 넘어갔다만
+  FR: J'ai dû laisser passer cette fois-ci, mais...
+  EN: I had no choice but to let it slide this time, but...
 
-[01:08:29]
-  KO: 앞으로는 나는 용서 못해
-  FR: À l'avenir, je ne pardonnerai pas.
-  EN: From now on, I can't forgive it.
+[1:08:28]
+  KO: 앞으로는 나는 용서 못 해
+  FR: à l'avenir, je ne vous pardonnerai pas.
+  EN: in the future, I won't forgive you.
 
-[01:08:31]
-  KO: 용납 못해 앞으로는
-  FR: Je ne le tolérerai plus.
-  EN: I won't tolerate it anymore.
+[1:08:31]
+  KO: 용납 못 해
+  FR: Je ne peux pas l'accepter.
+  EN: I can't accept it.
 
-[01:08:33]
-  KO: 멍청이들 알았어?
-  FR: Mes petits fous, vous avez compris ?
-  EN: My Twits, got it?
+[1:08:32]
+  KO: 앞으로는
+  FR: À l'avenir.
+  EN: In the future.
 
-[01:08:35]
+[1:08:33]
+  KO: 멍청이들
+  FR: Mes Twits.
+  EN: My Twits.
+
+[1:08:34]
+  KO: 알았어
+  FR: Compris ?
+  EN: Got it?
+
+[1:08:35]
   KO: 앞으로는 나한테 막
   FR: À l'avenir, ne me dites pas...
-  EN: From now on, don't just...
+  EN: From now on, don't just tell me...
 
-[01:08:41]
-  KO: 마셔도 된다 마셔라
-  FR: « Tu peux boire », « Bois ! »
-  EN: “It's okay to drink,” “Drink!”
+[1:08:41]
+  KO: 마셔도 된다
+  FR: « Tu peux boire. »
+  EN: "You can drink."
 
-[01:08:44]
+[1:08:43]
+  KO: 마셔라
+  FR: « Bois. »
+  EN: "Drink."
+
+[1:08:44]
   KO: 이런 식으로 강요하는 건 난 못 참아
-  FR: Je ne peux pas supporter qu'on me force comme ça.
+  FR: Je ne peux pas supporter que vous me forcier comme ça.
   EN: I can't stand being forced like that.
 
-[01:08:47]
+[1:08:48]
   KO: 아무리 팬이어도
   FR: Même si vous êtes mes fans.
   EN: Even if you're my fans.
 
-[01:08:49]
+
+— [1:08:50] ────────────────────────────────────────
+
+[1:08:50]
   KO: You know what I'm saying?
   FR: Vous voyez ce que je veux dire ?
   EN: You know what I'm saying?
 
-[01:08:53]
+[1:08:54]
   KO: 그래 이 배쩡이들
-  FR: Oui, ces fous audacieux.
-  EN: Yeah, these audacious fools.
+  FR: Oui, mes Twits culottés.
+  EN: Yeah, my brazen Twits.
 
-[01:08:57]
+[1:08:57]
   KO: 배쩡
-  FR: Fous audacieux.
-  EN: Audacious fools.
+  FR: Culottés.
+  EN: Brazen.
 
-
-— [01:08:58] ────────────────────────────────────────
-
-[01:08:58]
+[1:09:15]
   KO: 하여튼
-  FR: Bref...
-  EN: Anyway...
+  FR: Quoi qu'il en soit.
+  EN: Anyway.
 
-[01:09:15]
+[1:09:18]
   KO: 뭐랄까
   FR: Comment dire...
   EN: How should I put it...
 
-[01:09:19]
+[1:09:25]
   KO: 멍청이들에게
-  FR: À mes petits fous...
-  EN: To my Twits...
+  FR: À mes Twits,
+  EN: To my Twits,
 
-[01:09:26]
+[1:09:32]
   KO: 좋은 소식을 안겨줄 수 있어서
-  FR: Puisque j'ai pu leur apporter de bonnes nouvelles...
-  EN: Because I could bring them good news...
+  FR: de pouvoir leur apporter de bonnes nouvelles.
+  EN: that I could bring them good news.
 
-[01:09:35]
+[1:09:35]
   KO: 그 무엇보다도 가장 행복하고
   FR: C'est ce qui me rend la plus heureuse, plus que tout.
-  EN: That makes me the happiest, more than anything.
+  EN: That makes me happier than anything.
 
-[01:09:39]
-  KO: 뭔가
-  FR: C'est quelque chose...
-  EN: It's something...
+[1:09:40]
+  KO: 뭔가 진짜로
+  FR: Vraiment, en quelque sorte...
+  EN: It's really something...
 
-[01:09:43]
-  KO: 진짜로
+
+— [1:09:57] ────────────────────────────────────────
+
+[1:09:57]
+  KO: 팬들이 행복해하고 있는 모습을 보잖아
+  FR: Quand je vois mes fans être heureux,
+  EN: When I see my fans happy,
+
+[1:10:02]
+  KO: 그거만큼 그렇게 행복한 게 없어
+  FR: il n'y a rien de plus heureux que ça.
+  EN: there's nothing that makes me happier.
+
+[1:10:05]
+  KO: 정말로
   FR: Vraiment.
   EN: Truly.
 
-[01:09:56]
-  KO: 팬들이
-  FR: Quand les fans...
-  EN: When fans...
-
-[01:09:57]
-  KO: 행복해하고 있는 모습을 보잖아?
-  FR: Quand je vois qu'iels sont heureux, vous savez ?
-  EN: When I see them being happy, you know?
-
-
-— [01:10:00] ────────────────────────────────────────
-
-[01:10:00]
-  KO: 그거만큼 그렇게 행복한 게 없어
-  FR: Il n'y a rien d'aussi heureux que ça.
-  EN: There's nothing as happy as that.
-
-[01:10:05]
-  KO: 정말로
-  FR: Vraiment.
-  EN: Really.
-
-[01:10:06]
+[1:10:06]
   KO: 너무 행복해
   FR: Je suis si heureuse.
   EN: I'm so happy.
 
-[01:10:09]
+[1:10:15]
   KO: 근데 물론
-  FR: Mais bien sûr...
-  EN: But of course...
+  FR: Mais bien sûr,
+  EN: But of course,
 
-[01:10:15]
-  KO: 음
-  FR: Hmm...
-  EN: Um...
-
-[01:10:18]
+[1:10:18]
   KO: 앞으로는
-  FR: À l'avenir...
-  EN: In the future...
+  FR: à l'avenir,
+  EN: in the future,
 
-[01:10:19]
+[1:10:19]
   KO: 또 어떤 고난과 시련들이
-  FR: Quels autres défis et épreuves...
-  EN: What other hardships and trials...
+  FR: je ne sais pas quelles épreuves et difficultés
+  EN: I don't know what hardships and trials
 
-[01:10:24]
+[1:10:24]
   KO: 기다리고 있을지 모르겠지만
-  FR: M'attendent, je ne sais pas.
-  EN: Might be waiting, I don't know.
+  FR: m'attendent, mais...
+  EN: might be waiting for me, but...
 
-[01:10:27]
+[1:10:27]
   KO: 원래 그렇거든
-  FR: C'est comme ça, d'habitude.
-  EN: That's how it usually is.
+  FR: C'est comme ça, tu sais.
+  EN: That's just how it is.
 
-[01:10:29]
+[1:10:30]
   KO: 마냥
-  FR: On ne peut pas...
+  FR: On ne peut pas toujours...
   EN: You can't just...
 
-[01:10:35]
+[1:10:35]
   KO: 사람이 항상 행복할 순 없잖아
-  FR: Une personne ne peut pas être toujours heureuse, n'est-ce pas ?
-  EN: A person can't always be happy, right?
+  FR: Les gens ne peuvent pas être toujours heureux, n'est-ce pas ?
+  EN: People can't always be happy, can they?
 
-[01:10:38]
-  KO: 정말 큰 행복이 없잖아?
-  FR: Il n'y a pas de très grand bonheur, n'est-ce pas ?
-  EN: There's no really great happiness, is there?
+[1:10:38]
+  KO: 정말 큰 행복이 없잖아
+  FR: Il n'y a pas de grand bonheur sans...
+  EN: There's no truly great happiness without...
 
-[01:10:41]
+[1:10:41]
   KO: 거기에 대한 또 대가가 와요
-  FR: Il y a toujours un prix à payer pour ça.
-  EN: There's always a price that comes with it.
+  FR: Il y a toujours un prix à payer pour cela.
+  EN: There's always a price to pay for that.
 
-[01:10:45]
-  KO: 뭔가 행복의 대가가 따르는 느낌이 들 때가 있다?
-  FR: On a parfois l'impression qu'il y a un prix à payer pour le bonheur, vous savez ?
-  EN: There are times when it feels like there's a price that comes with happiness, you know?
+[1:10:45]
+  KO: 뭔가 행복의 대가가 따르는 느낌이 들 때가 있다
+  FR: Il y a des moments où j'ai l'impression qu'il y a un prix à payer pour le bonheur.
+  EN: There are times when I feel like happiness comes with a cost.
 
-[01:10:53]
+[1:10:54]
   KO: 뭔지 알지
-  FR: Vous voyez ce que je veux dire ?
-  EN: You know what I mean, right?
+  FR: Vous savez ce que je veux dire ?
+  EN: You know what I mean?
+
+[1:10:55]
+  KO: 하지만 뭐랄까
+  FR: Mais comment dire...
+  EN: But, how should I put it...
 
 
-— [01:11:03] ────────────────────────────────────────
+— [1:11:07] ────────────────────────────────────────
 
-[01:11:03]
-  KO: 하지만
-  FR: Mais...
-  EN: But...
-
-[01:11:04]
-  KO: 뭐랄까
-  FR: Comment dire...
-  EN: How should I put it...
-
-[01:11:07]
+[1:11:07]
   KO: 지금 감정으론
-  FR: Avec mes émotions actuelles...
-  EN: With my current feelings...
+  FR: Avec mes sentiments actuels,
+  EN: With my current feelings,
 
-[01:11:10]
+[1:11:09]
   KO: 기꺼이
-  FR: Je suis prête.
-  EN: I'm willing.
+  FR: volontiers.
+  EN: willingly.
 
-[01:11:11]
-  KO: 기꺼이라는 마음이야
-  FR: C'est un sentiment de bonne volonté.
-  EN: It's a feeling of willingness.
-
-[01:11:14]
-  KO: 또 내가 이렇게 막 열심히 또
-  FR: Si je travaille encore si dur...
-  EN: If I work this hard again...
-
-[01:11:18]
-  KO: 지지고 벗고 하면서 달려가면서
-  FR: Et que je me bats et que je cours...
-  EN: And struggle and strive...
-
-[01:11:22]
-  KO: 이런
-  FR: Ces...
-  EN: These...
-
-[01:11:26]
-  KO: 좋은
-  FR: Bonnes...
-  EN: Good...
-
-[01:11:29]
-  KO: 감정과
-  FR: Émotions et...
-  EN: Emotions and...
-
-[01:11:30]
-  KO: 기분들을
-  FR: Sentiments...
-  EN: Feelings...
-
-[01:11:32]
-  KO: 팬들에게 또 안겨줄 수 있다면
-  FR: Si je peux les apporter à nouveau à mes fans...
-  EN: If I can bring them to my fans again...
-
-[01:11:35]
-  KO: 기꺼이
-  FR: Volontiers.
-  EN: I'll gladly do it.
-
-
-[01:11:42]
-  KO: 이렇게 아련한데 방 제목이 똥이네
-  FR: C'est si mélancolique, mais le titre de la pièce est « Caca ».
-  EN: It's so sentimental like this, but the room title is "Poop."
-
-[01:11:51]
-  KO: 아 나 정말 진지한 얘기하고 있었는데
-  FR: Ah, j'étais en train de parler sérieusement.
-  EN: Ah, I was having a really serious conversation.
-
-[01:11:54]
-  KO: 방 제목을 왜 또 지금 얘기해
-  FR: Pourquoi reparlez-vous du titre de la pièce maintenant ?
-  EN: Why are you talking about the room title again now?
-
-[01:12:00]
-  KO: 머리에 똥이 있어?
-  FR: Vous avez du caca dans la tête ?
-  EN: Do you have poop in your head?
-
-[01:12:01]
-  KO: 아 그렇네
-  FR: Ah, c'est vrai.
-  EN: Oh, that's right.
-
-[01:12:02]
-  KO: 하여튼
-  FR: Bref...
-  EN: Anyway...
-
-
-— [01:12:06] ────────────────────────────────────────
-
-[01:12:06]
-  KO: 똥꿈 꿔
-  FR: Faites des rêves de caca.
-  EN: Dream a poop dream.
-
-[01:12:10]
-  KO: 똥꿈은 좋은 꿈인 거 알지?
-  FR: Vous savez que les rêves de caca sont de bons rêves, n'est-ce pas ?
-  EN: You know poop dreams are good dreams, right?
-
-[01:12:12]
-  KO: 똥꿈꿔 오늘
-  FR: Faites des rêves de caca aujourd'hui.
-  EN: Dream a poop dream tonight.
-
-[01:12:14]
-  KO: 오늘 저녁은
-  FR: Ce soir...
-  EN: Tonight...
-
-[01:12:16]
-  KO: 오늘 밤은
-  FR: Cette nuit...
-  EN: Tonight...
-
-[01:12:19]
-  KO: 모두들
-  FR: Tout le monde...
-  EN: Everyone...
-
-[01:12:20]
-  KO: 우리 멍청이들
-  FR: Mes petits fous...
-  EN: My Twits...
-
-[01:12:22]
-  KO: 똥꿈 꿔
-  FR: Faites des rêves de caca.
-  EN: Dream a poop dream.
-
-[01:12:23]
-  KO: 똥 먹는 꿈을 꾸고 싶다고?
-  FR: Vous voulez rêver de manger du caca ?
-  EN: You want to dream of eating poop?
-
-[01:12:26]
-  KO: 하여튼 꼭
-  FR: Bref, absolument...
-  EN: Anyway, definitely...
-
-[01:12:41]
-  KO: 똥꿈꿔
-  FR: Faites des rêves de caca.
-  EN: Dream a poop dream.
-
-[01:12:51]
-  KO: 하여튼
-  FR: Bref.
-  EN: Anyway.
-
-[01:12:52]
-  KO: 그래 똥꿈꿔
-  FR: Oui, faites des rêves de caca.
-  EN: Yeah, dream a poop dream.
-
-[01:12:55]
-  KO: 아니야 똥꿈꿔
-  FR: Non, non, faites des rêves de caca.
-  EN: No, no, dream a poop dream.
-
-[01:12:57]
-  KO: 똥
-  FR: Caca.
-  EN: Poop.
-
-[01:12:58]
-  KO: 똥
-  FR: Caca.
-  EN: Poop.
-
-[01:12:59]
-  KO: 졸리다
-  FR: J'ai sommeil.
-  EN: I'm sleepy.
-
-[01:13:05]
-  KO: 이제 저는
-  FR: Maintenant, moi...
-  EN: Now, I...
-
-
-— [01:13:06] ────────────────────────────────────────
-
-[01:13:06]
-  KO: 아니 참 이거 뭐라고
-  FR: Ah, comment dire...
-  EN: Oh, what should I say...
-
-[01:13:09]
-  KO: 이거 마시고 취해버렸어요
-  FR: J'ai bu ça et je suis devenue saoule.
-  EN: I drank this and got drunk.
-
-[01:13:11]
-  KO: 마지막 한 모음하고
-  FR: Après une dernière gorgée...
-  EN: After one last sip...
-
-[01:13:13]
-  KO: 북구빠이 하겠습니다
-  FR: Je vais vous dire « goodbye ».
-  EN: I'll say "goodbye."
-
-[01:13:22]
-  KO: 으흠
-  FR: Hmm.
-  EN: Hmm.
-
-[01:13:23]
-  KO: 고마워
-  FR: Merci.
-  EN: Thank you.
-
-[01:13:26]
-  KO: 알지?
-  FR: Vous savez, n'est-ce pas ?
-  EN: You know, right?
-
-[01:13:28]
-  KO: 긴 얘기는 하지 않을게
-  FR: Je ne ferai pas de longs discours.
-  EN: I won't make it a long talk.
-
-[01:13:30]
-  KO: 나는
-  FR: Moi...
-  EN: I...
-
-[01:13:31]
-  KO: 쿨하게 떠나겠어
-  FR: Je vais partir avec classe.
-  EN: I'll leave coolly.
-
-[01:13:34]
-  KO: 오케이
-  FR: Okay.
-  EN: Okay.
-
-[01:13:40]
-  KO: 유남쌤
-  FR: Younam-ssam.
-  EN: Younam-ssam.
-
-[01:13:41]
-  KO: 정말
-  FR: Vraiment.
-  EN: Really.
-
-[01:13:42]
+[1:11:10]
   KO: 기꺼이
   FR: Volontiers.
   EN: Willingly.
 
-[01:13:52]
+[1:11:12]
+  KO: 기꺼이라는 마음이야
+  FR: C'est un sentiment de « volontiers ».
+  EN: It's a feeling of "willingness."
+
+[1:11:16]
+  KO: 또 내가 이렇게 막 열심히 또
+  FR: Si je peux encore travailler si dur,
+  EN: If I can keep working so hard,
+
+[1:11:19]
+  KO: 지지고 벗고 하면서 달려가면서
+  FR: me battre et courir,
+  EN: struggling and pushing forward,
+
+[1:11:23]
+  KO: 이런
+  FR: et apporter
+  EN: and bring these
+
+[1:11:24]
+  KO: 좋은
+  FR: de bonnes
+  EN: good
+
+[1:11:27]
+  KO: 감정과
+  FR: émotions et
+  EN: emotions and
+
+[1:11:29]
+  KO: 기분들을
+  FR: sentiments
+  EN: feelings
+
+[1:11:32]
+  KO: 팬들에게 또 안겨줄 수 있다면
+  FR: à mes fans,
+  EN: to my fans again,
+
+[1:11:36]
+  KO: 기꺼이
+  FR: alors volontiers.
+  EN: then willingly.
+
+
+[1:11:42]
+  KO: 이렇게 아련한데 방 제목이 똥이네
+  FR: C'est si mélancolique, mais le titre de la pièce est « Caca ».
+  EN: It's so poignant, but the room title is "Poop."
+
+[1:11:45]
+  KO: 아 나 정말 진지한 얘기하고 있었는데
+  FR: Ah, j'étais en train de parler de choses sérieuses.
+  EN: Ah, I was talking about something serious.
+
+[1:11:54]
+  KO: 방제목을 왜 또 지금 얘기해
+  FR: Pourquoi reparlez-vous du titre de la pièce maintenant ?
+  EN: Why are you bringing up the room title again now?
+
+[1:11:56]
+  KO: 머리에 똥이 있어?
+  FR: J'ai du caca dans la tête ?
+  EN: Do I have poop on my head?
+
+[1:12:01]
+  KO: 아 그렇네
+  FR: Ah, c'est vrai.
+  EN: Oh, right.
+
+[1:12:05]
+  KO: 하여튼
+  FR: Quoi qu'il en soit.
+  EN: Anyway.
+
+
+— [1:12:08] ────────────────────────────────────────
+
+[1:12:08]
+  KO: 똥꿈 꿔
+  FR: Faites un rêve de caca.
+  EN: Dream of poop.
+
+[1:12:09]
+  KO: 똥꿈은 좋은 꿈인 거 알지?
+  FR: Vous savez qu'un rêve de caca est un bon rêve, n'est-ce pas ?
+  EN: You know a poop dream is a good dream, right?
+
+[1:12:12]
+  KO: 똥꿈꿔 오늘
+  FR: Faites un rêve de caca aujourd'hui.
+  EN: Dream of poop tonight.
+
+[1:12:13]
+  KO: 오늘 저녁은
+  FR: Ce soir,
+  EN: Tonight,
+
+[1:12:15]
+  KO: 오늘 밤은
+  FR: cette nuit,
+  EN: this night,
+
+[1:12:17]
+  KO: 모두들
+  FR: tout le monde,
+  EN: everyone,
+
+[1:12:19]
+  KO: 우리 멍청이들
+  FR: mes Twits,
+  EN: my Twits,
+
+[1:12:22]
+  KO: 똥꿈꿔
+  FR: faites un rêve de caca.
+  EN: dream of poop.
+
+[1:12:23]
+  KO: 똥먹는 꿈을 꾸고 싶다고?
+  FR: Vous voulez rêver de manger du caca ?
+  EN: You want to dream of eating poop?
+
+[1:12:26]
+  KO: 하여튼 꼭
+  FR: Quoi qu'il en soit, assurez-vous de...
+  EN: Anyway, definitely...
+
+[1:12:42]
+  KO: 똥꿈꿔
+  FR: faites un rêve de caca.
+  EN: dream of poop.
+
+[1:12:43]
+  KO: 하여튼
+  FR: Quoi qu'il en soit.
+  EN: Anyway.
+
+[1:12:52]
+  KO: 그래 똥꿈꿔
+  FR: Oui, faites un rêve de caca.
+  EN: Yes, dream of poop.
+
+[1:12:54]
+  KO: 아니야 똥꿈꿔
+  FR: Non, faites un rêve de caca.
+  EN: No, dream of poop.
+
+[1:12:56]
+  KO: 똥
+  FR: Caca.
+  EN: Poop.
+
+[1:12:57]
+  KO: 똥
+  FR: Caca.
+  EN: Poop.
+
+[1:12:58]
+  KO: 똥
+  FR: Caca.
+  EN: Poop.
+
+[1:13:04]
+  KO: 졸리다
+  FR: J'ai sommeil.
+  EN: I'm sleepy.
+
+[1:13:06]
+  KO: 이제 저는
+  FR: Maintenant, moi...
+  EN: Now, I...
+
+[1:13:07]
+  KO: 아니 참 이거 뭐라고
+  FR: Non, vraiment, comment dire...
+  EN: No, really, what should I say...
+
+
+— [1:13:09] ────────────────────────────────────────
+
+[1:13:09]
+  KO: 이거 마시고 추해버렸어요
+  FR: J'ai bu ça et je suis devenue moche.
+  EN: I drank this and made a fool of myself.
+
+[1:13:11]
+  KO: 마지막 한 모음하고
+  FR: Après la dernière gorgée,
+  EN: After one last sip,
+
+[1:13:13]
+  KO: 후쿠파이 하겠습니다
+  FR: je vais dire « Huku-bye ».
+  EN: I'll say "Huku-bye."
+
+
+[1:13:25]
+  KO: 고마워
+  FR: Merci.
+  EN: Thank you.
+
+[1:13:27]
+  KO: 알지?
+  FR: Vous savez, n'est-ce pas ?
+  EN: You know, right?
+
+[1:13:28]
+  KO: 긴 얘기는 하지 않을게
+  FR: Je ne vais pas faire de longs discours.
+  EN: I won't make a long speech.
+
+[1:13:33]
+  KO: 나는
+  FR: Moi,
+  EN: I,
+
+[1:13:34]
+  KO: 쿨하게 떠나겠어
+  FR: je vais partir avec classe.
+  EN: I'll leave coolly.
+
+[1:13:40]
+  KO: 오케이
+  FR: OK.
+  EN: Okay.
+
+[1:13:41]
+  KO: 유남쌤
+  FR: Yoo Nam-ssam.
+  EN: Yoo Nam-ssam.
+
+[1:13:52]
+  KO: 오늘
+  FR: Aujourd'hui,
+  EN: Today,
+
+[1:13:55]
+  KO: 기꺼이
+  FR: volontiers.
+  EN: willingly.
+
+[1:13:56]
   KO: 안녕
   FR: Au revoir.
-  EN: Bye.
+  EN: Goodbye.
 
-[01:13:55]
+[1:13:57]
   KO: 잘자
   FR: Bonne nuit.
   EN: Good night.
 
-[01:13:57]
+
+— [1:14:11] ────────────────────────────────────────
+
+[1:14:11]
   KO: 똥꿈꿔
-  FR: Faites des rêves de caca.
-  EN: Dream a poop dream.
+  FR: Faites un rêve de caca.
+  EN: Dream of poop.
 
-
-— [01:14:11] ────────────────────────────────────────
-
-[01:14:11]
+[1:14:13]
   KO: 안녕
   FR: Au revoir.
-  EN: Bye.
+  EN: Goodbye.
 
-[01:14:12]
+
+[1:14:32]
+  KO: 어머
+  FR: Oh !
+  EN: Oh!
+
+[1:14:33]
+  KO: 네
+  FR: Oui.
+  EN: Yes.
+
+[1:14:34]
+  KO: 그렇죠
+  FR: C'est ça.
+  EN: That's right.
+
+[1:14:35]
   KO: 마지막
   FR: La dernière.
-  EN: Last one.
+  EN: The last one.
 
-[01:14:13]
-  KO: 마지막 짠
-  FR: Le dernier « Tchin ! »
-  EN: Last cheers!
+[1:14:36]
+  KO: 마지막
+  FR: La dernière.
+  EN: The last one.
 
+[1:14:57]
+  KO: 네
+  FR: Oui.
+  EN: Yes.
 
+[1:14:58]
+  KO: 엄마
+  FR: Maman.
+  EN: Mom.
+
+[1:14:59]
+  KO: 엄마
+  FR: Maman.
+  EN: Mom.
+
+[1:15:00]
+  KO: 엄마
+  FR: Maman.
+  EN: Mom.
