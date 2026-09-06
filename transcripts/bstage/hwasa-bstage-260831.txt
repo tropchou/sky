@@ -2175,444 +2175,443 @@ Uploaded:2026-09-01 (gemini-2.5-pro)
 
 [29:31]
   KO: 그러니까 눈에 담는 중이네
-  FR: [missing]
-  EN: [missing]
+  FR: Donc tu es en train d’en prendre plein les yeux
+  EN: So you're taking it all in your eyes
 
 [29:32]
   KO: 아마 나도 그런 모습일 거 같아
-  FR: [missing]
-  EN: [missing]
+  FR: Je crois que moi aussi, j’aurais l’air comme ça
+  EN: I think I look like that too
 
 [29:34]
   KO: 나도
-  FR: [missing]
-  EN: [missing]
+  FR: Moi aussi
+  EN: Me too
 
 [29:35]
   KO: 리안나 비욘서를 보면
-  FR: [missing]
-  EN: [missing]
+  FR: Quand je regarde Rihanna et Beyoncé
+  EN: Looking at Rihanna Beyoncé
 
 [29:38]
   KO: 똑같은 모습일 거 같아
-  FR: [missing]
-  EN: [missing]
+  FR: Je crois que j’aurais exactement la même tête
+  EN: I think it looks the same
 
 [29:43]
   KO: 아니야 고장나죠
-  FR: [missing]
-  EN: [missing]
+  FR: Non, ça se dérègle
+  EN: No, it's broken
 
 [29:47]
   KO: 그 모습 너무 귀여운 거 같아 고장난 모습
-  FR: [missing]
-  EN: [missing]
+  FR: Je trouve ça trop mignon, cette tête-là, quand tu bugues
+  EN: I think that look is so cute — that “broken/bugging out” look
 
 [29:50]
   KO: 그런가?
-  FR: [missing]
-  EN: [missing]
+  FR: Ah bon ?
+  EN: Really?
 
 [29:59]
   KO: 폰으로도 담고 싶어?
-  FR: [missing]
-  EN: [missing]
+  FR: Tu veux aussi l’immortaliser avec ton téléphone ?
+  EN: Do you want to capture it on your phone too?
 
 [30:01]
   KO: 하긴 나중에 이렇게
-  FR: [missing]
-  EN: [missing]
+  FR: C’est vrai, plus tard, comme ça…
+  EN: True, later, like this…
 
 [30:06]
   KO: 아 그럼 이렇게 해야겠다
-  FR: [missing]
-  EN: [missing]
+  FR: Ah, alors je devrais faire comme ça
+  EN: Ah, then I should do it like this
 
 [30:13]
   KO: 이렇게
-  FR: [missing]
-  EN: [missing]
+  FR: Comme ça
+  EN: Like this
 
 [30:16]
   KO: 폰으로 찍으면서 이렇게 눈으로 다 담아야겠다
-  FR: [missing]
-  EN: [missing]
+  FR: Je devrais filmer avec mon téléphone tout en en profitant aussi pleinement avec mes yeux
+  EN: I should record it with my phone while also taking it all in with my eyes
 
 [30:19]
   KO: 이렇게
-  FR: [missing]
-  EN: [missing]
+  FR: Comme ça
+  EN: Like this
 
 [30:20]
   KO: 그치?
-  FR: [missing]
-  EN: [missing]
+  FR: Hein, c’est ça ?
+  EN: Right?
 
 [30:21]
   KO: 그래서 어떤 팬들이 가끔씩
-  FR: [missing]
-  EN: [missing]
+  FR: C’est pour ça que parfois, certains fans…
+  EN: That’s why sometimes some fans…
 
 [30:27]
   KO: 막
-  FR: [missing]
-  EN: [missing]
-
+  FR: genre…
+  EN: like…
 
 [30:30]
   KO: 막 나를 이렇게 찍고 있었는데
-  FR: [missing]
-  EN: [missing]
+  FR: ils étaient là à me filmer comme ça,
+  EN: they were filming me like this,
 
 [30:31]
   KO: 자기를 찍고 있더라고
-  FR: [missing]
-  EN: [missing]
+  FR: mais en fait, ils se filmaient eux-mêmes
+  EN: but actually, they were filming themselves
 
 
 — [30:33] ────────────────────────────────────────
 
 [30:33]
   KO: 그래서
-  FR: [missing]
-  EN: [missing]
+  FR: Du coup,
+  EN: So,
 
 [30:34]
   KO: 내가 이렇게 막 알려줬어
-  FR: [missing]
-  EN: [missing]
+  FR: j’ai essayé de leur montrer comme ça
+  EN: I tried to show/tell them like this
 
 [30:38]
   KO: 어 이거 카메라
-  FR: [missing]
-  EN: [missing]
+  FR: Euh, la caméra, là…
+  EN: Uh, the camera, here…
 
 [30:40]
   KO: 그러면은
-  FR: [missing]
-  EN: [missing]
+  FR: Mais du coup,
+  EN: But then,
 
 [30:42]
   KO: 못 알아들으셔
-  FR: [missing]
-  EN: [missing]
+  FR: ils ne comprenaient pas
+  EN: they didn’t understand
 
 [30:44]
   KO: 계속 그렇게
-  FR: [missing]
-  EN: [missing]
+  FR: et ils continuaient comme ça,
+  EN: and they kept doing that,
 
 [30:45]
   KO: 계속 나를 막 찍어
-  FR: [missing]
-  EN: [missing]
+  FR: à continuer de me filmer frénétiquement
+  EN: to keep filming me
 
 [30:47]
   KO: 당신이 찍히고 있는데
-  FR: [missing]
-  EN: [missing]
+  FR: alors que c’est vous qui êtes filmé
+  EN: when actually you’re the one being filmed
 
 [30:49]
   KO: 어떡하지?
-  FR: [missing]
-  EN: [missing]
+  FR: Qu’est-ce que je fais ?
+  EN: What should I do?
 
 [30:50]
   KO: 그러다가 이제 시간이 없으니까 난 지나치는데
-  FR: [missing]
-  EN: [missing]
+  FR: Et puis comme je n’ai pas le temps, je finis par passer
+  EN: And then, since I don’t have time, I end up moving on / passing by
 
 [30:53]
   KO: 그러니까 한 분은 그래서 이제 하다가
-  FR: [missing]
-  EN: [missing]
+  FR: Du coup, il y a même une personne qui, en faisant ça…
+  EN: So there was even one person who, while doing that…
 
 [30:57]
   KO: 그래서 이제 자기 핸드폰을 원망하는 팬도 봤어
-  FR: [missing]
-  EN: [missing]
+  FR: J’ai même vu un fan en vouloir à son propre téléphone
+  EN: I even saw a fan blaming their own phone
 
 [31:01]
   KO: 욕도 하더라고
-  FR: [missing]
-  EN: [missing]
+  FR: Il l’insultait même
+  EN: They were even cursing at it
 
 [31:04]
   KO: 그러니까 놀라면 카메라를 내려?
-  FR: [missing]
-  EN: [missing]
+  FR: Donc quand on est surpris, on baisse la caméra ?
+  EN: So when you’re startled, you lower the camera?
 
 [31:27]
   KO: 그것도 그래
-  FR: [missing]
-  EN: [missing]
+  FR: C’est vrai aussi
+  EN: That too / That’s true too
 
 [31:28]
   KO: 너무 행복해서 까먹을 때도 있어
-  FR: [missing]
-  EN: [missing]
+  FR: Parfois, on est tellement heureux qu’on oublie
+  EN: Sometimes you’re so happy that you forget
 
 [31:31]
   KO: 그걸 폰으로 담아야 또 기억이 나고
-  FR: [missing]
-  EN: [missing]
+  FR: Et puis il faut aussi le capturer avec son téléphone pour s’en souvenir après
+  EN: And you also need to capture it on your phone so you can remember it later
 
 
 — [31:34] ────────────────────────────────────────
 
 [31:34]
   KO: 또 이렇게 보면서 돌려보면서 아리도 하고
-  FR: [missing]
-  EN: [missing]
+  FR: Et puis en regardant comme ça, en le repassant, on se dit aussi : « Ah »
+  EN: And then, while watching it like this, replaying it, you also go, “Ah”
 
 [31:38]
   KO: 그래 맞아
-  FR: [missing]
-  EN: [missing]
+  FR: Oui, c’est vrai
+  EN: Yes, that’s right
 
 [31:42]
   KO: 그러네
-  FR: [missing]
-  EN: [missing]
+  FR: C’est vrai
+  EN: It is / That’s true
 
 [31:46]
   KO: 항상 잘 관찰하고 있었지
-  FR: [missing]
-  EN: [missing]
+  FR: Tu observais toujours bien
+  EN: You were always observing well
 
 [31:50]
   KO: 얼마나 웃긴지 몰라
-  FR: [missing]
-  EN: [missing]
+  FR: Tu ne sais pas à quel point c’est drôle
+  EN: You don’t know how funny it is
 
 [31:53]
   KO: 오디세이처럼 내 연인 올 배우자가
-  FR: [missing]
-  EN: [missing]
+  FR: Comme dans l’Odyssée, si mon amoureux ou futur époux / épouse
+  EN: Like in the Odyssey, if my lover or future spouse
 
 [31:59]
   KO: 7년 동안 다른 사람이랑 살았다 생각하면 어때?
-  FR: [missing]
-  EN: [missing]
+  FR: qu’on pense qu’il / elle a vécu avec quelqu’un d’autre pendant 7 ans, qu’est-ce que ça ferait ?
+  EN: what would it feel like to think that he / she lived with someone else for 7 years?
 
 [32:02]
   KO: 왜 7년 동안 뭐 하느라고?
-  FR: [missing]
-  EN: [missing]
+  FR: Pourquoi, pendant 7 ans, à faire quoi ?
+  EN: Why, for 7 years, doing what?
 
 [32:07]
   KO: 오디세이에서는
-  FR: [missing]
-  EN: [missing]
+  FR: Dans l’Odyssée,
+  EN: In the Odyssey,
 
 [32:13]
   KO: 집에 이제 잊어버려서 못 와서
-  FR: [missing]
-  EN: [missing]
+  FR: il ne pouvait pas rentrer à la maison parce qu’il l’avait oubliée
+  EN: he couldn’t come home because he had forgotten it / forgotten home
 
 [32:19]
   KO: 아 기억상실에 걸린 거야?
-  FR: [missing]
-  EN: [missing]
+  FR: Ah, il a eu une perte de mémoire ?
+  EN: Ah, did he get amnesia?
 
 [32:20]
   KO: 아 그러면은
-  FR: [missing]
-  EN: [missing]
+  FR: Ah, alors
+  EN: Ah, then
 
 [32:22]
   KO: 난 용서할 수 있을 것 같은데
-  FR: [missing]
-  EN: [missing]
+  FR: je crois que je pourrais pardonner
+  EN: I think I could forgive that
 
 [32:27]
   KO: 연꽃 먹어서 기억 잃었어?
-  FR: [missing]
-  EN: [missing]
+  FR: Il a perdu la mémoire parce qu’il a mangé le lotus ?
+  EN: Did he lose his memory because he ate the lotus?
 
 [32:29]
   KO: 난 용서하지
-  FR: [missing]
-  EN: [missing]
+  FR: Moi, je pardonnerais
+  EN: I would forgive
 
 [32:34]
   KO: 근데 나랑은 결혼을 1년 했는데?
-  FR: [missing]
-  EN: [missing]
+  FR: Mais avec moi, on n’a été mariés qu’un an ?
+  EN: But with me, we were only married for one year?
 
 
 — [32:41] ────────────────────────────────────────
 
 [32:41]
   KO: 근데 만약에 그 오디세우스가
-  FR: [missing]
-  EN: [missing]
+  FR: Mais si cet Ulysse-là
+  EN: But if that Odysseus
 
 [32:45]
   KO: 지금 나만의 오디세우스가
-  FR: [missing]
-  EN: [missing]
+  FR: si mon propre Ulysse, là, maintenant,
+  EN: if my own Odysseus right now
 
 [32:49]
   KO: 나랑은 1년 살았고 다른 사람이랑 7년?
-  FR: [missing]
-  EN: [missing]
+  FR: a vécu 1 an avec moi et 7 ans avec quelqu’un d’autre ?
+  EN: lived 1 year with me and 7 years with someone else?
 
 [32:51]
   KO: 어떻게 해야 돼?
-  FR: [missing]
-  EN: [missing]
+  FR: qu’est-ce que je dois faire ?
+  EN: what should I do?
 
 [32:56]
   KO: 좀 애매한데?
-  FR: [missing]
-  EN: [missing]
+  FR: C’est un peu ambigu, non ?
+  EN: That’s a bit ambiguous, isn’t it?
 
 [33:00]
   KO: 근데 그 오디세우스가
-  FR: [missing]
-  EN: [missing]
+  FR: Mais cet Ulysse-là
+  EN: But that Odysseus
 
 [33:03]
   KO: 기억을 되찾자마자
-  FR: [missing]
-  EN: [missing]
+  FR: Dès qu’il a retrouvé la mémoire
+  EN: As soon as he got his memory back
 
 [33:06]
   KO: 울면서 나를 바로 찾으러 왔어
-  FR: [missing]
-  EN: [missing]
+  FR: il est venu tout de suite me chercher en pleurant
+  EN: he came to find me right away, crying
 
 [33:09]
   KO: 그러면 근데 나도 다른 사람이랑 살 수도 있잖아
-  FR: [missing]
-  EN: [missing]
+  FR: Mais alors, moi aussi, je pourrais vivre avec quelqu’un d’autre, non ?
+  EN: But then I could also be living with someone else, right?
 
 [33:18]
   KO: 어떻게?
-  FR: [missing]
-  EN: [missing]
+  FR: Comment ?
+  EN: How?
 
 [33:19]
   KO: 1년 만났는데
-  FR: [missing]
-  EN: [missing]
+  FR: On s’est vus / on est sortis ensemble pendant 1 an
+  EN: We dated for 1 year
 
 [33:28]
   KO: 갑자기 7년 동안 잠수를 타
-  FR: [missing]
-  EN: [missing]
+  FR: et puis tout à coup il disparaît pendant 7 ans
+  EN: and then all of a sudden he disappears for 7 years
 
 [33:30]
   KO: 어떻게 받아들여야 돼?
-  FR: [missing]
-  EN: [missing]
+  FR: Comment je suis censée accepter ça ?
+  EN: How am I supposed to accept that?
 
 [33:35]
   KO: 난 아무것도 모르잖아
-  FR: [missing]
-  EN: [missing]
+  FR: Moi, je ne sais rien
+  EN: I don’t know anything
 
 [33:36]
   KO: 하여튼 심지어 시대 배경이 지금 아니야?
-  FR: [missing]
-  EN: [missing]
+  FR: Bref, en plus, le cadre temporel, ce n’est pas maintenant ?
+  EN: Anyway, besides, isn’t the time setting the present?
 
 [33:40]
   KO: 2016년 아니야?
-  FR: [missing]
-  EN: [missing]
+  FR: Ce n’est pas 2016 ?
+  EN: Isn’t it 2016?
 
 
 — [33:42] ────────────────────────────────────────
 
 [33:42]
   KO: 본인 사기죄야?
-  FR: [missing]
-  EN: [missing]
+  FR: Toi-même, c’est de l’escroquerie ?
+  EN: You yourself, is that fraud?
 
 [33:48]
   KO: 그럴 때 다시 만나줘?
-  FR: [missing]
-  EN: [missing]
+  FR: Dans ce cas-là, tu te remets avec lui ?
+  EN: In that case, would you get back together with him?
 
 [33:56]
   KO: 그니까 내가 그 사람을 얼마나 사랑하는지를 일단
-  FR: [missing]
-  EN: [missing]
+  FR: Donc, d’abord, à quel point j’aime cette personne,
+  EN: So first, how much I love that person,
 
 [33:59]
   KO: 2026년인데 핸드폰이 다 없어졌어?
-  FR: [missing]
-  EN: [missing]
+  FR: On est en 2026 et tous les téléphones ont disparu ?
+  EN: It’s 2026 and all the phones disappeared?
 
 [34:08]
   KO: 머리 아파
-  FR: [missing]
-  EN: [missing]
+  FR: J’ai mal à la tête
+  EN: My head hurts
 
 [34:16]
   KO: 2026년인데 폰이 안 돼
-  FR: [missing]
-  EN: [missing]
+  FR: On est en 2026 et le téléphone ne marche pas
+  EN: It’s 2026 and the phone doesn’t work
 
 [34:21]
   KO: 우리 폰 없이 어떻게 살았어 그때?
-  FR: [missing]
-  EN: [missing]
+  FR: Comment est-ce qu’on vivait sans téléphone à cette époque ?
+  EN: How did we live without phones back then?
 
 [34:24]
   KO: 우리?
-  FR: [missing]
-  EN: [missing]
+  FR: Nous ?
+  EN: We?
 
 [34:25]
   KO: 대박인 것 같아
-  FR: [missing]
-  EN: [missing]
+  FR: Je crois que c’est incroyable
+  EN: I think that’s amazing / wild
 
 [34:27]
   KO: 오디세우스도 전쟁 상황이었잖아
-  FR: [missing]
-  EN: [missing]
+  FR: Ulysse aussi était dans une situation de guerre, non ?
+  EN: Odysseus was in a war situation too, right?
 
 [34:30]
   KO: 그래 맞아 전쟁 상황이었지
-  FR: [missing]
-  EN: [missing]
+  FR: Oui, c’est vrai, c’était une situation de guerre
+  EN: Yes, that’s right, it was a war situation
 
 [34:32]
   KO: 아 그래
-  FR: [missing]
-  EN: [missing]
+  FR: Ah oui
+  EN: Ah right
 
 [34:34]
   KO: 전쟁 때문에 나간 거야
-  FR: [missing]
-  EN: [missing]
+  FR: Il est parti à cause de la guerre
+  EN: He left because of the war
 
 [34:40]
   KO: 근데 7년 동안 연락이 없었어
-  FR: [missing]
-  EN: [missing]
+  FR: Mais pendant 7 ans, il n’y a eu aucun contact
+  EN: But for 7 years, there was no contact
 
 
 — [34:43] ────────────────────────────────────────
 
 [34:43]
   KO: 그럼 기다릴 것 같아
-  FR: [missing]
-  EN: [missing]
+  FR: Alors, je pense que j’attendrais
+  EN: Then I think I would wait
 
 [34:46]
   KO: 전쟁 때문이면 기다릴 것 같아
-  FR: [missing]
-  EN: [missing]
+  FR: Si c’est à cause de la guerre, je pense que j’attendrais
+  EN: If it’s because of the war, I think I would wait
 
 [34:54]
   KO: 그냥 나도 같이 참전을 할게
-  FR: [missing]
-  EN: [missing]
+  FR: Alors moi aussi, je vais simplement partir à la guerre avec lui
+  EN: Then I’ll just go to war too
 
 [35:01]
   KO: 남편이랑
