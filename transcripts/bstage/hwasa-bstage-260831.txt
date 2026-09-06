@@ -2097,82 +2097,81 @@ Uploaded:2026-09-01 (gemini-2.5-pro)
 
 [28:33]
   KO: 아 그래서 이제 나중에
-  FR: [missing]
-  EN: [missing]
+  FR: Ah, alors maintenant, plus tard
+  EN: Ah, so now later
 
 [28:35]
   KO: 내가 이제
-  FR: [missing]
-  EN: [missing]
+  FR: Maintenant je
+  EN: Now I
 
 [28:37]
   KO: 인사하면서 이렇게 아 했는데
-  FR: [missing]
-  EN: [missing]
+  FR: En me saluant, j'ai dit « Ah » comme ça.
+  EN: When greeting, I said 'Ah' like this.
 
 [28:39]
   KO: 이제 거기서 멀리서
-  FR: [missing]
-  EN: [missing]
+  FR: Maintenant, de loin de là,
+  EN: Now, from far away from there
 
 [28:41]
   KO: 이러고 있어
-  FR: [missing]
-  EN: [missing]
+  FR: Ça se passe
+  EN: This is happening
 
 [28:42]
   KO: 아 내 팬이
-  FR: [missing]
-  EN: [missing]
+  FR: Ah, mon fan
+  EN: Ah, my fan
 
 [28:50]
   KO: 아니 팬이 맞긴 한 거 같은데
-  FR: [missing]
-  EN: [missing]
+  FR: Non, je pense que je suis vraiment fan.
+  EN: Ah, I think I really am a fan
 
 [28:53]
   KO: 심지어 내 얼굴이 그려져 있는 티를 또 입고 있긴 해
-  FR: [missing]
-  EN: [missing]
+  FR: Je porte même encore un T-shirt avec mon visage dessus
+  EN: I'm even wearing a T-shirt with my face on it again
 
 [29:04]
   KO: 난리치면 창피할 거
-  FR: [missing]
-  EN: [missing]
+  FR: Si tu fais tout un plat, ce sera embarrassant.
+  EN: If you make a fuss, it'll be embarrassing.
 
 [29:07]
   KO: 아니야 근데 오히려 난리치면 귀여워
-  FR: [missing]
-  EN: [missing]
+  FR: Non, mais en fait, quand on devient folle, c'est mignon.
+  EN: No, but actually, when you go wild, it's cute.
 
 [29:11]
   KO: 그냥 뭐 아 그래 그래 하는데
-  FR: [missing]
-  EN: [missing]
+  FR: Je dis juste : « Oh, oui, oui, oui »
+  EN: I just say, 'Oh, yeah, yeah, yeah'
 
 [29:14]
   KO: 그 진짜
-  FR: [missing]
-  EN: [missing]
+  FR: C'est vrai
+  EN: That really
 
 [29:17]
   KO: 그냥 이러고 있는
-  FR: [missing]
-  EN: [missing]
+  FR: Je fais juste ça
+  EN: Just doing this
 
 [29:19]
   KO: 팬들이
-  FR: [missing]
-  EN: [missing]
+  FR: Fans
+  EN: Fans
 
 [29:20]
   KO: 아주 종종 많이 많이 있어
-  FR: [missing]
-  EN: [missing]
+  FR: Très, souvent, très nombreux
+  EN: Very, often, very many
 
 
 — [29:31] ────────────────────────────────────────
-
 
 [29:31]
   KO: 그러니까 눈에 담는 중이네
