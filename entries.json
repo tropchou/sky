@@ -1,0 +1,62 @@
+{
+  "_help": "Edit this file by hand. Eras appear on the site in the order listed here. Inside an era, entries are sorted by date automatically, so their order here doesn't matter. date = YYMMDD. slug = the optional extra part of the file names (must match the files exactly, including capitals). title = the description shown on the site (free text, can be left empty). See README.md for details.",
+
+  "eras": [
+    {
+      "key": "socute",
+      "label": "So Cute",
+      "entries": [
+        { "date": "260514", "slug": "davichi",          "title": "Davichi" },
+        { "date": "260418", "slug": "mintboxFancam",    "title": "Mintbox Fancam" },
+        { "date": "260415", "slug": "wendyyoungstreet", "title": "Wendy Young Street" },
+        { "date": "260414", "slug": "MBCRadio",         "title": "MBC Radio" },
+        { "date": "260412", "slug": "mintboxFansign",   "title": "Mintbox Fansign" },
+        { "date": "260409", "slug": "jaypark",          "title": "Jay Park" }
+      ]
+    },
+    {
+      "key": "ggb",
+      "label": "Good Goodbye",
+      "entries": [
+        { "date": "260110", "slug": "SGmintboxFancam", "title": "SG Mintbox Fancam" },
+        { "date": "251023", "slug": "kiss-the-radio",  "title": "Kiss the Radio" },
+        { "date": "251017", "slug": "MBCradio",        "title": "MBC Radio" }
+      ]
+    },
+    {
+      "key": "bstage",
+      "label": "B-Stage",
+      "entries": [
+        { "date": "261003", "title": "" },
+        { "date": "260920", "title": "" },
+        { "date": "260831", "title": "" },
+        { "date": "260829", "title": "" },
+        { "date": "260723", "title": "" },
+        { "date": "260612", "title": "" },
+        { "date": "260521", "title": "" },
+        { "date": "260428", "title": "" },
+        { "date": "260426", "title": "" },
+        { "date": "260412", "title": "" },
+        { "date": "260311", "title": "" },
+        { "date": "260302", "title": "" },
+        { "date": "260225", "title": "" },
+        { "date": "260125", "title": "" },
+        { "date": "260110", "title": "" },
+        { "date": "260101", "title": "" },
+        { "date": "251221", "title": "" },
+        { "date": "251125", "title": "" },
+        { "date": "251117", "title": "" },
+        { "date": "251111", "title": "" }
+      ]
+    },
+    {
+      "key": "mmm",
+      "label": "Mamamoo",
+      "entries": [
+        { "date": "260607", "slug": "CafeteriaLive",     "title": "Cafeteria Live" },
+        { "date": "260606", "slug": "MiniFanmeeting",    "title": "Mini Fanmeeting" },
+        { "date": "260605", "slug": "comebackCountdown", "title": "Comeback Countdown" }
+      ]
+    }
+  ]
+}
