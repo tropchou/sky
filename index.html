@@ -1,0 +1,1345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hwasa Transcripts</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap"
+    rel="stylesheet">
+  <style>
+    /* ── Reset & Base ─────────────────────────────── */
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: #fafafa;
+      color: #1a1a1a;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: #1a1a1a; text-decoration: none; }
+    a:hover { color: #555; }
+
+    /* Thumbnail size in the list (3:4 portrait). Change these two numbers to resize. */
+    :root {
+      --thumb-w: 112px;
+      --thumb-h: 150px;
+    }
+    @media (max-width: 640px) {
+      :root {
+        --thumb-w: 72px;
+        --thumb-h: 96px;
+      }
+    }
+
+    .wrap {
+      max-width: 900px;
+      margin: 0 auto;
+      padding-left: 24px;
+      padding-right: 24px;
+    }
+
+    /* ── Header ───────────────────────────────────── */
+    .site-header {
+      padding-top: 60px;
+      padding-bottom: 20px;
+    }
+    .site-header h1 {
+      font-family: 'Source Serif 4', serif;
+      font-weight: 700;
+      font-size: 2.4rem;
+      letter-spacing: -0.02em;
+      margin-bottom: 6px;
+    }
+    .site-header .subtitle {
+      font-size: 0.95rem;
+      color: #777;
+    }
+
+    /* ── Controls (search + filters) ──────────────── */
+    .controls {
+      padding-top: 18px;
+      padding-bottom: 16px;
+      border-top: 1px solid #e0e0e0;
+      border-bottom: 1px solid #e0e0e0;
+    }
+    .search-box { position: relative; }
+    .search-box svg {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 16px;
+      height: 16px;
+      color: #999;
+      pointer-events: none;
+    }
+    .search-box input {
+      width: 100%;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.95rem;
+      padding: 10px 40px 10px 36px;
+      border: 1px solid #ccc;
+      border-radius: 2px;
+      background: #fff;
+      color: #1a1a1a;
+      -webkit-appearance: none;
+      appearance: none;
+      transition: border-color 0.15s;
+    }
+    .search-box input::-webkit-search-cancel-button { display: none; }
+    .search-box input:hover,
+    .search-box input:focus { outline: none; border-color: #1a1a1a; }
+    .search-clear {
+      position: absolute;
+      right: 4px;
+      top: 50%;
+      transform: translateY(-50%);
+      border: none;
+      background: none;
+      font-size: 1.3rem;
+      line-height: 1;
+      color: #999;
+      cursor: pointer;
+      padding: 6px 10px;
+      display: none;
+    }
+    .search-clear:hover { color: #1a1a1a; }
+    .search-clear.visible { display: block; }
+
+    .filters {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 12px;
+    }
+    .filters select {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.82rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      padding: 8px 14px;
+      border: 1px solid #ccc;
+      border-radius: 2px;
+      background: #fff;
+      color: #1a1a1a;
+      cursor: pointer;
+      transition: border-color 0.15s;
+    }
+    .filters select:hover,
+    .filters select:focus { outline: none; border-color: #1a1a1a; }
+
+    .lang-chips {
+      display: none;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-top: 12px;
+    }
+    .lang-chips.visible { display: flex; }
+    .lang-label {
+      font-size: 0.72rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #999;
+      margin-right: 4px;
+    }
+    .lang-chips button {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.78rem;
+      font-weight: 500;
+      padding: 5px 13px;
+      border: 1px solid #ccc;
+      border-radius: 999px;
+      background: #fff;
+      color: #555;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s, border-color 0.15s;
+    }
+    .lang-chips button:hover { border-color: #1a1a1a; color: #1a1a1a; }
+    .lang-chips button[aria-pressed="true"] {
+      background: #1a1a1a;
+      border-color: #1a1a1a;
+      color: #fff;
+    }
+
+    /* ── Notices ──────────────────────────────────── */
+    .notice {
+      margin-top: 20px;
+      padding: 12px 16px;
+      border: 1px solid #e8d48a;
+      background: #fffbea;
+      color: #6b5a10;
+      font-size: 0.86rem;
+      border-radius: 2px;
+    }
+    .notice[hidden] { display: none; }
+    .notice strong { font-weight: 700; }
+    .notice ul { margin: 6px 0 0 18px; }
+    .notice.error {
+      border-color: #e5b4b4;
+      background: #fdf2f2;
+      color: #8a2222;
+    }
+
+    /* ── Main ─────────────────────────────────────── */
+    main { padding-bottom: 80px; }
+    .status {
+      margin-top: 32px;
+      color: #777;
+      font-size: 0.92rem;
+    }
+
+    /* ── Era sections ─────────────────────────────── */
+    .era-section { margin-top: 44px; }
+    .era-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 12px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #e0e0e0;
+    }
+    .era-head h2 {
+      font-family: 'Source Serif 4', serif;
+      font-weight: 600;
+      font-size: 1.6rem;
+      letter-spacing: -0.01em;
+    }
+    .era-count {
+      font-size: 0.82rem;
+      color: #999;
+      white-space: nowrap;
+    }
+
+    /* ── Entry rows (compact list) ────────────────── */
+    .entry-row {
+      display: grid;
+      grid-template-columns: var(--thumb-w) minmax(0, 1fr);
+      gap: 20px;
+      align-items: start;
+      padding: 14px 0;
+      border-bottom: 1px solid #ececec;
+    }
+    .thumb {
+      width: var(--thumb-w);
+      height: var(--thumb-h);    /* 3:4 portrait */
+      background: #ededed;
+      border-radius: 2px;
+      overflow: hidden;
+      flex-shrink: 0;
+    }
+    .thumb img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center top;
+      display: block;
+    }
+    .row-body { padding-top: 2px; }
+    .row-date {
+      font-size: 0.72rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #999;
+      line-height: 1.5;
+    }
+    .row-title {
+      font-family: 'Source Serif 4', serif;
+      font-size: 1.05rem;
+      font-weight: 600;
+      line-height: 1.35;
+      min-height: 1.35em;        /* keeps blank titles the same height */
+      color: #1a1a1a;
+    }
+    .row-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 6px;
+    }
+    .row-links a {
+      font-size: 0.78rem;
+      font-weight: 500;
+      line-height: 1.4;
+      padding: 4px 11px;
+      border: 1px solid #ccc;
+      border-radius: 2px;
+      background: #fff;
+      white-space: nowrap;
+      transition: background 0.15s, border-color 0.15s, color 0.15s;
+    }
+    .row-links a.primary { border-color: #1a1a1a; }
+    .row-links a:hover {
+      background: #1a1a1a;
+      border-color: #1a1a1a;
+      color: #fff;
+    }
+    .row-links .muted {
+      font-size: 0.78rem;
+      line-height: 1.4;
+      color: #bbb;
+      padding: 5px 0;
+    }
+
+    .more-btn {
+      display: block;
+      margin: 18px auto 0;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.8rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      padding: 8px 18px;
+      border: 1px solid #ccc;
+      border-radius: 2px;
+      background: #fff;
+      color: #1a1a1a;
+      cursor: pointer;
+      transition: border-color 0.15s;
+    }
+    .more-btn:hover { border-color: #1a1a1a; }
+
+    /* ── Search results ───────────────────────────── */
+    .search-summary {
+      margin-top: 28px;
+      font-size: 0.88rem;
+      color: #777;
+    }
+    .result-group {
+      background: #fff;
+      border: 1px solid #e8e8e8;
+      border-radius: 3px;
+      padding: 14px 18px 10px;
+      margin-top: 16px;
+    }
+    .result-head {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #efefef;
+    }
+    .result-head .thumb { width: 30px; height: 40px; }
+    .result-head-body { flex: 1; min-width: 0; }
+    .result-head .row-title { min-height: 0; }
+    .result-count {
+      font-size: 0.78rem;
+      color: #999;
+      white-space: nowrap;
+    }
+    .hit {
+      display: grid;
+      grid-template-columns: 64px minmax(0, 1fr) auto;
+      gap: 4px 12px;
+      padding: 12px 0;
+      border-bottom: 1px solid #f2f2f2;
+    }
+    .hit:last-child { border-bottom: none; }
+    .hit-ts {
+      font-size: 0.8rem;
+      color: #999;
+      font-variant-numeric: tabular-nums;
+      padding-top: 3px;
+    }
+    .hit-ts:hover { color: #1a1a1a; }
+    .hit-ko {
+      font-family: 'Source Serif 4', serif;
+      font-size: 1.02rem;
+      line-height: 1.55;
+      color: #1a1a1a;
+    }
+    .hit-tr {
+      font-size: 0.86rem;
+      line-height: 1.5;
+      color: #666;
+    }
+    .hit-open {
+      font-size: 0.78rem;
+      font-weight: 500;
+      color: #4a90b8;
+      white-space: nowrap;
+      padding-top: 3px;
+    }
+    .hit-open:hover { color: #2a6f96; }
+    mark {
+      background: #fff0a0;
+      color: inherit;
+      padding: 0 1px;
+      border-radius: 2px;
+    }
+    .result-group .more-btn { margin: 8px auto 4px; }
+
+    /* ── Mobile ───────────────────────────────────── */
+    @media (max-width: 640px) {
+      .wrap { padding-left: 20px; padding-right: 20px; }
+      .site-header { padding-top: 40px; padding-bottom: 16px; }
+      .site-header h1 { font-size: 1.8rem; }
+      .controls { padding-top: 14px; }
+      .filters {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 8px;
+      }
+      .filters select {
+        min-width: 0;
+        width: 100%;
+        font-size: 0.74rem;
+        padding: 10px 6px;
+      }
+      .era-section { margin-top: 34px; }
+      .era-head h2 { font-size: 1.3rem; }
+      .entry-row { gap: 14px; padding: 14px 0; }
+      .row-links a { padding: 5px 11px; }
+      .more-btn { width: 100%; padding: 11px 18px; }
+      .result-group { padding: 12px 14px 8px; }
+      .hit { grid-template-columns: 48px minmax(0, 1fr); }
+      .hit-open { grid-column: 2; padding-top: 2px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="site-header wrap">
+    <h1>Hwasa Transcripts</h1>
+    <p class="subtitle">Korean study transcripts, vocabulary &amp; quizzes</p>
+  </header>
+
+  <div class="controls wrap">
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+           stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="7"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+      <input id="searchInput" type="search" placeholder="Search transcripts"
+             autocomplete="off" autocorrect="off" spellcheck="false"
+             enterkeyhint="search" aria-label="Search transcripts">
+      <button id="searchClear" class="search-clear" type="button" aria-label="Clear search">&times;</button>
+    </div>
+
+    <div class="filters">
+      <select id="filterYear" aria-label="Filter by year">
+        <option value="all">All years</option>
+      </select>
+      <select id="filterEra" aria-label="Filter by era">
+        <option value="all">All eras</option>
+      </select>
+      <select id="sortBy" aria-label="Sort">
+        <option value="era">By era</option>
+        <option value="date-desc">Date (newest)</option>
+        <option value="date-asc">Date (oldest)</option>
+      </select>
+    </div>
+
+    <div class="lang-chips" id="langChips" role="group" aria-label="Match in language">
+      <span class="lang-label">Match in</span>
+      <button type="button" data-lang="all" aria-pressed="true">All</button>
+      <button type="button" data-lang="ko" aria-pressed="false">Korean</button>
+      <button type="button" data-lang="fr" aria-pressed="false">French</button>
+      <button type="button" data-lang="en" aria-pressed="false">English</button>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div id="notice" class="notice" hidden></div>
+  </div>
+
+  <main class="wrap" id="main">
+    <p class="status">Loading…</p>
+  </main>
+
+  <script>
+  (function () {
+    'use strict';
+
+    /* ══════════════════════════════════════════════════
+       CONFIG
+       ══════════════════════════════════════════════════ */
+    const BASE_TRANSCRIPT = 'transcripts';
+    const BASE_IMAGE      = 'images';
+    const MAX_PROBE       = 20;          // highest vocabNN / quizNN number checked
+    const STATE_KEY       = 'hwasa-index-state';
+    const SCROLL_KEY      = 'hwasa-index-scroll';
+    const SEARCH_LINES_SHOWN = 3;        // lines per entry before "Show more lines"
+    const mobileMQ = window.matchMedia('(max-width: 640px)');
+
+    function collapsedCount() { return mobileMQ.matches ? 3 : 5; }   // per era, before "Show all"
+    function flatPageSize()   { return mobileMQ.matches ? 10 : 20; } // date-sorted view, per "Show more"
+
+    /* ══════════════════════════════════════════════════
+       STATE
+       ══════════════════════════════════════════════════ */
+    const els = {
+      main:      document.getElementById('main'),
+      notice:    document.getElementById('notice'),
+      search:    document.getElementById('searchInput'),
+      clear:     document.getElementById('searchClear'),
+      year:      document.getElementById('filterYear'),
+      era:       document.getElementById('filterEra'),
+      sort:      document.getElementById('sortBy'),
+      langChips: document.getElementById('langChips')
+    };
+
+    const state = {
+      eras: [],
+      entries: [],
+      year: 'all',
+      era: 'all',
+      sort: 'era',
+      query: '',
+      lang: 'all',
+      expanded: new Set(),        // era keys opened with "Show all"
+      flatLimit: 0,               // rows shown in date-sorted view
+      searchExpanded: new Set()   // entry stems opened with "Show more lines"
+    };
+
+    let siteIndex   = null;   // optional generated file: which files exist per entry
+    let searchData  = null;   // Map: stem -> [line, ...]
+    let searchLoad  = null;   // Promise while loading
+    let searchProgress = { done: 0, total: 0 };
+    const eraDefaultCache = new Map();
+
+    /* ══════════════════════════════════════════════════
+       SMALL HELPERS
+       ══════════════════════════════════════════════════ */
+    function el(tag, cls) {
+      const n = document.createElement(tag);
+      if (cls) n.className = cls;
+      return n;
+    }
+    function statusEl(text) {
+      const p = el('p', 'status');
+      p.textContent = text;
+      return p;
+    }
+    function escapeHtml(s) {
+      return String(s).replace(/[&<>"']/g, c => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+      })[c]);
+    }
+    function pad(n) { return String(n).padStart(2, '0'); }
+    function plural(n, one, many) { return n === 1 ? `1 ${one}` : `${n} ${many}`; }
+
+    function formatDate(yymmdd) {
+      const yy = parseInt(yymmdd.slice(0, 2), 10);
+      const mm = parseInt(yymmdd.slice(2, 4), 10) - 1;
+      const dd = parseInt(yymmdd.slice(4, 6), 10);
+      return new Date(2000 + yy, mm, dd)
+        .toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    }
+
+    function fileExists(url) {
+      return fetch(url, { method: 'HEAD' }).then(r => r.ok).catch(() => false);
+    }
+    async function firstExisting(paths) {
+      for (const p of paths) {
+        if (await fileExists(p)) return p;
+      }
+      return null;
+    }
+    function viewerLink(path, extra) {
+      return 'viewer.html?file=' + encodeURIComponent(path) + (extra || '');
+    }
+    function byDateDesc(a, b) { return b.date.localeCompare(a.date) || a.stem.localeCompare(b.stem); }
+    function byDateAsc(a, b)  { return a.date.localeCompare(b.date) || a.stem.localeCompare(b.stem); }
+
+    async function runPool(items, limit, worker) {
+      let i = 0;
+      const runners = Array.from({ length: Math.min(limit, items.length) }, async () => {
+        while (i < items.length) {
+          const item = items[i++];
+          await worker(item);
+        }
+      });
+      await Promise.all(runners);
+    }
+
+    /* ══════════════════════════════════════════════════
+       LOAD entries.json  (hand-edited source of truth)
+       ══════════════════════════════════════════════════ */
+    async function loadEntries() {
+      let res;
+      try {
+        res = await fetch('entries.json', { cache: 'no-cache' });
+      } catch (e) {
+        throw new Error('Could not load entries.json. If you opened this page straight from a folder, it needs to be served by a web server (see README).');
+      }
+      if (!res.ok) throw new Error(`Could not load entries.json (HTTP ${res.status}).`);
+      const text = await res.text();
+      try {
+        return JSON.parse(text);
+      } catch (e) {
+        throw new Error(`entries.json has a formatting mistake: ${e.message}. Look for a missing or extra comma, or a missing quote, near that spot.`);
+      }
+    }
+
+    function buildModel(data) {
+      const problems = [];
+      if (!data || !Array.isArray(data.eras)) {
+        throw new Error('entries.json needs an "eras" list at the top level.');
+      }
+      const seen = new Set();
+
+      data.eras.forEach((era, ei) => {
+        if (!era || typeof era.key !== 'string' || !era.key.trim()) {
+          problems.push(`Era #${ei + 1} has no "key", so it was skipped.`);
+          return;
+        }
+        const key   = era.key.trim();
+        const label = (typeof era.label === 'string' && era.label.trim()) ? era.label.trim() : key;
+        const eraObj = { key, label };
+        state.eras.push(eraObj);
+
+        const list = Array.isArray(era.entries) ? era.entries : [];
+        list.forEach((raw, i) => {
+          const date = raw && raw.date != null ? String(raw.date).trim() : '';
+          const mm = parseInt(date.slice(2, 4), 10);
+          const dd = parseInt(date.slice(4, 6), 10);
+          if (!/^\d{6}$/.test(date) || mm < 1 || mm > 12 || dd < 1 || dd > 31) {
+            problems.push(`${label}: entry #${i + 1} has an invalid date "${raw && raw.date}" (expected YYMMDD, like 261003). It was skipped.`);
+            return;
+          }
+          const slug  = raw.slug  ? String(raw.slug).trim()  : '';
+          const title = raw.title ? String(raw.title).trim() : '';
+          const stem  = `hwasa-${key}-${date}` + (slug ? `-${slug}` : '');
+          if (seen.has(stem)) {
+            problems.push(`${label}: ${date}${slug ? ' (' + slug + ')' : ''} is listed twice. The second copy was skipped.`);
+            return;
+          }
+          seen.add(stem);
+          state.entries.push({
+            era: eraObj, date, slug, title,
+            year: '20' + date.slice(0, 2),
+            stem,
+            files: null,     // filled in once we know which files exist
+            row: null, dateEl: null, linksEl: null,
+            rowThumb: null, thumbs: []   // thumbs = extra copies used in search results
+          });
+        });
+      });
+      return problems;
+    }
+
+    function showNotice(problems) {
+      if (!problems.length) return;
+      els.notice.hidden = false;
+      els.notice.innerHTML =
+        '<strong>entries.json needs a look:</strong><ul>' +
+        problems.map(p => '<li>' + escapeHtml(p) + '</li>').join('') +
+        '</ul>';
+    }
+
+    function showFatal(message) {
+      els.main.replaceChildren();
+      const box = el('div', 'notice error');
+      box.textContent = message;
+      els.main.appendChild(box);
+    }
+
+    function populateFilters() {
+      const years = [...new Set(state.entries.map(e => e.year))].sort().reverse();
+      years.forEach(y => {
+        const o = document.createElement('option');
+        o.value = y;
+        o.textContent = y;
+        els.year.appendChild(o);
+      });
+      state.eras.forEach(era => {
+        const o = document.createElement('option');
+        o.value = era.key;
+        o.textContent = era.label;
+        els.era.appendChild(o);
+      });
+    }
+
+    /* ══════════════════════════════════════════════════
+       FILE DISCOVERY
+       Uses site-index.json if present (generated later by
+       the GitHub Action); otherwise checks files directly,
+       the same way the old page did.
+       ══════════════════════════════════════════════════ */
+    async function loadSiteIndex() {
+      try {
+        const r = await fetch('site-index.json', { cache: 'no-cache' });
+        if (!r.ok) return null;
+        const j = await r.json();
+        return (j && j.entries && typeof j.entries === 'object') ? j.entries : null;
+      } catch (e) {
+        return null;
+      }
+    }
+
+    function eraDefaultImage(eraKey) {
+      if (!eraDefaultCache.has(eraKey)) {
+        const base = `${BASE_IMAGE}/${eraKey}/${eraKey}-default`;
+        eraDefaultCache.set(eraKey, firstExisting([base + '.jpg', base + '.png']));
+      }
+      return eraDefaultCache.get(eraKey);
+    }
+
+    async function probeSeries(base, prefix) {
+      const found = [];
+      for (let i = 1; i <= MAX_PROBE; i++) {
+        const path = `${base}-${prefix}${pad(i)}.txt`;
+        if (await fileExists(path)) found.push(path);
+        else break;
+      }
+      return found;
+    }
+
+    async function probeFiles(entry) {
+      const base = `${BASE_TRANSCRIPT}/${entry.era.key}/${entry.stem}`;
+      const img  = `${BASE_IMAGE}/${entry.era.key}/${entry.stem}`;
+      const [hasT, hasS, vocab, quiz, ownImage] = await Promise.all([
+        fileExists(base + '.txt'),
+        fileExists(base + '-storybible.txt'),
+        probeSeries(base, 'vocab'),
+        probeSeries(base, 'quiz'),
+        firstExisting([img + '.jpg', img + '.png'])
+      ]);
+      return {
+        transcript: hasT ? base + '.txt' : null,
+        summary:    hasS ? base + '-storybible.txt' : null,
+        vocab, quiz,
+        image: ownImage || await eraDefaultImage(entry.era.key)
+      };
+    }
+
+    function normalizeIndexed(x) {
+      return {
+        transcript: x.transcript || null,
+        summary:    x.summary || null,
+        vocab:      Array.isArray(x.vocab) ? x.vocab : [],
+        quiz:       Array.isArray(x.quiz)  ? x.quiz  : [],
+        image:      x.image || null
+      };
+    }
+
+    async function resolveFiles(entry) {
+      const indexed = siteIndex && siteIndex[entry.stem];
+      entry.files = indexed ? normalizeIndexed(indexed) : await probeFiles(entry);
+      fillRow(entry);
+    }
+
+    function transcriptPath(entry) {
+      if (entry.files) return entry.files.transcript;   // may be null = no transcript
+      return `${BASE_TRANSCRIPT}/${entry.era.key}/${entry.stem}.txt`;
+    }
+
+    /* ══════════════════════════════════════════════════
+       ROWS
+       ══════════════════════════════════════════════════ */
+    function makeThumb(entry, cls) {
+      const t = el('div', cls || 'thumb');
+      entry.thumbs = entry.thumbs.filter(x => x.isConnected);
+      entry.thumbs.push(t);
+      setThumbImage(t, entry);
+      return t;
+    }
+
+    function setThumbImage(thumb, entry) {
+      if (!entry.files || !entry.files.image || thumb.querySelector('img')) return;
+      const img = document.createElement('img');
+      img.src = entry.files.image;
+      img.alt = `Hwasa – ${entry.era.label}` + (entry.title ? ` – ${entry.title}` : '') + ` – ${formatDate(entry.date)}`;
+      img.loading = 'lazy';
+      img.decoding = 'async';
+      img.addEventListener('error', () => img.remove());
+      thumb.appendChild(img);
+    }
+
+    function createRow(entry) {
+      const row   = el('article', 'entry-row');
+      const body  = el('div', 'row-body');
+      const date  = el('div', 'row-date');
+      const title = el('div', 'row-title');
+      const links = el('div', 'row-links');
+      const wait  = el('span', 'muted');
+
+      title.textContent = entry.title;
+      wait.textContent  = 'Loading…';
+      links.appendChild(wait);
+      body.append(date, title, links);
+      const thumb = el('div', 'thumb');
+      entry.rowThumb = thumb;
+      setThumbImage(thumb, entry);
+      row.append(thumb, body);
+
+      entry.row = row;
+      entry.dateEl = date;
+      entry.linksEl = links;
+    }
+
+    function seriesLabel(path, prefix, i) {
+      const m = path.match(new RegExp(prefix + '(\\d+)\\.txt$', 'i'));
+      return `${prefix === 'vocab' ? 'Vocab' : 'Quiz'} ${m ? m[1] : pad(i + 1)}`;
+    }
+
+    function fillRow(entry) {
+      const f = entry.files;
+      const links = entry.linksEl;
+      links.replaceChildren();
+
+      const add = (label, path, cls) => {
+        const a = el('a', cls || '');
+        a.href = viewerLink(path);
+        a.textContent = label;
+        links.appendChild(a);
+      };
+
+      if (f.transcript) add('Transcript', f.transcript, 'primary');
+      if (f.summary)    add('AI Summary', f.summary);
+      f.vocab.forEach((p, i) => add(seriesLabel(p, 'vocab', i), p));
+      f.quiz.forEach((p, i)  => add(seriesLabel(p, 'quiz', i), p));
+
+      if (!links.children.length) {
+        const m = el('span', 'muted');
+        m.textContent = 'No files found';
+        links.appendChild(m);
+      }
+      setThumbImage(entry.rowThumb, entry);
+      entry.thumbs.forEach(t => setThumbImage(t, entry));
+    }
+
+    function setRowDate(entry, withEra) {
+      entry.dateEl.textContent = (withEra ? entry.era.label + ' · ' : '') + formatDate(entry.date);
+    }
+
+    /* ══════════════════════════════════════════════════
+       RENDER
+       ══════════════════════════════════════════════════ */
+    function filteredEntries() {
+      return state.entries.filter(e =>
+        (state.year === 'all' || e.year === state.year) &&
+        (state.era  === 'all' || e.era.key === state.era)
+      );
+    }
+
+    function render() {
+      const searching = state.query.length > 0;
+      els.langChips.classList.toggle('visible', searching);
+      els.langChips.querySelectorAll('button').forEach(b =>
+        b.setAttribute('aria-pressed', String(b.dataset.lang === state.lang))
+      );
+      els.clear.classList.toggle('visible', els.search.value.length > 0);
+      if (searching) renderSearch();
+      else renderBrowse();
+    }
+
+    function renderBrowse() {
+      const main = els.main;
+      main.replaceChildren();
+      const list = filteredEntries();
+
+      if (!list.length) {
+        main.appendChild(statusEl('No entries match these filters.'));
+        restoreScroll();
+        return;
+      }
+
+      if (state.sort === 'era') {
+        // Collapse only in the default view; any filter shows everything it matches.
+        const collapsible = state.year === 'all' && state.era === 'all';
+
+        state.eras.forEach(era => {
+          const items = list.filter(e => e.era === era).sort(byDateDesc);
+          if (!items.length) return;
+
+          const section = el('section', 'era-section');
+          section.id = 'era-' + era.key;
+          const head  = el('div', 'era-head');
+          const h2    = el('h2');
+          const count = el('span', 'era-count');
+          h2.textContent = era.label;
+          count.textContent = plural(items.length, 'entry', 'entries');
+          head.append(h2, count);
+          section.appendChild(head);
+
+          const n = collapsedCount();
+          const canCollapse = collapsible && items.length > n;
+          const isOpen = !canCollapse || state.expanded.has(era.key);
+          const shown = isOpen ? items : items.slice(0, n);
+
+          const listEl = el('div', 'entry-list');
+          shown.forEach(e => { setRowDate(e, false); listEl.appendChild(e.row); });
+          section.appendChild(listEl);
+
+          if (canCollapse) {
+            const btn = el('button', 'more-btn');
+            btn.type = 'button';
+            btn.textContent = isOpen ? 'Show fewer' : `Show all ${items.length}`;
+            btn.setAttribute('aria-expanded', String(isOpen));
+            btn.addEventListener('click', () => {
+              const closing = state.expanded.has(era.key);
+              if (closing) state.expanded.delete(era.key);
+              else state.expanded.add(era.key);
+              saveState();
+              render();
+              if (closing) {
+                const s = document.getElementById('era-' + era.key);
+                if (s && s.getBoundingClientRect().top < 0) s.scrollIntoView({ block: 'start' });
+              }
+            });
+            section.appendChild(btn);
+          }
+          main.appendChild(section);
+        });
+
+      } else {
+        // Flat date-sorted list across all eras
+        const items = list.slice().sort(state.sort === 'date-asc' ? byDateAsc : byDateDesc);
+        const limit = Math.max(state.flatLimit, flatPageSize());
+
+        const section = el('section', 'era-section');
+        const head  = el('div', 'era-head');
+        const h2    = el('h2');
+        const count = el('span', 'era-count');
+        h2.textContent = 'All entries';
+        count.textContent = plural(items.length, 'entry', 'entries');
+        head.append(h2, count);
+        section.appendChild(head);
+
+        const listEl = el('div', 'entry-list');
+        items.slice(0, limit).forEach(e => { setRowDate(e, true); listEl.appendChild(e.row); });
+        section.appendChild(listEl);
+
+        if (items.length > limit) {
+          const btn = el('button', 'more-btn');
+          btn.type = 'button';
+          btn.textContent = `Show more (${items.length - limit} left)`;
+          btn.addEventListener('click', () => {
+            state.flatLimit = limit + flatPageSize();
+            render();
+          });
+          section.appendChild(btn);
+        }
+        main.appendChild(section);
+      }
+      restoreScroll();
+    }
+
+    /* ══════════════════════════════════════════════════
+       SEARCH
+       ══════════════════════════════════════════════════ */
+
+    // Case- and accent-insensitive folding (so "cafe" finds "café").
+    // Korean syllables are recomposed, so Hangul is unaffected.
+    function foldChar(ch) {
+      return ch.normalize('NFD').replace(/[\u0300-\u036f]/g, '').normalize('NFC').toLowerCase();
+    }
+    function fold(s) {
+      let out = '';
+      for (const ch of s) out += foldChar(ch);
+      return out.replace(/\s+/g, ' ');
+    }
+    // Same as fold(), but remembers where each folded character came from,
+    // so highlights land on the right spot in the original text.
+    function foldWithMap(s) {
+      let out = '';
+      const map = [];
+      let i = 0;
+      for (const ch of s) {
+        let f = foldChar(ch);
+        if (/\s/.test(ch)) f = ' ';
+        for (let k = 0; k < f.length; k++) map.push(i);
+        out += f;
+        i += ch.length;
+      }
+      map.push(s.length);
+      return { out, map };
+    }
+
+    function highlight(text, qf) {
+      if (!text) return '';
+      const { out, map } = foldWithMap(text);
+      let html = '';
+      let last = 0;
+      let from = 0;
+      while (qf && (from = out.indexOf(qf, from)) !== -1) {
+        const start = map[from];
+        const end   = map[from + qf.length];
+        if (start >= last && end > start) {
+          html += escapeHtml(text.slice(last, start)) + '<mark>' + escapeHtml(text.slice(start, end)) + '</mark>';
+          last = end;
+        }
+        from += qf.length;
+      }
+      return html + escapeHtml(text.slice(last));
+    }
+
+    function makeLine(ts, ko, fr, en) {
+      ko = ko || ''; fr = fr || ''; en = en || '';
+      return { ts, ko, fr, en, f: { ko: fold(ko), fr: fold(fr), en: fold(en) } };
+    }
+
+    // Reads the trilingual transcript format: [m:ss] then KO:/FR:/EN: lines.
+    function parseTranscript(text) {
+      const out = [];
+      let cur = null;
+      const push = () => { if (cur && (cur.ko || cur.fr || cur.en)) out.push(makeLine(cur.ts, cur.ko, cur.fr, cur.en)); };
+
+      text.split(/\r?\n/).forEach(line => {
+        const ts = line.match(/^\s*\[(\d{1,2}:\d{2}(?::\d{2})?)\]\s*$/);
+        if (ts) { push(); cur = { ts: ts[1], ko: '', fr: '', en: '' }; return; }
+        if (/^\s*[—–─-]+\s*\[/.test(line)) { push(); cur = null; return; }
+        if (!cur) return;
+        const m = line.match(/^\s*(KO|FR|EN):\s?(.*)$/);
+        if (m) cur[m[1].toLowerCase()] = m[2].trim();
+      });
+      push();
+      return out;
+    }
+
+    function loadingText() {
+      return searchProgress.total
+        ? `Loading transcripts for search… ${searchProgress.done} of ${searchProgress.total}`
+        : 'Loading search…';
+    }
+    function updateSearchStatus() {
+      const s = document.getElementById('searchStatus');
+      if (s) s.textContent = loadingText();
+    }
+
+    function ensureSearchData() {
+      if (searchLoad) return searchLoad;
+      searchLoad = (async () => {
+        const map = new Map();
+
+        // 1) Prebuilt index (generated later by the GitHub Action), if present.
+        let indexed = null;
+        try {
+          const r = await fetch('search-index.json', { cache: 'no-cache' });
+          if (r.ok) {
+            const j = await r.json();
+            if (j && j.entries && typeof j.entries === 'object') indexed = j.entries;
+          }
+        } catch (e) { /* no index; fall back below */ }
+
+        // 2) Anything not in the index is read straight from its transcript.
+        const missing = [];
+        state.entries.forEach(e => {
+          const rows = indexed && indexed[e.stem];
+          if (Array.isArray(rows)) {
+            map.set(e.stem, rows.map(r => makeLine(r[0], r[1], r[2], r[3])));
+          } else {
+            missing.push(e);
+          }
+        });
+
+        searchProgress = { done: 0, total: missing.length };
+        updateSearchStatus();
+        await runPool(missing, 6, async e => {
+          const path = transcriptPath(e);
+          if (path) {
+            try {
+              const r = await fetch(path);
+              if (r.ok) map.set(e.stem, parseTranscript(await r.text()));
+            } catch (err) { /* skip this one */ }
+          }
+          searchProgress.done++;
+          updateSearchStatus();
+        });
+
+        searchData = map;
+      })();
+      return searchLoad;
+    }
+
+    function minQueryLength(q) {
+      return /[\u3131-\u318e\uac00-\ud7a3]/.test(q) ? 1 : 2;   // 1 Hangul character is enough
+    }
+
+    function lineMatches(line, qf) {
+      if (state.lang === 'all') {
+        return line.f.ko.includes(qf) || line.f.fr.includes(qf) || line.f.en.includes(qf);
+      }
+      return line.f[state.lang].includes(qf);
+    }
+
+    function renderSearch() {
+      const main = els.main;
+      main.replaceChildren();
+      const q = state.query;
+
+      if (q.length < minQueryLength(q)) {
+        main.appendChild(statusEl('Keep typing to search the transcripts…'));
+        return;
+      }
+      if (!searchData) {
+        const s = statusEl(loadingText());
+        s.id = 'searchStatus';
+        main.appendChild(s);
+        ensureSearchData().then(() => { if (state.query) render(); });
+        return;
+      }
+
+      const qf = fold(q);
+      const list = filteredEntries().sort(state.sort === 'date-asc' ? byDateAsc : byDateDesc);
+      const groups = [];
+      let total = 0;
+
+      list.forEach(e => {
+        const lines = searchData.get(e.stem);
+        if (!lines) return;
+        const hits = lines.filter(l => lineMatches(l, qf));
+        if (hits.length) {
+          groups.push({ entry: e, hits });
+          total += hits.length;
+        }
+      });
+
+      const summary = el('p', 'search-summary');
+      summary.textContent = total
+        ? `${plural(total, 'line', 'lines')} in ${plural(groups.length, 'entry', 'entries')}`
+        : `No lines found for “${q}”.`;
+      main.appendChild(summary);
+
+      groups.forEach(g => main.appendChild(renderGroup(g, qf)));
+      restoreScroll();
+    }
+
+    function renderGroup(g, qf) {
+      const e = g.entry;
+      const box  = el('section', 'result-group');
+      const head = el('div', 'result-head');
+      const hb   = el('div', 'result-head-body');
+      const date = el('div', 'row-date');
+      const cnt  = el('span', 'result-count');
+
+      date.textContent = e.era.label + ' · ' + formatDate(e.date);
+      hb.appendChild(date);
+      if (e.title) {
+        const t = el('div', 'row-title');
+        t.textContent = e.title;
+        hb.appendChild(t);
+      }
+      cnt.textContent = plural(g.hits.length, 'line', 'lines');
+      head.append(makeThumb(e, 'thumb'), hb, cnt);
+      box.appendChild(head);
+
+      const open  = state.searchExpanded.has(e.stem);
+      const shown = open ? g.hits : g.hits.slice(0, SEARCH_LINES_SHOWN);
+      const tPath = transcriptPath(e) || `${BASE_TRANSCRIPT}/${e.era.key}/${e.stem}.txt`;
+      const hitsWrap = el('div', 'hits');
+      shown.forEach(h => hitsWrap.appendChild(renderHit(h, qf, tPath)));
+      box.appendChild(hitsWrap);
+
+      if (g.hits.length > SEARCH_LINES_SHOWN) {
+        const btn = el('button', 'more-btn');
+        btn.type = 'button';
+        btn.textContent = open
+          ? 'Show fewer lines'
+          : `Show ${g.hits.length - SEARCH_LINES_SHOWN} more ${g.hits.length - SEARCH_LINES_SHOWN === 1 ? 'line' : 'lines'}`;
+        btn.addEventListener('click', () => {
+          if (open) state.searchExpanded.delete(e.stem);
+          else state.searchExpanded.add(e.stem);
+          const top = box.getBoundingClientRect().top;
+          render();
+          if (open && top < 0) {
+            const again = [...els.main.querySelectorAll('.result-group')]
+              .find(b => b.dataset.stem === e.stem);
+            if (again) again.scrollIntoView({ block: 'start' });
+          }
+        });
+        box.appendChild(btn);
+      }
+      box.dataset.stem = e.stem;
+      return box;
+    }
+
+    function renderHit(h, qf, tPath) {
+      const hit  = el('div', 'hit');
+      const href = viewerLink(tPath, '&t=' + encodeURIComponent(h.ts));
+
+      const ts = el('a', 'hit-ts');
+      ts.href = href;
+      ts.textContent = h.ts;
+
+      const txt = el('div', 'hit-text');
+      txt.appendChild(lineEl('hit-ko', h.ko, qf, 'ko'));
+      if (h.fr) txt.appendChild(lineEl('hit-tr', h.fr, qf, 'fr'));
+      if (h.en) txt.appendChild(lineEl('hit-tr', h.en, qf, 'en'));
+
+      const open = el('a', 'hit-open');
+      open.href = href;
+      open.textContent = 'Open →';
+
+      hit.append(ts, txt, open);
+      return hit;
+    }
+
+    function lineEl(cls, text, qf, lang) {
+      const d = el('div', cls);
+      d.lang = lang;
+      const mark = state.lang === 'all' || state.lang === lang;
+      d.innerHTML = mark ? highlight(text, qf) : escapeHtml(text);
+      return d;
+    }
+
+    /* ══════════════════════════════════════════════════
+       STATE PERSISTENCE
+       Search text + language live in the URL (so Back
+       returns to the same results); filters, sort and
+       expanded sections live in sessionStorage.
+       ══════════════════════════════════════════════════ */
+    function saveState() {
+      try {
+        sessionStorage.setItem(STATE_KEY, JSON.stringify({
+          year: state.year, era: state.era, sort: state.sort,
+          expanded: [...state.expanded]
+        }));
+      } catch (e) { /* storage unavailable */ }
+    }
+
+    function restoreState() {
+      try {
+        const s = JSON.parse(sessionStorage.getItem(STATE_KEY) || 'null');
+        if (s) {
+          if (typeof s.year === 'string') state.year = s.year;
+          if (typeof s.era  === 'string') state.era  = s.era;
+          if (['era', 'date-desc', 'date-asc'].includes(s.sort)) state.sort = s.sort;
+          if (Array.isArray(s.expanded)) state.expanded = new Set(s.expanded);
+        }
+      } catch (e) { /* ignore */ }
+
+      const params = new URLSearchParams(location.search);
+      state.query = (params.get('q') || '').trim();
+      const lang = params.get('lang');
+      if (['ko', 'fr', 'en'].includes(lang)) state.lang = lang;
+    }
+
+    function applyStateToControls() {
+      const hasOption = (sel, v) => [...sel.options].some(o => o.value === v);
+      if (!hasOption(els.year, state.year)) state.year = 'all';
+      if (!hasOption(els.era, state.era))   state.era  = 'all';
+      els.year.value = state.year;
+      els.era.value  = state.era;
+      els.sort.value = state.sort;
+      els.search.value = state.query;
+    }
+
+    function updateURL() {
+      const params = new URLSearchParams();
+      if (state.query) params.set('q', state.query);
+      if (state.query && state.lang !== 'all') params.set('lang', state.lang);
+      const qs = params.toString();
+      history.replaceState(null, '', location.pathname + (qs ? '?' + qs : ''));
+    }
+
+    // Restore scroll position when coming Back from the viewer.
+    let pendingScroll = null;
+    try {
+      const nav = performance.getEntriesByType && performance.getEntriesByType('navigation')[0];
+      const y = sessionStorage.getItem(SCROLL_KEY);
+      if (nav && nav.type === 'back_forward' && y) pendingScroll = parseInt(y, 10);
+    } catch (e) { /* ignore */ }
+    if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+    window.addEventListener('pagehide', () => {
+      try { sessionStorage.setItem(SCROLL_KEY, String(Math.round(window.scrollY))); } catch (e) { /* ignore */ }
+    });
+    function restoreScroll() {
+      if (pendingScroll === null) return;
+      const y = pendingScroll;
+      pendingScroll = null;
+      requestAnimationFrame(() => window.scrollTo(0, y));
+    }
+
+    /* ══════════════════════════════════════════════════
+       EVENTS
+       ══════════════════════════════════════════════════ */
+    function bindEvents() {
+      let timer = null;
+      const commitQuery = () => {
+        state.query = els.search.value.trim();
+        state.searchExpanded.clear();
+        updateURL();
+        render();
+      };
+
+      els.search.addEventListener('input', () => {
+        els.clear.classList.toggle('visible', els.search.value.length > 0);
+        clearTimeout(timer);
+        timer = setTimeout(commitQuery, 220);
+      });
+      els.search.addEventListener('keydown', e => {
+        if (e.key === 'Enter') { clearTimeout(timer); commitQuery(); els.search.blur(); }
+        if (e.key === 'Escape') { els.search.value = ''; clearTimeout(timer); commitQuery(); }
+      });
+      els.search.addEventListener('focus', () => { ensureSearchData(); }, { once: true });
+
+      els.clear.addEventListener('click', () => {
+        els.search.value = '';
+        clearTimeout(timer);
+        commitQuery();
+        els.search.focus();
+      });
+
+      els.langChips.addEventListener('click', e => {
+        const b = e.target.closest('button[data-lang]');
+        if (!b) return;
+        state.lang = b.dataset.lang;
+        updateURL();
+        render();
+      });
+
+      const onFilter = () => {
+        state.year = els.year.value;
+        state.era  = els.era.value;
+        state.sort = els.sort.value;
+        state.flatLimit = 0;
+        saveState();
+        render();
+      };
+      els.year.addEventListener('change', onFilter);
+      els.era.addEventListener('change', onFilter);
+      els.sort.addEventListener('change', onFilter);
+
+      const onResize = () => render();
+      if (mobileMQ.addEventListener) mobileMQ.addEventListener('change', onResize);
+      else if (mobileMQ.addListener) mobileMQ.addListener(onResize);
+    }
+
+    /* ══════════════════════════════════════════════════
+       START
+       ══════════════════════════════════════════════════ */
+    async function init() {
+      restoreState();
+
+      let data;
+      try {
+        data = await loadEntries();
+      } catch (err) {
+        showFatal(err.message);
+        return;
+      }
+
+      let problems;
+      try {
+        problems = buildModel(data);
+      } catch (err) {
+        showFatal(err.message);
+        return;
+      }
+      showNotice(problems);
+      populateFilters();
+      applyStateToControls();
+
+      siteIndex = await loadSiteIndex();
+      state.entries.forEach(createRow);
+      bindEvents();
+      render();
+
+      state.entries.forEach(e => { resolveFiles(e); });
+    }
+
+    init();
+  })();
+  </script>
+</body>
+</html>
