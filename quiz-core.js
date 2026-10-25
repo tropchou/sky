@@ -19,8 +19,8 @@
   const STORAGE_KEY = 'hwasa-quiz-v1';
   const SHAKY_EXIT  = 2;    // correct answers in a row to leave "Shaky"
   const KNOWN_AT    = 3;    // correct answers in a row to count as "Known"
-  const MIX_SHAKY   = 0.4;  // share of each quiz from Shaky words
-  const MIX_FRESH   = 0.4;  // share from New + Learning words (Known gets the rest)
+  const MIX_SHAKY   = 0.2;  // share of each quiz from Shaky words
+  const MIX_FRESH   = 0.6;  // share from New + Learning words (Known gets the rest)
   const AUTO_WORDS  = 100;  // words per transcript in the automatic Vocabulary list
   const SESSION_DAYS = 30;  // unfinished quizzes untouched this long are dropped
 
