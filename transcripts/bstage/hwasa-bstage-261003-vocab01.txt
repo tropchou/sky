@@ -1,0 +1,158 @@
+HWASA BST4GE 261003 - VOCAB 01
+Source: https://www.youtube.com/watch?v=kXJIkj8DGi8
+Video: [마마무 화사] 261003
+Channel: @나의사계절마마무
+Uploaded: 2026-10-03 (claude-sonnet-5.5)
+============================================================
+
+Part 1 of 2 · 0:22–46:11 — A sick Hwasa talks about her cold and medicines, jet lag, short hair, running shoes like Hoka and ASICS, forgetting things, and chats with viewers.
+
+1.
+KO: 감기 (n; I-2)
+FR: rhume / grippe légère
+EN: cold
+Context: [0:41] 감기가 심하게 들어서
+
+2.
+KO: 콧물 (n; II-3)
+FR: morve / nez qui coule
+EN: runny nose / snot
+Context: [1:02] 근데 이렇게 콧물 맛이
+
+3.
+KO: 느낌 (n; II-3)
+FR: sensation / impression
+EN: feeling / vibe
+Context: [4:29] 이런 느낌이야
+
+4.
+KO: 걸리다 (v; I-2)
+FR: attraper (une maladie) / prendre (du temps)
+EN: to catch (an illness) / to take (time)
+Context: [5:08] 걸렸었잖아
+
+5.
+KO: 기억 (n; II-3)
+FR: souvenir / mémoire
+EN: memory
+Context: [5:20] 기억이 안 나
+
+6.
+KO: 장점 (n; II-4)
+FR: avantage / point fort
+EN: advantage / strength
+Context: [5:44] 참 장점이자 단점이야
+
+7.
+KO: 단점 (n; II-4)
+FR: inconvénient / point faible
+EN: disadvantage / weakness
+Context: [5:44] 참 장점이자 단점이야
+
+8.
+KO: 눕다 (v; I-2)
+FR: s'allonger
+EN: to lie down
+Context: [10:14] 내가 이렇게 침대를 누웠는데
+
+9.
+KO: 잊다 (v; II-3)
+FR: oublier
+EN: to forget
+Context: [10:15] 난 그때를 잊을 수가 없어
+
+10.
+KO: 삼키다 (v; II-4)
+FR: avaler
+EN: to swallow
+Context: [10:21] 침대가 나를 삼키는 줄 알았어
+
+11.
+KO: 아무래도 (adv; II-4)
+FR: sans doute / de toute façon
+EN: probably / after all
+Context: [12:40] 아무래도 공항 그 라운지에서
+
+12.
+KO: 영양제 (n; II-4)
+FR: complément alimentaire
+EN: supplement
+Context: [13:03] 내가 요새 영양제를 안 먹게 됐다
+
+13.
+KO: 챙기다 (v; II-4)
+FR: prendre avec soi / s'occuper de
+EN: to pack / to look after
+Context: [13:21] 이제부터 매일 아침 비타민C 챙겨가야겠다
+
+14.
+KO: 시차 (n; II-4)
+FR: décalage horaire
+EN: time difference / jet lag
+Context: [13:34] 나 브라질 갔다 와서 시차가 계속 엉망이더라고
+
+15.
+KO: 맞다 (v; I-2)
+FR: convenir / être correct
+EN: to suit / to be right
+Context: [13:39] 브라질 시차가 난 진짜 잘 맞았어
+
+16.
+KO: 갑자기 (adv; II-3)
+FR: soudainement
+EN: suddenly
+Context: [17:13] 그니까 나도 갑자기 라이브를 왜 한 거야
+
+17.
+KO: 심지어 (adv; II-4)
+FR: même / voire
+EN: even / what's more
+Context: [17:42] 심지어 조식도 못 먹었어
+
+18.
+KO: 거짓말 (n; II-3)
+FR: mensonge
+EN: lie
+Context: [18:21] 밤과자 품절이라고? 거짓말 치지 마
+
+19.
+KO: 품절 (n; II-4)
+FR: rupture de stock
+EN: sold out
+Context: [18:28] 밤과자 품절이야?
+
+20.
+KO: 막히다 (v; II-3)
+FR: être bouché / bloqué
+EN: to be blocked / stuffed up
+Context: [21:33] 내일 코가 막혀가지고
+
+21.
+KO: 체력 (n; II-3)
+FR: endurance / force physique
+EN: stamina / physical strength
+Context: [28:40] 그러다 체력 안 좋아진다는 거야?
+
+22.
+KO: 가볍다 (adj; II-3)
+FR: être léger
+EN: to be light
+Context: [32:27] 호카가 나는 좀 더 가벼우면서
+
+23.
+KO: 푹신하다 (adj; II-5)
+FR: être moelleux / rembourré
+EN: to be soft / cushiony
+Context: [32:34] 그리고 폭신해서 좋아
+
+24.
+KO: 딱딱하다 (adj; II-4)
+FR: être dur / rigide
+EN: to be hard / stiff
+Context: [36:28] 딱딱해서
+
+25.
+KO: 까먹다 (v; II-4; informal)
+FR: oublier
+EN: to forget
+Context: [43:47] 내가 지금 무슨 말을 하려고 했는지도 까먹었다
