@@ -1,0 +1,613 @@
+HWASA BST4GE 261003 - QUIZ 01
+Source: https://www.youtube.com/watch?v=kXJIkj8DGi8
+Video: [마마무 화사] 261003
+Channel: @나의사계절마마무
+Uploaded: 2026-10-03 (claude-sonnet-5.5)
+============================================================
+
+# 화사 b.stage 라이브 — Part 1 of 2 (0:22–46:11)
+
+**Q1.** In "감기가 심하게 들어서", what reason does she give for warning that her breathing might be loud?
+
+A) She has been shouting all day.
+B) She is very sleepy.
+C) She has a bad cold.
+D) She just finished running.
+
+---
+
+**Q2.** In "내 숨소리가 좀 시끄러울 거야", what does -(으)ㄹ 거야 express?
+
+A) A memory of a past experience
+B) A prediction about what will probably happen
+C) A suggestion to the listener
+D) A promise to do something
+
+---
+
+**Q3.** Fill in the blank: "근데 이렇게 ＿＿＿ 맛이"
+
+A) 감기
+B) 거짓말
+C) 체력
+D) 콧물
+
+---
+
+**Q4.** In "내일 괜찮을까", what is the nuance of -(으)ㄹ까?
+
+A) Wondering or worrying to herself about something uncertain
+B) Inviting someone to do something together
+C) Asking someone for permission
+D) Stating a firm decision
+
+---
+
+**Q5.** Choose the ending: "너무 많이 먹었＿＿＿"
+
+A) 고 있어
+B) 자마자
+C) 나 봐
+D) 을게
+
+---
+
+**Q6.** Choose the particle: "홍콩 와플＿＿＿ 먹고 왔어"
+
+A) 에서
+B) 이
+C) 를
+D) 을
+
+---
+
+**Q7.** In "와플 어디였더라 이름이", what does -더라 convey?
+
+A) She is trying to recall something she experienced or knew before
+B) She is giving a command
+C) She is making a guess about the future
+D) She is asking permission
+
+---
+
+**Q8.** Choose the ending: "에그타르트 매니저님이 사다 주셨＿＿＿"
+
+A) 거든
+B) 자마자
+C) 고 싶어
+D) 을게
+
+---
+
+**Q9.** Choose the ending: "잘 먹어＿＿＿"
+
+A) 놓고
+B) 야지
+C) 서
+D) 도
+
+---
+
+**Q10.** Choose the particle: "그래서 부랴부랴 공항＿＿＿ 키트를 사서"
+
+A) 에게
+B) 처럼
+C) 에서
+D) 를
+
+---
+
+**Q11.** After doing a COVID test, what does she say in "코로나는 아닌 거 같은데"?
+
+A) The kit was expired, so she couldn't tell
+B) It doesn't seem to be COVID, but might be the flu
+C) The test was clearly positive for COVID
+D) It is definitely just allergies
+
+---
+
+**Q12.** In "걸렸었잖아", what does -잖아(요) add?
+
+A) It expresses a wish
+B) It politely asks a favour
+C) It says something will happen soon
+D) It reminds the listener of something they should already know
+
+---
+
+**Q13.** What does **걸리다** mean in "걸렸었잖아" (about COVID)?
+
+A) to catch (an illness)
+B) to take (time)
+C) to hang something up
+D) to be caught stealing
+
+---
+
+**Q14.** In "참 장점이자 단점이야", what do 장점 and 단점 mean?
+
+A) memory and forgetfulness
+B) beginning and end
+C) advantage and disadvantage
+D) talent and habit
+
+---
+
+**Q15.** What is the French meaning of "스케줄이랑 무슨 상관이야"?
+
+A) Quel est le rapport avec mon emploi du temps ?
+B) Mon emploi du temps est très chargé.
+C) Merci pour mon emploi du temps.
+D) Quand est mon emploi du temps ?
+
+---
+
+**Q16.** Choose the particle: "그래서 그거 좀 언니들＿＿＿ 사다 달라 했어"
+
+A) 을
+B) 처럼
+C) 에서
+D) 한테
+
+---
+
+**Q17.** Choose the particle: "나는 여태까지 내가 약국＿＿＿ 사 먹어 본 감기약 중에서는"
+
+A) 처럼
+B) 를
+C) 에서
+D) 에게
+
+---
+
+**Q18.** Fill in the blank: "내가 이렇게 침대를 ＿＿＿"
+
+A) 웃었는데
+B) 누웠는데
+C) 일어났는데
+D) 먹었는데
+
+---
+
+**Q19.** In "난 그때를 잊을 수가 없어", how does 잊다 differ from 까먹다?
+
+A) 잊다 is only used for forgetting names
+B) 까먹다 is the honorific form of 잊다
+C) 잊다 means to lose a physical object
+D) 잊다 is the neutral 'forget / let slip from memory'; 까먹다 is casual and colloquial
+
+---
+
+**Q20.** Choose the ending: "침대가 나를 삼키＿＿＿ 알았어"
+
+A) 는 줄
+B) 으려고
+C) 기 위해
+D) 는 데도
+
+---
+
+**Q21.** What is she describing with "침대가 나를 삼키는 줄 알았어"?
+
+A) The sinking feeling when she lay down after taking NyQuil
+B) A scary scene from a movie she watched alone
+C) A nightmare she had on a plane
+D) An accident at a hotel
+
+---
+
+**Q22.** In "그 침대가 나를 삼키고 나서", what does -고 나서 mean?
+
+A) After finishing the action
+B) While doing the action
+C) Because of the action
+D) In order to do the action
+
+---
+
+**Q23.** What did she feel the next day, per "뇌를 깨끗하게 씻고 일어난 듯한 느낌"?
+
+A) Like she had slept only one hour
+B) Like her cold had gotten worse
+C) Like she woke up with her brain washed clean
+D) Like she had forgotten everything
+
+---
+
+**Q24.** In "그래서 맹신하게 됐는데 그 약을", what does -게 되다 express?
+
+A) Wanting to become something
+B) Having to stop doing something
+C) Trying something once
+D) Coming to be in a state, ending up that way
+
+---
+
+**Q25.** What does **아무래도** mean in "아무래도 공항 그 라운지에서"?
+
+A) probably / after all
+B) even
+C) never
+D) suddenly
+
+---
+
+**Q26.** Fill in the blank: "내가 요새 ＿＿＿를 안 먹게 됐다"
+
+A) 체력
+B) 영양제
+C) 시차
+D) 거짓말
+
+---
+
+**Q27.** What does **챙기다** mean in "이제부터 매일 아침 비타민C 챙겨가야겠다"?
+
+A) to buy cheaply
+B) to forget about
+C) to throw away
+D) to pack / bring along and look after
+
+---
+
+**Q28.** Choose the particle: "나 브라질 갔다 와서 시차＿＿＿ 계속 엉망이더라고"
+
+A) 에서
+B) 한테
+C) 가
+D) 를
+
+---
+
+**Q29.** What does **맞다** mean in "브라질 시차가 난 진짜 잘 맞았어"?
+
+A) to meet someone
+B) to answer correctly
+C) to be hit
+D) to suit / fit well
+
+---
+
+**Q30.** What was hard after coming back to Korea, per "한국 돌아오니까 진짜 힘들더라고 적응이"?
+
+A) Getting used to Brazilian food
+B) Readjusting to Korean time after Brazil
+C) Learning Portuguese
+D) Getting a visa
+
+---
+
+**Q31.** Why does she think she turned on the 1-minute live in "그냥 심심해서 킨 거 같아"?
+
+A) Fans requested it
+B) She wanted to announce an album
+C) She was bored
+D) Her manager told her to
+
+---
+
+**Q32.** Fill in the blank: "그니까 나도 ＿＿＿ 라이브를 왜 한 거야"
+
+A) 아무래도
+B) 차라리
+C) 심지어
+D) 갑자기
+
+---
+
+**Q33.** What does **심지어** mean in "심지어 조식도 못 먹었어"?
+
+A) at least
+B) even / what's more (adds an extreme point)
+C) probably
+D) suddenly
+
+---
+
+**Q34.** The fan comment "갑자기 조식 먹으러 간다고 사라짐" ends in -ㅁ. What is this style?
+
+A) A polite honorific toward a senior
+B) A noun-style ending used in written comments or notes
+C) A question ending
+D) A command ending
+
+---
+
+**Q35.** Fill in the blank: "밤과자 품절이라고? ＿＿＿ 치지 마"
+
+A) 거짓말
+B) 품절
+C) 체력
+D) 감기
+
+---
+
+**Q36.** What does **품절** mean in "밤과자 품절이야?"?
+
+A) newly released
+B) expired
+C) sold out
+D) on sale
+
+---
+
+**Q37.** Why does she say the snacks might be sold out in "아마 그거 내가 다 사와서 그래"?
+
+A) Because too many fans came
+B) Because she herself bought them all
+C) Because the shop closed early
+D) Because the delivery was late
+
+---
+
+**Q38.** Choose the ending: "당연히 더우＿＿＿ 하면서 가디건을 벗고 갔다"
+
+A) 니까
+B) 지만
+C) 려고
+D) 도록
+
+---
+
+**Q39.** What happened with the cardigan in "당연히 더우니까 하면서 가디건을 벗고 갔다"?
+
+A) She took it off expecting heat, but it was cold
+B) She lost it at the waffle shop
+C) She was too hot in it
+D) She gave it to an unni
+
+---
+
+**Q40.** What is the French meaning of "추워가지고 아주 그냥 혼났네"?
+
+A) J'avais froid, mais j'étais ravie.
+B) J'avais si froid que j'ai vraiment dégusté.
+C) J'avais froid donc j'ai mis un manteau.
+D) J'avais froid et on m'a gentiment grondée.
+
+---
+
+**Q41.** After thinking it was snot, what did she realize with "아 하트야!"?
+
+A) It was a heart-shaped tissue design
+B) It was a sticker on her face
+C) It was a makeup stain
+D) It was a drawing by a fan
+
+---
+
+**Q42.** Choose the ending: "콧물인 줄 알았＿＿＿"
+
+A) 자
+B) 네
+C) 거든
+D) 을게
+
+---
+
+**Q43.** Choose the ending: "에휴 휴지 좀 꺼내＿＿＿"
+
+A) 보지 마
+B) 봤어
+C) 보네
+D) 볼게
+
+---
+
+**Q44.** What does "큰일 났다" mean? Choose the French meaning.
+
+A) Quelle bonne nouvelle !
+B) Je suis très fatiguée.
+C) Je suis dans de beaux draps, c'est la catastrophe.
+D) C'est trop grand.
+
+---
+
+**Q45.** What is the French meaning of "주사위는 던져졌어"?
+
+A) On joue aux dés ce soir.
+B) Le sort en est jeté.
+C) Les dés sont perdus.
+D) Il faut relancer le dé.
+
+---
+
+**Q46.** What reason does she give in "다른 머리를 할 수가 없어" for advising against short hair?
+
+A) Short hair is too expensive
+B) Her manager forbids it
+C) Once you start short hair, you can't do other styles; it's hard to grow out
+D) Short hair makes her catch colds
+
+---
+
+**Q47.** What does she say in "나 진짜 족발을 너무 많이 먹었어"?
+
+A) She will eat jokbal later
+B) She doesn't like jokbal
+C) She couldn't find any jokbal
+D) She ate too much jokbal
+
+---
+
+**Q48.** Fill in the blank: "＿＿＿이 떨어지는 느낌"
+
+A) 장점
+B) 체력
+C) 거짓말
+D) 품절
+
+---
+
+**Q49.** What is her routine in "10분 동안 6으로 가볍게 뛰어" and the following line?
+
+A) She walks 10 minutes and then runs 5
+B) She runs at 12 for 10 minutes and stops
+C) She runs at 6 for an hour without change
+D) She starts with 10 minutes at speed 6, then raises it by 0.5 every 5 minutes
+
+---
+
+**Q50.** What is the nuance of the ending in "그렇답니다"?
+
+A) An announcement of sad news
+B) A harsh, rude command
+C) A playful, polite storyteller tone: "so that's how it is"
+D) A question to an elder
+
+---
+
+
+---
+
+# Answer Key
+
+**Q1 — C)** She has a bad cold.
+감기가 심하게 들어서 means 'I have a bad cold, so...', and the next line says her breathing might be loud. Nothing in the lines mentions running or sleepiness.
+
+**Q2 — B)** A prediction about what will probably happen
+'내 숨소리가 좀 시끄러울 거야' means 'my breathing might be a bit loud'. -(으)ㄹ 거야 is a guess about the near future, not a promise.
+
+**Q3 — D)** 콧물
+'근데 이렇게 콧물 맛이' means 'But this taste of a runny nose...'. Only 콧물 (snot) fits a 'taste' she is joking about.
+
+**Q4 — A)** Wondering or worrying to herself about something uncertain
+She has just said 'I'm worried', so '내일 괜찮을까' is a self-directed 'will I be okay tomorrow?'. It is not an invitation.
+
+**Q5 — C)** 나 봐
+'너무 많이 먹었나 봐' means 'I think I ate too much'. -나 봐 is a guess from the situation. The other endings do not fit after 먹었.
+
+**Q6 — D)** 을
+'홍콩 와플을 먹고 왔어' means 'I went and ate a Hong Kong waffle'. 와플 ends in a consonant, so the object particle is 을, not 를. 이 and 에서 do not mark the thing eaten.
+
+**Q7 — A)** She is trying to recall something she experienced or knew before
+'와플 어디였더라 이름이' means 'Where was that waffle place... what was its name?'. -더라 is about recalling a past experience or fact.
+
+**Q8 — A)** 거든
+'에그타르트 매니저님이 사다 주셨거든' means 'the egg tart my manager bought for me, you see...'. -거든 gives background or a reason. The other options do not fit after 주셨.
+
+**Q9 — B)** 야지
+'잘 먹어야지' means 'I have to eat well'. -어야지 expresses a resolution or obligation to oneself. The other forms leave the sentence incomplete.
+
+**Q10 — C)** 에서
+'그래서 부랴부랴 공항에서 키트를 사서' means 'So I rushed to buy a kit at the airport'. 에서 marks the place where an action happens. 에게 is only for people.
+
+**Q11 — B)** It doesn't seem to be COVID, but might be the flu
+She says it doesn't seem to be COVID, and in the next line that she thinks it might be the flu. She never says she tested positive.
+
+**Q12 — D)** It reminds the listener of something they should already know
+'걸렸었잖아' means 'I had it before, you know'. -잖아 appeals to shared knowledge.
+
+**Q13 — A)** to catch (an illness)
+With an illness like 코로나 or 감기, 걸리다 means 'to catch'. The 'take time' meaning exists but does not fit here.
+
+**Q14 — C)** advantage and disadvantage
+장점 is a strength or advantage and 단점 is a weakness or disadvantage. -(이)자 joins them: 'both a pro and a con'.
+
+**Q15 — A)** Quel est le rapport avec mon emploi du temps ?
+무슨 상관이야 means 'what does that have to do with it?', so the whole line asks about the link with her schedule.
+
+**Q16 — D)** 한테
+'그래서 그거 좀 언니들한테 사다 달라 했어' means 'So I asked the unnis to buy some for me'. 한테 marks the person being asked. 을 would make the unnis the thing bought.
+
+**Q17 — C)** 에서
+'약국에서 사 먹어 본 감기약' means 'cold medicine I bought at a pharmacy and tried'. 에서 marks the place of the action. 에게 is for people.
+
+**Q18 — B)** 누웠는데
+'내가 이렇게 침대를 누웠는데' means 'I lay down on the bed like this...'. The other verbs do not make sense with 침대를 here.
+
+**Q19 — D)** 잊다 is the neutral 'forget / let slip from memory'; 까먹다 is casual and colloquial
+Both mean 'forget'. 까먹다 is everyday spoken language, as in #604, while 잊다 sounds a little more neutral or literary, as in 'I can never forget that moment'.
+
+**Q20 — A)** 는 줄
+'침대가 나를 삼키는 줄 알았어' means 'I thought the bed was swallowing me'. -는 줄 알았다 is 'thought that... (but it wasn't)'.
+
+**Q21 — A)** The sinking feeling when she lay down after taking NyQuil
+She took NyQuil, lay down right after the meeting, and felt the bed swallow her up. She compares it to the sinking scene in Get Out.
+
+**Q22 — A)** After finishing the action
+-고 나서 means 'after having done'. The line means 'after the bed swallowed me', and she woke up the next day.
+
+**Q23 — C)** Like she woke up with her brain washed clean
+She says that for the first time in years she felt as if her brain had been washed clean. That is why she became such a believer in NyQuil.
+
+**Q24 — D)** Coming to be in a state, ending up that way
+맹신하게 됐다 means 'I came to believe blindly'. -게 되다 describes a change that happened over time or by circumstance.
+
+**Q25 — A)** probably / after all
+아무래도 means 'in all likelihood' and introduces her best guess about where something was. 갑자기 is 'suddenly' and 심지어 is 'even'.
+
+**Q26 — B)** 영양제
+'내가 요새 영양제를 안 먹게 됐다' means 'I haven't been taking supplements lately'. You can 먹다 a supplement, but not jet lag, stamina or a lie.
+
+**Q27 — D)** to pack / bring along and look after
+챙겨가다 is 'to take along', i.e. make sure to have it with her. It fits her plan to take Vitamin C every morning.
+
+**Q28 — C)** 가
+'나 브라질 갔다 와서 시차가 계속 엉망이더라고' means 'My jet lag has been a mess since I got back from Brazil'. 시차 is the subject of 엉망이다, so it takes 이/가. 시차 ends in a vowel, so 가.
+
+**Q29 — D)** to suit / fit well
+With 시차 and 잘, 맞다 means the time difference suited her body. It is not 'to be right' or 'to be hit'.
+
+**Q30 — B)** Readjusting to Korean time after Brazil
+Brazil's time zone suited her, but 적응 (adjusting) back in Korea was hard. She is talking about jet lag.
+
+**Q31 — C)** She was bored
+심심해서 means 'because I was bored'. She says she did it out of boredom while very tired.
+
+**Q32 — D)** 갑자기
+'그니까 나도 갑자기 라이브를 왜 한 거야' means 'Why did I suddenly do a live stream?'. 갑자기 is 'suddenly'. 심지어 means 'even' and doesn't fit the question.
+
+**Q33 — B)** even / what's more (adds an extreme point)
+심지어 adds a more surprising item: 'I even couldn't eat breakfast'. It pairs naturally with 도 ('even').
+
+**Q34 — B)** A noun-style ending used in written comments or notes
+Ending a sentence in -(으)ㅁ gives a short, note-like style common in online comments. It is not a speech level, and it's the fan's words, not hers.
+
+**Q35 — A)** 거짓말
+'거짓말 치지 마' means 'Don't lie'. The set phrase is 거짓말(을) 치다. The other nouns can't be paired with 치다.
+
+**Q36 — C)** sold out
+품절 means an item is out of stock. She asks whether the chestnut snacks are sold out.
+
+**Q37 — B)** Because she herself bought them all
+사와서 그래 means 'it's because I bought them (and brought them)'. She jokes that she bought them all.
+
+**Q38 — A)** 니까
+'당연히 더우니까 하면서 가디건을 벗고 갔다' means 'I took off my cardigan, thinking "of course it'll be hot"'. -(으)니까 gives a reason, which is her thought at the time. The other options don't fit that logic.
+
+**Q39 — A)** She took it off expecting heat, but it was cold
+She assumed it would be hot in Hong Kong summer and left her cardigan, then she was freezing (추워가지고 혼났네).
+
+**Q40 — B)** J'avais si froid que j'ai vraiment dégusté.
+혼나다 literally means 'to be scolded', but here it means 'to have a rough time'. The line says she was so cold she suffered.
+
+**Q41 — A)** It was a heart-shaped tissue design
+She first thought she got snot on the tissue, then saw it was a heart. She calls it a 하트 휴지 (heart tissue).
+
+**Q42 — B)** 네
+'콧물인 줄 알았네' means 'I thought it was snot'. -네 shows surprise at a new discovery. The other endings don't fit.
+
+**Q43 — D)** 볼게
+'에휴 휴지 좀 꺼내볼게' means 'Sigh. Let me get out some tissues'. -(으)ㄹ게 announces what she will do, and 보다 adds 'try'. The other options give the wrong meaning.
+
+**Q44 — C)** Je suis dans de beaux draps, c'est la catastrophe.
+큰일 나다 means 'a big problem has come up'. She says it worrying about her stuffy nose for tomorrow's concert.
+
+**Q45 — B)** Le sort en est jeté.
+It is the Korean version of 'the die is cast': a decision has been made and can't be undone.
+
+**Q46 — C)** Once you start short hair, you can't do other styles; it's hard to grow out
+She says that once you start with a short cut you can't do other hairstyles, so she says not to taste it. She also finds growing hair out hard.
+
+**Q47 — D)** She ate too much jokbal
+먹었어 is past tense and 너무 많이 means 'too much'. She regrets how much jokbal she ate.
+
+**Q48 — B)** 체력
+'체력이 떨어지는 느낌' means 'a feeling that my stamina is dropping'. 체력 (stamina) is the thing that can drop.
+
+**Q49 — D)** She starts with 10 minutes at speed 6, then raises it by 0.5 every 5 minutes
+She runs lightly at 6 for 10 minutes, then adds 0.5 every 5 minutes. She only goes up to about 12 when pushing hard.
+
+**Q50 — C)** A playful, polite storyteller tone: "so that's how it is"
+-답니다 is a polite, slightly cute way to close an explanation. She uses it to wrap up the shoe-size talk.
