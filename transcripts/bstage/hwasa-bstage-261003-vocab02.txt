@@ -1,0 +1,158 @@
+HWASA BST4GE 261003 - VOCAB 02
+Source: https://www.youtube.com/watch?v=kXJIkj8DGi8
+Video: [마마무 화사] 261003
+Channel: @나의사계절마마무
+Uploaded: 2026-10-03 (claude-sonnet-5.5)
+============================================================
+
+Part 2 of 2 · 46:29–1:09:21 — The idol plays with fans, tries Korean tongue twisters, talks about cravings like yukgaejang, Buldak risotto and jokbal, a stuffy nose and Pawpaw cream, then says goodbye.
+
+1.
+KO: 유혹하다 (v; II-5)
+FR: séduire / tenter
+EN: to seduce / to tempt
+Context: [46:53] 유혹하기도 좋아
+
+2.
+KO: 쫓겨나다 (v; II-4)
+FR: être chassé / se faire virer
+EN: to be kicked out
+Context: [48:38] 안 돼 그럼 쫓겨나지 당연히
+
+3.
+KO: 안타깝다 (adj; II-4)
+FR: être regrettable / dommage
+EN: to be a pity / regrettable
+Context: [52:03] 안타깝다니
+
+4.
+KO: 불쌍하다 (adj; II-3)
+FR: être pitoyable / pauvre
+EN: to be pitiful / poor
+Context: [52:11] 불쌍해
+
+5.
+KO: 박탈 (n; II-6)
+FR: déchéance / révocation
+EN: deprivation / revocation
+Context: [53:07] 박탈 강퇴다
+
+6.
+KO: 멍청이 (n; II-4; informal)
+FR: crétin / imbécile
+EN: idiot / twit
+Context: [53:48] 멍청이
+
+7.
+KO: 맨날 (adv; II-3; informal)
+FR: tout le temps / chaque jour
+EN: always / every day
+Context: [58:12] 맨날
+
+8.
+KO: 저장하다 (v; II-3)
+FR: enregistrer / sauvegarder
+EN: to save / to store
+Context: [58:17] 하면서 맨날 저장하고 이러다 보니까
+
+9.
+KO: 알고리즘 (n; II-4; loanword)
+FR: algorithme
+EN: algorithm
+Context: [58:19] 이제 알고리즘이 다 그런 것만 뜨더라고
+
+10.
+KO: 어쩔 수 없다 (expr; II-3)
+FR: on n'y peut rien / inévitable
+EN: it can't be helped
+Context: [59:46] 어쩔 수 없어
+
+11.
+KO: 이해하다 (v; II-3)
+FR: comprendre
+EN: to understand
+Context: [59:48] 아프니까 이해해줘야 돼
+
+12.
+KO: 부수다 (v; II-4)
+FR: casser / écraser
+EN: to break / to crush
+Context: [1:00:27] 면을 부숴
+
+13.
+KO: 넣다 (v; I-2)
+FR: mettre dedans / ajouter
+EN: to put in / to add
+Context: [1:00:29] 부숴서 거기다가 밥을 넣어
+
+14.
+KO: 중독 (n; II-4)
+FR: addiction / dépendance
+EN: addiction
+Context: [1:01:50] 그리고 중독이 된다
+
+15.
+KO: 미치다 (v; II-4)
+FR: devenir fou / être dingue
+EN: to go crazy
+Context: [1:01:55] 다들 이것 때문에 미치겠어요
+
+16.
+KO: 생각나다 (v; II-3)
+FR: venir à l'esprit / penser à
+EN: to come to mind / to think of
+Context: [1:01:57] 맨날 생각나요
+
+17.
+KO: 경고 (n; II-4)
+FR: avertissement
+EN: warning
+Context: [1:02:00] 안 먹어본 사람한테는 미리 이제 경고를 해주더라고
+
+18.
+KO: 꽂히다 (v; II-5; informal)
+FR: être obsédé par / s'enticher de
+EN: to get hooked on / to be fixated on
+Context: [1:02:09] 나는 또 하나 꽂히면 계속 먹거든
+
+19.
+KO: 바르다 (v; II-3)
+FR: appliquer (crème) / étaler
+EN: to apply (cream) / to spread
+Context: [1:04:16] 그거 바르면 괜찮아질걸?
+
+20.
+KO: 향기 (n; II-3)
+FR: parfum / odeur agréable
+EN: scent / fragrance
+Context: [1:06:33] 그러니까 평소에는 향기 나는 걸 좋아하는데
+
+21.
+KO: 향수 (n; II-3)
+FR: parfum (produit)
+EN: perfume
+Context: [1:06:54] 요즘 나는 이제 향수는 꽂히는 게 없어
+
+22.
+KO: 촉촉하다 (adj; II-4)
+FR: être humide / hydraté
+EN: to be moist / moisturized
+Context: [1:07:12] 뭔가 촉촉해 보이지?
+
+23.
+KO: 퇴근하다 (v; II-3)
+FR: finir le travail / rentrer du travail
+EN: to leave work
+Context: [1:08:03] 얼른 퇴근해
+
+24.
+KO: 얼른 (adv; II-3)
+FR: vite / dépêche-toi
+EN: quickly / hurry
+Context: [1:08:03] 얼른 퇴근해
+
+25.
+KO: 멀쩡하다 (adj; II-5)
+FR: être en pleine forme / intact
+EN: to be perfectly fine / intact
+Context: [1:08:34] 그땐 너무 멀쩡할 거야
