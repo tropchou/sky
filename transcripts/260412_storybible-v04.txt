@@ -1,0 +1,142 @@
+HWASA BST4GE 260412 STORY BIBLE
+Source:
+Generated: 2026-11-02T00:00:00
+Model: claude-sonnet-5-5
+============================================================
+
+STORY BIBLE: Korean live-stream transcript (EN/FR)
+
+1. CHARACTERS / SPEAKERS
+
+- MAIN SPEAKER: Hwasa (화사), real name Ahn Hye-jin (안혜진), born 1995. Youngest member of MAMAMOO; solo artist signed to P Nation. She is streaming alone from home on Bstage.
+  - Pronouns: she/her in EN, elle in FR (feminine agreement: "pleine", "fatiguée", "venue").
+  - Chat calls her 혜진 씨 / 혜진이 / 나혜진 ([1:18:49], [1:32:06], [1:32:55]-[1:33:02]).
+  - 나혜진 ("Na Hye-jin") is a long-running fan-meme version of her name; she says it has "culture" and "history". Keep "Na Hye-jin" in quotes; do not "fix" it.
+- THE AUDIENCE: Fans, whom she calls 멍청이들 ("Twits"), after her 2019 solo debut "멍청이 (Twit)". Affectionate teasing, never harsh. "Twits" in both EN and FR.
+  - Once the secret hashtag is chosen she also hails them as 이삭토순이들 ("Isak-tosunis") ([1:47:57], [1:49:01]).
+  - She answers chat comments we cannot see. "~라고?", "~냐고?", "~대?" echo a viewer: render as "You're asking…? / You're saying…?" (FR "Tu demandes… ? / Tu dis… ?"). Some lines are her reading a comment aloud; put those in quotes (e.g. [31:58]-[32:04], [58:29], [59:13]-[59:14], [1:18:49], [1:22:14], [1:43:09]).
+- STAFF: 우리 스텝들 ([5:36]) ate rice cake (one person ate two packs). 사장님 ([1:10]) is the owner of the duck restaurant who fetched dureup and mushrooms from the countryside at dawn.
+- OTHERS MENTIONED:
+  - 별이 언니 ([8:12]) = Moonbyul (real name Moon Byul-yi), MAMAMOO member. Render "Byul-i unnie".
+  - 언니들 ([28:59]-[30:16]) = her MAMAMOO unnies (Solar, Moonbyul, Wheein). Hwasa is the youngest.
+  - 아빠 ([1:21:14]-[1:21:53]) = her father; his advice: a society running on a single opinion isn't healthy, it needs many opinions.
+  - 선생님 ([20:53]) = probably her diet/PT trainer who will scold her about the calories. Render "my teacher / mon prof".
+  - 지인 ([14:27]) = an acquaintance who served her sweet potato chips.
+  - Hong Kong 관계자분 ([27:58]) = someone from the local concert organizers who queued for Bakehouse egg tarts.
+  - The esthetician who keeps squeezing her eyebrow mole thinking it's a pimple ([55:14]-[55:47]); honorific verbs (짜시더라고) show it's an adult professional.
+
+2. SETTING & CONTEXT
+
+- WHEN: Late Sunday night 12 April 2026 (KST), starting around 23:15 ([7:37] is 11:39 PM), ~1h50m. Comeback week for the digital single "So Cute" (released 9 April 2026, ~6 months after the mega-hit "Good Goodbye").
+  - Music Bank performance of So Cute on 10 April 2026 ([1:17:30]): she found it hard to sing a purely happy song when she wasn't in that headspace, "sometimes a bit painful".
+  - Inkigayo the same day (12 April): she went to the pre-dawn pre-recording (사녹) with zero sleep, then fansigns. Two weeks of 2–3 hours' sleep a night beforehand.
+  - Earlier that evening: team dinner (회식) at a duck restaurant, a few drinks.
+- WHERE: Her home, under the yellow lighting she jokes is her "personal color" ([4:21], [5:16]-[5:22]). She washes her hands and brushes her teeth on stream ([2:50] "본격 칫솔 라이브" = "full-on toothbrushing live").
+- CONTENT TYPE: Unscripted late-night Bstage chat live, heavy on food.
+- PURPOSE: Fan communication: an eat-everything day recap, snack reviews, Q&A, reflections on performing So Cute, and inventing a secret hashtag with fans.
+
+3. KEY EVENTS
+
+- [0:12]-[1:31]: Opens with "couldn't hold back and came on". Chat asks about drinking; she ate duck (one or two ducks, later "a duck and a half"), plus dureup and mushrooms the owner brought.
+- [1:44]-[4:13]: Hand-washing, toothbrushing, belly "censorship" gag.
+- [4:21]-[7:24]: Yellow lighting gag; tteok tasting with chat (Changeok tteok ≈ injeolmi; this tteok ≈ baekseolgi/siru-tteok; pumpkin siru-tteok; roasted soybean powder). Lemon water "against blood-sugar spikes".
+- [7:31]-[9:01]: Tells fans to go home (11:39 PM). Changeok tteok is now sold out; back when she pushed it on everyone (thawing it every dawn), nobody wanted it; now Byul-i unnie says it's good.
+- [9:15]-[13:38]: New Ogamja; her new obsession, lotus-root chips (연근부각): drinking snack, "creamy potato chip" taste. Advises not ordering lotus chips just anywhere.
+- [13:51]-[14:47]: Sweet potato chips discovered at an acquaintance's house; Coupang availability.
+- [16:02]-[17:55]: 2 hours' sleep; two weeks on 2–3 hours; Inkigayo with no sleep: "didn't know who I was", couldn't smile; nobody remembers the day.
+- [18:02]-[20:05]: No favourite dating show; nostalgia for X-Man / Love Letter and the X-Man dance introduction songs (sexy dance, "SexyBack", "Toxic" as the classic). She could do Toxic and tear the place up.
+- [20:26]-[20:53]: Checking calories after eating, a "universal rule"; will be scolded by her trainer tomorrow.
+- [21:13]-[23:17]: Likes SF and Harry Potter; Project Hail Mary (film released March 2026), fans tell her to see it in IMAX at Yongsan; plans to go tomorrow.
+- [25:12]-[27:42]: Lotus-root chips vs sweet potato chips (today: sweet potato). Converted from "potato camp" to "sweet potato camp". Butter tteok vs Dubai chewy cookie (butter tteok; DCC is "one bite and done").
+- [27:49]-[30:16]: Bakehouse egg tarts in Hong Kong: two boxes gifted while she was dieting for the comeback; nearly hid them from the unnies, then shared "pinching my thigh" after a moment of "meditation"; sharing made her happy.
+- [30:46]-[31:37]: HK vs Korean egg tarts; a neighbourhood shop she gifts from.
+- [31:58]-[32:42]: Reads a fan comment wanting to learn Korean; mock-formal reply "My language is dangerous."
+- [32:58]-[36:14]: Belly "twins", poop joke, round two: Häagen-Dazs Pistachio (403 ml × 242 kcal/100 ml ≈ 975 kcal, "over 900"), mock-solemn announcer intro.
+- [36:48]-[37:58]: Day's food list: Mutukduk sweet potato chips + potato chips at dawn, sleep after pre-recording, Nunettine + yogurt + protein shake, a duck and a half, cake, World Cone, lotus-root chips, sweet potato chips (KO "꼬꼬막집", see ambiguities), Häagen-Dazs.
+- [38:28]-[39:18]: Asked her favourite "불명" stage; hums a trot song ("Dumesangol"/"Sangol Sonyeo"); see ambiguities.
+- [39:32]-[41:48]: Namul likes (naengi, spinach, dureup, mushrooms, gosari, minari, buchu) and dislikes (doraji, beans, kidney beans, taro, peas — but likes the green pea jam); loves cucumber.
+- [42:32]-[46:13]: "Triplets… quadruplets"; blood-sugar spike; fights sleep: "If I sleep now I lose."
+- [48:01]-[51:43]: Lip combo (O Muse); denies being sleepy; "Nobody leaves this room"; yawns are "not contagion, you're all just sleepy".
+- [52:07]-[52:28]: "I always wash up" — "last time I slept without washing, forget it."
+- [54:09]-[57:33]: Can't wear contacts; the eyebrow mole people squeeze; a new mole; hand-on-chin habit; left-hand mole superstition ("your last life").
+- [59:12]-[1:01:12]: Parallel universe: she'd be a Mutukduk sweet potato chip; "eat me so I can be reborn"; freeze-dry joke.
+- [1:01:37]-[1:04:42]: Promises not to vanish this time; mini fan-meeting format; fansign schedule packed, no day off, but grateful.
+- [1:05:35]-[1:11:57]: Laughs about dazed fans at the pre-dawn Inkigayo pre-recording: paper crowns slipped round necks, vacant stares; quiet at rehearsal, then cheers explode when recording starts — "that's being a pro".
+- [1:12:42]-[1:15:31]: Song she'd re-promote: Maria (2020). Regrets that era (back injury, injections, weight gain, looked worn out); has never watched those music-show stages. Songs written from the heart stay alive; writing them "shortens my lifespan".
+- [1:15:36]-[1:18:32]: Happy songs are harder: So Cute is purely happy, and singing it on a tired day "is sometimes painful"; Music Bank was hard. Darker songs (Twit, Maria, I'm a B) she's immersed in instantly; I Love My Body has a different texture.
+- [1:18:49]-[1:20:46]: Bright and dark coexist; too bright or too dark both look like hurting; "the brighter the light, the darker the shadow"; no need to try too hard.
+- [1:20:55]-[1:22:18]: Her father on diverse opinions; fans quip "as expected of my darling's dad / father-in-law" (fans playfully "married" to Hwasa).
+- [1:22:50]-[1:25:11]: Morning-call lines and a So Cute parody ("What I want… is a sweet potato").
+- [1:25:19]-[1:29:24]: Where to post: Twitter (#Hwasa), not YouTube/Insta; fans explain the tag is flooded, suggest a rare tag.
+- [1:29:28]-[1:46:32]: Main set piece: picking a secret hashtag (암구호). Candidates: 혜진이의 작은 귀여움 ("Hye-jin's Little Cuteness", too honest), 종이왕관 동호회 ("Paper Crown Club"), 나혜진, 바다 토순이, 오순토순이, 맘슨토치, 이삭토순이. Vote → #이삭토순이, no space, sort by latest. She may lurk but not make an official account.
+- [1:46:49]-[1:49:15]: Closing: will wash up and search the tag; mock fury at whoever posted her belly pic; goodnight.
+
+4. TERMINOLOGY & PROPER NOUNS
+
+- THE SECRET HASHTAG: 이삭토순이 → "Isak-tosuni" (#이삭토순이). Pure wordplay, no deeper cultural reference:
+  - 이삭토스트 = Isaac Toast, a ubiquitous Korean toast-sandwich chain. Swap "토스트" (toast) for 토순이.
+  - 토순이 = a stock cutesy name for a pet rabbit (토끼 "rabbit" + -순이, an old-fashioned girl's-name suffix, like "Bunny-belle"). Fans floated "Tosuni" as a name for Hwasa; she finds it cute but "infuriating" that Tosuni = Hwasa ([1:33:36]-[1:34:01]), which is exactly the vibe she wanted for Twitter.
+  - The joke: it reads like a typo of a fast-food brand, so outsiders who stumble on it will think it's "some weird group" or that Hwasa models for Isaac Toast ([1:44:40]-[1:46:07]). [1:37:02] "Can you only think of toast?" confirms the pun.
+  - Sibling candidates follow the same "food brand / idiom + Tosuni" pattern: 오순토순이 = 오순도순 ("cosily together") + 토순이; 맘슨토치 = a garbled spoonerism of 맘스터치 (Mom's Touch, burger chain). Romanize "Osun-tosuni", "Mamseun-tochi".
+  - "이삭토스니" / "이삭투순이" ([1:39:16]-[1:43:13]) are slips/ASR: always translate as "Isak-tosuni".
+- FOOD
+  - 오리 (duck); 삼겹살 (samgyeopsal, pork belly)
+  - 두릅 (dureup, aralia shoots; ASR "두루비"). Use "dureup" consistently.
+  - 연근부각 (yeongeun-bugak, fried lotus-root chips; ASR "연금부가", "연근무각", and "영감복" at [25:17]-[25:23])
+  - 오감자 (Ogamja, Orion potato snack); 고구마칩 (sweet potato chips)
+  - 무뚝뚝 (Mutukduk) = a sweet-potato-chip brand ([26:16] "문득뚝", [36:54], [1:00:23] "고구마집" = 고구마칩)
+  - Tteok: 인절미 (injeolmi), 백설기 (baekseolgi), 시루떡 (siru-tteok), 호박시루떡 (pumpkin siru-tteok); 콩고물 (roasted soybean powder); 호박죽 (pumpkin porridge)
+  - 창억떡 (Changeok tteok, a Gwangju rice-cake brand; ASR "창어 / 창호 / 창업")
+  - 버터떡 (butter tteok); 두쫀쿠 (Dubai chewy cookie; ASR "두쫑코", "두쪽구")
+  - 버터 러스크 (butter rusk; "시어 솔티드 버터로스" at [27:24] probably "sea salted butter rusk")
+  - Bakehouse (베이크하우스) = Hong Kong bakery famous for sourdough egg tarts
+  - 누네띠네 (Nunettine pastry snack); 월드콘 (World Cone); 하겐다즈 피스타치오 (Häagen-Dazs Pistachio)
+  - 나물 (namul, seasoned greens): 냉이 naengi (shepherd's purse), 시금치 spinach, 미나리 minari (water dropwort), 부추 buchu (garlic chives), 쑥갓 ssukgat (crown daisy), 고사리 gosari (bracken), 도라지 doraji (bellflower root), 토란 taro
+- ENTERTAINMENT
+  - 인기가요 (Inkigayo, SBS), 뮤직뱅크 (Music Bank, KBS). "인가" = Inkigayo.
+  - 사녹 (사전녹화) = music-show pre-recording. ASR renders it "산옥", "인가산옥", "인간 산옥" ([1:05:44], [1:07:02]) and "산후" ([36:59]). Translate "Inkigayo pre-recording".
+  - 팬싸 (fansign). 미니 팬미팅 (mini fan meeting).
+  - 엑스맨 (X-Man) and 연애편지 (Love Letter): 2000s SBS variety shows. 댄스 신고식 = the "dance introduction".
+  - Songs at X-Man intros: "SexyBack" (Justin Timberlake), "Toxic" (Britney Spears; ASR "톡식", "톡찍").
+  - 프로젝트 헬멜 = Project Hail Mary; IMAX at Yongsan (CGV).
+  - Hwasa songs: So Cute (2026), Good Goodbye (2025), I Love My Body (2023), I'm a B (2021; ASR "I'm a bit." at [1:18:11]), Maria (2020), 멍청이 / Twit (2019).
+  - 불명 ([38:28] "막막불명") = most likely 불후의 명곡 (Immortal Songs, KBS). Unconfirmed.
+  - 오뮤즈 (O Muse), lip-product brand ([48:29]-[49:30]).
+- OTHER
+  - 쿠팡 (Coupang); 영등포 (Yeongdeungpo); 용산 (Yongsan); 홍콩 (Hong Kong)
+  - 샵 = "#". 샵 화사 → "hashtag Hwasa" (EN/FR). In search instructions keep the symbol: "#Isak-tosuni".
+  - 암구호/암구어 = password/challenge word (military origin); 눈팅 = lurking (FR "regarder en silence"); 불펌 = reposting without permission; 국룰 = "the unwritten rule everyone follows"; 주접 = over-the-top fan antics.
+  - 종이왕관 = paper crowns fans wore at Inkigayo; inspires the "Paper Crown Club" candidate.
+  - 새싹둥이 ("baby sprout"), 똥꼬 동생 ("a little sibling for my butt") = food-baby / poop jokes. Keep silly, not crude.
+
+HONORIFICS
+- 언니/언니들: "unnie(s)" in both EN and FR.
+- 사장님: "the owner / le patron".
+- 혜진 씨: "Hye-jin".
+- 어머니 ([54:51]) is a playful address to a commenter: "Thank you, Mother" / "Merci, Mère".
+- 장인어른 ([1:22:18]) = "father-in-law / beau-papa"; 여비 ([1:22:14]) ≈ 여보 "darling/honey (spouse)".
+
+5. TRANSLATION NOTES
+
+- TONE/REGISTER: Casual 반말 with warmth and teasing; mock-formal 존댓말 for comedy (language roleplay [32:08]-[32:09], ice-cream announcer [35:01]-[35:58], "미나리 좋아합니다").
+- FR ADDRESS (revised): use "vous" when she addresses the whole chat ("vous voyez ?", "vous savez ?", "restez tranquilles"); use "tu" when she answers or echoes a single commenter ("Tu demandes… ?"). Avoid gendering individual viewers ("chez toi" rather than "rentrée").
+- RUNNING GAGS:
+  - Hiding/"censoring" the belly; food baby count: twins → triplets → quadruplets.
+  - "칼로리계의 염라대왕" = "the Yama (King of the Underworld) of the calorie world".
+  - 국룰; "뭔지 알지?" = "you know what I mean?"; 맞아 / 그치 = short backchannels.
+  - Fighting sleep: "If I sleep now, I lose."
+- KEY THEMES TO PRESERVE:
+  - Happy vs dark songs ([1:15:36]-[1:18:32]): performing purely happy So Cute when tired is "sometimes painful"; dark songs immerse her instantly. Keep "painful" (고통스러워), not a softer word.
+  - Bright/dark balance ([1:18:58]-[1:20:46]) and the father's "many opinions = healthier society".
+  - Father-in-law joke ([1:22:14]-[1:22:18]): fans calling her dad their father-in-law = fans "married" to Hwasa. Render the chat line as a quote ("As expected of my darling's dad"), and her reply as teasing ("Sneaking in 'father-in-law'…").
+- AMBIGUITIES (keep literal / flag):
+  - [1:48] "와겠다", [3:47] "Hello So Cute", [45:49]-[45:52] "I love you / Allison": chat noise, don't interpret.
+  - [21:18] "할리포터" = Harry Potter.
+  - [22:45] "베이비 동클라인": unclear (Project Hail Mary related?). Leave transliterated.
+  - [25:17]/[25:23] "영감복" translated as lotus-root chips (연근부각) from context (the earlier "can't choose" between lotus vs sweet potato chips).
+  - [37:54] "꼬꼬막집" translated as "sweet potato chips" (고구마칩), the snack she chose that night; unconfirmed.
+  - [38:28]-[39:18] "불명" stage and the hummed trot song ("Sangol Sonyeo"/"Dumesangol"): unconfirmed; transliterated.
+  - [41:31] "뽀용한 건", [49:30] "오두모아가", [54:33] "성운소이", [55:03] "알바팩", [1:29:42] "미카사", [50:58] "네니요", [1:06:43] "쇼카우트" (possibly a show name): unclear; transliterated.
+  - [1:14:23] "낫다는": unclear; rendered as her having regrets.
+  - [12:21] "서울" may be ASR noise; translated literally.
+- FILE-LEVEL QC FLAGS (KO side, left untouched): [35:01 is missing its closing bracket; [1:24:1] should probably be [1:24:14]; the second [54:11] entry has an empty KO line but carries "Seongun-soi" in FR/EN; [1:18:11] KO reads "I'm a bit." (song title "I'm a B").
