@@ -1,6 +1,8 @@
 HWASA BST4GE 260412 STORY BIBLE
-Source:
-Generated: 2026-11-02T00:00:00
+Source: https://www.youtube.com/watch?v=vBSHP2wf5_w
+Video: [마마무 화사] 260412
+       [Mamamoo Hwasa] 260412
+Channel: @나의사계절마마무
 Model: claude-sonnet-5-5
 ============================================================
 
