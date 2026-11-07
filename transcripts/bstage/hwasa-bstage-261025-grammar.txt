@@ -1,0 +1,2956 @@
+=== [0:07] 복숭아 먹을래? ===
+meaning: Do you want a peach?
+tone: Casual, friendly offer to the viewers; playful opener.
+--- word ---
+term: 복숭아
+type: noun
+breakdown: 
+meaning: peach
+notes: Casual fruit word. Korean peaches are often eaten fresh and juicy. No particle here because casual speech often drops the object particle 를 (object marker).
+--- word ---
+term: 먹을래?
+type: verb ending
+breakdown: 먹다 (to eat) + -을래 (do you want to)
+meaning: do you want to eat?
+notes: Casual (banmal, informal speech) question. -(으)ㄹ래? asks about the listener's wish or offers something. With 'I' as subject it states what you want (먹을래 = I'll eat). Polite version: 드실래요? Learner tip: it is not used to ask about past events.
+--- grammar ---
+pattern: -(으)ㄹ래(요)?
+meaning: Asks whether the listener wants to do something, or states what the speaker will do, in casual speech
+example: 커피 마실래? (Do you want to drink coffee?)
+level: Beginner
+
+=== [0:14] 안녕. ===
+meaning: Hi.
+tone: Casual greeting, short and warm.
+--- word ---
+term: 안녕.
+type: interjection / greeting
+breakdown: 안녕 (peace, well-being)
+meaning: hi
+notes: Casual banmal (informal speech) greeting used for hello and goodbye among friends. Polite: 안녕하세요. Idols use it with fans to sound close. Don't use it to elders or strangers.
+
+=== [0:19] 하즈메 마시떼. ===
+meaning: Hajimemashite! (Japanese for "Nice to meet you")
+tone: Playful; she jokes in Japanese, likely because she is in Japan.
+--- word ---
+term: 하즈메 마시떼
+type: foreign phrase (Japanese)
+breakdown: はじめまして (hajimemashite) written in Korean letters
+meaning: nice to meet you (first meeting)
+notes: Japanese greeting used when first meeting someone. Korean writing approximates the sounds: 시 for し, 떼 for て. The Korean equivalent is 처음 뵙겠습니다 (formal) or 만나서 반갑습니다 (nice to meet you). Here it is a joke, since viewers already know her.
+
+=== [0:24] 하즈메 마시떼. ===
+meaning: Hajimemashite! (Japanese for "Nice to meet you")
+tone: Playful; she jokes in Japanese, likely because she is in Japan.
+--- word ---
+term: 하즈메 마시떼
+type: foreign phrase (Japanese)
+breakdown: はじめまして (hajimemashite) written in Korean letters
+meaning: nice to meet you (first meeting)
+notes: Japanese greeting used when first meeting someone. Korean writing approximates the sounds: 시 for し, 떼 for て. The Korean equivalent is 처음 뵙겠습니다 (formal) or 만나서 반갑습니다 (nice to meet you). Here it is a joke, since viewers already know her.
+
+=== [0:40] 머리 엄청 많이 길렀지? ===
+meaning: I've grown my hair out a lot, haven't I?
+tone: Casual, chatty, seeking agreement from viewers.
+--- word ---
+term: 머리
+type: noun
+breakdown: 
+meaning: hair / head
+notes: Means both head and hair; context decides. Hair on the head is 머리 or 머리카락 (strand of hair). Casual speech drops the particle 를.
+--- word ---
+term: 엄청
+type: adverb
+breakdown: 
+meaning: extremely, really
+notes: Colloquial intensifier, more casual than 매우 (very, formal). Similar: 진짜 (really), 되게 (pretty/very).
+--- word ---
+term: 많이
+type: adverb
+breakdown: 많다 (to be many) + -이
+meaning: a lot
+notes: Adverb form of 많다. Stacking 엄청 많이 adds emphasis (a whole lot).
+--- word ---
+term: 길렀지?
+type: verb ending
+breakdown: 기르다 (to grow, raise) + -었- (past) + -지 (right?)
+meaning: I grew it, right?
+notes: 기르다 is irregular (르 irregular): 기르 → 길ㄹ + 렀. Used for growing hair, beards, and raising pets or kids. Don't confuse with 길다 (to be long). -지? seeks confirmation, like 'right?' or 'don't you think?'
+--- grammar ---
+pattern: -지?
+meaning: Tag question seeking agreement or confirmation, casual
+example: 맛있지? (It's tasty, right?)
+level: Beginner
+
+=== [0:54] 머리 떡진 거 아니야. ===
+meaning: My hair isn't greasy.
+tone: Casual, playfully defensive; she is joking about her hair.
+--- word ---
+term: 머리
+type: noun
+breakdown: 
+meaning: hair
+notes: Topic here, with the topic particle omitted in casual speech.
+--- word ---
+term: 떡진
+type: verb (modifier)
+breakdown: 떡지다 (to get matted/clumped, greasy) + -ㄴ
+meaning: matted, greasy
+notes: 떡지다 literally 'to become like rice cake (떡)'. It describes hair clumped together from oil or product. Colloquial. The -ㄴ ending makes it a past/completed modifier: hair that has become greasy.
+--- word ---
+term: 거
+type: noun (bound noun, contraction)
+breakdown: 것 (thing) contracted
+meaning: the thing / case
+notes: Casual contraction of 것. Turns the modifier into a noun phrase: 'a case of greasy hair'.
+--- word ---
+term: 아니야.
+type: adjective ending
+breakdown: 아니다 (to not be) + -야
+meaning: it isn't
+notes: Casual banmal (informal speech) form of 아니다. The polite form is 아니에요. Pattern: 'X는 Y가 아니다' means X is not Y. Here the 이/가 particle is dropped: 거 아니야.
+--- grammar ---
+pattern: -ㄴ/은 거 아니야
+meaning: It's not that...; it isn't a case of... (denying an assumption)
+example: 화난 거 아니야. (I'm not angry.)
+level: Intermediate
+
+=== [0:56] 제품 바른 거야. ===
+meaning: It's styling product I put on.
+tone: Casual, explanatory; follows up the previous line with the correction.
+--- word ---
+term: 제품
+type: noun
+breakdown: 
+meaning: product
+notes: Hanja-based word (hanja = Chinese-character roots) meaning product or item. Here it means hair styling product, understood from context. Particle 을 is dropped in casual speech.
+--- word ---
+term: 바른
+type: verb (modifier)
+breakdown: 바르다 (to apply, spread) + -ㄴ
+meaning: applied
+notes: 바르다 means to apply on the skin or hair (lotion, makeup, paint). It is 르 irregular: 바르 → 발ㄹ in -아/어 forms. Not to be confused with 바르다 meaning 'upright, correct', a different word with the same spelling.
+--- word ---
+term: 거야.
+type: noun + copula ending
+breakdown: 것 (thing) + 이다 + -야
+meaning: it's a case of / it is that
+notes: Casual 거야 explains or asserts a reason: 'it's that I put on product'. Contraction of 것이야. Polite: 거예요. Learners often confuse it with the future -ㄹ 거야, but here it follows a past modifier -ㄴ, so it explains.
+--- grammar ---
+pattern: -ㄴ/은 거야
+meaning: Explains a situation: 'it's that I did...' (casual)
+example: 숙제한 거야. (I did the homework, that's the thing.)
+level: Intermediate
+
+=== [1:30] 안녕하십니까. ===
+meaning: Hello, everyone.
+tone: Mock-formal; she suddenly switches to a very formal register as a joke.
+--- word ---
+term: 안녕하십니까.
+type: greeting (formal)
+breakdown: 안녕하다 (to be well) + -시- (honorific) + -ㅂ니까 (formal question ending)
+meaning: Hello (very formal)
+notes: Formal register (하십시오체, the most formal speech style) common in broadcasts, the military, presentations, and business. Contrast with 안녕하세요 (standard polite) and 안녕 (casual). Here it is a comic contrast to her casual speech. It ends as a question form, but works as a greeting and is not answered with information.
+--- grammar ---
+pattern: -ㅂ니다/-습니다, -ㅂ니까/-습니까
+meaning: Formal polite sentence endings (statement/question) used in speeches, news, and business
+example: 감사합니다. (Thank you.)
+level: Beginner
+
+=== [1:32] 저는 안혜진이라고 합니다. ===
+meaning: My name is Ahn Hyejin.
+tone: Mock-formal self-introduction, continuing the joke from the previous line.
+--- word ---
+term: 저는
+type: pronoun + topic particle
+breakdown: 저 (I, humble) + 는 (topic marker)
+meaning: I (as for me)
+notes: 저 is the humble form of 나 (I). Used with elders, strangers, and in formal settings. She uses it here for the mock-formal tone, though she normally says 나.
+--- word ---
+term: 안혜진이라고
+type: noun + quotation particle
+breakdown: 안혜진 (Ahn Hyejin) + 이라고 (called / quoting)
+meaning: called Ahn Hyejin
+notes: Ahn Hyejin is her real name. -(이)라고 marks a name or quote: 'X라고 하다' means to be called X. 이라고 after a consonant ending, 라고 after a vowel. Here 진 ends in a consonant, so 이라고.
+--- word ---
+term: 합니다.
+type: verb ending (formal)
+breakdown: 하다 (to say/do) + -ㅂ니다 (formal statement ending)
+meaning: (I) am called / say
+notes: Formal register. Here 하다 acts as 'say': literally 'I say that I am called Ahn Hyejin.' Standard polite: 저는 안혜진이라고 해요. Common in self-introductions and often shortened to 저는 안혜진입니다.
+--- grammar ---
+pattern: N(이)라고 하다
+meaning: To be called N / to say it is N; used for names and introductions
+example: 제 이름은 민수라고 합니다. (I'm called Minsu.)
+level: Beginner
+
+=== [1:38] 아 이 자리가 편하다. ===
+meaning: Ah, this spot is comfortable.
+tone: Casual, relaxed; she is settling into her spot at the start of the live.
+--- word ---
+term: 아
+type: interjection
+breakdown: 
+meaning: ah
+notes: Casual filler showing a feeling or realization. Here it expresses relief at getting comfortable.
+--- word ---
+term: 이
+type: determiner
+breakdown: 
+meaning: this
+notes: Points to something near the speaker. It always comes before a noun, as in 이 자리 (this spot).
+--- word ---
+term: 자리가
+type: noun + subject particle
+breakdown: 자리 + 가
+meaning: the spot / seat
+notes: 자리 means a place, seat, or spot. 가 marks the subject of the sentence. Learners often confuse 가 with 는 (topic particle); 가 here puts focus on the spot itself being comfortable.
+--- word ---
+term: 편하다
+type: adjective (plain form)
+breakdown: 편하다 (편하- + -다)
+meaning: is comfortable
+notes: Plain, dictionary-style ending, used in casual speech as a statement or a mutter to oneself, so it sounds like thinking aloud. Polite form: 편해요 (it's comfortable). Casual: 편해.
+--- grammar ---
+pattern: Adjective stem + -다 (plain declarative)
+meaning: Plain-style statement, often used for self-talk or exclamations in casual speech.
+example: 날씨가 좋다. (The weather is nice.)
+level: Beginner
+
+=== [1:48] 토크가 ... 잘 터지나? ===
+meaning: Is the talk … coming through okay?
+tone: Casual, checking the connection; trailing pause, and the sentence is a self-directed question.
+--- word ---
+term: 토크가
+type: noun + subject particle
+breakdown: 토크 + 가
+meaning: the talk
+notes: 토크 is the English loanword 'talk', meaning a chat session or talk show. 가 marks the subject. She means this live talk session.
+--- word ---
+term: ...
+type: pause
+breakdown: 
+meaning: (pause)
+notes: Marks a hesitation in speech. Something is left out or she is searching for words.
+--- word ---
+term: 잘
+type: adverb
+breakdown: 
+meaning: well
+notes: Very common adverb meaning well, properly, or often. Here it means smoothly, with a good signal.
+--- word ---
+term: 터지나?
+type: verb + question ending
+breakdown: 터지다 (to burst, pop) + -나
+meaning: does it come through?
+notes: 터지다 literally means to burst or explode. In slang, 잘 터지다 about phones or Wi-Fi means getting good reception. The ending -나 is a casual, soft question, often used when wondering aloud or asking oneself. Per the context, she is checking the signal.
+--- grammar ---
+pattern: Verb stem + -나? (casual wondering question)
+meaning: Asks a question in a casual way, often to oneself, meaning 'I wonder if...' or 'does it...?'
+example: 비가 오나? (Is it raining, I wonder?)
+level: Intermediate
+
+=== [1:59] 잘 터져? ===
+meaning: Is it coming through okay?
+tone: Casual, echoing a chat comment; she is asking viewers to confirm.
+--- word ---
+term: 잘
+type: adverb
+breakdown: 
+meaning: well
+notes: Means well or properly. It sits right before the verb it modifies.
+--- word ---
+term: 터져?
+type: verb (casual question)
+breakdown: 터지다 → 터져 (터지- + -어)
+meaning: does it come through?
+notes: Casual 반말 (informal speech) form. Adding a rising tone makes it a question. Polite form: 터져요? In this context 터지다 refers to the signal getting through. Its basic meaning is to burst or explode, so be careful when you see it elsewhere.
+
+=== [2:05] 콘서트의 연이 느껴지는 헤어지. ===
+meaning: Hair that carries the afterglow of the concert, right?
+tone: Playful, casual; a fragment where she points at her hair, with a wordplay-style 'hair, right?'.
+--- word ---
+term: 콘서트의
+type: noun + possessive particle
+breakdown: 콘서트 + 의
+meaning: of the concert
+notes: 콘서트 is the loanword 'concert'. 의 shows possession or relation, like 'of' or an apostrophe-s. In speech it is often pronounced 에.
+--- word ---
+term: 연이
+type: noun + subject particle (likely misheard)
+breakdown: 연 + 이 (probably 여운 'afterglow')
+meaning: afterglow, lingering feeling
+notes: Per the context, this probably stands for 여운 (lingering feeling after an event). 여운이 남다 means the afterglow lingers. Check the context because the transcript seems to be an approximation.
+--- word ---
+term: 느껴지는
+type: verb + modifier ending
+breakdown: 느껴지다 (느끼다 to feel + -어지다 passive) + -는
+meaning: that can be felt
+notes: 느껴지다 means to be felt or to come across. The ending -는 turns the verb into a modifier of the noun that follows, like 'that is felt'.
+--- word ---
+term: 헤어지
+type: noun + sentence ending (wordplay)
+breakdown: 헤어 (hair) + 지
+meaning: hair, right?
+notes: 헤어 is the English loanword 'hair', and -지 is a casual ending seeking agreement, meaning 'right?' or 'you know'. Note that 헤어지다 is a real verb meaning to break up or part, so this is a playful pun. It is a loanword plus a native ending.
+--- grammar ---
+pattern: Verb stem + -는 + noun (present modifier)
+meaning: Turns a verb into a descriptive phrase for the noun, like 'the noun that does X'.
+example: 느껴지는 감정 (a feeling that is felt)
+level: Beginner
+--- grammar ---
+pattern: -지 (casual ending)
+meaning: Seeks confirmation or states something obvious, like 'right?' or 'you know'.
+example: 맛있지? (It's tasty, right?)
+level: Beginner
+
+=== [2:08] 그니까 ===
+meaning: So…
+tone: Casual filler, transitional; the thought continues in the next line.
+--- word ---
+term: 그니까
+type: conjunctive adverb (contraction)
+breakdown: 그러니까 → 그니까
+meaning: so, that's why
+notes: A contraction of 그러니까 (therefore, so). It is very common in casual speech as a filler to start or restart a thought, and does not necessarily mean strict cause and effect. In some contexts it means 'exactly, that's what I'm saying', but here it is 'So,'. Do not confuse it with agreement.
+
+=== [2:14] 많이 들어주시구요 ===
+meaning: Please listen a lot, and…
+tone: Polite but warm, to the fans; a fragment ending in -구요 that continues the thought.
+--- word ---
+term: 많이
+type: adverb
+breakdown: 많다 + -이
+meaning: a lot
+notes: Adverb form of 많다 (to be many or much). Used with verbs to mean 'a lot', as in 많이 먹어 (eat a lot).
+--- word ---
+term: 들어주시구요
+type: verb + connective ending
+breakdown: 듣다 (to listen) → 들어 + 주다 (to do for someone) + -시- (honorific) + -구요 (-고요)
+meaning: please listen (for me), and…
+notes: 듣다 is an irregular verb (ㄷ becomes ㄹ before a vowel), so it becomes 들어. -어 주다 means to do something for someone. -시- is the honorific infix, a polite touch toward the fans. -구요 is the colloquial form of -고요, meaning 'and' or a soft trailing ending. In speech it often hints that more is coming.
+--- grammar ---
+pattern: -어/아 주시다
+meaning: Honorific 'please do (something) for me/us'; polite request or description.
+example: 읽어 주세요. (Please read it for me.)
+level: Intermediate
+--- grammar ---
+pattern: Verb stem + -구요 (-고요)
+meaning: Connects clauses with 'and', or softly trails off in speech.
+example: 밥 먹고요, 커피도 마셨어요. (I ate, and I also had coffee.)
+level: Beginner
+
+=== [2:18] 목이 셔서 불러줄 수가 없다 ===
+meaning: My voice is hoarse, so I can't sing for you.
+tone: Casual, slightly self-deprecating; she explains her voice is shot after the concert.
+--- word ---
+term: 목이
+type: noun + subject particle
+breakdown: 목 + 이
+meaning: throat / voice
+notes: 목 means neck or throat. In singing contexts, 목 stands for the voice, as in 목이 쉬다 (voice gets hoarse). 이 marks the subject.
+--- word ---
+term: 셔서
+type: verb + connective ending
+breakdown: 쉬다 (to become hoarse) → 쉬어 → 셔 + -서; likely heard as 쉬어서
+meaning: because it's hoarse, so
+notes: Probably 쉬어서 contracted in speech (쉬어 → 셔). The transcript says 셔, which fits a casual pronunciation. -서 gives a reason and links to the next clause. 목이 쉬다 means to lose your voice or be hoarse.
+--- word ---
+term: 불러줄
+type: verb + modifier ending
+breakdown: 부르다 (to sing, call) → 불러 + 주다 (do for someone) + -ㄹ
+meaning: to sing for (you)
+notes: 부르다 is an irregular 르 verb, which becomes 불러. -어 주다 means doing for someone. -ㄹ is the future/potential modifier, used before 수.
+--- word ---
+term: 수가
+type: bound noun + subject particle
+breakdown: 수 + 가
+meaning: way, possibility
+notes: 수 means a way or possibility. Together with 없다 it forms -ㄹ 수 없다 (cannot). Adding 가 emphasizes the inability: 'there's just no way I can'.
+--- word ---
+term: 없다
+type: adjective (plain form)
+breakdown: 없다
+meaning: there isn't
+notes: Plain-form ending in casual speech. Polite: 없어요. Here it works as the 'cannot' part of the pattern.
+--- grammar ---
+pattern: -ㄹ 수 없다
+meaning: Cannot do something; no way or ability to.
+example: 갈 수 없어요. (I can't go.)
+level: Beginner
+--- grammar ---
+pattern: -(으)ㄹ 수가 없다
+meaning: Emphatic 'cannot', with 가 stressing that it is really impossible.
+example: 믿을 수가 없어. (I just can't believe it.)
+level: Intermediate
+--- grammar ---
+pattern: -아/어서
+meaning: Gives a reason, 'because' or 'so'.
+example: 피곤해서 잤어요. (I was tired, so I slept.)
+level: Beginner
+
+=== [2:20] 삐그덕 삐그덕 삐그덕 ===
+meaning: Creak, creak, creak.
+tone: Playful, comedic; she imitates her creaky voice.
+--- word ---
+term: 삐그덕
+type: onomatopoeia
+breakdown: 
+meaning: creak
+notes: A Korean sound word for something creaking, such as an old door or rusty joint. Here she imitates her cracking, hoarse voice. The standard spelling is 삐걱, and 삐그덕 is a common variant. Repeating it three times adds comic effect.
+
+=== [2:30] 챌린지를 하루 종일 보고 있었어 ===
+meaning: I was watching the challenge videos all day.
+tone: Casual, chatty, a plain statement of what she did today.
+--- word ---
+term: 챌린지를
+type: noun + object particle
+breakdown: 챌린지 + 를
+meaning: the challenge (videos)
+notes: 챌린지 is an English loanword meaning a social media challenge. 를 marks the object after a vowel. Casual speech often drops it (챌린지 보고 있었어).
+--- word ---
+term: 하루
+type: noun
+breakdown: 
+meaning: one day
+notes: Native Korean word for 'one day' or 'a day'. It is used in 하루 종일 and 하루에 한 번 (once a day).
+--- word ---
+term: 종일
+type: noun
+breakdown: 종일 (終日)
+meaning: all day long
+notes: Sino-Korean for 'the whole day'. 하루 종일 is the usual phrase for 'all day'. Alternative: 온종일 (all day long).
+--- word ---
+term: 보고 있었어
+type: verb, past progressive, casual
+breakdown: 보다 + -고 있다 + -었- + -어
+meaning: was watching
+notes: -고 있다 means 'be doing' (ongoing action). -었- makes it past, and -어 is casual 반말 (informal speech without politeness). Polite version: 보고 있었어요.
+--- grammar ---
+pattern: -고 있었어
+meaning: was doing (a past ongoing action)
+example: 영화를 보고 있었어. (I was watching a movie.)
+level: Beginner
+
+=== [2:35] 밥 원래 오늘은 디톡스를 하려고 그랬어 어제 너무 많이 먹어가지고 ===
+meaning: Food... originally I was going to detox today, because I ate too much yesterday…
+tone: Casual, trailing; the opening 밥 is a topic word, and the line continues with a reason.
+--- word ---
+term: 밥
+type: noun
+breakdown: 
+meaning: food, a meal (lit. rice)
+notes: Literally cooked rice, but it often means 'a meal' or 'food' in general. Here it works as a topic word before the real sentence.
+--- word ---
+term: 원래
+type: adverb
+breakdown: 
+meaning: originally, in the first place
+notes: It hints that the plan changed. It is common in casual speech: 원래 안 그랬는데 (I wasn't like this originally).
+--- word ---
+term: 오늘은
+type: noun + topic particle
+breakdown: 오늘 + 은
+meaning: today (as for today)
+notes: 은 marks a topic or contrast, here implying 'today at least'.
+--- word ---
+term: 디톡스를
+type: noun + object particle
+breakdown: 디톡스 + 를
+meaning: a detox
+notes: A loanword from English 'detox'. 디톡스를 하다 means 'to do a detox'.
+--- word ---
+term: 하려고
+type: verb ending
+breakdown: 하다 + -려고
+meaning: intending to do
+notes: -려고 expresses intention or a plan. It often pairs with 하다 in the form -려고 하다 (be about to or intend to).
+--- word ---
+term: 그랬어
+type: verb, past, casual
+breakdown: 그러다 + -었- + -어 (그렇게 하다)
+meaning: I was (going to), I meant to
+notes: 그러다 is a contraction of 그렇게 하다 (to do so). 하려고 그랬어 means 'I was going to do it'. It is casual and chatty.
+--- word ---
+term: 어제
+type: noun
+breakdown: 
+meaning: yesterday
+notes: A time word; it needs no particle.
+--- word ---
+term: 너무
+type: adverb
+breakdown: 
+meaning: too, so (very)
+notes: Originally means 'excessively' (negative), but in casual speech people use it for 'really' or 'so' in positive contexts too.
+--- word ---
+term: 많이
+type: adverb
+breakdown: 많다 + -이
+meaning: a lot
+notes: The adverb form of 많다 (to be many). Used with verbs like 먹다.
+--- word ---
+term: 먹어가지고
+type: verb ending, colloquial
+breakdown: 먹다 + -어 가지고
+meaning: because I ate, so (I) ate and…
+notes: -어 가지고 is a colloquial way to say 'because' or 'and so'. It is equivalent to -어서 and common in speech but less so in writing. It also hints the sentence continues.
+--- grammar ---
+pattern: -(으)려고 하다
+meaning: to intend to, plan to
+example: 일찍 자려고 해요. (I plan to sleep early.)
+level: Beginner
+--- grammar ---
+pattern: -어 가지고
+meaning: colloquial 'because' or 'and then'
+example: 늦어 가지고 택시 탔어. (I was late, so I took a taxi.)
+level: Intermediate
+
+=== [2:42] 나 진짜 어제 너무 많이 먹었어 ===
+meaning: I really ate way too much yesterday.
+tone: Casual, emphatic, a bit self-deprecating and playful.
+--- word ---
+term: 나
+type: pronoun
+breakdown: 
+meaning: I
+notes: Casual 'I' used with friends or fans. The polite form is 저. 나 is the form used before the subject particle 가 changes it to 내가.
+--- word ---
+term: 진짜
+type: adverb
+breakdown: 
+meaning: really, seriously
+notes: A very common casual intensifier (lit. 'real thing'). In formal settings, 정말 or 아주 is more suitable.
+--- word ---
+term: 어제
+type: noun
+breakdown: 
+meaning: yesterday
+notes: A time word; it needs no particle.
+--- word ---
+term: 너무
+type: adverb
+breakdown: 
+meaning: way too, so
+notes: It means 'excessively'. Here it carries a regretful feeling about eating too much.
+--- word ---
+term: 많이
+type: adverb
+breakdown: 많다 + -이
+meaning: a lot
+notes: The adverb form of 많다. It is placed before the verb it describes.
+--- word ---
+term: 먹었어
+type: verb, past, casual
+breakdown: 먹다 + -었- + -어
+meaning: ate
+notes: -었- is the past tense and -어 is casual 반말. Polite form: 먹었어요.
+
+=== [2:45] 참을 수가 없어 ===
+meaning: I can't resist.
+tone: Casual, short, a heartfelt confession about food.
+--- word ---
+term: 참을
+type: verb + modifier ending
+breakdown: 참다 + -을
+meaning: to resist, to hold back
+notes: 참다 means to endure or hold back. With food it means resisting temptation. A common learner mistake is to confuse it with 견디다 (to endure hardship).
+--- word ---
+term: 수가
+type: bound noun + particle
+breakdown: 수 + 가
+meaning: way, possibility
+notes: -(으)ㄹ 수 있다/없다 means can or cannot. Adding 가 after 수 emphasizes the inability: 참을 수가 없어 means 'I really can't help but'.
+--- word ---
+term: 없어
+type: adjective, casual
+breakdown: 없다 + -어
+meaning: there is none, (I) can't
+notes: 없다 means 'not exist'. In -ㄹ 수 없다, it means 'cannot'. Casual 반말; polite is 없어요.
+--- grammar ---
+pattern: -(으)ㄹ 수가 없다
+meaning: emphatic 'cannot (help it)'
+example: 웃지 않을 수가 없어. (I can't help but laugh.)
+level: Intermediate
+
+=== [2:51] 진짜 참을 수가 없더라고 ===
+meaning: I really found I couldn't resist.
+tone: Casual, reflective; she describes a discovery about herself.
+--- word ---
+term: 진짜
+type: adverb
+breakdown: 
+meaning: really
+notes: A casual intensifier; formal equivalent is 정말.
+--- word ---
+term: 참을 수가
+type: verb phrase + particle
+breakdown: 참다 + -을 수 + 가
+meaning: (can't) resist
+notes: -을 수 (가) 없다 means 'cannot'. The 가 adds emphasis. 참다 means to hold back or resist.
+--- word ---
+term: 없더라고
+type: adjective ending, casual
+breakdown: 없다 + -더라고
+meaning: it turned out there was none, I found I couldn't
+notes: -더라고 reports something the speaker personally experienced or realized, often with a sense of discovery. It is casual; the polite form is -더라고요. It is not used for future events.
+--- grammar ---
+pattern: -더라고
+meaning: recalling something you experienced or noticed firsthand
+example: 그 영화 진짜 재미있더라고. (That movie was really fun, I found.)
+level: Intermediate
+
+=== [2:53] 그래서 문자야끼 먹고 ===
+meaning: So I ate monjayaki, and…
+tone: Casual narration; the line trails off with -고, so the story continues.
+--- word ---
+term: 그래서
+type: conjunction
+breakdown: 그러다 + -어서
+meaning: so, therefore
+notes: Links a cause to its result. It is very common in speech and is often shortened to 그래 in very casual talk.
+--- word ---
+term: 문자야끼
+type: noun
+breakdown: 
+meaning: monjayaki
+notes: Her pronunciation of the Japanese dish もんじゃ焼き (a runny, pan-fried batter dish from Tokyo). It is written in Korean phonetics, so spellings vary.
+--- word ---
+term: 먹고
+type: verb ending, connective
+breakdown: 먹다 + -고
+meaning: ate and…
+notes: -고 connects actions in sequence ('and then'). Ending a line on -고 signals the sentence continues.
+--- grammar ---
+pattern: -고
+meaning: and, and then (connects actions)
+example: 밥을 먹고 학교에 갔어. (I ate and went to school.)
+level: Beginner
+
+=== [2:58] 문자유기를 먹고 ===
+meaning: I ate monjayaki, and…
+tone: Casual, a repetition for comic effect; it trails off with -고.
+--- word ---
+term: 문자유기를
+type: noun + object particle
+breakdown: 문자유기 + 를
+meaning: monjayaki (object)
+notes: Another of her playful pronunciations of monjayaki (a Japanese pan-fried batter dish). Particle 를 marks the object after a vowel.
+--- word ---
+term: 먹고
+type: verb ending, connective
+breakdown: 먹다 + -고
+meaning: ate and…
+notes: -고 links this clause to the next. Ending the line here shows the story continues.
+
+=== [3:01] 진짜 이젠 진짜 안먹어야지 ===
+meaning: Really, from now on I'm really not going to eat.
+tone: Casual, resolute but jokey; she swears off food even though she will likely cave.
+--- word ---
+term: 진짜
+type: adverb
+breakdown: 
+meaning: really
+notes: Repeated here for emphasis. A casual intensifier; formal equivalent is 정말.
+--- word ---
+term: 이젠
+type: adverb + topic particle
+breakdown: 이제 + 는
+meaning: from now on, now
+notes: A contraction of 이제는 (now, as for now). 이제 marks a turning point: 'from now on' or 'at this point'. Compared with 지금 ('right now'), 이제 implies a change from before.
+--- word ---
+term: 안먹어야지
+type: negation + verb ending
+breakdown: 안 + 먹다 + -어야지
+meaning: I must not eat, I won't eat
+notes: Normally spaced as 안 먹어야지. 안 negates the verb. -어야지 here states a resolution to oneself ('I've got to', 'I'm going to'), often said as a mutter. It is casual and carries a determined feeling. It can also mean 'you must' when speaking to others.
+--- grammar ---
+pattern: -어야지
+meaning: a self-directed resolution ('I should/I will for sure')
+example: 내일부터 운동해야지. (I'm going to work out starting tomorrow.)
+level: Intermediate
+
+=== [3:04] 아 근데 또 내가 뭘 먹고 있더라고 ===
+meaning: Oh, but then I found myself eating something again…
+tone: Casual 반말, chatty, self-teasing. Trails off as part of a longer story about failing her detox.
+--- word ---
+term: 아
+type: interjection
+breakdown: 
+meaning: oh
+notes: Casual filler showing a sudden realization or hesitation. Very common in spoken Korean.
+--- word ---
+term: 근데
+type: conjunction
+breakdown: 그런데 → 근데
+meaning: but, by the way
+notes: Contraction of 그런데 (but, however). Casual and spoken. Often used to shift or turn a topic, not only to contrast.
+--- word ---
+term: 또
+type: adverb
+breakdown: 
+meaning: again
+notes: Means 'again' for repeated actions. Here it hints that she keeps repeating the same slip, with a self-mocking feel.
+--- word ---
+term: 내가
+type: pronoun + particle
+breakdown: 나 + 가 → 내가
+meaning: I (subject)
+notes: 나 becomes 내 before the subject particle 가. 제가 is the polite version. 저가 is wrong, which learners often write.
+--- word ---
+term: 뭘
+type: pronoun + particle
+breakdown: 뭐 + 를 → 뭘
+meaning: something / what (object)
+notes: Contraction of 뭐를. Here 뭘 means 'something' rather than a question, which is common in casual speech.
+--- word ---
+term: 먹고
+type: verb + connective
+breakdown: 먹다 + -고
+meaning: eating
+notes: Stem 먹- (eat) plus -고. Combined with 있다 it forms the progressive 'be eating'.
+--- word ---
+term: 있더라고
+type: verb + ending
+breakdown: 있다 + -더라고
+meaning: I found (myself) being / it turned out that
+notes: -더라고 reports something the speaker personally noticed or experienced, often with mild surprise. Casual. Here it means 'I realized I was eating again'. Polite form: -더라고요.
+--- grammar ---
+pattern: -고 있다
+meaning: be doing (ongoing action)
+example: 밥을 먹고 있어요. (I am eating.)
+level: Beginner
+--- grammar ---
+pattern: -더라고
+meaning: reporting a firsthand discovery or experience, often with surprise
+example: 비가 오더라고. (It was raining, I noticed.)
+level: Intermediate
+
+=== [3:11] 그래도 이치란은 겨우 참았어 ===
+meaning: Still, I barely resisted Ichiran.
+tone: Casual 반말, proud-but-jokey. Complete sentence.
+--- word ---
+term: 그래도
+type: conjunction
+breakdown: 그래 + 도
+meaning: even so, still
+notes: Used to concede and then contrast, like 'still' or 'even so'. Casual and common. Compare 하지만 (but), which is more neutral and contrasts more directly.
+--- word ---
+term: 이치란은
+type: noun + particle
+breakdown: 이치란 + 은
+meaning: as for Ichiran
+notes: Ichiran is a tonkotsu ramen chain in Japan. The topic particle 은 sets it against the other food she could not resist, implying 'Ichiran at least'.
+--- word ---
+term: 겨우
+type: adverb
+breakdown: 
+meaning: barely, only just
+notes: Used for something achieved with difficulty. Often pairs with a past-tense verb, as here. Not to be confused with 가까스로, a slightly more formal synonym.
+--- word ---
+term: 참았어
+type: verb + ending
+breakdown: 참다 + -았어
+meaning: resisted / held back
+notes: Past tense in casual 반말 (polite: 참았어요). 참다 means to endure or resist, including cravings like food. Here it means she resisted eating Ichiran.
+--- grammar ---
+pattern: -았/었어
+meaning: casual past tense
+example: 어제 많이 먹었어. (I ate a lot yesterday.)
+level: Beginner
+
+=== [3:15] 이치란은 참았는데 ===
+meaning: I resisted Ichiran, but…
+tone: Casual, trailing connective. The thought continues with a contrast on the next line.
+--- word ---
+term: 이치란은
+type: noun + particle
+breakdown: 이치란 + 은
+meaning: as for Ichiran
+notes: Topic particle 은 marks contrast, setting up what comes next: Ichiran she resisted, but something else she could not.
+--- word ---
+term: 참았는데
+type: verb + connective
+breakdown: 참다 + -았는데
+meaning: I resisted, but…
+notes: -는데 after a past stem sets up background or contrast and leaves the sentence open. Very common in casual speech as a trailing ending. Here it signals 'but…' leading into the next line.
+--- grammar ---
+pattern: -는데
+meaning: background or contrast connective, 'but / and', often leaving the sentence unfinished
+example: 열심히 했는데 안 됐어. (I tried hard, but it didn't work.)
+level: Intermediate
+
+=== [3:18] 나는 이렇게 문자유기를 못 참겠어 ===
+meaning: But I really can't resist monjayaki like this.
+tone: Casual 반말, playful and resigned. Completes the previous thought.
+--- word ---
+term: 나는
+type: pronoun + particle
+breakdown: 나 + 는
+meaning: I (topic)
+notes: Casual 'I'. The topic particle gives contrast with the previous line. Polite form is 저는.
+--- word ---
+term: 이렇게
+type: adverb
+breakdown: 이렇다 → 이렇게
+meaning: like this, this way
+notes: Here she probably gestures at the monjayaki in front of her, meaning 'in this situation'. 이렇게 often adds emphasis in casual speech.
+--- word ---
+term: 문자유기를
+type: noun + particle
+breakdown: 문자유기 + 를
+meaning: monjayaki (object)
+notes: Her own pronunciation of monjayaki (もんじゃ焼き), a Japanese pan-fried batter dish. The standard Korean spelling is 몬자야키 or 문자야끼. 를 marks the object.
+--- word ---
+term: 못
+type: adverb
+breakdown: 
+meaning: cannot
+notes: Negation of ability or possibility. Placed before the verb. Different from 안, which is a simple 'not' or choice not to.
+--- word ---
+term: 참겠어
+type: verb + ending
+breakdown: 참다 + -겠어
+meaning: I can't resist (I feel I can't)
+notes: -겠- here expresses the speaker's feeling or judgment right now. With 못 it means 'I just can't resist'. Casual 반말. Polite: 못 참겠어요.
+--- grammar ---
+pattern: 못 + verb
+meaning: cannot, unable to
+example: 못 먹어요. (I can't eat.)
+level: Beginner
+--- grammar ---
+pattern: -겠-
+meaning: expresses a speaker's present judgment, feeling, or intention
+example: 배고파서 죽겠어. (I'm starving.)
+level: Intermediate
+
+=== [3:25] 일본식 바비큐? ===
+meaning: Japanese-style barbecue (yakiniku)?
+tone: Casual echo question, reacting to a chat comment. Rising intonation.
+--- word ---
+term: 일본식
+type: noun
+breakdown: 일본 + 식
+meaning: Japanese-style
+notes: 식 (style, way) attaches to nouns, as in 한국식 (Korean-style) or 서양식 (Western-style). Here it names yakiniku, Japanese grilled meat.
+--- word ---
+term: 바비큐
+type: noun
+breakdown: 
+meaning: barbecue
+notes: Loanword from English. In Korea 바비큐 usually means grilled meat generally. Here it stands for yakiniku, a chat suggestion she repeats back as a question.
+
+=== [3:27] 왜 일본식 바비큐 맛있어? ===
+meaning: Why, is Japanese-style barbecue good?
+tone: Casual, curious echo question to chat. Slightly teasing.
+--- word ---
+term: 왜
+type: adverb
+breakdown: 
+meaning: why
+notes: Here it works like 'how come' or 'what about it', asking the chat for their reason for suggesting it. Informal.
+--- word ---
+term: 일본식
+type: noun
+breakdown: 일본 + 식
+meaning: Japanese-style
+notes: 식 means 'style'. It is a common suffix, as in 중국식 (Chinese-style).
+--- word ---
+term: 바비큐
+type: noun
+breakdown: 
+meaning: barbecue (yakiniku)
+notes: English loanword. In context it means Japanese grilled meat, yakiniku.
+--- word ---
+term: 맛있어
+type: adjective + ending
+breakdown: 맛있다 + -어
+meaning: is tasty
+notes: Casual 반말 form (polite: 맛있어요). A statement ending with rising intonation becomes a question, so no question word is needed. 맛있다 means delicious or tasty, literally 'has taste'.
+--- grammar ---
+pattern: statement form + rising intonation
+meaning: casual yes/no question
+example: 맛있어? (Is it tasty?)
+level: Beginner
+
+=== [3:31] 나는 이치란 먹고 싶어 ===
+meaning: I want to eat Ichiran.
+tone: Casual 반말, direct and craving. Complete statement.
+--- word ---
+term: 나는
+type: pronoun + particle
+breakdown: 나 + 는
+meaning: I (topic)
+notes: Casual 'I'. Topic particle here contrasts her wish with the chat's yakiniku suggestion: 'as for me, I want Ichiran'. Polite form 저는.
+--- word ---
+term: 이치란
+type: noun
+breakdown: 
+meaning: Ichiran
+notes: Ichiran is a famous Japanese tonkotsu ramen chain known for individual booths. Particle 을/를 is dropped, which is common in casual speech.
+--- word ---
+term: 먹고
+type: verb + connective
+breakdown: 먹다 + -고
+meaning: eat (and)
+notes: Stem 먹- plus -고, used here as the first part of -고 싶다.
+--- word ---
+term: 싶어
+type: auxiliary adjective + ending
+breakdown: 싶다 + -어
+meaning: want
+notes: Used after -고 to say 'want to do'. Casual 반말 (polite: 싶어요). Note -고 싶다 is mostly for first-person wants. For others use -고 싶어 하다.
+--- grammar ---
+pattern: -고 싶다
+meaning: want to (do something)
+example: 라면 먹고 싶어요. (I want to eat ramen.)
+level: Beginner
+
+=== [3:32] 이치란 안먹은지 진짜 오래된거 같아 ===
+meaning: I think it's really been a long time since I ate Ichiran.
+tone: Casual 반말, musing and nostalgic. Spacing in the original is loose (안먹은지, 오래된거).
+--- word ---
+term: 이치란
+type: noun
+breakdown: 
+meaning: Ichiran
+notes: Japanese ramen chain. Object particle is dropped, which is typical in casual speech.
+--- word ---
+term: 안먹은지
+type: negation + verb + bound noun
+breakdown: 안 + 먹다 + -은 지
+meaning: since (I) haven't eaten
+notes: Standard spelling is 안 먹은 지, with spaces. -(으)ㄴ 지 means 'since doing'. It is usually followed by a time expression like 오래되다 (to be a long time).
+--- word ---
+term: 진짜
+type: adverb
+breakdown: 
+meaning: really, truly
+notes: Very common casual intensifier. Formal alternative is 정말. Also works as a noun meaning 'the real thing'.
+--- word ---
+term: 오래된거
+type: verb + bound noun
+breakdown: 오래되다 + -ㄴ + 거
+meaning: that it has been a long time
+notes: Standard spelling 오래된 거. 거 is the casual contraction of 것 (thing). 오래되다 means to have been a long time or to be old.
+--- word ---
+term: 같아
+type: adjective + ending
+breakdown: 같다 + -아
+meaning: seems, I think
+notes: -ㄴ 것 같다 softens a statement into 'I think / it seems'. Very common in Korean to sound less assertive. Casual 반말 (polite: 같아요).
+--- grammar ---
+pattern: -(으)ㄴ 지 + time + 되다
+meaning: it has been (time) since doing something
+example: 한국에 온 지 3년 됐어요. (It's been 3 years since I came to Korea.)
+level: Intermediate
+--- grammar ---
+pattern: -ㄴ 것 같다
+meaning: it seems that / I think that
+example: 비가 올 것 같아요. (It looks like it will rain.)
+level: Beginner
+
+=== [3:36] 이치란 먹을때 꼭 넣는 토핑은 ===
+meaning: The topping I always add when I eat at Ichiran is…
+tone: Casual, fragment; sets up a topic and continues in the next line.
+--- word ---
+term: 이치란
+type: noun
+breakdown: 
+meaning: Ichiran (tonkotsu ramen chain)
+notes: Japanese ramen chain, written 이치란 in Korean. Foreign names are written phonetically in Hangul.
+--- word ---
+term: 먹을때
+type: verb + bound noun
+breakdown: 먹다 + -(으)ㄹ + 때
+meaning: when eating
+notes: Standard spacing is 먹을 때. -(으)ㄹ 때 means 'when (doing)'. Spacing errors like this are common in casual writing.
+--- word ---
+term: 꼭
+type: adverb
+breakdown: 
+meaning: without fail, always
+notes: Means 'definitely' or 'without fail'. Compare 반드시 (certainly, more formal/written).
+--- word ---
+term: 넣는
+type: verb (modifier)
+breakdown: 넣다 + -는
+meaning: that (I) put in
+notes: -는 is the present-tense modifier that turns a verb into a descriptor of a noun. 넣다 means to put in or add.
+--- word ---
+term: 토핑은
+type: noun + particle
+breakdown: 토핑 + 은
+meaning: as for the topping
+notes: -은/는 marks the topic. It sets up the answer 'the topping is…' that follows. 토핑 is English 'topping'.
+--- grammar ---
+pattern: V-(으)ㄹ 때
+meaning: when doing V
+example: 밥 먹을 때 TV를 봐요. (I watch TV when I eat.)
+level: Beginner
+--- grammar ---
+pattern: V-는 + noun
+meaning: present modifier: the noun that someone V's
+example: 내가 좋아하는 음식 (the food I like)
+level: Beginner
+
+=== [3:39] 나는 김, 그리고 고기 한 번 더 추가 ===
+meaning: For me, seaweed, and one more extra portion of meat.
+tone: Casual, answering her own question; list-like and clipped.
+--- word ---
+term: 나는
+type: pronoun + particle
+breakdown: 나 + 는
+meaning: I / as for me
+notes: 나 is casual 'I' (polite: 저). -는 is the topic particle, here contrasting with others' choices.
+--- word ---
+term: 김
+type: noun
+breakdown: 
+meaning: seaweed (nori)
+notes: Dried seaweed, as in 김밥 (seaweed rice roll). Do not confuse with the surname 김 (Kim).
+--- word ---
+term: 그리고
+type: conjunction
+breakdown: 
+meaning: and, and also
+notes: Connects words or sentences. Neutral register, common in speech.
+--- word ---
+term: 고기
+type: noun
+breakdown: 
+meaning: meat
+notes: Basic word for meat. Often means beef or pork depending on context.
+--- word ---
+term: 한 번 더
+type: adverbial phrase
+breakdown: 한 + 번 + 더
+meaning: one more time
+notes: 한 번 means 'once'. 더 means 'more'. Here it means one more portion.
+--- word ---
+term: 추가
+type: noun
+breakdown: 
+meaning: addition, extra
+notes: Sino-Korean noun. Used when ordering, as in 'extra X'. Dropping the verb 하다 makes it a clipped, menu-style phrase.
+
+=== [3:44] 그리고 달걀, 타마고 맞나 타마고? ===
+meaning: And egg, tamago, is that right? Tamago?
+tone: Casual, self-checking; she searches for the Japanese word.
+--- word ---
+term: 그리고
+type: conjunction
+breakdown: 
+meaning: and
+notes: Adds another item to the list. Neutral, usable in any register.
+--- word ---
+term: 달걀
+type: noun
+breakdown: 
+meaning: egg
+notes: Native Korean word for egg. 계란 is a common synonym; both are used in everyday speech.
+--- word ---
+term: 타마고
+type: noun
+breakdown: 
+meaning: tamago (Japanese for egg)
+notes: Japanese 卵 (たまご) written in Hangul. She is checking whether the menu word is right.
+--- word ---
+term: 맞나
+type: verb ending
+breakdown: 맞다 + -나
+meaning: is that right?
+notes: -나 is a casual, half-self-directed question ending, as if wondering aloud. 맞다 means to be correct.
+--- grammar ---
+pattern: V/A-나?
+meaning: casual question, often wondering to oneself
+example: 이거 맞나? (Is this right, I wonder?)
+level: Intermediate
+
+=== [3:52] 응 ===
+meaning: Yeah.
+tone: Casual short filler, confirming something (likely the chat).
+--- word ---
+term: 응
+type: interjection
+breakdown: 
+meaning: yeah, uh-huh
+notes: Casual 'yes' used with friends or younger people. With elders, use 네. Rising tone can mean 'huh?'.
+
+=== [3:56] 그니까 내가 요 근래에 깨달은 게 있어 ===
+meaning: So, there's something I realized recently.
+tone: Casual, chatty; introduces a realization with a topic-shift marker.
+--- word ---
+term: 그니까
+type: conjunction
+breakdown: 그러니까 → 그니까
+meaning: so, well
+notes: Contraction of 그러니까 (therefore, so). In speech it is often a filler to start a point, like 'so…'. Not 'that's right' here.
+--- word ---
+term: 내가
+type: pronoun + particle
+breakdown: 나 + 가 → 내가
+meaning: I (subject)
+notes: 나 becomes 내 before 가. 제가 is the polite form. 내가 marks the subject.
+--- word ---
+term: 요 근래에
+type: adverbial phrase
+breakdown: 요 + 근래 + 에
+meaning: lately, recently
+notes: 요 is a casual 'this' (from 이), adding a cutesy nuance. 근래 means 'recent times'. Similar: 요즘 (these days), 최근 (recently).
+--- word ---
+term: 깨달은
+type: verb (modifier)
+breakdown: 깨닫다 + -은
+meaning: that (I) realized
+notes: 깨닫다 is an irregular ㄷ verb (ㄷ becomes ㄹ before vowels): 깨달아, 깨달은. It means to realize or awaken to something.
+--- word ---
+term: 게
+type: noun + particle (contraction)
+breakdown: 것 + 이 → 게
+meaning: the thing that
+notes: Contraction of 것이. 것 is a bound noun meaning 'thing'. Very common in speech.
+--- word ---
+term: 있어
+type: verb ending
+breakdown: 있다 + -어
+meaning: there is
+notes: Casual 반말 ending (polite: 있어요). 게 있어 means 'there's something that…'.
+--- grammar ---
+pattern: V-(으)ㄴ 게 있다
+meaning: there is something that (I) V'd
+example: 어제 본 게 있어. (There's something I saw yesterday.)
+level: Intermediate
+
+=== [4:01] 나는 먹기 위해서 운동하는구나 ===
+meaning: I work out in order to eat, I see!
+tone: Casual, self-aware, humorous realization; she is stating the epiphany.
+--- word ---
+term: 나는
+type: pronoun + particle
+breakdown: 나 + 는
+meaning: I / as for me
+notes: Topic marker 는 sets up her own situation. 나 is casual; 저는 is polite.
+--- word ---
+term: 먹기
+type: verb (nominalized)
+breakdown: 먹다 + -기
+meaning: eating
+notes: -기 turns a verb into a noun. Used in -기 위해서 to express purpose.
+--- word ---
+term: 위해서
+type: verb + ending
+breakdown: 위하다 + -아서 → 위해서
+meaning: for the sake of, in order to
+notes: -기 위해서 means 'in order to do'. With nouns it is N을/를 위해서 (for N). Slightly formal but common in speech.
+--- word ---
+term: 운동하는구나
+type: verb ending
+breakdown: 운동하다 + -는구나
+meaning: (I realize) I exercise
+notes: -는구나 expresses new realization or exclamation, like 'I see!'. Casual 반말. Often said to oneself.
+--- grammar ---
+pattern: V-기 위해서
+meaning: in order to V
+example: 건강해지기 위해서 운동해요. (I exercise to become healthy.)
+level: Intermediate
+--- grammar ---
+pattern: V-는구나
+meaning: expresses discovery or realization
+example: 비가 오는구나! (Oh, it's raining!)
+level: Intermediate
+
+=== [4:06] 내가 먹기 위해서 운동을 하는 거구나 ===
+meaning: I'm someone who exercises in order to eat, I see!
+tone: Casual, repeats the realization with a different phrasing for emphasis.
+--- word ---
+term: 내가
+type: pronoun + particle
+breakdown: 나 + 가 → 내가
+meaning: I (subject)
+notes: Subject form of 나. Using 가 instead of topic 는 emphasizes that it is me doing this.
+--- word ---
+term: 먹기 위해서
+type: verb phrase
+breakdown: 먹다 + -기 + 위해서
+meaning: in order to eat
+notes: Purpose phrase: V-기 위해서 means 'in order to V'. Neutral to slightly formal.
+--- word ---
+term: 운동을
+type: noun + particle
+breakdown: 운동 + 을
+meaning: exercise (object)
+notes: 운동 is a Sino-Korean noun. Splitting 운동을 하다 instead of 운동하다 is common and can add emphasis.
+--- word ---
+term: 하는 거구나
+type: verb + bound noun + ending
+breakdown: 하다 + -는 + 것 + 이구나 → 하는 거구나
+meaning: it's that I do (it)
+notes: 거 is the contraction of 것 (thing). -는 거구나 adds an explanatory realization: 'so that's what's going on'. Casual.
+--- grammar ---
+pattern: V-는 거구나
+meaning: realizing the explanation or reason behind something
+example: 그래서 늦는 거구나. (So that's why you're late.)
+level: Intermediate
+
+=== [4:12] 도쿄 콘서트 진짜 재밌었어 ===
+meaning: The Tokyo concert was really fun.
+tone: Casual, warm; sharing a personal impression after the show.
+--- word ---
+term: 도쿄
+type: noun
+breakdown: 
+meaning: Tokyo
+notes: Korean spelling of Tokyo. Also 동경 (Sino-Korean reading), now old-fashioned.
+--- word ---
+term: 콘서트
+type: noun
+breakdown: 
+meaning: concert
+notes: English loanword. Here it refers to the MAMAMOO concert in Tokyo.
+--- word ---
+term: 진짜
+type: adverb
+breakdown: 
+meaning: really
+notes: Casual intensifier meaning 'really' or 'for real'. Very common in speech; more formal is 정말.
+--- word ---
+term: 재밌었어
+type: adjective ending
+breakdown: 재밌다 (재미있다) + -었 + -어
+meaning: was fun
+notes: 재밌다 is a contraction of 재미있다 (to be fun). -었- is past tense, -어 is the casual ending. Polite: 재밌었어요.
+--- grammar ---
+pattern: A-었어 (casual past)
+meaning: past tense in casual speech
+example: 영화가 재밌었어. (The movie was fun.)
+level: Beginner
+
+=== [4:16] 뭐랄까 ===
+meaning: How should I put it…
+tone: Casual filler, thinking aloud before explaining; leads into the next line.
+--- word ---
+term: 뭐랄까
+type: expression (contracted)
+breakdown: 뭐라고 할까 → 뭐랄까
+meaning: how should I put it / what shall I say
+notes: Casual contraction of 뭐라고 할까 (what shall I say). Used to buy time while searching for words. Similar: 그러니까 (so), 글쎄 (well). Politer form: 뭐라고 해야 할까요.
+--- grammar ---
+pattern: -(으)ㄹ까 (self-question)
+meaning: Wondering aloud, 'shall I...?'
+example: 뭐라고 할까?
+level: Beginner
+
+=== [4:21] 보고 싶었나봐 ===
+meaning: I guess I missed you (all).
+tone: Casual, warm, speaking about her own feelings; implies fans.
+--- word ---
+term: 보고 싶었나봐
+type: verb phrase + speculative ending
+breakdown: 보고 싶다 (to want to see/miss) + -았/었- (past) + -나 보다 (seems that) + 아/어 (casual)
+meaning: I guess (I) missed (you)
+notes: 보고 싶다 means 'to miss (someone)', literally 'want to see'. -나 보다 expresses a guess based on evidence; 나봐 is the casual form of 나 봐. Here she infers her own feeling from her reaction, which is a natural use. Often written 나 봐 with a space. Alternative: 보고 싶었던 것 같아 (I think I missed you).
+--- grammar ---
+pattern: -나 보다 / -나 봐
+meaning: Seems that, I guess (inference from evidence)
+example: 비가 오나 봐.
+level: Intermediate
+
+=== [4:23] 눈물 날 뻔했어 ===
+meaning: I almost cried.
+tone: Casual, confiding, a bit emotional.
+--- word ---
+term: 눈물
+type: noun
+breakdown: 
+meaning: tears
+notes: Literally 'eye water'. Common verbs: 눈물이 나다 (tears come out), 눈물을 흘리다 (shed tears), 울다 (cry). Particle 이 is dropped in casual speech.
+--- word ---
+term: 날 뻔했어
+type: verb phrase
+breakdown: 나다 (come out) + -(으)ㄹ 뻔하다 (almost do) + 았어 (past, casual)
+meaning: almost came out / almost happened
+notes: -(으)ㄹ 뻔했다 means 'almost did something, but didn't'. Common learner mistake: it describes a near miss, so it does not mean it actually happened. 눈물 날 뻔했어 = I nearly teared up. Alternative: 울 뻔했어 (I almost cried).
+--- grammar ---
+pattern: -(으)ㄹ 뻔하다
+meaning: Almost did something (but didn't)
+example: 넘어질 뻔했어.
+level: Intermediate
+
+=== [4:26] I MISS YOU 부르다가 ===
+meaning: While singing I MISS YOU…
+tone: Casual fragment; trailing connective, completed by the next line.
+--- word ---
+term: I MISS YOU
+type: noun (English song title)
+breakdown: 
+meaning: I MISS YOU (a song)
+notes: English title, kept in caps as a song name. Here it is the object of the verb 부르다 with the particle 을 omitted, which is common in speech.
+--- word ---
+term: 부르다가
+type: verb + connective ending
+breakdown: 부르다 (to sing/call) + -다가 (while doing, then)
+meaning: while singing
+notes: -다가 marks an action interrupted by or leading into another, so 'while singing, (something happened)'. 부르다 means both 'to sing' and 'to call'. Casual speakers often use it in the middle of a story. Compare -(으)면서, which is simply 'while' for simultaneous actions with no interruption.
+--- grammar ---
+pattern: -다가
+meaning: While doing X, (something else happened) / switching actions
+example: 자다가 깼어.
+level: Intermediate
+
+=== [4:29] 눈물 나더라 ===
+meaning: …tears came to my eyes.
+tone: Casual, completes the previous thought; reflective.
+--- word ---
+term: 눈물
+type: noun
+breakdown: 
+meaning: tears
+notes: Subject marker 이 omitted in casual speech. Full: 눈물이 나더라.
+--- word ---
+term: 나더라
+type: verb + retrospective ending
+breakdown: 나다 (come out) + -더라 (I noticed/found that)
+meaning: (I found) they came out
+notes: -더라 is casual 반말 for reporting something one directly experienced or noticed, often with a tone of mild discovery: 'it turned out'. Here she realizes her own reaction in the moment. Not used for first-person future or intentions. Similar: -더라고요 (polite).
+--- grammar ---
+pattern: -더라
+meaning: Recalling a direct experience or observation (casual)
+example: 맛있더라.
+level: Intermediate
+
+=== [4:32] 지금은 등 근육이 조금 파묻혀 있어 ===
+meaning: Right now my back muscles are kind of buried.
+tone: Casual, joking about her body; ties to the food talk.
+--- word ---
+term: 지금은
+type: adverb + particle
+breakdown: 지금 (now) + 은 (topic particle)
+meaning: right now / at the moment
+notes: The topic particle 은 adds contrast: 'now, as opposed to other times'. 지금 is 'now' as the present moment; 이제 means 'now (from here on)' with a sense of change.
+--- word ---
+term: 등
+type: noun
+breakdown: 
+meaning: back (body)
+notes: Body part: back. Do not confuse with 등 (lamp or light) or 등 (etc., and so on), which are homophones.
+--- word ---
+term: 근육이
+type: noun + particle
+breakdown: 근육 (muscle) + 이 (subject particle)
+meaning: muscles (subject)
+notes: Hanja-based word (筋肉). Commonly used in gym talk, e.g. 근육이 생기다 (get muscles).
+--- word ---
+term: 조금
+type: adverb
+breakdown: 
+meaning: a little / kind of
+notes: Softens the statement. Casual short form: 좀. Here it humorously downplays the muscles being hidden.
+--- word ---
+term: 파묻혀 있어
+type: verb phrase
+breakdown: 파묻히다 (be buried) + -아/어 있다 (be in a state of) + 어 (casual)
+meaning: are buried
+notes: 파묻히다 is the passive of 파묻다 (to bury). -아/어 있다 expresses a continuing resulting state. Here it means her muscles are less defined, hidden under body fat. Not about soreness.
+--- grammar ---
+pattern: -아/어 있다
+meaning: Be in a resulting state
+example: 문이 열려 있어.
+level: Intermediate
+
+=== [4:40] 저번 4년 전 일본 콘서트가 4천석이었대 ===
+meaning: I heard the Japan concert four years ago the last time was 4,000 seats.
+tone: Casual, recalling info; -대 shows she is reporting what she heard or was told.
+--- word ---
+term: 저번
+type: noun
+breakdown: 
+meaning: last time / the other time
+notes: Casual word for the previous occasion. Variants: 지난번 (more standard), 저번에 (last time). Here it points to the previous Japan concert.
+--- word ---
+term: 4년 전
+type: noun phrase
+breakdown: 4년 (four years) + 전 (ago)
+meaning: four years ago
+notes: Time expression with 전 meaning 'before/ago'. Native Korean 네 is not used here; Sino-Korean 사 is, with the counter 년.
+--- word ---
+term: 일본
+type: noun
+breakdown: 
+meaning: Japan
+notes: Modifies 콘서트 as a noun-noun compound, so no particle is needed.
+--- word ---
+term: 콘서트가
+type: noun + particle
+breakdown: 콘서트 (concert) + 가 (subject particle)
+meaning: the concert (subject)
+notes: English loanword. Alternative: 공연 (performance).
+--- word ---
+term: 4천석이었대
+type: noun + copula + quotative ending
+breakdown: 4천석 (4,000 seats) + 이다 (to be) + -었- (past) + -대 (reportedly)
+meaning: was said to be 4,000 seats
+notes: -대 is a contraction of -다고 해 (they say that...), used to relay information casually. 석 is a counter for seats. Learners often confuse -대 (reporting) with -데 (recalling something one saw).
+--- grammar ---
+pattern: -대 (contraction of -다고 해)
+meaning: Reporting what someone said or what one heard (casual)
+example: 내일 비 온대.
+level: Intermediate
+
+=== [4:46] 근데 오늘은 8천석이었는데 ===
+meaning: But today it was 8,000 seats, and…
+tone: Casual fragment; trailing connective, contrasts with the previous line and continues.
+--- word ---
+term: 근데
+type: conjunction
+breakdown: 그런데 → 근데
+meaning: but / by the way
+notes: Casual contraction of 그런데. Marks contrast or a topic shift. Common in speech; use 그런데 or 하지만 in writing.
+--- word ---
+term: 오늘은
+type: noun + particle
+breakdown: 오늘 (today) + 은 (topic particle)
+meaning: today
+notes: The topic particle 은 gives contrast with the 4,000-seat concert four years ago.
+--- word ---
+term: 8천석이었는데
+type: noun + copula + connective ending
+breakdown: 8천석 (8,000 seats) + 이다 + -었- (past) + -는데 (and/but)
+meaning: it was 8,000 seats, and…
+notes: -는데 sets up background or contrast and leaves the sentence open, as here. Spoken often as a trailing ending, inviting the listener to infer what comes next. Here it leads to a point about the full house.
+--- grammar ---
+pattern: -는데 (trailing)
+meaning: Gives background or contrast, often leaving the sentence unfinished
+example: 어제는 비가 왔는데…
+level: Intermediate
+
+=== [4:50] 꽉 찼더라고 ===
+meaning: It was totally packed, I found.
+tone: Casual, reflective; completes a thought about the 8,000-seat concert.
+--- word ---
+term: 꽉
+type: adverb
+breakdown: 
+meaning: tightly, to the brim
+notes: Describes something filled completely with no gaps. Casual and common in speech. Related: 가득 (full, a bit softer) and 빽빽이 (densely packed).
+--- word ---
+term: 찼더라고
+type: verb + ending
+breakdown: 차다 (to be full) + -았- (past) + -더라고
+meaning: it was full (I noticed)
+notes: Casual 반말 ending. -더라고 reports something the speaker personally saw or experienced, often with a tone of 'I found that...'. Do not confuse 차다 (to be full) with 차다 (to kick) or 차다 (to be cold); they are different words that look the same. Related: 찼어 (it was full, plain statement).
+--- grammar ---
+pattern: -더라고
+meaning: Reports a firsthand observation or discovery, often with a sense of mild surprise
+example: 사람이 많더라고. (There were a lot of people, I saw.)
+level: Intermediate
+
+=== [4:54] 그렇게 공백이 길었는데도 ===
+meaning: Even though the gap had been that long…
+tone: Casual; fragment that continues into the next line.
+--- word ---
+term: 그렇게
+type: adverb
+breakdown: 
+meaning: that much, so
+notes: Intensifies the following adjective. Casual and common. Compare 이렇게 (this way, near the speaker) and 그렇게 (that way, as already mentioned or known).
+--- word ---
+term: 공백이
+type: noun + subject particle
+breakdown: 공백 + 이
+meaning: the gap / blank period
+notes: 공백 literally means blank space. Here it means a time away from activity, such as a long hiatus. It is a slightly formal or written word, but is fine in speech. Related: 휴식기 (rest period).
+--- word ---
+term: 길었는데도
+type: adjective + ending
+breakdown: 길다 (to be long) + -었- (past) + -는데도
+meaning: even though it was long
+notes: -는데도 means 'even though / despite'. It is a stronger version of -는데 that adds contrast. The sentence continues in the next line. Do not mix up 길다 (long) with 길 (road).
+--- grammar ---
+pattern: -는데도
+meaning: Even though / despite; expresses a contrast with what follows
+example: 비가 오는데도 갔어요. (I went even though it rained.)
+level: Intermediate
+
+=== [4:57] 막 우리 부채 들어주고 ===
+meaning: …like, holding up our uchiwa fans…
+tone: Casual, excited; fragment listing what the fans did.
+--- word ---
+term: 막
+type: adverb (filler)
+breakdown: 
+meaning: like, just (filler)
+notes: Colloquial filler that adds energy or vividness. It can also mean 'rashly' or 'right now'. It is usually left untranslated. Overusing it sounds very casual, so avoid it in formal speech.
+--- word ---
+term: 우리
+type: pronoun
+breakdown: 
+meaning: our / us
+notes: Literally 'we/our'. Here it refers to MAMAMOO. Koreans use 우리 for groups they belong to, even where English would say 'my'. Casual and common.
+--- word ---
+term: 부채
+type: noun
+breakdown: 
+meaning: handheld fan (uchiwa)
+notes: Means a hand fan. At Japanese concerts, fans hold uchiwa with names or messages. Do not confuse it with 선풍기 (electric fan) or 팬 (fan as in supporter).
+--- word ---
+term: 들어주고
+type: verb + connective
+breakdown: 들어주다 (to hold up for someone) + -고
+meaning: hold up (for us), and…
+notes: 들다 (to hold/lift) + 주다 (to do for someone) shows the action is done for the speaker's benefit. -고 links actions in a list. Do not confuse with 들어주다 meaning 'to listen to a request'; here the context shows it is lifting something.
+--- grammar ---
+pattern: -아/어 주다
+meaning: Do something for someone's benefit
+example: 도와줘요. (Please help me.)
+level: Beginner
+--- grammar ---
+pattern: -고 (connective)
+meaning: And; links actions in sequence or in a list
+example: 먹고 마셔요. (We eat and drink.)
+level: Beginner
+
+=== [5:00] 막 우리 ===
+meaning: …like, our…
+tone: Casual, a brief restart while searching for words.
+--- word ---
+term: 막
+type: adverb (filler)
+breakdown: 
+meaning: like (filler)
+notes: Colloquial filler adding momentum. Usually not translated. Common in chatty speech.
+--- word ---
+term: 우리
+type: pronoun
+breakdown: 
+meaning: our
+notes: The first-person plural 'we/our'. Here it begins a phrase that continues in the next line ('cheered us on'). Speakers often repeat a word like this while forming a thought.
+
+=== [5:02] 응원해주고 ===
+meaning: …cheered us on, and…
+tone: Casual; fragment continuing the list.
+--- word ---
+term: 응원해주고
+type: verb + connective
+breakdown: 응원하다 (to cheer on) + 주다 (to do for) + -고
+meaning: cheered (us) on, and…
+notes: 응원 means support or cheering. The 주다 construction shows it was done for the speaker's benefit. -고 connects to the next item. Related: 지지하다 (to support, more formal and often for causes).
+--- grammar ---
+pattern: -아/어 주다
+meaning: Do something for someone
+example: 응원해줘서 고마워요. (Thank you for cheering me on.)
+level: Beginner
+
+=== [5:04] 눈물 흘리는 무무들도 있고 ===
+meaning: …and there were MooMoos shedding tears too, and…
+tone: Casual, warm; fragment in a list of fan reactions.
+--- word ---
+term: 눈물
+type: noun
+breakdown: 
+meaning: tears
+notes: Literally 'eye water'. Common collocations: 눈물이 나다 (tears come), 눈물을 흘리다 (shed tears).
+--- word ---
+term: 흘리는
+type: verb + modifier ending
+breakdown: 흘리다 (to shed/spill) + -는
+meaning: who shed / shedding
+notes: -는 turns the verb into a present modifier of the noun that follows. 흘리다 is also used for spilling things and sweating (땀을 흘리다). Do not confuse it with 흐르다 (to flow), the intransitive counterpart.
+--- word ---
+term: 무무들도
+type: noun + plural + particle
+breakdown: 무무 + 들 + 도
+meaning: MooMoos too
+notes: 무무 is the MAMAMOO fandom name. 들 is the plural marker, and 도 means 'also'. Koreans often omit 들 but include it here for emphasis on several fans.
+--- word ---
+term: 있고
+type: verb + connective
+breakdown: 있다 (to exist) + -고
+meaning: there were, and…
+notes: Existence verb. -고 links to the next clause. The pattern 'X도 있고 Y도 있고' means 'there are X and also Y'.
+--- grammar ---
+pattern: Verb-는 + noun
+meaning: Present relative clause: a noun that does the verb
+example: 우는 아이 (a crying child)
+level: Beginner
+
+=== [5:13] 갑자기 눈물이 이렇게 나더라 ===
+meaning: Suddenly tears came out like this.
+tone: Casual, emotional; recalls her own surprise at crying.
+--- word ---
+term: 갑자기
+type: adverb
+breakdown: 
+meaning: suddenly
+notes: Used for sudden events or feelings. Not to be confused with 급하게 (hurriedly).
+--- word ---
+term: 눈물이
+type: noun + subject particle
+breakdown: 눈물 + 이
+meaning: tears (subject)
+notes: In Korean, tears 'come out' by themselves, so 눈물 is marked as the subject. This gives a sense that the crying was not intentional.
+--- word ---
+term: 이렇게
+type: adverb
+breakdown: 
+meaning: like this
+notes: Here it works as a gesture word, as if showing how the tears came. Common filler in storytelling.
+--- word ---
+term: 나더라
+type: verb + ending
+breakdown: 나다 (to come out) + -더라
+meaning: came out (I found)
+notes: -더라 is a casual ending reporting a personal experience or discovery. It is a shortened form of -더라고. 눈물이 나다 means 'to tear up'.
+--- grammar ---
+pattern: -더라
+meaning: Recalls a firsthand experience or realization, casual
+example: 그 영화 재밌더라. (That movie was fun, I found.)
+level: Intermediate
+
+=== [5:15] 못 봤지? 당연하지 ===
+meaning: You didn't see, right? Of course not.
+tone: Casual, playful; she assumes viewers did not notice her secret crying.
+--- word ---
+term: 못
+type: adverb
+breakdown: 
+meaning: could not
+notes: Negation of ability or circumstance. Placed before the verb. Compare 안 (simple negation or will not).
+--- word ---
+term: 봤지
+type: verb + ending
+breakdown: 보다 (to see) + -았- (past) + -지
+meaning: you didn't see it, right?
+notes: Here -지 seeks agreement ('right?'). With 못, it is a tag question expecting 'no'. Casual 반말.
+--- word ---
+term: 당연하지
+type: adjective + ending
+breakdown: 당연하다 (to be natural/obvious) + -지
+meaning: of course (you didn't)
+notes: Means 'of course / obviously'. -지 shows she answers herself with confidence. Casual 반말; the polite version is 당연하죠.
+--- grammar ---
+pattern: -지?
+meaning: Seeks confirmation, like 'right?'
+example: 피곤하지? (You're tired, right?)
+level: Beginner
+
+=== [5:19] 몰래 눈물을 흘렸으니까 ===
+meaning: Since I shed tears in secret…
+tone: Casual, trailing fragment; the -으니까 clause continues a thought. Refers to her crying in secret at the concert.
+--- word ---
+term: 몰래
+type: adverb
+breakdown: 
+meaning: secretly, on the sly
+notes: Casual, everyday word. Used for doing something without others noticing, e.g. 몰래 먹다 (eat secretly).
+--- word ---
+term: 눈물을
+type: noun + object particle
+breakdown: 눈물 + 을
+meaning: tears (object)
+notes: 눈물 means tears. Pairs with 흘리다 (shed) in the set phrase 눈물을 흘리다. Learners often say 울다 (cry) alone, which is also fine, but 눈물을 흘리다 sounds a bit more literary.
+--- word ---
+term: 흘렸으니까
+type: verb + past + reason connective
+breakdown: 흘리다 + 었 + 으니까
+meaning: because I shed
+notes: 흘리다 means to shed or spill. -으니까 means since or because, casual-neutral, and often leads into a command, suggestion or conclusion. Here the sentence trails off, so the result is unstated.
+--- grammar ---
+pattern: V-으니까
+meaning: because/since; gives a reason, often for a conclusion or opinion the speaker draws
+example: 비가 오니까 우산 가져가. (Since it's raining, take an umbrella.)
+level: Beginner
+
+=== [5:37] 됐어 ===
+meaning: Okay, enough.
+tone: Casual, short filler; she cuts off the topic of her secret crying and moves on.
+--- word ---
+term: 됐어
+type: verb, past + casual ending
+breakdown: 되다 + 었 + 어
+meaning: it's fine / enough / forget it
+notes: Literally it became or got done. In casual speech 됐어 means enough, that's enough, or no thanks, and tone changes the nuance. Haeyo-style form is 됐어요. Be careful: it can sound curt or dismissive when said to someone you don't know well.
+
+=== [5:39] 일본 무무들의 시선이 너무 애틋했어 ===
+meaning: The Japanese MooMoos' gazes were so tender.
+tone: Casual, warm and sincere; describes the fans' loving looks at the concert.
+--- word ---
+term: 일본
+type: noun
+breakdown: 
+meaning: Japan
+notes: Used here like an adjective before another noun, with no particle needed: 일본 무무 (Japanese MooMoo).
+--- word ---
+term: 무무들의
+type: noun + plural + possessive particle
+breakdown: 무무 + 들 + 의
+meaning: MooMoos'
+notes: 무무 is the MAMAMOO fandom name. 들 makes it plural and 의 marks possession (of). In speech 의 is often pronounced like 에.
+--- word ---
+term: 시선이
+type: noun + subject particle
+breakdown: 시선 + 이
+meaning: gaze, look (subject)
+notes: 시선 means line of sight or gaze, a bit more formal than 눈빛 (look in the eyes). Often used in 시선을 받다 (receive attention).
+--- word ---
+term: 너무
+type: adverb
+breakdown: 
+meaning: so, too
+notes: Textbooks treat 너무 as too (negative), but native speakers use it very often to mean very or so, even for positive things, as here.
+--- word ---
+term: 애틋했어
+type: adjective, past + casual ending
+breakdown: 애틋하다 + 였 + 어
+meaning: was tender, affectionate, heartfelt
+notes: 애틋하다 describes a deep, tender, slightly bittersweet affection, often from longing or closeness, like the feeling toward someone you've missed. Hard to translate with one English word. Casual 반말 ending.
+--- grammar ---
+pattern: N-이/가 + adjective
+meaning: describes a noun's quality; the subject particle marks what is being described
+example: 날씨가 좋아. (The weather is nice.)
+level: Beginner
+
+=== [5:46] 너희들은 안 돼 ===
+meaning: You guys can't do it.
+tone: Casual, playful teasing aimed at the live viewers, not hostile. Short and blunt for comic effect.
+--- word ---
+term: 너희들은
+type: pronoun + plural + topic particle
+breakdown: 너희 + 들 + 은
+meaning: you guys (as for)
+notes: 너희 is the plural you, casual and used to equals or juniors. 너희들 is the same with an extra plural 들, very common in speech. 은 marks the topic and here sets up a contrast with the Japanese MooMoos.
+--- word ---
+term: 안 돼
+type: verb phrase
+breakdown: 안 + 되다 + 어 → 돼
+meaning: doesn't work / won't do / not good enough
+notes: 되다 means to become or be okay. 안 돼 is commonly used to mean no, not allowed, or not good enough. Here it means you guys don't measure up. 돼 is the contracted form of 되어. Learners often confuse 돼 and 되; 돼 = 되어 and can end a sentence.
+--- grammar ---
+pattern: 안 + verb
+meaning: short negation: does not / will not
+example: 저는 안 가요. (I'm not going.)
+level: Beginner
+
+=== [5:52] 분발해 ===
+meaning: Step it up.
+tone: Casual imperative, jokey scolding toward the viewers.
+--- word ---
+term: 분발해
+type: verb, casual command
+breakdown: 분발하다 + 어 → 해
+meaning: try harder, make an effort
+notes: 분발하다 means to rouse yourself and try harder, often when you are falling behind. Sino-Korean 분발 (exertion) + 하다. Casual 반말 command. Polite form: 분발하세요. Related: 힘내 (cheer up/hang in there), which is more comforting, whereas 분발해 is a push.
+--- grammar ---
+pattern: Verb stem + 아/어 (반말 imperative)
+meaning: casual command; same form as the casual statement, understood by context
+example: 빨리 와. (Come quickly.)
+level: Beginner
+
+=== [6:02] 너희들은 너무 거만해 ===
+meaning: You guys are way too cocky.
+tone: Casual, playful teasing; she is joking with the viewers.
+--- word ---
+term: 너희들은
+type: pronoun + plural + topic particle
+breakdown: 너희 + 들 + 은
+meaning: you guys (as for)
+notes: Casual plural you for people close to or younger than the speaker. Do not use it to superiors. Topic particle 은 contrasts the viewers with the Japanese fans.
+--- word ---
+term: 너무
+type: adverb
+breakdown: 
+meaning: too, so, way too
+notes: Here it keeps the sense of excess, which fits the teasing. In everyday speech 너무 can also mean just very.
+--- word ---
+term: 거만해
+type: adjective + casual ending
+breakdown: 거만하다 + 아/어 → 해
+meaning: are arrogant, cocky
+notes: 거만하다 means arrogant or haughty, with a fairly negative tone. Similar: 건방지다 (cheeky, presumptuous, more casual) and 잘난 척하다 (to act superior). Said jokingly here.
+--- grammar ---
+pattern: -하다 adjective (casual 해)
+meaning: 하다 adjectives become 해 in casual speech
+example: 조용해. (It's quiet.)
+level: Beginner
+
+=== [6:07] 소퀴트 때 울었어? 옆에 있는 친구가? ===
+meaning: You cried during So Cute? The friend next to you?
+tone: Casual echo questions reacting to a chat comment. The second question clarifies who cried.
+--- word ---
+term: 소퀴트
+type: noun
+breakdown: 
+meaning: So Cute (song title)
+notes: Her pronunciation of the song So Cute, written in Hangul as 소큐트 or 소퀴트. Foreign loanword spelled by sound.
+--- word ---
+term: 때
+type: noun (time)
+breakdown: 
+meaning: when, during
+notes: 때 means time or moment. Noun + 때 gives at the time of, e.g. 소퀴트 때 (at the time of So Cute).
+--- word ---
+term: 울었어?
+type: verb, past + casual question
+breakdown: 울다 + 었 + 어
+meaning: did (you) cry?
+notes: 울다 means to cry. Casual question made just by rising intonation. 울다 drops ㄹ before some endings, but not with 었. She is repeating a viewer's comment as an echo question.
+--- word ---
+term: 옆에
+type: noun + location particle
+breakdown: 옆 + 에
+meaning: next to, beside
+notes: 옆 means side. 옆에 is used for being next to someone or something.
+--- word ---
+term: 있는
+type: verb, modifier form
+breakdown: 있다 + 는
+meaning: who is, that is
+notes: Present-tense modifier -는 turns the verb into a descriptor of the next noun: 옆에 있는 친구 (the friend who is next to you).
+--- word ---
+term: 친구가?
+type: noun + subject particle
+breakdown: 친구 + 가
+meaning: the friend (was the one who cried)?
+notes: The subject particle 가 with rising intonation checks who the subject is. The verb is dropped because it was just said. Here it is likely echoing a commenter saying it was their friend who cried.
+--- grammar ---
+pattern: V-는 + noun
+meaning: present modifier: a noun described by a verb (the noun who/that does X)
+example: 책을 읽는 사람 (the person reading a book)
+level: Intermediate
+--- grammar ---
+pattern: Noun + 때
+meaning: at the time of, when
+example: 방학 때 여행했어. (I traveled during vacation.)
+level: Beginner
+
+=== [6:11] 나도 소퀴트 부를 때 눈물 나 ===
+meaning: I tear up when I sing So Cute too.
+tone: Casual, warm and personal; relating to the commenter's crying.
+--- word ---
+term: 나도
+type: pronoun + particle
+breakdown: 나 + 도
+meaning: I also
+notes: 나 is casual I (humble polite is 저). 도 means also or too and replaces the subject particle.
+--- word ---
+term: 소퀴트
+type: noun
+breakdown: 
+meaning: So Cute (song title)
+notes: Her pronunciation of So Cute, a song in her setlist. Object particle 를 is dropped, which is normal in casual speech.
+--- word ---
+term: 부를
+type: verb, future/prospective modifier
+breakdown: 부르다 + ㄹ
+meaning: when (I) sing / singing
+notes: 부르다 means to sing or to call. The 르-irregular: 부르 + 어 changes to 불러, but with -ㄹ 때 it becomes 부를. Modifier -ㄹ before 때 means when doing.
+--- word ---
+term: 때
+type: noun (time)
+breakdown: 
+meaning: when, time
+notes: Follows a modifier to say when something happens: 부를 때 (when I sing).
+--- word ---
+term: 눈물
+type: noun
+breakdown: 
+meaning: tears
+notes: Here it is the subject without a particle (눈물이 나), which is normal in casual speech.
+--- word ---
+term: 나
+type: verb, casual ending
+breakdown: 나다 + 아 → 나
+meaning: come out, well up
+notes: 나다 means to come out or occur. 눈물이 나다 is a set phrase meaning tears well up or you tear up, with less sense of full sobbing than 울다.
+--- grammar ---
+pattern: V-(으)ㄹ 때
+meaning: when doing V; at the time that
+example: 밥 먹을 때 TV 봐. (I watch TV when I eat.)
+level: Beginner
+--- grammar ---
+pattern: 눈물이 나다
+meaning: tears well up (set phrase with 나다, to come out)
+example: 슬퍼서 눈물이 났어. (I teared up because I was sad.)
+level: Beginner
+
+=== [6:15] 너무 밝아서 눈물 난 것 같아 ===
+meaning: It's so bright that I think I teared up.
+tone: Casual 반말, reflective; about the song So Cute making her cry.
+--- word ---
+term: 너무
+type: adverb
+breakdown: 
+meaning: too / so
+notes: Casual intensifier. Traditionally means 'excessively', but in everyday speech it means 'so/very', positive or negative.
+--- word ---
+term: 밝아서
+type: adjective + connective ending
+breakdown: 밝다 (to be bright) + -아서 (because)
+meaning: because it's bright
+notes: -아서/-어서 gives a reason. 밝다 can describe light or a cheerful mood. Here it describes the cheerful song, so it works as wordplay.
+--- word ---
+term: 눈물
+type: noun
+breakdown: 
+meaning: tears
+notes: Literally 'eye water'. Related: 울다 (to cry).
+--- word ---
+term: 난
+type: verb, modifier form
+breakdown: 나다 (to come out) + -ㄴ (past modifier)
+meaning: that came out
+notes: 눈물이 나다 means 'tears well up', a more natural phrase than 울다 for tearing up without sobbing.
+--- word ---
+term: 것 같아
+type: expression
+breakdown: 것 같다 (it seems) + -아 (casual ending)
+meaning: I think / it seems
+notes: Casual 반말 form. Softens a statement into a guess; polite form is 것 같아요.
+--- grammar ---
+pattern: V-(으)ㄴ 것 같다
+meaning: It seems that (something) happened; a guess about a past event
+example: 비가 온 것 같아. (It seems it rained.)
+level: Beginner
+
+=== [6:17] 뭔가 밝은 게 밝은 게 아닌 느낌 ===
+meaning: Somehow, it's a feeling that the bright isn't really bright.
+tone: Casual, musing, searching for words.
+--- word ---
+term: 뭔가
+type: adverb
+breakdown: 무엇 + 인가
+meaning: somehow / something
+notes: Colloquial filler meaning 'kind of' when you can't pin down a feeling. Often used when explaining a vague impression.
+--- word ---
+term: 밝은
+type: adjective, modifier form
+breakdown: 밝다 + -ㄴ/은
+meaning: bright (one)
+notes: The modifier form turns the adjective into a noun-modifier.
+--- word ---
+term: 게
+type: noun + particle (contraction)
+breakdown: 것 + 이 → 게
+meaning: the thing that is (subject)
+notes: Contraction of 것이 (thing + subject particle). Very common in speech. The repeat is a stumble while she finds her words.
+--- word ---
+term: 아닌
+type: verb, modifier form
+breakdown: 아니다 (to not be) + -ㄴ
+meaning: that is not
+notes: Used as 'A이/가 아니다' (A is not B). Here 'a bright that is not bright'.
+--- word ---
+term: 느낌
+type: noun
+breakdown: 
+meaning: feeling / impression
+notes: Often ends a sentence in casual talk as '~한 느낌' (a feeling of ~).
+--- grammar ---
+pattern: A이/가 아닌 느낌
+meaning: a feeling of not being A
+example: 진짜가 아닌 느낌 (a feeling that it's not real)
+level: Intermediate
+
+=== [6:21] 뭔지 알아? ===
+meaning: Do you know what I mean?
+tone: Casual, directly checking in with viewers/chat.
+--- word ---
+term: 뭔지
+type: pronoun + ending
+breakdown: 뭔 (무엇인) + -지
+meaning: what it is
+notes: Contraction of 무엇인지 (what it is). -(으)ㄴ지 makes an embedded question.
+--- word ---
+term: 알아?
+type: verb, casual question
+breakdown: 알다 (to know) + -아
+meaning: do you know?
+notes: Casual 반말 question. Polite: 알아요? Here it means 'you get what I mean?'.
+--- grammar ---
+pattern: -(으)ㄴ지 알다
+meaning: to know whether/what/how something is
+example: 뭔지 알아? (Do you know what it is?)
+level: Intermediate
+
+=== [6:23] 내가 철명 걸고 있는 느낌이야 ===
+meaning: It's a feeling like I'm putting myself under hypnosis.
+tone: Casual, explanatory; 철명 is her slip/pronunciation of 최면 (hypnosis).
+--- word ---
+term: 내가
+type: pronoun + particle
+breakdown: 나 (I) + 가 → 내가
+meaning: I (subject)
+notes: 나 becomes 내 before the subject particle 가. 저 becomes 제가in polite speech.
+--- word ---
+term: 철명
+type: noun
+breakdown: 최면 (hypnosis), misspoken
+meaning: hypnosis
+notes: Likely a slip of the tongue for 최면. Standard phrase: 최면을 걸다 (to hypnotize).
+--- word ---
+term: 걸고 있는
+type: verb, modifier form
+breakdown: 걸다 (to cast/hang) + -고 있다 (ongoing) + -는
+meaning: that is casting
+notes: -고 있다 shows a continuing action. 걸다 means 'hang', and also 'cast' with spells or hypnosis.
+--- word ---
+term: 느낌이야
+type: noun + copula
+breakdown: 느낌 + 이야
+meaning: it's a feeling
+notes: Casual 반말. Polite form: 느낌이에요.
+--- grammar ---
+pattern: V-고 있는 느낌이다
+meaning: a feeling of doing something
+example: 날고 있는 느낌이야. (It feels like I'm flying.)
+level: Intermediate
+
+=== [6:26] 이 상황이 너무 험난한데도 불구하고 ===
+meaning: Even though this situation is so tough…
+tone: Casual, a fragment that continues into the next line.
+--- word ---
+term: 이
+type: determiner
+breakdown: 
+meaning: this
+notes: Points to something near the speaker or just mentioned.
+--- word ---
+term: 상황이
+type: noun + particle
+breakdown: 상황 (situation) + 이
+meaning: situation (subject)
+notes: Hanja-based word (狀況). Common for 'circumstances'.
+--- word ---
+term: 너무
+type: adverb
+breakdown: 
+meaning: so / too
+notes: Intensifier. Here it means 'very'.
+--- word ---
+term: 험난한데도 불구하고
+type: adjective + fixed expression
+breakdown: 험난하다 (rugged, tough) + -ㄴ데도 불구하고 (despite)
+meaning: despite being so tough
+notes: 불구하고 means 'regardless/in spite of'. The pattern is somewhat formal and written; 험난하다 is also literary, used for rough paths or hardship. Casual: -ㄴ데도 on its own.
+--- grammar ---
+pattern: -(으)ㄴ/는데도 불구하고
+meaning: in spite of / even though
+example: 비가 오는데도 불구하고 갔어요. (I went even though it rained.)
+level: Intermediate
+
+=== [6:32] 나 그냥 귀엽게 살아갈래 하면서 ===
+meaning: …while thinking, 'I'm just gonna live cutely,'…
+tone: Casual, quoting her own inner voice; continues from the previous thought.
+--- word ---
+term: 나
+type: pronoun
+breakdown: 
+meaning: I
+notes: Casual 'I'. Polite form is 저.
+--- word ---
+term: 그냥
+type: adverb
+breakdown: 
+meaning: just / simply
+notes: Very common filler. Means 'without any special reason or effort'.
+--- word ---
+term: 귀엽게
+type: adverb
+breakdown: 귀엽다 (cute) + -게
+meaning: cutely
+notes: -게 turns adjectives into adverbs. Links to the So Cute motto.
+--- word ---
+term: 살아갈래
+type: verb, casual ending
+breakdown: 살아가다 (to live on) + -ㄹ래
+meaning: I'm going to live / I'll live
+notes: -ㄹ래 is casual and states the speaker's will or intent. Only for 반말 settings. 살아가다 means to get through life.
+--- word ---
+term: 하면서
+type: verb + connective
+breakdown: 하다 + -면서 (while)
+meaning: while saying/doing
+notes: Here 하다 stands in for 'thinking or saying' the quote. -면서 links two simultaneous actions.
+--- grammar ---
+pattern: V-(으)ㄹ래
+meaning: casual statement of intent, or asking what someone wants
+example: 나 집에 갈래. (I'm going home.)
+level: Beginner
+--- grammar ---
+pattern: V-면서
+meaning: while doing
+example: 음악을 들으면서 걸어요. (I walk while listening to music.)
+level: Beginner
+
+=== [6:35] 막 뛰어다니는 막 방방방 뛰어다니는 기분 ===
+meaning: …a feeling like bouncing around, just bouncing and hopping all over.
+tone: Casual, playful, with onomatopoeia; completes the thought.
+--- word ---
+term: 막
+type: adverb
+breakdown: 
+meaning: wildly / just (filler)
+notes: Casual filler or intensifier that adds a feel of 'all over the place'. Often left untranslated.
+--- word ---
+term: 뛰어다니는
+type: verb, modifier form
+breakdown: 뛰어다니다 (to run/jump around) + -는
+meaning: that runs/bounces around
+notes: Compound of 뛰다 (jump, run) and 다니다 (go around). The repeat adds energy.
+--- word ---
+term: 방방방
+type: adverb (onomatopoeia)
+breakdown: 
+meaning: bouncing, boing boing
+notes: Mimetic word for bouncing up and down, like on a trampoline. Playful and childlike.
+--- word ---
+term: 기분
+type: noun
+breakdown: 
+meaning: feeling / mood
+notes: 기분 is mood or emotional state. 느낌 is more of a sensory impression, though they overlap here.
+--- grammar ---
+pattern: V-는 기분
+meaning: a feeling of doing something
+example: 날아가는 기분이야. (I feel like I'm flying away.)
+level: Intermediate
+
+=== [6:40] 그래서 가끔씩 무대하다가도 ===
+meaning: So sometimes, even while performing on stage…
+tone: Casual, trailing; continues into the next line.
+--- word ---
+term: 그래서
+type: conjunction
+breakdown: 
+meaning: so / therefore
+notes: Connects a reason to a result. Very common in speech.
+--- word ---
+term: 가끔씩
+type: adverb
+breakdown: 가끔 (sometimes) + 씩
+meaning: from time to time
+notes: 씩 adds a sense of 'each occasion'. Mostly the same as 가끔.
+--- word ---
+term: 무대하다가도
+type: verb + connective + particle
+breakdown: 무대하다 (to perform on stage) + -다가 (in the middle of) + 도 (even)
+meaning: even while performing
+notes: 무대하다 is colloquial, since 무대를 하다 is the full form. -다가 means 'in the middle of doing'; 도 adds 'even'.
+--- grammar ---
+pattern: V-다가(도)
+meaning: in the middle of doing something (even while)
+example: 공부하다가 잤어요. (I fell asleep while studying.)
+level: Intermediate
+
+=== [6:44] 막 지칠 때가 있잖아 ===
+meaning: You know, there are times when I get worn out.
+tone: Casual 반말, chatty, seeking sympathy. Sets up the So Cute story.
+--- word ---
+term: 막
+type: adverb / filler
+breakdown: 
+meaning: just, really (filler)
+notes: Casual intensifier or filler, often left untranslated. Common in spoken Korean to add a lively feel. Not used in formal writing.
+--- word ---
+term: 지칠
+type: verb, adnominal form
+breakdown: 지치다 + -ㄹ
+meaning: to get worn out
+notes: 지치다 means to be exhausted or worn out, physically or mentally. The -ㄹ ending makes the verb modify the next noun (때, time).
+--- word ---
+term: 때가
+type: noun + particle
+breakdown: 때 + 가
+meaning: times, occasions
+notes: 때 means time or when. 가 is the subject particle. 때가 있다 means 'there are times when'.
+--- word ---
+term: 있잖아
+type: verb + ending
+breakdown: 있다 + -잖아
+meaning: there are, you know
+notes: -잖아 is a casual contraction of -지 않아 (isn't it / you know). It reminds the listener of something shared. Casual only, rude to elders.
+--- grammar ---
+pattern: V-ㄹ 때가 있다
+meaning: there are times when ...
+example: 피곤할 때가 있어요. (There are times I'm tired.)
+level: Beginner
+--- grammar ---
+pattern: -잖아
+meaning: you know / as you know (shared knowledge)
+example: 비 오잖아. (It's raining, you know.)
+level: Intermediate
+
+=== [6:46] 그러다 소큐트 한 번 부를 때마다 ===
+meaning: And then every time I sing So Cute once…
+tone: Casual, fragment that continues into the next line.
+--- word ---
+term: 그러다
+type: connective adverb
+breakdown: 그러다(가) from 그렇게 하다가
+meaning: and then, in the course of that
+notes: Contraction of 그러다가, meaning 'doing that, and then...'. Introduces a change after a state. Casual and common in speech.
+--- word ---
+term: 소큐트
+type: noun (song title)
+breakdown: 
+meaning: So Cute
+notes: Song title from her setlist, pronounced in Korean style. The speaker pronounces it 소큐트, which is spelled 소큐트 here.
+--- word ---
+term: 한 번
+type: counter phrase
+breakdown: 한 (one) + 번 (time)
+meaning: once
+notes: 번 counts occasions. Used with a number: 한 번, 두 번. Here it softens to 'just once'.
+--- word ---
+term: 부를
+type: verb, adnominal form
+breakdown: 부르다 + -ㄹ
+meaning: to sing
+notes: 부르다 means to sing (a song) or to call. It is an irregular 르 verb in some forms, but -ㄹ attaches normally here.
+--- word ---
+term: 때마다
+type: noun + particle
+breakdown: 때 + 마다
+meaning: every time
+notes: 마다 means 'each / every'. V-ㄹ 때마다 means 'every time one does V'.
+--- grammar ---
+pattern: V-ㄹ 때마다
+meaning: every time that ...
+example: 먹을 때마다 행복해요. (I'm happy every time I eat.)
+level: Beginner
+
+=== [6:49] 환기가 되는 기분이 느껴질 때가 있어 ===
+meaning: …there are times I feel like the air gets refreshed.
+tone: Casual, completes the thought from the previous line. Metaphor for relief.
+--- word ---
+term: 환기가
+type: noun + particle
+breakdown: 환기 + 가
+meaning: ventilation, airing out
+notes: 환기 literally means ventilating a room. Figuratively it means a refresh or change of mood. 환기(를) 시키다 is 'to air out'.
+--- word ---
+term: 되는
+type: verb, adnominal form
+breakdown: 되다 + -는
+meaning: becoming, happening
+notes: 되다 means to become. 환기가 되다 means 'to get ventilated / refreshed'. The passive-like 되다 is common with Sino-Korean nouns.
+--- word ---
+term: 기분이
+type: noun + particle
+breakdown: 기분 + 이
+meaning: a feeling, mood
+notes: 기분 means mood or feeling. 기분이 들다 and 기분이 느껴지다 both express a feeling arising.
+--- word ---
+term: 느껴질
+type: verb, adnominal form
+breakdown: 느끼다 → 느껴지다 + -ㄹ
+meaning: to be felt
+notes: -아/어지다 makes a verb passive or 'become'. 느껴지다 means 'to be felt', i.e. something comes over you naturally.
+--- word ---
+term: 때가
+type: noun + particle
+breakdown: 때 + 가
+meaning: times when
+notes: Subject of 있어. Pattern 때가 있다 means 'there are times'.
+--- word ---
+term: 있어
+type: verb ending
+breakdown: 있다 + -어
+meaning: there are
+notes: Casual 반말 (informal speech) ending, used with friends and fans in a relaxed tone.
+--- grammar ---
+pattern: -아/어지다
+meaning: to become / be done (passive or change of state)
+example: 날씨가 따뜻해졌어요. (The weather became warm.)
+level: Intermediate
+
+=== [6:59] 인생은 소큐트하게 살아가야 해 ===
+meaning: Life has to be lived the So Cute way.
+tone: Casual, motto-like, playful and sincere.
+--- word ---
+term: 인생은
+type: noun + particle
+breakdown: 인생 + 은
+meaning: life (as for)
+notes: 인생 means one's life as a whole. 은 is the topic particle, used for general statements like mottos.
+--- word ---
+term: 소큐트하게
+type: adverb
+breakdown: 소큐트 + 하다 + -게
+meaning: in a So Cute way
+notes: She turns the song title into a 하다 verb, then -게 makes it an adverb. Playful coinage; Korean often does this with loanwords (e.g. 쿨하게, cool-ly).
+--- word ---
+term: 살아가야
+type: verb
+breakdown: 살아가다 + -아야
+meaning: have to go on living
+notes: 살아가다 means to live on or get by through life. -아야 is 'only if / must', combined with 하다 for 'have to'.
+--- word ---
+term: 해
+type: verb ending
+breakdown: 하다 + -여 → 해
+meaning: (it) must be
+notes: Casual ending. -아/어야 해 means 'must / have to'. Formal: -아/어야 합니다.
+--- grammar ---
+pattern: V-아/어야 하다
+meaning: must, have to
+example: 가야 해. (I have to go.)
+level: Beginner
+--- grammar ---
+pattern: -게
+meaning: turns adjectives/verbs into adverbs: in a ... way
+example: 예쁘게 입었어요. (She dressed prettily.)
+level: Beginner
+
+=== [7:05] 헤쳐나가 보자 ===
+meaning: Let's push through it.
+tone: Casual, encouraging, self-motivating.
+--- word ---
+term: 헤쳐나가
+type: verb stem
+breakdown: 헤쳐나가다 + -아
+meaning: to push through, make one's way through
+notes: 헤치다 is to push aside; 나가다 is to go forward. Together it means to break through hardships. Often used with difficulties (어려움을 헤쳐나가다).
+--- word ---
+term: 보자
+type: auxiliary verb + ending
+breakdown: 보다 + -자
+meaning: let's try
+notes: -아/어 보다 means 'try doing'. -자 is the casual 'let's' ending. Together: 'let's give it a try'. Softens the push into an invitation.
+--- grammar ---
+pattern: V-아/어 보자
+meaning: let's try doing ...
+example: 먹어 보자. (Let's try eating it.)
+level: Beginner
+
+=== [7:12] 아 근데 이거 끄면 또 꺼지잖아 ===
+meaning: Oh, but if I turn this off, it'll just go off again, you know.
+tone: Casual, worried, thinking aloud about the connection trouble.
+--- word ---
+term: 아
+type: interjection
+breakdown: 
+meaning: oh
+notes: Natural filler showing she just thought of something.
+--- word ---
+term: 근데
+type: conjunction
+breakdown: 그런데 → 근데
+meaning: but, though
+notes: Contraction of 그런데 (but / by the way). Very common in speech; written Korean prefers 그런데.
+--- word ---
+term: 이거
+type: pronoun
+breakdown: 이것 + 을/가 → 이거
+meaning: this
+notes: Colloquial form of 이것. Here refers to the connection or device setting. Spoken contraction.
+--- word ---
+term: 끄면
+type: verb
+breakdown: 끄다 + -면
+meaning: if (I) turn off
+notes: 끄다 means to turn off (transitive: someone turns something off). The ㅡ drops before a vowel ending. -면 means 'if'.
+--- word ---
+term: 또
+type: adverb
+breakdown: 
+meaning: again
+notes: Means 'again' or 'also'. Here it implies repeating a bad event.
+--- word ---
+term: 꺼지잖아
+type: verb + ending
+breakdown: 꺼지다 + -잖아
+meaning: it goes off, you know
+notes: 꺼지다 is intransitive: something turns off or drops. Compare 끄다 (turn off something). A common learner mix-up. -잖아 appeals to what's obvious.
+--- grammar ---
+pattern: -(으)면
+meaning: if / when
+example: 비가 오면 안 가요. (If it rains, I won't go.)
+level: Beginner
+--- grammar ---
+pattern: 끄다 vs 꺼지다
+meaning: transitive turn off vs intransitive go off
+example: 불을 껐어요 / 불이 꺼졌어요. (I turned off the light / The light went off.)
+level: Intermediate
+
+=== [7:18] 자꾸 끊겨? ===
+meaning: It keeps cutting out?
+tone: Casual, echoing a chat comment as a question.
+--- word ---
+term: 자꾸
+type: adverb
+breakdown: 
+meaning: repeatedly, keep (doing)
+notes: Implies something happens again and again, often annoyingly. Differs from 계속, which is neutral 'continuously'.
+--- word ---
+term: 끊겨
+type: verb ending
+breakdown: 끊기다 + -어
+meaning: cut out
+notes: 끊기다 is the passive of 끊다 (to cut): to be cut off. Here, the stream drops. Rising intonation makes it a question in casual speech.
+--- grammar ---
+pattern: Statement + rising intonation
+meaning: casual yes/no question
+example: 밥 먹었어? (Did you eat?)
+level: Beginner
+
+=== [7:20] 와이파이를 어떻게 켜야 되지? ===
+meaning: How do I turn on the Wi-Fi?
+tone: Casual, muttering to herself, problem-solving.
+--- word ---
+term: 와이파이를
+type: noun + particle
+breakdown: 와이파이 + 를
+meaning: Wi-Fi (object)
+notes: English loanword written in Hangul. 를 marks the object.
+--- word ---
+term: 어떻게
+type: adverb
+breakdown: 어떻다 + -게
+meaning: how
+notes: Asks about method. Not to be confused with 어떡해 (what do I do), a contraction of 어떻게 해.
+--- word ---
+term: 켜야
+type: verb
+breakdown: 켜다 + -어야
+meaning: have to turn on
+notes: 켜다 means to turn on (lights, devices). Opposite of 끄다. -어야 expresses necessity.
+--- word ---
+term: 되지
+type: verb ending
+breakdown: 되다 + -지
+meaning: is it okay / should (I)
+notes: -아/어야 되다 is a colloquial form of -아/어야 하다 (have to). The -지 ending here is a soft, self-directed question, like 'hmm, how should I...?'.
+--- grammar ---
+pattern: V-아/어야 되다
+meaning: have to, need to (colloquial)
+example: 가야 돼요. (I have to go.)
+level: Beginner
+--- grammar ---
+pattern: -지?
+meaning: soft question seeking confirmation or musing
+example: 뭐 먹지? (What should I eat?)
+level: Intermediate
+
+=== [7:27] 뭘 알았어? ===
+meaning: What did you figure out?
+tone: Casual, echo question reacting to a chat comment; speaker addresses one commenter.
+--- word ---
+term: 뭘
+type: pronoun + particle (contraction)
+breakdown: 뭐 (what) + 를 → 뭘
+meaning: what (as object)
+notes: Casual contraction of 무엇을. Spoken Korean almost always uses 뭘 instead of 무엇을. Do not confuse with 뭘 as a dismissive 'what are you...' in other contexts.
+--- word ---
+term: 알았어?
+type: verb, past, casual question
+breakdown: 알다 (to know/realize) + 았어 (past, informal) + ?
+meaning: did you realize/figure out?
+notes: Informal 반말 (casual speech) ending 아/어 plus rising intonation. 알았다 often means 'I got it / I realized' rather than just 'knew'. Polite version: 알았어요?
+--- grammar ---
+pattern: Verb stem + 았/었어?
+meaning: Casual past-tense question
+example: 밥 먹었어? (Did you eat?)
+level: Beginner
+
+=== [7:32] 아 .. 소큐트하게 ===
+meaning: Ah... in a So Cute way.
+tone: Self-teasing, muttered; applies her 'live So Cute' motto to the tech trouble.
+--- word ---
+term: 아
+type: interjection
+breakdown: 
+meaning: ah
+notes: Realization or sigh. Tone is set by the pitch; here it is a resigned, trailing sigh.
+--- word ---
+term: 소큐트하게
+type: adverb (noun + 하다 + 게)
+breakdown: 소큐트 (So Cute, song title) + 하다 (to be/do) + 게 (adverbial ending)
+meaning: in a So Cute way
+notes: The ending -게 turns an adjective-like verb into an adverb, e.g. 예쁘게 (prettily). Here she coins an adverb from her song title as a playful motto: take things lightly and cutely.
+--- grammar ---
+pattern: Adjective/하다 stem + 게
+meaning: Makes an adverb: 'in a ... way'
+example: 귀엽게 말해요. (She speaks cutely.)
+level: Beginner
+
+=== [7:33] 잠깐만 아 어떡하지? ===
+meaning: Hold on, ah, what do I do?
+tone: Casual, flustered thinking aloud.
+--- word ---
+term: 잠깐만
+type: adverb + particle
+breakdown: 잠깐 (a moment) + 만 (just)
+meaning: just a moment
+notes: Casual way to say 'hold on'. Polite: 잠깐만요. Often shortened to 잠만 in slang.
+--- word ---
+term: 아
+type: interjection
+breakdown: 
+meaning: ah
+notes: Expresses sudden worry or realization.
+--- word ---
+term: 어떡하지?
+type: verb, question (contraction)
+breakdown: 어떻게 하지 → 어떡하지 (how do (I) do + -지)
+meaning: what should I do?
+notes: Contraction of 어떻게 하지. Learners confuse 어떡해 (what do I do, a complete exclamation) with 어떻게 (how, adverb). The -지 ending makes it a musing, half-asking-self question.
+--- grammar ---
+pattern: 어떡하지?
+meaning: What should I do? (worried self-question)
+example: 길을 잃었어, 어떡하지? (I'm lost, what do I do?)
+level: Beginner
+
+=== [7:40] 끊겨 지금도? ===
+meaning: Is it cutting out even now?
+tone: Casual echo question to a chat comment about the connection.
+--- word ---
+term: 끊겨
+type: verb, casual
+breakdown: 끊기다 (to be cut off) + 어 → 끊겨
+meaning: it cuts out
+notes: Passive form of 끊다 (to cut). Used for calls, streams, and signals dropping. Here it echoes a chat comment, so rising intonation makes it a question.
+--- word ---
+term: 지금도?
+type: adverb + particle
+breakdown: 지금 (now) + 도 (even/also)
+meaning: even now?
+notes: The particle 도 means also/even. 지금 is the precise present moment, while 이제 implies a change of state ('by now/from now').
+
+=== [7:41] 자리 옮겼어 ===
+meaning: I moved spots.
+tone: Casual, explanatory, matter-of-fact.
+--- word ---
+term: 자리
+type: noun
+breakdown: 
+meaning: seat, spot, place
+notes: Very common: 자리 있어요? (Is there a seat?). Here, the place where she sits to film.
+--- word ---
+term: 옮겼어
+type: verb, past, casual
+breakdown: 옮기다 (to move something) + 었어
+meaning: (I) moved
+notes: 옮기다 is transitive: you move something (here, her seat or herself). Don't confuse with 움직이다 (to move/budge). Object particle 을 is dropped in casual speech.
+--- grammar ---
+pattern: Dropped object particle
+meaning: In casual speech 을/를 is often omitted
+example: 밥 먹었어. (I ate.)
+level: Beginner
+
+=== [7:45] 이거 끄면은 꺼지는데? ===
+meaning: But if I turn this off, it cuts out…
+tone: Casual, worried; the -는데 trails off, implying a problem.
+--- word ---
+term: 이거
+type: pronoun
+breakdown: 이것 (this thing) → 이거
+meaning: this
+notes: Spoken contraction of 이것. Probably refers to mobile data or the current connection.
+--- word ---
+term: 끄면은
+type: verb + conditional
+breakdown: 끄다 (to turn off) + 면은 (if, with extra 은 for emphasis)
+meaning: if (I) turn off
+notes: 끄다 drops ㅡ before a vowel ending (끄 + 면 stays 끄면). 면은 is a casual emphatic form of 면 (if).
+--- word ---
+term: 꺼지는데?
+type: verb + connective
+breakdown: 꺼지다 (to go off) + 는데
+meaning: it goes off, but…
+notes: 꺼지다 is the intransitive counterpart of 끄다: 끄다 means someone turns it off, 꺼지다 means it goes off by itself. In this live it means the stream drops. -는데 sets up a concern and trails off; the sentence continues.
+--- grammar ---
+pattern: V + (으)면 / -는데
+meaning: If..., (but) ... ; -는데 gives background or contrast and leaves the thought open
+example: 비가 오면 안 가는데... (If it rains I won't go, but...)
+level: Intermediate
+
+=== [7:48] 그러면 ===
+meaning: Then…
+tone: Casual, transitional filler as she thinks.
+--- word ---
+term: 그러면
+type: conjunction
+breakdown: 그러다 (to be so) + 면 (if)
+meaning: then, in that case
+notes: Literally 'if that is so'. Often shortened to 그럼 in speech. Introduces a consequence or next step.
+
+=== [7:51] 이 라이브는 멈춰서는 안돼 ===
+meaning: This live can't stop.
+tone: Firm, half-joking; states her resolve to keep the stream going.
+--- word ---
+term: 이
+type: determiner
+breakdown: 
+meaning: this
+notes: Placed before a noun, e.g. 이 라이브 (this live). Different from the pronoun 이거.
+--- word ---
+term: 라이브
+type: noun
+breakdown: 
+meaning: live (stream)
+notes: English loanword. Can also mean a live performance.
+--- word ---
+term: 멈춰서는
+type: verb + connective + particle
+breakdown: 멈추다 (to stop) + 어서 (and so) → 멈춰서 + 는 (topic particle)
+meaning: if (it) stops
+notes: Pattern V-아/어서는 안 되다 means 'must not do V / it's not OK to V'. Here the live is the subject, so it means 'must not stop'. 멈추다 can be intransitive (to stop on its own).
+--- word ---
+term: 안돼
+type: verb phrase, casual
+breakdown: 안 되다 (not become/allowed) + 어 → 안 돼
+meaning: it won't do, not allowed
+notes: Standard spelling is 안 돼 with a space. Casual form of 안 됩니다. Don't confuse 돼 (되어, 'becomes') with 되 (stem).
+--- grammar ---
+pattern: V-아/어서는 안 되다
+meaning: Must not / should not V (prohibition or strong necessity)
+example: 늦어서는 안 돼. (You must not be late.)
+level: Intermediate
+
+=== [7:57] 그냥 놀아? 끊겨도 그냥 놀까? 그래 그러자 ===
+meaning: Should we just hang out? Even if it cuts out, should we just hang out? Okay, let's do that.
+tone: Casual, thinking aloud and asking chat, then deciding. Warm and breezy.
+--- word ---
+term: 그냥
+type: adverb
+breakdown: 
+meaning: just, anyway
+notes: Casual adverb meaning 'just' or 'without doing anything special'. Very common in speech to soften a suggestion.
+--- word ---
+term: 놀아?
+type: verb, informal question
+breakdown: 놀다 (to play, hang out) + 아 (informal ending)
+meaning: shall we hang out?
+notes: Casual 반말 (informal speech). Rising tone turns it into a question. 놀다 means to play or hang out, and here it means chatting with fans without a plan. Learner note: 놀다 is irregular because the ㄹ stem is kept, as in 놀아 and 놀자, but it drops before ㄴ, ㅂ and ㅅ endings, as in 노는.
+--- word ---
+term: 끊겨도
+type: verb + connective
+breakdown: 끊기다 (to be cut off) + 어도 (even if)
+meaning: even if it cuts out
+notes: 끊기다 is the passive of 끊다 (to cut). Here it means the stream or connection drops. -어도 means 'even if' or 'even though'. 끊겨 is the contraction of 끊기어.
+--- word ---
+term: 그냥
+type: adverb
+breakdown: 
+meaning: just
+notes: Repeated for emphasis. It signals 'let's not worry about it'.
+--- word ---
+term: 놀까?
+type: verb, suggestion question
+breakdown: 놀다 + ㄹ까 (shall we?)
+meaning: shall we hang out?
+notes: -ㄹ까 asks for an opinion or proposes an action. Casual. Here it is also self-talk. The polite form is 놀까요?
+--- word ---
+term: 그래
+type: interjection
+breakdown: 그렇다 (to be so) + 어
+meaning: okay, yeah
+notes: Casual agreement meaning 'okay' or 'right'. Used with friends and in 반말 only.
+--- word ---
+term: 그러자
+type: verb, propositive
+breakdown: 그러다 (to do so) + 자 (let's)
+meaning: let's do that
+notes: Casual 'let's' form meaning 'let's do so'. Here she is agreeing with herself or with chat. The polite form is 그래요 or 그럽시다.
+--- grammar ---
+pattern: V-어도
+meaning: even if / even though
+example: 비가 와도 가요. (I'll go even if it rains.)
+level: Beginner
+--- grammar ---
+pattern: V-ㄹ까?
+meaning: shall we / I wonder if (suggestion or self-question)
+example: 같이 먹을까? (Shall we eat together?)
+level: Beginner
+
+=== [8:00] 그냥 놀자! ===
+meaning: Let's just hang out!
+tone: Casual, decisive, upbeat. Completes the decision from the previous line.
+--- word ---
+term: 그냥
+type: adverb
+breakdown: 
+meaning: just
+notes: Softens the suggestion to 'let's simply do it without fuss'.
+--- word ---
+term: 놀자!
+type: verb, propositive
+breakdown: 놀다 + 자
+meaning: let's hang out
+notes: Casual 'let's' form (-자). Only for friends or people younger than you. Polite alternatives: 놀아요 or 놀아요 우리. Here it is warm and inclusive toward fans.
+--- grammar ---
+pattern: V-자
+meaning: let's (casual propositive)
+example: 가자! (Let's go!)
+level: Beginner
+
+=== [8:03] 그대로 즐길게? 괜찮겠어? ===
+meaning: Shall I just enjoy it as it is? Are you okay with that?
+tone: Casual, checking with chat. Slightly hesitant but friendly.
+--- word ---
+term: 그대로
+type: adverb
+breakdown: 그대로 (as it is)
+meaning: as it is, as is
+notes: Means 'without changing anything'. Here it is the stream quality as it is. Do not confuse it with 그래서 (so, therefore).
+--- word ---
+term: 즐길게?
+type: verb, intention
+breakdown: 즐기다 (to enjoy) + ㄹ게 (I will)
+meaning: shall I enjoy it? / I'll enjoy it, okay?
+notes: -ㄹ게 states the speaker's promise or intention. With a rising tone it asks the listener for agreement: 'I'll do X, is that okay?'. Casual only. Learner mistake: -ㄹ게 cannot be used for the third person or in questions about what someone else does.
+--- word ---
+term: 괜찮겠어?
+type: adjective, conjecture question
+breakdown: 괜찮다 (to be okay) + 겠 (will, would) + 어 (informal ending)
+meaning: will you be okay with it?
+notes: 겠 here expresses a guess about how the listener will feel. It makes the question softer and more considerate than 괜찮아? (is it okay?). Casual 반말. The polite form is 괜찮으시겠어요?
+--- grammar ---
+pattern: V-ㄹ게(요)
+meaning: I will (promise or decision toward the listener)
+example: 내가 할게. (I'll do it.)
+level: Beginner
+--- grammar ---
+pattern: A/V-겠어?
+meaning: would it be / will you be (guess or consideration)
+example: 힘들겠어? (Will it be hard?)
+level: Intermediate
+
+=== [8:08] 지금 모자이크 됐어? ===
+meaning: Is it pixelated right now?
+tone: Casual, echoing a chat comment as a question. Slightly worried.
+--- word ---
+term: 지금
+type: adverb
+breakdown: 
+meaning: now, right now
+notes: Means the present moment. Compare 이제, which means 'now' as a change from before. 지금 is just 'at this moment'.
+--- word ---
+term: 모자이크
+type: noun
+breakdown: mosaic (loanword)
+meaning: pixelation
+notes: From the English word 'mosaic'. In Korean it also means the blocky blur used to censor video, but here it means the video breaking up into pixels because of a bad connection.
+--- word ---
+term: 됐어?
+type: verb, past, informal question
+breakdown: 되다 (to become) + 었어 (past, informal) = 됐어
+meaning: has it become?
+notes: 모자이크 됐어 means 'has it turned into pixels?'. 됐어 is the contraction of 되었어. 'Noun + 되다' is a common way to make passive or state-change verbs. Rising tone makes it a question. Casual 반말.
+--- grammar ---
+pattern: N + 되다
+meaning: to become N / be made into N
+example: 문제가 됐어. (It became a problem.)
+level: Beginner
+
+=== [8:09] 안돼 그러면 ===
+meaning: That won't do, then.
+tone: Casual, firm reaction. She refuses to accept poor quality.
+--- word ---
+term: 안돼
+type: expression
+breakdown: 안 되다 (not be allowed or possible) + 어
+meaning: no way, that's not okay
+notes: Means 'it won't do' or 'that's not allowed'. Usually written 안 돼 with a space, but spoken it is one unit. Learner mistake: do not confuse 되 and 돼. 돼 is the contraction of 되어, so use 돼 before the sentence ending.
+--- word ---
+term: 그러면
+type: adverb, connective
+breakdown: 그러다 (to do so) + 면 (if)
+meaning: in that case, then
+notes: Means 'if that's so' or 'then'. The contracted form is 그럼. Placed last here, which is typical of speech where the connective comes as an afterthought.
+--- grammar ---
+pattern: 안 되다
+meaning: it's not okay / it won't work / not allowed
+example: 여기서 먹으면 안 돼요. (You can't eat here.)
+level: Beginner
+
+=== [8:12] 뭘 자꾸 괜찮대 ===
+meaning: Why do you keep saying it's fine?
+tone: Casual, mildly exasperated and teasing, addressed to the chat. It reports what chat said.
+--- word ---
+term: 뭘
+type: pronoun + particle
+breakdown: 뭐 (what) + 를 (object particle) = 뭘
+meaning: why, what (for)
+notes: Literally 'what', but in this kind of sentence it works like 'why' or 'what's the point of'. It carries an annoyed or chiding tone. It is a spoken contraction of 무엇을.
+--- word ---
+term: 자꾸
+type: adverb
+breakdown: 
+meaning: keep (doing), repeatedly
+notes: Describes an action that repeats, often with a nuance of annoyance or irritation. Compare 계속, which is neutral for 'continue'. 자꾸 often has a negative feeling.
+--- word ---
+term: 괜찮대
+type: adjective, reported speech
+breakdown: 괜찮다 (to be okay) + 대 (contraction of 다고 해)
+meaning: they say it's okay
+notes: 대 is the contraction of -다고 해, which means 'they say that'. It is casual reported speech. Here she is quoting the chat comments that say it's fine. Learner note: -대 (reported statement) differs from -래 (reported command or noun statement).
+--- grammar ---
+pattern: -대 (-다고 해)
+meaning: reported speech: 'they say that...' (casual contraction)
+example: 비가 온대. (They say it's going to rain.)
+level: Intermediate
+
+=== [8:17] 화질이 안 좋아졌어? 안돼 ===
+meaning: Has the picture quality gotten worse? That won't do.
+tone: Casual, echoing a chat comment and then reacting. A bit anxious about quality.
+--- word ---
+term: 화질이
+type: noun + particle
+breakdown: 화질 (picture quality) + 이 (subject particle)
+meaning: picture quality (subject)
+notes: 화질 is a Sino-Korean word: 화 (picture) + 질 (quality). It is a common word for video or screen quality. 이 marks the subject after a consonant.
+--- word ---
+term: 안
+type: adverb
+breakdown: 
+meaning: not
+notes: Short negation placed before an adjective or verb. Casual and common in speech.
+--- word ---
+term: 좋아졌어?
+type: adjective + verb, past, informal question
+breakdown: 좋다 (to be good) + 아지다 (to become) + 었어 = 좋아졌어
+meaning: has it become good?
+notes: 안 좋아졌어 means 'has it gotten worse?' or literally 'has it become not good?'. -아/어지다 means 'to become' or 'to get'. Casual 반말. It mirrors a chat question that she repeats.
+--- word ---
+term: 안돼
+type: expression
+breakdown: 안 되다 + 어
+meaning: that won't do
+notes: Means 'no way' or 'not okay'. She says it with determination: she won't accept poor video quality for fans.
+--- grammar ---
+pattern: A-아/어지다
+meaning: to become / to get (change of state)
+example: 날씨가 좋아졌어요. (The weather got nice.)
+level: Beginner
+
+=== [8:19] 잠깐만 그러면 ===
+meaning: Hold on, then…
+tone: Casual, quick, trailing off. She is about to go fix the Wi-Fi.
+--- word ---
+term: 잠깐만
+type: adverb + particle
+breakdown: 잠깐 (a moment) + 만 (just, only)
+meaning: just a moment
+notes: Casual way to say 'hold on'. 잠깐 means a short time. 만 means 'only' and makes the request sound lighter. The polite form is 잠깐만요 (adding 요).
+--- word ---
+term: 그러면
+type: adverb, connective
+breakdown: 그러다 (to do so) + 면 (if)
+meaning: in that case, then
+notes: Means 'if so' or 'in that case'. In speech it is often shortened to 그럼. Here it trails off, suggesting she is about to take action.
+
+=== [8:21] 기다려봐 와이파이 키고 올게 ===
+meaning: Wait, I'll go turn on the Wi-Fi and come back.
+tone: Casual 반말, playful but firm; she is addressing chat before going to fix the connection.
+--- word ---
+term: 기다려봐
+type: verb (casual imperative)
+breakdown: 기다리다 + -어 보다 + -아/어 (기다려 + 봐)
+meaning: wait (and see)
+notes: Casual 반말 command. -어 봐 softens a command to 'give it a try', so 기다려봐 is like 'hang on a sec'. Polite version: 기다려 보세요 (please wait). Often written 기다려 봐 with a space.
+--- word ---
+term: 와이파이
+type: noun
+breakdown: 
+meaning: Wi-Fi
+notes: English loanword. Koreans say it as 와이파이 (wai-pa-i). Casual and standard everywhere.
+--- word ---
+term: 키고
+type: verb (connective)
+breakdown: 켜다 + -고 (standard: 켜고)
+meaning: turn on, and then
+notes: 키다 is a very common spoken mistake for 켜다 (to turn on a device or light). Correct spelling is 켜고. Do not confuse with 끄다 (to turn off). -고 here links two actions in sequence: turn on and then come.
+--- word ---
+term: 올게
+type: verb ending
+breakdown: 오다 + -ㄹ게
+meaning: I'll come (back)
+notes: -ㄹ게 expresses a promise or decision made toward the listener, casual 반말. Polite: 올게요. Here 오다 (to come) means she will come back after turning it on. Do not use -ㄹ게 for questions or for other people's actions.
+--- grammar ---
+pattern: V-고 올게
+meaning: I'll do V and come back (a short errand then return).
+example: 커피 사고 올게. (I'll buy coffee and come back.)
+level: Beginner
+--- grammar ---
+pattern: V-아/어 봐
+meaning: Try doing V; softens a casual command.
+example: 먹어 봐. (Try eating it.)
+level: Beginner
+
+=== [8:24] 금방 해. 정말이야. ===
+meaning: I'll be quick. Really.
+tone: Casual, reassuring; promising chat she'll be fast.
+--- word ---
+term: 금방
+type: adverb
+breakdown: 
+meaning: right away, in a moment
+notes: Means shortly or very soon, about the near future or something quick. Similar: 곧 (soon, a bit more formal) and 바로 (immediately). Very common in spoken Korean.
+--- word ---
+term: 해
+type: verb ending
+breakdown: 하다 + -아/어 (해)
+meaning: I'll do (it)
+notes: Present tense casual 반말 form. With 금방 it carries a near-future promise: 'I'll do it quickly.' Polite: 해요. Context shows she means doing the Wi-Fi task quickly.
+--- word ---
+term: 정말이야
+type: noun + copula ending
+breakdown: 정말 + 이다 + -야 (이야)
+meaning: it's true, really
+notes: 정말 means 'truly' and 정말이야 means 'it's the truth'. Casual 반말 for emphasizing sincerity. Alternatives: 진짜야 (more colloquial, 'for real') and 정말이에요 (polite).
+--- grammar ---
+pattern: N + 이야/야
+meaning: casual 반말 copula 'it is N'; 이야 after a consonant-ending noun and 야 after a vowel-ending noun.
+example: 진짜야. (It's real.)
+level: Beginner
+
+=== [8:38] 안 꺼지네? ===
+meaning: It's not cutting out, huh?
+tone: Casual, relieved; noticing the connection is holding.
+--- word ---
+term: 안
+type: adverb
+breakdown: 
+meaning: not
+notes: Negative adverb placed before a verb, as in 안 가다 (not go). Short-form negation is common in speech. Alternative is the long form -지 않다.
+--- word ---
+term: 꺼지네
+type: verb ending
+breakdown: 꺼지다 + -네
+meaning: it turns off / cuts out, I see
+notes: 꺼지다 means to go off (a light or device) and here, per the live, the stream dropping. Its opposite is 켜지다 (to come on). -네 expresses a new realization or mild surprise, casual 반말. Here 안 꺼지네 means 'huh, it's not cutting out.' With a rising tone it becomes a question seeking confirmation. Do not confuse 끄다 (to turn something off, transitive) with 꺼지다 (to go off by itself).
+--- grammar ---
+pattern: V-네
+meaning: Expresses new discovery or mild surprise about what you just noticed.
+example: 비가 오네. (Oh, it's raining.)
+level: Beginner
+
+=== [8:42] 어때? 이제 괜찮지? ===
+meaning: How is it? It's fine now, right?
+tone: Casual, checking in with chat; seeking confirmation after the fix.
+--- word ---
+term: 어때?
+type: adjective ending (question)
+breakdown: 어떠하다 → 어때
+meaning: How is it?
+notes: Contraction of 어떠해 (어떻다, 'to be how'). Casual 반말 question for asking opinions or the state of things. Polite: 어때요? or 어떠세요?. Often used to ask 'what do you think?'
+--- word ---
+term: 이제
+type: adverb
+breakdown: 
+meaning: now, by now
+notes: Marks a change of state: 'now (that things have changed)'. Compared with 지금 (right now, the present moment), 이제 implies a before and after. Here it means 'now that I've fixed it.'
+--- word ---
+term: 괜찮지?
+type: adjective ending (tag question)
+breakdown: 괜찮다 + -지
+meaning: it's okay, right?
+notes: -지 with rising intonation seeks agreement, like English 'right?' or 'isn't it?'. 괜찮다 means okay or fine. Casual 반말; polite is 괜찮죠?. Common learner confusion: -지 is not just 'doesn't it' but assumes the listener shares the knowledge.
+--- grammar ---
+pattern: A/V-지?
+meaning: Tag question asking for confirmation, 'right?'
+example: 맛있지? (It's tasty, right?)
+level: Beginner
+
