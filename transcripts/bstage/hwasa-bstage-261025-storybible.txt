@@ -1,0 +1,183 @@
+STORY BIBLE — 261025 Hwasa b.stage Live #1
+Source: https://www.youtube.com/watch?v=WvOp8AGEz64
+Generated: 2026-11-06T00:35:19.569576
+Revised: 2026-11-06 (QA/QC against corrected KO transcript and timestamps)
+Model: claude-sonnet-5-5 (original); revision by claude-opus-5-5
+============================================================
+
+STORY BIBLE: Korean live-stream transcript (KO → EN/FR)
+
+Note on references: segments are referenced by timestamp [m:ss], matching the
+trilingual transcript. The old sequential segment numbers no longer line up
+with the corrected transcript (102 segments) and have been retired.
+
+1. CHARACTERS / SPEAKERS
+
+- Main speaker: 안혜진 (Ahn Hyejin), self-introduced at [1:32].
+  - Hwasa (화사) of MAMAMOO. Ahn Hyejin is her real name.
+  - Female singer/performer. Use she/her in EN and elle in FR (feminine agreement:
+    "épuisée", "retrouvée", etc.).
+  - Do not add "Hwasa" or "MAMAMOO" to the translation unless the speaker says them.
+    Keep the name "Ahn Hyejin" as spoken.
+- Viewers / fans: the live is on Hwasa's solo b.stage, whose fans are called
+  Twits. In practice the audience is a mix of MooMoos (MAMAMOO fans) and Twits.
+  That distinction is maintained by fans, not by her.
+  - She says 무무 (MooMoo) at [5:04] and [5:39], about the fans at the MAMAMOO
+    concert. Translate exactly what she says: "MooMoo(s)" / "les MooMoo".
+    When she says MooMoo, she means MooMoo.
+  - Never substitute "Twits" for 무무, or add "Twits" where she doesn't say it.
+    If she says 트윗츠/Twits in another live, keep "Twits" as spoken.
+- Live chat: she reacts to chat comments that are not in the transcript. Clear chat
+  reactions: [1:59] 잘 터져?, [3:25]-[3:27] 일본식 바비큐?, [6:07] 소퀴트 때 울었어?
+  옆에 있는 친구가?, [7:18] 자꾸 끊겨?, [7:27] 뭘 알았어?, [7:40] 끊겨 지금도?,
+  [8:08] 지금 모자이크 됐어?, [8:12] 뭘 자꾸 괜찮대, [8:17] 화질이 안 좋아졌어?
+  - Treat their words as implied. Do not invent their content.
+  - Questions that echo a comment are rendered as echo questions
+    ("You cried during So Cute?", "It keeps cutting out?").
+- [6:07] "옆에 있는 친구가?" most likely echoes a commenter: it was the friend next
+  to them who cried. Rendered gender-neutral ("the friend next to you" /
+  "la personne à côté de toi").
+- [5:46]-[6:02] "너희들" = "you guys", the viewers watching this b.stage live,
+  contrasted jokingly with the Japanese MooMoos at the concert. Playful teasing,
+  not hostile. Translate as "you guys" / "vous". Do not label them Twits or
+  Korean fans; she doesn't.
+- [8:12] "뭘 자꾸 괜찮대" is addressed to the chat ("Why do you guys keep saying
+  it's fine?"). No evidence of staff in the room.
+- "우리" at [4:57] and [5:00] ("our fans", "cheered us on") means MAMAMOO: the
+  Tokyo concert was a MAMAMOO concert (confirmed). Keep "us/our" ("nous/nos");
+  do not add the group name.
+- Pronouns: she uses casual "나". EN "I", FR "je". The audience as a whole is
+  "you (guys)" / "vous". Use "tu" only when she answers one specific commenter
+  ([6:07], [7:27]).
+
+2. SETTING & CONTEXT
+
+- Format: a live on Hwasa's solo b.stage fan platform, about 8.7 minutes,
+  casual and unscripted, on a phone.
+- Where and when: in Japan, on the day of MAMAMOO's Tokyo concert, after the
+  show ("오늘은 8천석" [4:46]). The exact location (hotel etc.) is not stated; do
+  not add it.
+- Topics, in order:
+  - [0:07]-[0:56] Greetings, Japanese "hajimemashite", hair jokes.
+  - [1:30]-[1:38] Mock-formal self-introduction, settling in.
+  - [1:48]-[2:20] Checking the connection, concert hair, hoarse voice.
+  - [2:30]-[4:06] Food and diet: failed detox, monjayaki, Ichiran, yakiniku,
+    "I work out so I can eat".
+  - [4:12]-[5:19] The Tokyo concert: almost crying during I MISS YOU, 4,000 vs
+    8,000 seats, fans' support, crying in secret.
+  - [5:37]-[6:02] Teasing viewers vs. the Japanese MooMoos.
+  - [6:07]-[7:05] Why "So Cute" makes her cry; her "live So Cute" motto.
+  - [7:12]-[8:42] Connection trouble, decision to keep going, turning on Wi-Fi,
+    fixed.
+- Purpose: post-concert hangout with fans; gratitude to Japanese fans; humor.
+
+3. KEY EVENTS
+
+- [0:07]-[0:24]: Offers a peach, says hi, then "하즈메 마시떼" (はじめまして,
+  "nice to meet you") twice, playfully.
+- [0:40]-[0:56]: Her hair is long now; it isn't greasy, it's styling product.
+- [1:30]-[1:32]: Mock-formal intro: "안녕하십니까. 저는 안혜진이라고 합니다."
+- [1:38]: Gets comfortable in her spot.
+- [1:48]-[1:59]: "토크가 ... 잘 터지나? / 잘 터져?" Here 터지다 is most likely
+  about the signal (as in "does it get reception?"), checking with chat whether
+  the live is coming through. This foreshadows the Wi-Fi trouble later.
+- [2:05]: Her hair still has the concert's afterglow (헤어지 = 헤어 + 지, "right?").
+- [2:08]-[2:20]: Fragmentary. Asks viewers to listen a lot, since her voice is
+  shot and she can't sing for them; imitates her creaky voice (삐그덕).
+- [2:30]: Spent the day watching the challenge videos.
+- [2:35]-[3:18]: Planned a detox after overeating yesterday, couldn't resist,
+  ate monjayaki, swore off food, ate again; barely resisted Ichiran, but can't
+  resist monjayaki.
+- [3:25]-[3:27]: Reacts to a chat suggestion of Japanese BBQ (yakiniku).
+- [3:31]-[3:52]: Wants Ichiran; her toppings are seaweed, extra meat, egg (tamago).
+- [3:56]-[4:06]: Realization: "I work out so I can eat."
+- [4:12]-[4:29]: Tokyo concert was fun; she must have missed the fans; almost
+  cried, and teared up while singing I MISS YOU.
+- [4:32]: "등 근육이 조금 파묻혀 있어": her back muscles are "kind of buried",
+  i.e. less defined right now (ties back to the eating talk). NOT sore or knotted.
+- [4:40]-[4:50]: Japan concert four years ago was 4,000 seats; today 8,000, full.
+- [4:54]-[5:19]: Despite the long absence, fans held up uchiwa fans and cheered;
+  some MooMoos cried; she suddenly cried too, in secret ("못 봤지? 당연하지").
+- [5:37]-[6:02]: "됐어" (enough), then: the Japanese MooMoos looked at them so
+  tenderly; teasing the viewers: "you guys can't compete, step it up, you're
+  too cocky."
+- [6:07]-[6:35]: A commenter (or their friend) cried during So Cute; she tears up
+  too. The song is so bright that it makes her cry; the brightness isn't purely
+  bright. It's like hypnotizing herself to "just live cute" and bounce around
+  despite hard times.
+- [6:40]-[7:05]: When she's worn out on stage, singing So Cute is a breath of
+  fresh air. Motto: "인생은 소큐트하게 살아가야 해", "헤쳐나가 보자".
+- [7:12]-[7:33]: Connection keeps cutting out; she wonders how to turn on Wi-Fi.
+  [7:32] "아 .. 소큐트하게" = applying her motto to the tech trouble.
+- [7:40]-[8:03]: She moved spots; worries switching it off will cut the live;
+  "this live can't stop"; decides to just hang out anyway.
+- [8:08]-[8:24]: Chat says it's pixelating; chat says it's fine; she won't accept
+  poor quality and goes to turn on Wi-Fi, promising to be quick.
+- [8:38]-[8:42]: Connection holds: "안 꺼지네? 어때? 이제 괜찮지?"
+
+4. TERMINOLOGY & PROPER NOUNS
+
+- 무무 (MooMoo): MAMAMOO fandom name. EN "MooMoo(s)", FR "les MooMoo"
+  (invariable).
+- Twits: Hwasa's solo fandom name. Not spoken in this live; use only if she says it.
+- 하즈메 마시떼: Japanese はじめまして. Gloss on first occurrence only:
+  EN "Hajimemashite! (Japanese for "Nice to meet you")",
+  FR "Hajimemashite ! (« Enchantée » en japonais)". Second occurrence plain.
+- 문자야끼 / 문자유기: her pronunciations of monjayaki (もんじゃ焼き). Always
+  "monjayaki".
+- 이치란 (Ichiran): tonkotsu ramen chain. Keep "Ichiran"; FR "chez Ichiran" when
+  referring to eating there.
+- 김: seaweed (nori) topping. EN "seaweed", FR "les algues".
+- 타마고 (tamago): Japanese for egg. Keep "tamago".
+- 일본식 바비큐: yakiniku. Gloss "(yakiniku)" on first occurrence [3:25] only.
+- 디톡스: detox / FR "détox" (with accent).
+- 부채: at a Japanese concert these are uchiwa (handheld fans with names/messages).
+  EN "uchiwa fans", FR "éventails (uchiwa)". NOT banners.
+- 소큐트 / 소퀴트: "So Cute", a song in the setlist. Normalize to "So Cute".
+  Adverbial 소큐트하게: EN "So Cute" / "So Cute style", FR "So Cute" /
+  "façon So Cute".
+- I MISS YOU: English in the original. Keep caps as a song title.
+- 챌린지: challenge (social media/dance challenge videos).
+- 모자이크: pixelation from a bad connection, not censorship. EN "pixelated",
+  FR "pixellisé".
+- 끊기다 / 꺼지다: in this live both mean the stream cutting out / dropping.
+  EN "cut out", FR "couper". Avoid "s'éteindre" (sounds like the device
+  powering off).
+
+5. TRANSLATION NOTES
+
+- Register: casual 반말, warm, chatty, jokey. EN: contractions, "you guys",
+  "gonna" sparingly. FR: spoken French ("du coup", "un truc", "hein"), "vous"
+  for the audience.
+- Mock-formal moment [1:30]-[1:32]: EN "Hello, everyone. My name is Ahn Hyejin."
+  FR "Bonjour à tous. Je m'appelle Ahn Hyejin."
+- Fragmented segments are translated as one sentence spread across lines; keep
+  capitalization and punctuation continuous across the break:
+  [2:08]-[2:20], [4:16]-[4:21], [4:46]-[4:50], [4:54]-[5:04], [6:26]-[6:35],
+  [6:40]-[6:49], [7:48]-[7:51], [8:19]-[8:21].
+  A line that follows a full stop starts with a capital ([5:13], [6:46]).
+- Recurring expressions:
+  - 진짜: "really", "seriously", "for real" / "vraiment".
+  - 막: filler; usually leave implicit.
+  - ~더라고 / ~더라: "I found myself", "it turned out" / "je me suis retrouvée".
+  - 그니까: "So," / "Du coup,". Not "That's right."
+  - 참다: resist (food) / "résister", not "se retenir".
+  - 삐그덕: EN "Creak, creak, creak." FR "Ça grince, ça grince, ça grince."
+- Ambiguities, resolved:
+  - [1:48]-[1:59] 터지다: read as signal/connection; translated "coming through
+    okay" / "ça passe bien". Alternative reading: whether the talk will be lively.
+  - [2:05] "콘서트의 연이 느껴지는 헤어지" = 여운 (afterglow) + 헤어지 ("hair,
+    right?").
+  - [2:14] "많이 들어주시구요": fragment; "please listen a lot". Unclear what she
+    wants listened to (possibly a request in chat to sing).
+  - [2:35] leading "밥": topic word ("Food...") before the sentence; kept as a
+    trailing-off fragment.
+  - [4:32] 파묻혀: back muscles less visible/defined, not sore.
+  - [6:15]-[6:17] 밝다: "bright" (EN) / "joyeuse, joie" (FR); kept as wordplay.
+  - [6:23] "철명 걸고" = 최면 걸고, "putting myself under hypnosis".
+  - [7:12], [7:45] "이거": probably mobile data or the current connection. Kept
+    as "this" / "ça".
+  - [7:28]: Korean line is empty after QC, so FR and EN are left empty too.
+  - [8:12]: addressed to chat, "you guys".
+- Short fillers: [0:14] "Hi." / "Salut.", [3:52] "Yeah." / "Oui.",
+  [5:37] "Okay, enough." / "Bon, ça suffit."
