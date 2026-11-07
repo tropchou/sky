@@ -1,15 +1,14 @@
 STORY BIBLE — 261025 Hwasa b.stage Live #1
 Source: https://www.youtube.com/watch?v=WvOp8AGEz64
 Generated: 2026-11-06T00:35:19.569576
-Revised: 2026-11-06 (QA/QC against corrected KO transcript and timestamps)
+Revised: 2026-11-06 
 Model: claude-sonnet-5-5 (original); revision by claude-opus-5-5
 ============================================================
 
 STORY BIBLE: Korean live-stream transcript (KO → EN/FR)
 
 Note on references: segments are referenced by timestamp [m:ss], matching the
-trilingual transcript. The old sequential segment numbers no longer line up
-with the corrected transcript (102 segments) and have been retired.
+trilingual transcript.
 
 1. CHARACTERS / SPEAKERS
 
