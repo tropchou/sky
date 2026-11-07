@@ -4,6 +4,7 @@ Video:   261025 Hwasa b.stage Live #1
          261025 Hwasa b.stage Live #1
 Channel: @mamamoovlivesarchive
 Uploaded:2026-10-25
+Model: claude-sonnet-5.5
 ============================================================
 
 
@@ -442,11 +443,6 @@ Uploaded:2026-10-25
   KO: 뭘 알았어?
   FR: Tu as compris quoi ?
   EN: You figured out what?
-
-[7:28]
-  KO: 
-  FR: 
-  EN: 
 
 [7:32]
   KO: 아 .. 소큐트하게
